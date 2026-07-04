@@ -111,11 +111,6 @@ export function RegulaminView() {
         cywilnego. Ewentualne spory będą rozstrzygane przez sąd właściwy zgodnie z obowiązującymi
         przepisami, z zastrzeżeniem szczególnych uprawnień przysługujących konsumentom.
       </p>
-
-      <p className={styles.notice}>
-        Niniejszy Regulamin ma charakter ogólnego szablonu dostosowanego do darmowej, prostej
-        usługi bez rejestracji i płatności. Nie stanowi porady prawnej.
-      </p>
     </div>
   );
 }
