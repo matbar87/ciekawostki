@@ -20,7 +20,7 @@ const DIST_DIR = path.join(ROOT, 'dist');
 const FACTS_FILE = path.join(ROOT, 'src', 'data', 'facts', 'generated.facts.json');
 
 // Musi być zgodny z fallbackiem w README / zmienną środowiskową Vercela.
-const SITE_URL = (process.env.SITE_URL || 'https://ciekawostki.vercel.app').replace(/\/$/, '');
+const SITE_URL = (process.env.SITE_URL || 'https://ciekawy.vercel.app').replace(/\/$/, '');
 
 // Etykiety kategorii do statycznej treści — muszą być zgodne z src/data/categories.ts.
 const CATEGORY_LABELS = {

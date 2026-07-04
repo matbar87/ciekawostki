@@ -157,7 +157,7 @@ ma własny, prawdziwy plik HTML** generowany w kroku `npm run build` przez
 
 Adresy `canonical`/Open Graph i `sitemap.xml` wymagają znajomości pełnej
 domeny produkcyjnej. Skrypt czyta ją ze zmiennej środowiskowej `SITE_URL`
-(fallback: `https://ciekawostki.vercel.app`, jeśli zmienna nie jest
+(fallback: `https://ciekawy.vercel.app`, jeśli zmienna nie jest
 ustawiona). **Gdy już będziesz znać docelową domenę**, ustaw w Vercelu
 (Project Settings → Environment Variables): `SITE_URL=https://twoja-domena.pl`
 i zrób redeploy — wszystkie linki kanoniczne i sitemapa automatycznie
