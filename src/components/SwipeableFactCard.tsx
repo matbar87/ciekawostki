@@ -30,6 +30,15 @@ interface SwipeableFactCardProps {
 const SWIPE_THRESHOLD_PX = 90;
 /** Ile pikseli ruchu, zanim w ogóle rozstrzygniemy, czy to gest poziomy czy pionowy. */
 const DIRECTION_LOCK_PX = 8;
+/**
+ * Prawdziwy dotyk palcem rzadko porusza się idealnie po jednej osi — nawet
+ * zamierzone przewijanie w pionie potrafi na starcie zboczyć nieco w bok.
+ * Dlatego blokujemy tryb poziomy dopiero, gdy ruch jest WYRAŹNIE bardziej
+ * poziomy niż pionowy (nie przy zwykłym remisie), żeby przypadkowe, lekko
+ * ukośne przewijanie strony nigdy nie zostało błędnie rozpoznane jako swipe
+ * (co zablokowałoby przeglądarce scroll do końca tego gestu).
+ */
+const HORIZONTAL_BIAS_RATIO = 1.5;
 
 type DragAxis = null | 'horizontal' | 'vertical';
 
@@ -94,7 +103,7 @@ export const SwipeableFactCard = forwardRef<SwipeableFactCardHandle, SwipeableFa
 
       if (state.axis === null) {
         if (Math.abs(dx) < DIRECTION_LOCK_PX && Math.abs(dy) < DIRECTION_LOCK_PX) return;
-        if (Math.abs(dy) >= Math.abs(dx)) {
+        if (Math.abs(dx) <= Math.abs(dy) * HORIZONTAL_BIAS_RATIO) {
           // Pionowe przewijanie strony — oddajemy pełną kontrolę przeglądarce
           // i już nigdy nie ruszamy karty w trakcie tego gestu.
           state.axis = 'vertical';
