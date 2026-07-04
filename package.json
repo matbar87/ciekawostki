@@ -14,6 +14,7 @@
     "icons:build": "node scripts/generate-icons.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "idb": "^8.0.0",
     "lucide-react": "^1.23.0",
     "react": "^18.3.1",

@@ -10,6 +10,8 @@ export const ROUTES = {
   history: '/historia',
   factOfDay: '/dzien',
   fact: '/ciekawostka/:id',
+  terms: '/regulamin',
+  privacy: '/polityka-prywatnosci',
 } as const;
 
 export function factPath(id: string): string {

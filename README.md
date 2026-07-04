@@ -37,6 +37,11 @@ Brak dodatkowej konfiguracji — działa od razu po `npm install`.
   (manifest + `beforeinstallprompt`).
 - Każda ciekawostka ma własną, statycznie wygenerowaną, indeksowalną stronę
   pod czystym adresem `/ciekawostka/<id>` — patrz sekcja SEO poniżej.
+- Regulamin (`/regulamin`) i Polityka prywatności (`/polityka-prywatnosci`),
+  linkowane w stopce — patrz sekcja "Dokumenty prawne" poniżej.
+- Bezciasteczkowa analityka odwiedzin ([Vercel Web
+  Analytics](https://vercel.com/docs/analytics)) — działa wyłącznie w
+  środowisku produkcyjnym Vercela.
 
 ## Stos technologiczny
 
@@ -162,6 +167,37 @@ ustawiona). **Gdy już będziesz znać docelową domenę**, ustaw w Vercelu
 (Project Settings → Environment Variables): `SITE_URL=https://twoja-domena.pl`
 i zrób redeploy — wszystkie linki kanoniczne i sitemapa automatycznie
 przeliczą się poprawnie przy kolejnym buildzie.
+
+## Analityka (Vercel Web Analytics)
+
+Aplikacja renderuje komponent `<Analytics />` z pakietu `@vercel/analytics`
+(`src/main.tsx`). Poza produkcyjnym środowiskiem Vercela (np. lokalnie,
+`npm run preview`, inny hosting) skrypt, którego ten komponent próbuje użyć
+(`/_vercel/insights/script.js`), po prostu nie istnieje — w konsoli może
+pojawić się nieszkodliwy błąd 404 sieciowy, bez wpływu na działanie
+aplikacji. Po wdrożeniu na Vercel z włączoną zakładką Analytics dane zaczną
+się zbierać automatycznie, bez dodatkowej konfiguracji.
+
+## Dokumenty prawne
+
+`/regulamin` i `/polityka-prywatnosci` (linkowane w stopce każdej strony) to
+**szablony**, nie gotowa opinia prawna:
+
+- **Regulamin** — wymagany formalnie dla usług świadczonych drogą
+  elektroniczną (art. 8 ustawy o świadczeniu usług drogą elektroniczną),
+  nawet dla darmowej aplikacji bez rejestracji.
+- **Polityka prywatności** — opisuje dane trzymane lokalnie w przeglądarce
+  (IndexedDB/localStorage/cache Service Workera — nigdy nie opuszczają
+  urządzenia użytkownika) oraz dane przetwarzane przez Vercel Web Analytics
+  (bezciasteczkowe, zagregowane, sesje kasowane po 24 h — zgodnie z
+  [dokumentacją Vercela](https://vercel.com/docs/analytics/privacy-policy)).
+
+Dane usługodawcy (imię i nazwisko, e-mail kontaktowy) są wpisane wprost w
+`src/views/RegulaminView.tsx` i `src/views/PrivacyPolicyView.tsx` (stałe
+`CONTACT_EMAIL` na górze pliku) — zaktualizuj je, jeśli się zmienią, oraz
+**skonsultuj obie treści z prawnikiem przed publikacją produkcyjną**,
+zwłaszcza jeśli zmieni się zakres funkcji aplikacji (np. dojdzie
+rejestracja, płatności czy nowe usługi trzecie przetwarzające dane).
 
 ## Dostępność
 

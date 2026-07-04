@@ -199,6 +199,25 @@ async function main() {
   await writeStaticPage('szukaj', searchHtml);
   urls.push({ loc: '/szukaj', priority: '0.5' });
 
+  // --- Regulamin i Polityka prywatności: statyczne, deterministyczne strony. ---
+  const termsHtml = renderPage(template, {
+    title: 'Regulamin — Ciekawostki',
+    description:
+      'Regulamin korzystania z aplikacji Ciekawostki — zasady świadczenia usługi, warunki techniczne i reklamacje.',
+    urlPath: '/regulamin',
+  });
+  await writeStaticPage('regulamin', termsHtml);
+  urls.push({ loc: '/regulamin', priority: '0.2' });
+
+  const privacyHtml = renderPage(template, {
+    title: 'Polityka prywatności — Ciekawostki',
+    description:
+      'Polityka prywatności aplikacji Ciekawostki — jakie dane są przetwarzane, w tym Vercel Web Analytics, i jakie masz prawa.',
+    urlPath: '/polityka-prywatnosci',
+  });
+  await writeStaticPage('polityka-prywatnosci', privacyHtml);
+  urls.push({ loc: '/polityka-prywatnosci', priority: '0.2' });
+
   // --- Ciekawostka dnia: deterministyczna dla dnia builda; JS po stronie
   // klienta i tak przeliczy właściwą ciekawostkę na bieżąco każdego dnia. ---
   const factOfDay = getFactOfTheDay(facts);

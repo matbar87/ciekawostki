@@ -8,6 +8,8 @@ import { HistoryView } from '@/views/HistoryView';
 import { FactOfDayView } from '@/views/FactOfDayView';
 import { FactDetailView } from '@/views/FactDetailView';
 import { NotFoundView } from '@/views/NotFoundView';
+import { RegulaminView } from '@/views/RegulaminView';
+import { PrivacyPolicyView } from '@/views/PrivacyPolicyView';
 
 /**
  * `BrowserRouter` (zamiast `HashRouter`): każda ciekawostka ma własny,
@@ -30,6 +32,8 @@ export default function App() {
             <Route path="/historia" element={<HistoryView />} />
             <Route path="/dzien" element={<FactOfDayView />} />
             <Route path="/ciekawostka/:id" element={<FactDetailView />} />
+            <Route path="/regulamin" element={<RegulaminView />} />
+            <Route path="/polityka-prywatnosci" element={<PrivacyPolicyView />} />
             <Route path="*" element={<NotFoundView />} />
           </Route>
         </Routes>

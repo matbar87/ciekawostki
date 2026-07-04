@@ -1,6 +1,7 @@
 import { Outlet } from 'react-router-dom';
 import { TopAppBar } from './TopAppBar';
 import { InstallPrompt } from './InstallPrompt';
+import { Footer } from './Footer';
 import styles from './Layout.module.css';
 
 export function Layout() {
@@ -14,6 +15,7 @@ export function Layout() {
         <InstallPrompt />
         <Outlet />
       </main>
+      <Footer />
     </>
   );
 }
