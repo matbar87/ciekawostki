@@ -149,7 +149,59 @@ function factJsonLd(fact, urlPath) {
   };
 }
 
-function factBodyHtml(fact, urlPath) {
+/**
+ * Prosta, semantyczna nawigacja wstrzykiwana do każdej statycznej strony —
+ * dzięki niej roboty wyszukiwarek (i użytkownicy bez JS) mają realne linki
+ * `<a href>` między wszystkimi stronami aplikacji, a nie tylko wpis w
+ * sitemap.xml. Po wczytaniu JS React i tak nadpisuje tę treść własnym,
+ * interaktywnym paskiem nawigacji.
+ */
+function staticNavHtml() {
+  return `
+    <nav aria-label="Nawigacja">
+      <a href="/">Strona główna</a>
+      <a href="/szukaj">Wszystkie ciekawostki</a>
+      <a href="/dzien">Ciekawostka dnia</a>
+      <a href="/regulamin">Regulamin</a>
+      <a href="/polityka-prywatnosci">Polityka prywatności</a>
+    </nav>
+  `.trim();
+}
+
+/**
+ * Statyczny spis wszystkich ciekawostek pogrupowanych wg kategorii, z
+ * prawdziwymi linkami `<a href="/ciekawostka/...">` do każdej z nich.
+ * To główne źródło "wewnętrznego linkowania" dla robotów, które nie
+ * wykonują JavaScriptu — bez tego jedynym śladem tych adresów byłby wpis
+ * w sitemap.xml.
+ */
+function buildFactDirectoryHtml(facts) {
+  const byCategory = new Map();
+  for (const fact of facts) {
+    const label = CATEGORY_LABELS[fact.category] || fact.category;
+    if (!byCategory.has(label)) byCategory.set(label, []);
+    byCategory.get(label).push(fact);
+  }
+
+  const sections = [...byCategory.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0], 'pl'))
+    .map(([label, categoryFacts]) => {
+      const items = categoryFacts
+        .map((f) => `<li><a href="${escapeAttr(factPath(f.id))}">${escapeHtml(f.title)}</a></li>`)
+        .join('');
+      return `<section><h3>${escapeHtml(label)}</h3><ul>${items}</ul></section>`;
+    })
+    .join('');
+
+  return `
+    <div>
+      <h2>Wszystkie ciekawostki (${facts.length})</h2>
+      ${sections}
+    </div>
+  `.trim();
+}
+
+function factBodyHtml(fact) {
   return `
     <article>
       <p>${escapeHtml(CATEGORY_LABELS[fact.category] || fact.category)}</p>
@@ -157,8 +209,9 @@ function factBodyHtml(fact, urlPath) {
       <p>${escapeHtml(fact.content)}</p>
       <p>${escapeHtml(fact.explanation)}</p>
       <p>Źródło: ${escapeHtml(fact.source)} — <a href="${escapeAttr(fact.sourceUrl)}">${escapeAttr(fact.sourceUrl)}</a></p>
-      <p><a href="${escapeAttr(urlPath)}">Zobacz na Ciekawostki.pl</a></p>
+      <p><a href="/szukaj">Zobacz więcej ciekawostek</a></p>
     </article>
+    ${staticNavHtml()}
   `.trim();
 }
 
@@ -186,6 +239,11 @@ async function main() {
       name: 'Ciekawostki',
       url: SITE_URL,
     },
+    bodyHtml: `
+      <h1>Ciekawostki</h1>
+      <p>Losowe, zweryfikowane ciekawostki z nauki, historii, kultury i wielu innych dziedzin.</p>
+      ${staticNavHtml()}
+    `.trim(),
   });
   await writeFile(path.join(DIST_DIR, 'index.html'), homeHtml, 'utf-8');
   urls.push({ loc: '/', priority: '1.0' });
@@ -196,6 +254,7 @@ async function main() {
     description:
       'Przeszukuj i filtruj setki zweryfikowanych ciekawostek według kategorii i poziomu zaskoczenia.',
     urlPath: '/szukaj',
+    bodyHtml: `${staticNavHtml()}\n${buildFactDirectoryHtml(facts)}`,
   });
   await writeStaticPage('szukaj', searchHtml);
   urls.push({ loc: '/szukaj', priority: '0.5' });
@@ -206,6 +265,7 @@ async function main() {
     description:
       'Regulamin korzystania z aplikacji Ciekawostki — zasady świadczenia usługi, warunki techniczne i reklamacje.',
     urlPath: '/regulamin',
+    bodyHtml: staticNavHtml(),
   });
   await writeStaticPage('regulamin', termsHtml);
   urls.push({ loc: '/regulamin', priority: '0.2' });
@@ -215,6 +275,7 @@ async function main() {
     description:
       'Polityka prywatności aplikacji Ciekawostki — jakie dane są przetwarzane, w tym Vercel Web Analytics, i jakie masz prawa.',
     urlPath: '/polityka-prywatnosci',
+    bodyHtml: staticNavHtml(),
   });
   await writeStaticPage('polityka-prywatnosci', privacyHtml);
   urls.push({ loc: '/polityka-prywatnosci', priority: '0.2' });
@@ -228,7 +289,7 @@ async function main() {
       description: factOfDay.content,
       urlPath: '/dzien',
       jsonLd: factJsonLd(factOfDay, '/dzien'),
-      bodyHtml: factBodyHtml(factOfDay, factPath(factOfDay.id)),
+      bodyHtml: factBodyHtml(factOfDay),
     });
     await writeStaticPage('dzien', dayHtml);
   }
@@ -242,7 +303,7 @@ async function main() {
       description: fact.content,
       urlPath,
       jsonLd: factJsonLd(fact, urlPath),
-      bodyHtml: factBodyHtml(fact, urlPath),
+      bodyHtml: factBodyHtml(fact),
     });
     await writeStaticPage(`ciekawostka/${fact.id}`, html);
     urls.push({ loc: urlPath, priority: '0.8' });

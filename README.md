@@ -151,8 +151,17 @@ ma własny, prawdziwy plik HTML** generowany w kroku `npm run build` przez
   `<div id="root">` — widoczną dla robotów wyszukiwarek i social-media
   jeszcze zanim wykona się JavaScript. Po stronie przeglądarki React i tak
   przejmuje ten element i renderuje w pełni interaktywną kartę.
+- **Prawdziwe linki wewnętrzne, nie tylko sitemapa** — statyczna strona
+  `/szukaj` zawiera w surowym HTML spis wszystkich ciekawostek pogrupowanych
+  wg kategorii, z realnymi `<a href="/ciekawostka/...">` do każdej z nich
+  (`buildFactDirectoryHtml` w `prerender.mjs`). Każda statyczna strona ma też
+  wspólny blok nawigacji (`staticNavHtml`). Dzięki temu roboty wyszukiwarek
+  odnajdują wszystkie ciekawostki poprzez zwykłe linki, nawet bez wykonywania
+  JavaScriptu i niezależnie od sitemapy — sprawdzone przez wyłączenie JS
+  w przeglądarce i policzenie widocznych linków.
 - **`dist/sitemap.xml`** — lista wszystkich adresów wartych zaindeksowania
-  (strona główna, wyszukiwarka, ciekawostka dnia, wszystkie ciekawostki).
+  (strona główna, wyszukiwarka, ciekawostka dnia, wszystkie ciekawostki), jako
+  dodatkowe, niezależne od linków wewnętrznych źródło informacji dla robotów.
 - **`dist/robots.txt`** — odnośnik do sitemapy oraz `Disallow` dla stron
   personalnych (`/ulubione`, `/historia`), które zależą od lokalnych danych
   przeglądarki użytkownika i nie mają wartości w wynikach wyszukiwania
