@@ -29,7 +29,8 @@ export type CategoryId =
   | 'economy'
   | 'inventions'
   | 'earth'
-  | 'human';
+  | 'human'
+  | 'bible';
 
 /** Poziom zaskoczenia ciekawostki – 1 (oczywiste) .. 5 (trudne do uwierzenia). */
 export type SurpriseLevel = 1 | 2 | 3 | 4 | 5;

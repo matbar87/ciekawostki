@@ -38,6 +38,7 @@ export const CATEGORIES: Record<CategoryId, CategoryMeta> = {
   inventions: { id: 'inventions', label: 'Wynalazki' },
   earth: { id: 'earth', label: 'Ziemia' },
   human: { id: 'human', label: 'Człowiek' },
+  bible: { id: 'bible', label: 'Biblia' },
 };
 
 export const CATEGORY_LIST: CategoryMeta[] = Object.values(CATEGORIES);

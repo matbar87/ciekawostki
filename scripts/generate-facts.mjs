@@ -40,7 +40,7 @@ const VALID_CATEGORIES = new Set([
   'physics', 'chemistry', 'mathematics', 'geography', 'technology',
   'computerScience', 'ai', 'archaeology', 'language', 'culture', 'art',
   'music', 'sport', 'animals', 'plants', 'society', 'economy',
-  'inventions', 'earth', 'human',
+  'inventions', 'earth', 'human', 'bible',
 ]);
 
 const CONTENT_MIN_LENGTH = 90;

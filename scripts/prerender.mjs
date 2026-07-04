@@ -50,6 +50,7 @@ const CATEGORY_LABELS = {
   inventions: 'Wynalazki',
   earth: 'Ziemia',
   human: 'Człowiek',
+  bible: 'Biblia',
 };
 
 // --- Deterministyczna "ciekawostka dnia" — musi być identyczna z logiką

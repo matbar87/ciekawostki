@@ -1,6 +1,7 @@
 import {
   Atom,
   Binary,
+  BookOpen,
   BrainCircuit,
   Brain,
   Cpu,
@@ -57,6 +58,7 @@ export const CATEGORY_ICONS: Record<CategoryId, LucideIcon> = {
   inventions: Lightbulb,
   earth: Globe,
   human: PersonStanding,
+  bible: BookOpen,
 };
 
 interface CategoryIconProps {
