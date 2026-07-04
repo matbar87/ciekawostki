@@ -20,6 +20,12 @@ html {
      dostaje wymuszone `overflow-y: auto` i staje się osobnym kontenerem
      przewijania zamiast dokumentu — co psuje m.in. `window.scrollTo`. */
   overflow-x: hidden;
+  /* Blokuje przybliżanie (pinch/double-tap zoom) w całej aplikacji — nie
+     tylko na karcie ciekawostki. `maximum-scale=1, user-scalable=no` w
+     meta viewport nie jest respektowane przez wszystkie przeglądarki
+     mobilne równie konsekwentnie, więc dublujemy blokadę na poziomie CSS,
+     które ma tu pierwszeństwo. Pion nadal przewija się normalnie. */
+  touch-action: pan-y;
 }
 
 body {
