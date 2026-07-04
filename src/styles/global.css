@@ -9,6 +9,10 @@
 html,
 body {
   height: 100%;
+  /* Zabezpieczenie przed poziomym scrollem/przybliżeniem strony podczas
+     przeciągania karty ciekawostki (patrz SwipeableFactCard) — obrócona,
+     przesuwana karta nigdy nie powinna poszerzać dokumentu. */
+  overflow-x: hidden;
 }
 
 body {
