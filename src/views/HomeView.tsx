@@ -41,7 +41,16 @@ export function HomeView() {
           fact={currentFact}
           isFavorite={isFavorite(currentFact.id)}
           onToggleFavorite={() => toggleFavorite(currentFact.id)}
-          onExitComplete={drawNext}
+          onExitComplete={() => {
+            drawNext();
+            // Nowa ciekawostka bywa krótsza niż poprzednia, więc strona może
+            // się skurczyć w trakcie animowanego (smooth) scrolla wywołanego
+            // niżej przy kliknięciu — przeglądarka potrafi wtedy przyciąć
+            // scroll gdzieś w połowie zamiast dojechać do samej góry.
+            // Ten natychmiastowy (nie animowany) skok gwarantuje, że nowa
+            // karta zawsze wystartuje w pełni widoczna od samej góry.
+            window.scrollTo(0, 0);
+          }}
         />
       ) : (
         <div className={styles.skeleton} aria-hidden="true" />
