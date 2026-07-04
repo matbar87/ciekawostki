@@ -42,6 +42,11 @@
   align-items: center;
   gap: 2px;
   flex-shrink: 0;
+  /* Dokuje nawigację do prawej krawędzi paska niezależnie od tego, czy
+     licznik odkryć (jedyny inny element z `flex: 1`) jest akurat widoczny –
+     bez tego, gdy licznik znika na wąskich ekranach, ikony przesuwały się
+     tuż obok logo zamiast zostać przy prawej krawędzi, tak jak na desktopie. */
+  margin-left: auto;
 }
 
 .link,
