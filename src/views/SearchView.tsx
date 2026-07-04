@@ -13,8 +13,7 @@ import styles from './SearchView.module.css';
 const PAGE_SIZE = 30;
 
 export function SearchView() {
-  const { filteredFacts, settings, updateSettings, isFavorite, toggleFavorite, recordView } =
-    useAppState();
+  const { filteredFacts, settings, updateSettings } = useAppState();
   const [query, setQuery] = useState('');
   const [showFilters, setShowFilters] = useState(false);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
@@ -130,13 +129,7 @@ export function SearchView() {
         <>
           <div className={styles.resultsList}>
             {results.slice(0, visibleCount).map((fact) => (
-              <SearchResultItem
-                key={fact.id}
-                fact={fact}
-                isFavorite={isFavorite(fact.id)}
-                onToggleFavorite={() => toggleFavorite(fact.id)}
-                onOpen={() => recordView(fact.id)}
-              />
+              <SearchResultItem key={fact.id} fact={fact} />
             ))}
           </div>
           {visibleCount < results.length && (

@@ -1,0 +1,48 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  touch-action: pan-y;
+  cursor: grab;
+}
+
+.wrapper.dragging {
+  transition: none;
+  cursor: grabbing;
+  user-select: none;
+}
+
+.wrapper.exiting {
+  transition: transform var(--motion-medium) var(--motion-easing), opacity var(--motion-medium) var(--motion-easing);
+  transform: translateX(-130%) rotate(-8deg);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.enterFromRight {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  animation: enter-from-right var(--motion-slow) var(--motion-easing) both;
+}
+
+@keyframes enter-from-right {
+  from {
+    transform: translateX(72px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wrapper.exiting {
+    transition: opacity var(--motion-fast) linear;
+    transform: none;
+  }
+  .enterFromRight {
+    animation: none;
+  }
+}

@@ -1,93 +1,23 @@
 .item {
-  background: var(--color-surface-container);
-  border-radius: var(--radius-medium);
-  padding: var(--space-3) var(--space-4);
-}
-
-.summary {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: var(--space-1);
-  cursor: pointer;
-  list-style: none;
+  gap: var(--space-3);
+  background: var(--color-surface-container);
+  border-radius: var(--radius-medium);
+  padding: var(--space-4);
+  text-decoration: none;
+  color: inherit;
+  transition: background-color var(--motion-fast) var(--motion-easing);
 }
 
-.summary::-webkit-details-marker {
-  display: none;
+.item:hover {
+  background: var(--color-surface-container-high);
 }
 
 .title {
   font-weight: 600;
   font-size: 0.98rem;
-}
-
-.snippet {
-  width: 100%;
-  font-size: 0.85rem;
-  color: var(--color-on-surface-variant);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.body {
-  margin-top: var(--space-3);
-  padding-top: var(--space-3);
-  border-top: 1px solid var(--color-outline-variant);
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-2);
-  animation: fade-in var(--motion-medium) var(--motion-easing);
-}
-
-.fullContent {
+  line-height: 1.4;
   color: var(--color-on-surface);
-  line-height: 1.5;
-}
-
-.explanation {
-  color: var(--color-on-surface-variant);
-  line-height: 1.5;
-}
-
-.sourceLink {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  align-self: flex-start;
-  font-size: 0.85rem;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.sourceLink:hover {
-  text-decoration: underline;
-}
-
-.actions {
-  display: flex;
-  gap: var(--space-2);
-}
-
-.iconAction {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  border-radius: var(--radius-full);
-  border: none;
-  background: transparent;
-  color: var(--color-on-surface-variant);
-  cursor: pointer;
-  text-decoration: none;
-}
-
-.iconAction:hover {
-  background: var(--color-surface-container-high);
-}
-
-.favoriteActive {
-  color: #f2b705;
 }

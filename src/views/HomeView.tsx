@@ -1,19 +1,22 @@
+import { useRef } from 'react';
 import { EyeOff, Shuffle } from 'lucide-react';
 import { useAppState } from '@/hooks/useAppState';
 import { useRandomFact } from '@/hooks/useRandomFact';
 import { useDocumentMeta } from '@/hooks/useDocumentMeta';
-import { FactCard } from '@/components/FactCard';
+import { SwipeableFactCard, type SwipeableFactCardHandle } from '@/components/SwipeableFactCard';
 import { EmptyState } from '@/components/EmptyState';
 import styles from './HomeView.module.css';
 
 /**
  * Ekran główny: jedna losowa ciekawostka i przycisk "Wylosuj kolejną".
  * To jedyny widok, jaki użytkownik widzi zaraz po uruchomieniu aplikacji –
- * celowo pozbawiony jakichkolwiek rozpraszaczy.
+ * celowo pozbawiony jakichkolwiek rozpraszaczy. Kartę można też przeciągnąć
+ * w lewo (jak w aplikacjach typu Tinder), by wylosować kolejną ciekawostkę.
  */
 export function HomeView() {
   const { isFavorite, toggleFavorite, filteredFacts } = useAppState();
   const { currentFact, isLoading, drawNext } = useRandomFact();
+  const cardRef = useRef<SwipeableFactCardHandle>(null);
 
   useDocumentMeta(
     'Ciekawostki — losowe, zweryfikowane fakty ze świata nauki i nie tylko',
@@ -33,11 +36,12 @@ export function HomeView() {
   return (
     <div className={styles.wrapper}>
       {currentFact ? (
-        <FactCard
+        <SwipeableFactCard
+          ref={cardRef}
           fact={currentFact}
           isFavorite={isFavorite(currentFact.id)}
           onToggleFavorite={() => toggleFavorite(currentFact.id)}
-          headingLevel="h1"
+          onExitComplete={drawNext}
         />
       ) : (
         <div className={styles.skeleton} aria-hidden="true" />
@@ -48,7 +52,7 @@ export function HomeView() {
         className={styles.drawButton}
         onClick={() => {
           window.scrollTo({ top: 0, behavior: 'smooth' });
-          drawNext();
+          cardRef.current?.requestExit();
         }}
         disabled={isLoading}
       >
