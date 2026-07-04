@@ -12,3 +12,9 @@
 .main:focus {
   outline: none;
 }
+
+.drawButtonSpacer {
+  width: 100%;
+  height: var(--draw-button-clearance);
+  flex-shrink: 0;
+}

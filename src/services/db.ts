@@ -16,8 +16,8 @@ export interface HistoryRecord {
 /** Klucze przechowywane w prostym magazynie klucz-wartość. */
 export interface KVStore {
   settings: UserSettings;
-  /** Kolejka id-ków jeszcze nie pokazanych w bieżącym cyklu losowania. */
-  shuffleQueue: string[];
+  /** Id-ki już pokazane w bieżącym cyklu losowania (patrz services/randomEngine.ts). */
+  shuffleSeenIds: string[];
   /** Id ostatnio wyświetlonej ciekawostki (do przywrócenia po restarcie). */
   lastFactId: string;
   /** Wszystkie unikalne id ciekawostek, jakie użytkownik kiedykolwiek zobaczył. */
@@ -124,13 +124,23 @@ export async function isFavorite(factId: string): Promise<boolean> {
 export async function pushHistory(factId: string): Promise<void> {
   const db = await getDb();
   const tx = db.transaction('history', 'readwrite');
-  await tx.store.add({ factId, viewedAt: Date.now() });
+  const store = tx.store;
 
-  const allKeys = await tx.store.index('byViewedAt').getAllKeys();
+  // Usuń wcześniejsze wpisy tej samej ciekawostki, żeby historia nigdy nie
+  // pokazywała duplikatów — ponowne obejrzenie po prostu przenosi ją na górę.
+  const existing = await store.getAll();
+  const duplicateKeys = existing
+    .filter((entry) => entry.factId === factId)
+    .map((entry) => entry.entryId as number);
+  await Promise.all(duplicateKeys.map((key) => store.delete(key)));
+
+  await store.add({ factId, viewedAt: Date.now() });
+
+  const allKeys = await store.index('byViewedAt').getAllKeys();
   const excess = allKeys.length - HISTORY_LIMIT;
   if (excess > 0) {
     const keysToDelete = allKeys.slice(0, excess);
-    await Promise.all(keysToDelete.map((key) => tx.store.delete(key)));
+    await Promise.all(keysToDelete.map((key) => store.delete(key)));
   }
   await tx.done;
 }
@@ -142,15 +152,16 @@ export async function getHistory(): Promise<HistoryRecord[]> {
 }
 
 // ---------------------------------------------------------------------------
-// Stan losowania (talia bez powtórzeń) i licznik odkrytych ciekawostek
+// Stan losowania (bez powtórzeń w cyklu) i licznik odkrytych ciekawostek
 // ---------------------------------------------------------------------------
 
-export async function getShuffleQueue(): Promise<string[]> {
-  return (await kvGet('shuffleQueue')) ?? [];
+export async function getShuffleSeenIds(): Promise<Set<string>> {
+  const stored = await kvGet('shuffleSeenIds');
+  return new Set(stored ?? []);
 }
 
-export async function saveShuffleQueue(queue: string[]): Promise<void> {
-  await kvSet('shuffleQueue', queue);
+export async function saveShuffleSeenIds(ids: Set<string>): Promise<void> {
+  await kvSet('shuffleSeenIds', Array.from(ids));
 }
 
 export async function getLastFactId(): Promise<string | undefined> {

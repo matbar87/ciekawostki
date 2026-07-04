@@ -46,7 +46,10 @@ export function HomeView() {
       <button
         type="button"
         className={styles.drawButton}
-        onClick={() => drawNext()}
+        onClick={() => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+          drawNext();
+        }}
         disabled={isLoading}
       >
         {isLoading ? (

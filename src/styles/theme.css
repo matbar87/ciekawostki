@@ -47,6 +47,9 @@
   --space-6: 32px;
   --space-7: 48px;
 
+  /* Wysokość rezerwowana pod przypięty na stałe przycisk "Wylosuj kolejną". */
+  --draw-button-clearance: calc(96px + env(safe-area-inset-bottom));
+
   --font-family: 'Segoe UI', system-ui, -apple-system, 'Roboto', 'Helvetica Neue', Arial,
     sans-serif;
 

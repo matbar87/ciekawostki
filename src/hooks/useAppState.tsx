@@ -98,7 +98,10 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
 
   const recordView = useCallback((factId: string) => {
     pushHistory(factId);
-    setHistory((prev) => [{ factId, viewedAt: Date.now() }, ...prev].slice(0, 20));
+    setHistory((prev) => {
+      const withoutDuplicate = prev.filter((entry) => entry.factId !== factId);
+      return [{ factId, viewedAt: Date.now() }, ...withoutDuplicate].slice(0, 20);
+    });
     markSeen(factId).then((seen) => setDiscoveredCount(seen.size));
   }, []);
 

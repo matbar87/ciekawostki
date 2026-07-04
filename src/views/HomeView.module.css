@@ -6,9 +6,16 @@
   width: 100%;
   flex: 1;
   justify-content: center;
+  /* Miejsce na przypięty na stałe przycisk losowania u dołu ekranu. */
+  padding-bottom: var(--draw-button-clearance);
 }
 
 .drawButton {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--space-5) + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 15;
   display: inline-flex;
   align-items: center;
   gap: var(--space-2);
@@ -19,17 +26,18 @@
   padding: var(--space-4) var(--space-6);
   font-size: 1.05rem;
   font-weight: 700;
+  white-space: nowrap;
   cursor: pointer;
-  box-shadow: var(--elevation-1);
+  box-shadow: var(--elevation-3);
   transition: box-shadow var(--motion-fast) var(--motion-easing), transform var(--motion-fast) var(--motion-easing);
+}
+
+.drawButton:active {
+  transform: translateX(-50%) scale(0.97);
 }
 
 .drawButton:hover {
   box-shadow: var(--elevation-2);
-}
-
-.drawButton:active {
-  transform: scale(0.97);
 }
 
 .drawButton:disabled {

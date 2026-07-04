@@ -109,11 +109,15 @@ przy kilkudziesięciu tysiącach rekordów wciąż nie jest konieczne.
   (`vercel.json`), ale strony ciekawostek i tak istnieją jako prawdziwe
   pliki statyczne, więc to przekierowanie jest tylko zabezpieczeniem dla
   pozostałych tras (np. `/ulubione`).
-- **Losowanie typu "shuffle bag"** — zamiast czystego `Math.random()` przy
-  każdym losowaniu (co szybko prowadzi do powtórzeń), utrzymywana jest
-  potasowana kolejka nieobejrzanych jeszcze ciekawostek, persystowana w
-  IndexedDB. Gwarantuje to obejrzenie całej bazy przed powtórką i przetrwa
-  odświeżenie strony.
+- **Losowanie bez powtórzeń przez zbiór "już zobaczonych"** — zamiast
+  czystego `Math.random()` przy każdym losowaniu (co szybko prowadzi do
+  powtórzeń) albo z góry potasowanej kolejki (którą trzeba by ręcznie
+  czyścić po zmianie filtrów), trzymamy w IndexedDB zbiór id-ków
+  zobaczonych w bieżącym cyklu i przy każdym losowaniu liczymy różnicę
+  względem aktualnej, przefiltrowanej puli na żywo (`services/randomEngine.ts`).
+  Dzięki temu włączenie/wyłączenie kategorii od razu zmienia dostępną pulę,
+  a nowy cykl zaczyna się dokładnie wtedy, gdy wszystkie ciekawostki z
+  aktualnie wybranych kategorii zostały pokazane — nie wcześniej.
 - **"Ciekawostka dnia" jako czysta funkcja daty** — `hash(YYYY-MM-DD) % N`
   daje ten sam wynik każdemu użytkownikowi tego samego dnia bez potrzeby
   serwera czy synchronizacji.

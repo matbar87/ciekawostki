@@ -8,10 +8,9 @@
   color: var(--color-on-primary-container);
   border-radius: var(--radius-medium);
   animation: pop-in var(--motion-medium) var(--motion-easing);
-  align-self: stretch;
   width: 100%;
   max-width: 640px;
-  margin-bottom: var(--space-4);
+  margin: 0 auto var(--space-4);
 }
 
 .text {

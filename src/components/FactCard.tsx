@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ChevronDown, ChevronUp, Copy, ExternalLink, Link2, Share2, Star } from 'lucide-react';
+import { Copy, ExternalLink, Link2, Share2, Star } from 'lucide-react';
 import type { Fact } from '@/types/fact';
 import { CategoryChip } from './CategoryChip';
 import { SurpriseMeter } from './SurpriseMeter';
@@ -29,7 +29,6 @@ export function FactCard({
   overline,
   showPermalink = true,
 }: FactCardProps) {
-  const [isExpanded, setIsExpanded] = useState(false);
   const [statusMessage, setStatusMessage] = useState('');
 
   const Heading = headingLevel;
@@ -59,38 +58,11 @@ export function FactCard({
 
       <Heading className={styles.title}>{fact.title}</Heading>
       <p className={styles.content}>{fact.content}</p>
-
-      <div className={styles.expandSection}>
-        <button
-          type="button"
-          className={styles.expandButton}
-          aria-expanded={isExpanded}
-          aria-controls={`explanation-${fact.id}`}
-          onClick={() => setIsExpanded((v) => !v)}
-        >
-          {isExpanded ? 'Zwiń' : 'Czytaj dalej'}
-          {isExpanded ? (
-            <ChevronUp size={16} aria-hidden="true" strokeWidth={2} />
-          ) : (
-            <ChevronDown size={16} aria-hidden="true" strokeWidth={2} />
-          )}
-        </button>
-
-        {isExpanded && (
-          <div id={`explanation-${fact.id}`} className={styles.explanation}>
-            <p>{fact.explanation}</p>
-            <a
-              className={styles.sourceLink}
-              href={fact.sourceUrl}
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              Źródło: {fact.source}
-              <ExternalLink size={14} aria-hidden="true" strokeWidth={2} />
-            </a>
-          </div>
-        )}
-      </div>
+      <p className={styles.explanation}>{fact.explanation}</p>
+      <a className={styles.sourceLink} href={fact.sourceUrl} target="_blank" rel="noreferrer noopener">
+        Źródło: {fact.source}
+        <ExternalLink size={14} aria-hidden="true" strokeWidth={2} />
+      </a>
 
       <footer className={styles.footer}>
         <span className={styles.readingTime}>{formatReadingTime(fact.readingTimeSeconds)}</span>

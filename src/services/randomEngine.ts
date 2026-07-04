@@ -1,36 +1,42 @@
 import type { Fact } from '@/types/fact';
-import { shuffle } from '@/utils/seededRandom';
-import { getShuffleQueue, saveShuffleQueue } from './db';
+import { getShuffleSeenIds, saveShuffleSeenIds } from './db';
 
 /**
- * Losowanie "bez powtórzeń aż do wyczerpania puli" (shuffle bag).
+ * Losowanie "bez powtórzeń aż do wyczerpania puli".
  *
- * Stan talii (kolejność jeszcze nie pokazanych id) jest trwale zapisywany
- * w IndexedDB, więc działa poprawnie także po odświeżeniu strony. Talia
- * jest odporna na zmianę filtrów (ukryte kategorie / tylko zaskakujące)
- * między losowaniami – identyfikatory spoza aktualnej puli są po prostu
- * pomijane, a nie tracone, więc po wyłączeniu filtra wracają do gry.
+ * Zamiast utrzymywać wcześniej potasowaną kolejkę (którą trzeba było
+ * ręcznie oczyszczać ze "starych" id po zmianie filtrów), trzymamy zbiór
+ * id-ków już pokazanych w bieżącym cyklu i przy każdym losowaniu liczymy
+ * różnicę względem aktualnej, przefiltrowanej puli na żywo. Dzięki temu:
+ * - wyłączenie/włączenie kategorii natychmiast zmienia dostępną pulę,
+ *   bez czekania aż "stara" talia się wyczerpie,
+ * - nowy cykl (reshuffle) zaczyna się dokładnie wtedy, gdy wszystkie
+ *   ciekawostki z AKTUALNIE wybranych kategorii zostały zobaczone —
+ *   a nie wtedy, gdy wyczerpie się jedna, węższa kategoria sprzed zmiany
+ *   filtrów.
  */
 export async function drawNextFact(pool: Fact[], excludeId?: string): Promise<Fact | null> {
   if (pool.length === 0) return null;
 
-  const poolIds = new Set(pool.map((f) => f.id));
-  let queue = await getShuffleQueue();
+  const poolIds = pool.map((f) => f.id);
+  let seen = await getShuffleSeenIds();
 
-  // Odsiej z talii identyfikatory, których obecnie nie ma w aktywnej puli.
-  queue = queue.filter((id) => poolIds.has(id));
+  let remaining = poolIds.filter((id) => !seen.has(id));
 
-  if (queue.length === 0) {
-    queue = shuffle(Array.from(poolIds));
-    // Unikaj natychmiastowego powtórzenia tej samej ciekawostki po
-    // wyczerpaniu talii, jeśli to możliwe.
-    if (excludeId && queue[0] === excludeId && queue.length > 1) {
-      [queue[0], queue[1]] = [queue[1], queue[0]];
-    }
+  if (remaining.length === 0) {
+    // Cała aktualnie wybrana pula została zobaczona — nowy cykl od zera.
+    seen = new Set();
+    remaining = poolIds;
   }
 
-  const nextId = queue.shift() as string;
-  await saveShuffleQueue(queue);
+  // Unikaj natychmiastowego powtórzenia tej samej ciekawostki, jeśli jest
+  // inny kandydat do wyboru.
+  const candidates =
+    excludeId && remaining.length > 1 ? remaining.filter((id) => id !== excludeId) : remaining;
+
+  const nextId = candidates[Math.floor(Math.random() * candidates.length)];
+  seen.add(nextId);
+  await saveShuffleSeenIds(seen);
 
   return pool.find((f) => f.id === nextId) ?? null;
 }

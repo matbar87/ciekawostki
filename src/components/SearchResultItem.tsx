@@ -23,15 +23,14 @@ export function SearchResultItem({ fact, isFavorite, onToggleFavorite, onOpen }:
   return (
     <details className={styles.item} onToggle={(e) => e.currentTarget.open && onOpen()}>
       <summary className={styles.summary}>
-        <span className={styles.summaryText}>
-          <span className={styles.title}>{fact.title}</span>
-          <span className={styles.snippet}>{fact.content}</span>
-        </span>
+        <span className={styles.title}>{fact.title}</span>
         <CategoryChip category={fact.category} size="small" />
+        <span className={styles.snippet}>{fact.content}</span>
       </summary>
 
       <div className={styles.body}>
         <SurpriseMeter level={fact.surpriseLevel} />
+        <p className={styles.fullContent}>{fact.content}</p>
         <p className={styles.explanation}>{fact.explanation}</p>
         <a href={fact.sourceUrl} target="_blank" rel="noreferrer noopener" className={styles.sourceLink}>
           Źródło: {fact.source}
