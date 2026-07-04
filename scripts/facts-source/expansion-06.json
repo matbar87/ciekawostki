@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bible-51",
+    "title": "Srebrne zwoje z Ketef Hinnom zawierają najstarszy znany biblijny tekst",
+    "content": "W grobowcu w Ketef Hinnom pod Jerozolimą odnaleziono maleńkie srebrne zwoje z tekstem datowanym na czasy sprzed niewoli babilońskiej, uznawanym za najstarszy zachowany fragment biblijny.",
+    "category": "bible",
+    "explanation": "Zwoje musiały zostać delikatnie rozwinięte metodami konserwatorskimi, ponieważ srebro było zbyt kruche, by rozwinąć je ręcznie bez zniszczenia.",
+    "surpriseLevel": 4,
+    "source": "Israel Museum",
+    "sourceUrl": "https://www.imj.org.il"
+  },
+  {
+    "id": "bible-52",
+    "title": "Papirusy z Elefantyny opisują życie żydowskiej społeczności w starożytnym Egipcie",
+    "content": "Aramejskie papirusy odnalezione na egipskiej wyspie Elefantyna dokumentują codzienne życie żydowskiej społeczności wojskowej, żyjącej tam kilkaset lat przed naszą erą.",
+    "category": "bible",
+    "explanation": "Dokumenty te obejmują kontrakty, listy i akty prawne, dając rzadki, bezpośredni wgląd w życie diaspory żydowskiej w tamtym okresie.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-53",
+    "title": "Zwęglony zwój z En-Gedi odczytano dzięki tomografii komputerowej",
+    "content": "Silnie zwęglony zwój odnaleziony w En-Gedi, którego nie dało się fizycznie rozwinąć, odczytano dzięki cyfrowej tomografii komputerowej, ujawniającej fragment Księgi Kapłańskiej.",
+    "category": "bible",
+    "explanation": "Ta metoda pozwoliła naukowcom 'wirtualnie rozwinąć' zwój warstwa po warstwie bez ryzyka zniszczenia niezwykle kruchego, zwęglonego materiału.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "bible-54",
+    "title": "Kodeks Bezy to dwujęzyczny grecko-łaciński rękopis Nowego Testamentu",
+    "content": "Kodeks Bezy, pochodzący z okresu starożytności lub wczesnego średniowiecza, zawiera tekst Ewangelii i Dziejów Apostolskich zapisany równolegle w języku greckim i łacińskim.",
+    "category": "bible",
+    "explanation": "Taki dwujęzyczny układ czyni ten rękopis szczególnie cennym źródłem dla badaczy porównujących różne starożytne wersje tekstu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-55",
+    "title": "Aramejski był powszechnym językiem Bliskiego Wschodu w czasach biblijnych",
+    "content": "Aramejski, a nie tylko hebrajski, był w wielu okresach biblijnej historii powszechnym językiem handlu i codziennej komunikacji na całym Bliskim Wschodzie.",
+    "category": "bible",
+    "explanation": "Niektóre fragmenty ksiąg biblijnych, na przykład części Księgi Daniela, zostały zapisane właśnie w języku aramejskim, a nie hebrajskim.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-56",
+    "title": "Papirus Nasha to jeden z najstarszych hebrajskich fragmentów biblijnych sprzed odkrycia zwojów qumrańskich",
+    "content": "Zanim odnaleziono zwoje znad Morza Martwego, papirus Nasha był uznawany za jeden z najstarszych znanych hebrajskich rękopisów zawierających tekst biblijny.",
+    "category": "bible",
+    "explanation": "Odkrycie znacznie starszych zwojów w Qumran w XX wieku zrewolucjonizowało wiedzę naukowców o wczesnej historii tekstu hebrajskiej Biblii.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-57",
+    "title": "Peszitta to starożytny przekład Biblii na język syryjski",
+    "content": "Peszitta, czyli starożytny przekład Biblii na klasyczny język syryjski, powstała prawdopodobnie w pierwszych wiekach naszej ery i do dziś jest używana przez niektóre kościoły wschodnie.",
+    "category": "bible",
+    "explanation": "Tekst ten stanowi ważne, niezależne źródło porównawcze dla badaczy analizujących historię i przekaz starożytnych tekstów biblijnych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-58",
+    "title": "Poliglota Complutensis to XVI-wieczne wielojęzyczne wydanie Biblii",
+    "content": "Poliglota Complutensis, wydrukowana w Hiszpanii na początku XVI wieku, prezentowała tekst biblijny równolegle w kilku starożytnych językach na tej samej stronie.",
+    "category": "bible",
+    "explanation": "Powstanie tego dzieła wymagało zgromadzenia i porównania rękopisów w języku hebrajskim, greckim, aramejskim i łacińskim przez zespół ówczesnych uczonych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-59",
+    "title": "Erazm z Rotterdamu opracował jedno z pierwszych drukowanych wydań greckiego Nowego Testamentu",
+    "content": "Renesansowy uczony Erazm z Rotterdamu przygotował na początku XVI wieku jedno z pierwszych drukowanych wydań greckiego tekstu Nowego Testamentu, opartego na dostępnych mu rękopisach.",
+    "category": "bible",
+    "explanation": "Jego wydanie miało ogromny wpływ na późniejsze tłumaczenia Biblii na języki narodowe w całej Europie, w tym na przekład Marcina Lutra.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-60",
+    "title": "Samarytański Pięcioksiąg to odrębna wersja pierwszych pięciu ksiąg Biblii",
+    "content": "Społeczność Samarytan przechowała własną, nieco odmienną wersję pierwszych pięciu ksiąg Biblii, zapisaną odrębnym, starożytnym alfabetem samarytańskim.",
+    "category": "bible",
+    "explanation": "Porównanie tej wersji z tekstem hebrajskim i greckim tłumaczeniem Septuaginty dostarcza naukowcom cennych wskazówek co do historii przekazu tekstu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-61",
+    "title": "Odnaleziono starożytną pieczęć powiązaną z pisarzem wspomnianym w Biblii",
+    "content": "Archeolodzy odnaleźli w Jerozolimie odcisk starożytnej pieczęci glinianej, noszący imię, które badacze łączą z pisarzem wymienionym w biblijnej Księdze Jeremiasza.",
+    "category": "bible",
+    "explanation": "Takie odciski pieczęci, zwane bullami, były używane do podpisywania i pieczętowania oficjalnych dokumentów w starożytnym Izraelu.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "bible-62",
+    "title": "Kodeks Aleksandryjski to jeden z najstarszych obszernych rękopisów greckiej Biblii",
+    "content": "Kodeks Aleksandryjski, pochodzący z pierwszych wieków po Chrystusie, jest jednym z najstarszych zachowanych, niemal kompletnych rękopisów greckiego tekstu biblijnego.",
+    "category": "bible",
+    "explanation": "Rękopis ten, przechowywany dziś w Bibliotece Brytyjskiej, jest jednym z kluczowych źródeł wykorzystywanych przez badaczy tekstu biblijnego.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-63",
+    "title": "Zwoje znad Morza Martwego odkrył przypadkiem pasterz szukający zagubionej kozy",
+    "content": "Według najbardziej rozpowszechnionej relacji, zwoje znad Morza Martwego odkrył w 1947 roku młody beduiński pasterz, przypadkowo wrzucając kamień do jaskini w poszukiwaniu zagubionego zwierzęcia.",
+    "category": "bible",
+    "explanation": "To przypadkowe odkrycie doprowadziło do jednego z najważniejszych znalezisk archeologicznych XX wieku, obejmującego setki starożytnych rękopisów.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "bible-64",
+    "title": "Archeolodzy odnaleźli w Jerozolimie pozostałości starożytnej sadzawki Siloam",
+    "content": "Wykopaliska w Jerozolimie odsłoniły pozostałości starożytnej sadzawki Siloam, wspominanej w tekstach biblijnych i zasilanej wodą z tunelu Ezechiasza.",
+    "category": "bible",
+    "explanation": "Odkrycie to potwierdziło istnienie realnego, historycznego miejsca opisywanego w starożytnych źródłach, obecnie dostępnego do zwiedzania.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "bible-65",
+    "title": "Biblia Ostrogska była pierwszym kompletnym drukiem Biblii w języku cerkiewnosłowiańskim",
+    "content": "Wydrukowana w 1581 roku na Wołyniu Biblia Ostrogska była pierwszym kompletnym drukowanym wydaniem całej Biblii w języku cerkiewnosłowiańskim.",
+    "category": "bible",
+    "explanation": "Jej powstanie wymagało sprowadzenia drukarzy i czcionek oraz porównania wielu wcześniejszych rękopisów, by ustalić możliwie spójny tekst.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

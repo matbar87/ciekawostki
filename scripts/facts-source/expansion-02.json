@@ -1,0 +1,852 @@
+[
+  {
+    "id": "medicine-20",
+    "title": "Aspiryna wywodzi się ze związku znanego już w starożytności",
+    "content": "Substancja czynna aspiryny jest chemicznie spokrewniona ze związkami zawartymi w korze wierzby, stosowanej jako środek przeciwbólowy od starożytności.",
+    "category": "medicine",
+    "explanation": "Naukowcy w XIX wieku wyodrębnili i zsyntetyzowali kwas acetylosalicylowy, tworząc lek znacznie łagodniejszy dla żołądka niż surowa kora.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-21",
+    "title": "Ludzkie serce ma własny, wewnętrzny rozrusznik",
+    "content": "Serce zawiera niewielką grupę komórek zwaną węzłem zatokowo-przedsionkowym, która samodzielnie generuje impulsy elektryczne wywołujące jego skurcze.",
+    "category": "medicine",
+    "explanation": "Dzięki temu wyjęte z ciała serce może przez chwilę nadal bić samo, dopóki ma dopływ energii i tlenu.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-22",
+    "title": "Pierwsza udana transplantacja serca odbyła się w 1967 roku",
+    "content": "Pierwszego udanego przeszczepu ludzkiego serca dokonał chirurg Christiaan Barnard w Republice Południowej Afryki w grudniu 1967 roku.",
+    "category": "medicine",
+    "explanation": "Choć pacjent przeżył zabieg jedynie kilkanaście dni, operacja otworzyła drogę do rozwoju transplantologii serca na całym świecie.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-23",
+    "title": "Zdjęcia rentgenowskie odkryto przez przypadek",
+    "content": "Niemiecki fizyk Wilhelm Roentgen odkrył w 1895 roku promieniowanie rentgenowskie przypadkowo, badając zupełnie inne zjawisko w swoim laboratorium.",
+    "category": "medicine",
+    "explanation": "Jego odkrycie szybko znalazło zastosowanie w medycynie, umożliwiając oglądanie kości i narządów bez konieczności operacji.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "medicine-24",
+    "title": "Niektóre choroby genetyczne dają częściową odporność na inne choroby",
+    "content": "Osoby będące nosicielami genu anemii sierpowatej mają zwiększoną odporność na ciężki przebieg malarii, co tłumaczy częstsze występowanie tej mutacji w regionach malarycznych.",
+    "category": "medicine",
+    "explanation": "To przykład ewolucyjnego kompromisu – niekorzystna zwykle mutacja może dawać przewagę w konkretnych warunkach środowiskowych.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-25",
+    "title": "Chirurgia laparoskopowa pozwala operować przez bardzo małe nacięcia",
+    "content": "Dzięki kamerom i cienkim narzędziom wprowadzanym przez niewielkie nacięcia chirurdzy mogą wykonywać skomplikowane operacje bez dużego rozcięcia ciała.",
+    "category": "medicine",
+    "explanation": "Taki sposób operowania skraca czas rekonwalescencji i zmniejsza ryzyko powikłań w porównaniu z klasyczną chirurgią otwartą.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-26",
+    "title": "Znieczulenie ogólne trafiło do powszechnej praktyki medycznej w XIX wieku",
+    "content": "Zanim upowszechniło się znieczulenie eterem w połowie XIX wieku, operacje chirurgiczne przeprowadzano na pacjentach w pełni przytomnych.",
+    "category": "medicine",
+    "explanation": "Wprowadzenie anestezji było jednym z przełomów, które umożliwiły rozwój bardziej złożonej i mniej traumatycznej chirurgii.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "medicine-27",
+    "title": "Człowiek może normalnie funkcjonować z jedną nerką",
+    "content": "Osoba, która oddała jedną nerkę do przeszczepu lub urodziła się z tylko jedną, zwykle może prowadzić normalne życie dzięki pracy pozostałego narządu.",
+    "category": "medicine",
+    "explanation": "Pojedyncza zdrowa nerka jest w stanie przejąć niemal całą pracę filtrującą krew, którą normalnie wykonują dwie nerki razem.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-28",
+    "title": "Bakterie jelitowe wpływają na wiele procesów w organizmie",
+    "content": "Miliardy bakterii zamieszkujących ludzkie jelita, nazywane mikrobiomem, wpływają nie tylko na trawienie, ale też częściowo na odporność i nastrój.",
+    "category": "medicine",
+    "explanation": "Naukowcy wciąż badają, jak skład tej wewnętrznej społeczności bakterii oddziałuje na ogólny stan zdrowia człowieka.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-29",
+    "title": "Pierwsza szczepionka w historii chroniła przed ospą prawdziwą",
+    "content": "W 1796 roku Edward Jenner opracował pierwszą szczepionkę, wykorzystując łagodniejszą krowiankę do wywołania odporności na groźną ospę prawdziwą.",
+    "category": "medicine",
+    "explanation": "Jego odkrycie zapoczątkowało całą dziedzinę wakcynologii, która później doprowadziła do całkowitego wykorzenienia ospy prawdziwej.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-30",
+    "title": "Promienie rentgenowskie pomagają wykrywać złamania bez otwierania ciała",
+    "content": "Promieniowanie rentgenowskie przenika miękkie tkanki, ale jest pochłaniane przez gęstszą tkankę kostną, dzięki czemu na zdjęciu widać wyraźnie kości.",
+    "category": "medicine",
+    "explanation": "To właśnie ta różnica w pochłanianiu promieniowania pozwala lekarzom szybko ocenić, czy doszło do złamania kości.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-31",
+    "title": "Pierwsze okulary korekcyjne stosowano już w średniowieczu",
+    "content": "Pierwsze okulary z wypukłymi soczewkami do czytania pojawiły się we Włoszech pod koniec XIII wieku, długo przed zrozumieniem praw optyki.",
+    "category": "medicine",
+    "explanation": "Ich twórcy działali metodą prób i błędów, zanim nauka wyjaśniła, dlaczego zakrzywione szkło poprawia ostrość widzenia.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "medicine-32",
+    "title": "Regularna aktywność fizyczna zmniejsza ryzyko wielu chorób przewlekłych",
+    "content": "Systematyczny ruch obniża ryzyko chorób serca, cukrzycy typu drugiego oraz niektórych nowotworów, poprawiając też ogólną kondycję organizmu.",
+    "category": "medicine",
+    "explanation": "Efekt ten wynika między innymi z poprawy krążenia, regulacji poziomu cukru we krwi i wzmocnienia układu odpornościowego.",
+    "surpriseLevel": 1,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-33",
+    "title": "Płuca dorosłego człowieka mają ogromną powierzchnię wewnętrzną",
+    "content": "Rozłożone pęcherzyki płucne dorosłego człowieka miałyby łączną powierzchnię porównywalną z powierzchnią kortu tenisowego.",
+    "category": "medicine",
+    "explanation": "Ta ogromna powierzchnia umożliwia bardzo wydajną wymianę tlenu i dwutlenku węgla między powietrzem a krwią.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-34",
+    "title": "Niektóre leki działają inaczej w zależności od pory dnia ich przyjęcia",
+    "content": "Skuteczność i skutki uboczne niektórych leków mogą się różnić w zależności od pory dnia, w jakiej zostały przyjęte, ze względu na rytm dobowy organizmu.",
+    "category": "medicine",
+    "explanation": "Dziedzina badająca ten związek, chronofarmakologia, pomaga ustalać najlepszy moment na przyjmowanie niektórych terapii.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-35",
+    "title": "Krew do transfuzji ma ograniczony czas przechowywania",
+    "content": "Pobrana krew do transfuzji może być przechowywana w odpowiednich warunkach zwykle tylko przez kilka tygodni, zanim traci swoją przydatność.",
+    "category": "medicine",
+    "explanation": "Dlatego banki krwi muszą stale zachęcać do regularnego oddawania krwi, by utrzymać wystarczające zapasy dla pacjentów.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-36",
+    "title": "Ludzki organizm produkuje nowe czerwone krwinki nieustannie",
+    "content": "Szpik kostny wytwarza miliony nowych czerwonych krwinek każdego dnia, zastępując te, które po około czterech miesiącach kończą swój cykl życia.",
+    "category": "medicine",
+    "explanation": "Ten stały proces odnowy zapewnia, że krew zachowuje zdolność efektywnego transportowania tlenu przez całe życie.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "physics-20",
+    "title": "Superciekły hel płynie bez żadnego tarcia",
+    "content": "Schłodzony do temperatury bliskiej zera absolutnego hel przechodzi w stan superciekły, w którym płynie bez żadnego oporu, nawet pod górę ścianek naczynia.",
+    "category": "physics",
+    "explanation": "W tym niezwykłym stanie ciecz może 'wypełzać' z otwartego naczynia, omijając prawa grawitacji dzięki zjawiskom kwantowym.",
+    "surpriseLevel": 5,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-21",
+    "title": "Energia nigdy nie znika, tylko zmienia formę",
+    "content": "Zgodnie z zasadą zachowania energii, energia w zamkniętym układzie nie może zostać stworzona ani zniszczona – może jedynie przechodzić z jednej formy w inną.",
+    "category": "physics",
+    "explanation": "Energia kinetyczna spadającego przedmiotu zamienia się na przykład w ciepło i dźwięk w momencie uderzenia o ziemię.",
+    "surpriseLevel": 1,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-22",
+    "title": "Panele słoneczne działają dzięki zjawisku opisanemu przez Einsteina",
+    "content": "Za wyjaśnienie efektu fotoelektrycznego, na którym opierają się współczesne panele słoneczne, Albert Einstein otrzymał Nagrodę Nobla w 1921 roku.",
+    "category": "physics",
+    "explanation": "Nagrodę przyznano mu właśnie za tę pracę, a nie za bardziej znaną teorię względności, którą wielu ludzi kojarzy z jego nazwiskiem.",
+    "surpriseLevel": 4,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-23",
+    "title": "Prędkość światła jest jednakowa dla każdego obserwatora",
+    "content": "Zgodnie z teorią względności prędkość światła w próżni jest stała i taka sama dla wszystkich obserwatorów, niezależnie od ich własnej prędkości.",
+    "category": "physics",
+    "explanation": "Ta pozornie nieintuicyjna zasada legła u podstaw całej szczególnej teorii względności Alberta Einsteina.",
+    "surpriseLevel": 4,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-24",
+    "title": "Fale mogą uginać się wokół przeszkód",
+    "content": "Zjawisko dyfrakcji sprawia, że fale, w tym fale dźwiękowe i świetlne, potrafią uginać się wokół krawędzi przeszkód zamiast rozchodzić się tylko po linii prostej.",
+    "category": "physics",
+    "explanation": "Dzięki temu zjawisku słyszymy dźwięk zza rogu budynku, mimo że nie widzimy jego źródła.",
+    "surpriseLevel": 2,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-25",
+    "title": "Ciśnienie w głębinach oceanu jest ogromne",
+    "content": "Na dnie Rowu Mariańskiego ciśnienie wody jest ponad tysiąc razy większe niż na powierzchni morza, co odpowiada ciężarowi kilkudziesięciu samolotów na metr kwadratowy.",
+    "category": "physics",
+    "explanation": "Organizmy żyjące na takich głębokościach wykształciły specjalne przystosowania, by przetrwać pod tak ogromnym naciskiem.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "physics-26",
+    "title": "Ciało zanurzone w cieczy wypiera jej objętość równą sobie",
+    "content": "Zgodnie z zasadą sformułowaną przez Archimedesa, ciało zanurzone w cieczy doświadcza siły wyporu równej ciężarowi wypartej przez nie cieczy.",
+    "category": "physics",
+    "explanation": "To właśnie ta zasada tłumaczy, dlaczego ciężkie metalowe statki mogą unosić się na wodzie, mimo że sam metal tonie.",
+    "surpriseLevel": 2,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-27",
+    "title": "Fale sejsmiczne rozchodzą się przez wnętrze Ziemi z różną prędkością",
+    "content": "Trzęsienia ziemi generują fale sejsmiczne, które przemieszczają się przez różne warstwy wnętrza planety z odmienną prędkością i zachowaniem.",
+    "category": "physics",
+    "explanation": "Analiza tych fal pozwoliła naukowcom określić budowę wnętrza Ziemi, mimo że nikt nigdy go bezpośrednio nie zobaczył.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "physics-28",
+    "title": "Most może się zawalić przy odpowiedniej częstotliwości drgań",
+    "content": "Zjawisko rezonansu mechanicznego sprawia, że konstrukcja poddana drganiom o właściwej częstotliwości może zacząć oscylować coraz silniej, aż do zniszczenia.",
+    "category": "physics",
+    "explanation": "Właśnie to zjawisko doprowadziło do słynnej katastrofy mostu Tacoma Narrows w Stanach Zjednoczonych w 1940 roku.",
+    "surpriseLevel": 4,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-29",
+    "title": "Gorące powietrze może tworzyć złudzenie wody na drodze",
+    "content": "Miraże na rozgrzanej drodze powstają, gdy światło załamuje się w warstwach powietrza o różnej temperaturze, tworząc pozorne odbicie nieba przypominające wodę.",
+    "category": "physics",
+    "explanation": "To zjawisko optyczne jest realne fizycznie, choć obraz, który tworzy, nie odpowiada żadnemu rzeczywistemu obiektowi.",
+    "surpriseLevel": 2,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-30",
+    "title": "Szybciej płynący płyn wywiera niższe ciśnienie",
+    "content": "Zgodnie z prawem Bernoulliego, gdy płyn przyspiesza, jego ciśnienie statyczne maleje – zjawisko to pomaga wyjaśnić, jak skrzydło samolotu generuje siłę nośną.",
+    "category": "physics",
+    "explanation": "Różnica prędkości i ciśnienia powietrza nad i pod skrzydłem tworzy siłę unoszącą samolot w powietrzu.",
+    "surpriseLevel": 3,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-31",
+    "title": "Niektóre zwierzęta słyszą dźwięki niedostępne dla ludzkiego ucha",
+    "content": "Ultradźwięki o częstotliwościach zbyt wysokich dla ludzkiego ucha są słyszalne dla wielu zwierząt, na przykład nietoperzy, psów czy delfinów.",
+    "category": "physics",
+    "explanation": "Nietoperze wykorzystują takie dźwięki do echolokacji, czyli wyznaczania położenia obiektów na podstawie odbitej fali dźwiękowej.",
+    "surpriseLevel": 2,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-32",
+    "title": "Wysokie ciepło właściwe wody łagodzi klimat na Ziemi",
+    "content": "Woda potrzebuje wyjątkowo dużo energii, by zmienić swoją temperaturę, dlatego oceany łagodzą wahania klimatu na obszarach położonych blisko wybrzeży.",
+    "category": "physics",
+    "explanation": "Ta właściwość sprawia, że tereny nadmorskie mają zwykle łagodniejsze lato i zimę niż regiony oddalone od dużych zbiorników wodnych.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "physics-33",
+    "title": "Cząstki kwantowe mogą 'przenikać' przez pozornie nieprzekraczalne bariery",
+    "content": "Zjawisko tunelowania kwantowego pozwala cząstkom pokonywać bariery energetyczne, których zgodnie z klasyczną fizyką nie powinny być w stanie przekroczyć.",
+    "category": "physics",
+    "explanation": "Efekt tunelowy ma realne zastosowania, między innymi w działaniu niektórych mikroskopów oraz w reakcjach zachodzących we wnętrzu Słońca.",
+    "surpriseLevel": 5,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-34",
+    "title": "Dźwięk rozchodzi się znacznie szybciej w metalu niż w powietrzu",
+    "content": "Fale dźwiękowe poruszają się w stalowych szynach kilkanaście razy szybciej niż w powietrzu, ponieważ gęściej upakowane atomy metalu lepiej przekazują drgania.",
+    "category": "physics",
+    "explanation": "Dlatego przyłożenie ucha do metalowej szyny pozwalało dawniej usłyszeć nadjeżdżający pociąg na długo, zanim dźwięk dotarł przez powietrze.",
+    "surpriseLevel": 3,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "physics-35",
+    "title": "Przyciąganie Księżyca wywołuje przypływy i odpływy mórz",
+    "content": "Grawitacyjne oddziaływanie Księżyca, wspierane przez Słońce, powoduje cykliczne podnoszenie się i opadanie poziomu wody w oceanach na całej Ziemi.",
+    "category": "physics",
+    "explanation": "Woda po stronie Ziemi bliższej Księżycowi jest przyciągana silniej, co tworzy wybrzuszenie wodne odpowiedzialne za przypływ.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "physics-36",
+    "title": "Kolor przedmiotu zależy od tego, jakie światło odbija, a jakie pochłania",
+    "content": "Przedmiot wydaje się mieć określony kolor, ponieważ pochłania większość długości fal światła białego, odbijając tylko tę jedną, którą widzimy.",
+    "category": "physics",
+    "explanation": "Czarny przedmiot pochłania niemal całe padające na niego światło, dlatego w słoneczny dzień nagrzewa się znacznie szybciej niż jasny.",
+    "surpriseLevel": 2,
+    "source": "American Physical Society",
+    "sourceUrl": "https://www.aps.org"
+  },
+  {
+    "id": "chemistry-20",
+    "title": "Skala pH jest logarytmiczna",
+    "content": "Każda jednostka na skali pH oznacza dziesięciokrotną zmianę stężenia jonów wodorowych, więc różnica między pH 4 a pH 6 to stukrotna zmiana kwasowości.",
+    "category": "chemistry",
+    "explanation": "Dlatego pozornie niewielka różnica wartości pH może oznaczać ogromną różnicę w rzeczywistej kwasowości czy zasadowości roztworu.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-21",
+    "title": "Lód jest lżejszy od wody, w przeciwieństwie do większości substancji",
+    "content": "W odróżnieniu od niemal wszystkich innych substancji, woda w stanie stałym ma mniejszą gęstość niż w stanie ciekłym, dlatego lód pływa po powierzchni wody.",
+    "category": "chemistry",
+    "explanation": "Dzięki tej anomalii zbiorniki wodne zamarzają od góry, a nie od dna, co pozwala organizmom przetrwać zimę pod lodem.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-22",
+    "title": "Reakcje chemiczne mogą wydzielać albo pochłaniać ciepło",
+    "content": "Reakcje egzotermiczne uwalniają energię w postaci ciepła, podczas gdy reakcje endotermiczne pobierają energię z otoczenia, obniżając jego temperaturę.",
+    "category": "chemistry",
+    "explanation": "Zimne okłady chłodzące wykorzystują właśnie reakcję endotermiczną, pochłaniając ciepło z miejsca urazu.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-23",
+    "title": "Katalizatory przyspieszają reakcje, same się przy tym nie zużywając",
+    "content": "Katalizator obniża energię potrzebną do zajścia reakcji chemicznej, przyspieszając ją znacząco, ale sam nie ulega przy tym trwałemu zużyciu.",
+    "category": "chemistry",
+    "explanation": "Katalizatory w samochodowych układach wydechowych przyspieszają w ten sposób rozkład szkodliwych spalin na mniej szkodliwe substancje.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-24",
+    "title": "Rdzewienie metalu zwiększa jego objętość",
+    "content": "Tlenek żelaza, powstający w procesie rdzewienia, zajmuje więcej miejsca niż pierwotny metal, przez co rdza z czasem powoduje pękanie powłok i konstrukcji.",
+    "category": "chemistry",
+    "explanation": "To dodatkowe naprężenie sprawia, że rdza jest szczególnie groźna dla konstrukcji zbrojonych, takich jak mosty czy budynki z betonu.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-25",
+    "title": "Ten sam pierwiastek może występować w różnych odmianach zwanych izotopami",
+    "content": "Izotopy tego samego pierwiastka mają identyczną liczbę protonów, ale różną liczbę neutronów, co wpływa na ich masę i czasem na stabilność.",
+    "category": "chemistry",
+    "explanation": "Niektóre izotopy są stabilne, a inne promieniotwórcze i z czasem rozpadają się, emitując promieniowanie.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-26",
+    "title": "Warstwa ozonu chroni życie na Ziemi przed promieniowaniem UV",
+    "content": "Ozon skoncentrowany w górnych warstwach atmosfery pochłania większość szkodliwego promieniowania ultrafioletowego docierającego ze Słońca.",
+    "category": "chemistry",
+    "explanation": "Bez tej naturalnej warstwy ochronnej promieniowanie UV docierające do powierzchni Ziemi byłoby znacznie bardziej niebezpieczne dla organizmów żywych.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "chemistry-27",
+    "title": "Mydło łączy w sobie cząsteczki lubiące i nielubiące wody",
+    "content": "Cząsteczki mydła mają jeden koniec przyciągany przez wodę, a drugi przez tłuszcz, dzięki czemu potrafią oderwać i zmyć tłuszcz z powierzchni.",
+    "category": "chemistry",
+    "explanation": "Ta budowa, zwana amfipatyczną, pozwala mydłu tworzyć maleńkie kuleczki otaczające brud, które łatwo spłukać wodą.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-28",
+    "title": "Fermentacja stoi za produkcją chleba, wina i piwa",
+    "content": "Drożdże i bakterie przekształcają cukry w alkohol lub dwutlenek węgla w procesie fermentacji, który od tysięcy lat wykorzystuje się do wypieku chleba i produkcji trunków.",
+    "category": "chemistry",
+    "explanation": "To właśnie dwutlenek węgla wytwarzany przez drożdże sprawia, że ciasto na chleb rośnie, tworząc charakterystyczne bąbelki powietrza.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-29",
+    "title": "Grafen to pojedyncza warstwa atomów węgla o niezwykłych właściwościach",
+    "content": "Grafen, złożony z jednej warstwy atomów węgla ułożonych w sześciokątną sieć, jest niezwykle wytrzymały i doskonale przewodzi prąd elektryczny.",
+    "category": "chemistry",
+    "explanation": "Za wyodrębnienie i opisanie grafenu przyznano Nagrodę Nobla w dziedzinie fizyki w 2010 roku.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-30",
+    "title": "Sód i chlor, osobno toksyczne, tworzą razem zwykłą sól kuchenną",
+    "content": "Czysty sód gwałtownie reaguje z wodą, a chlor jest trującym gazem, jednak połączone razem tworzą bezpieczną i niezbędną do życia sól kuchenną.",
+    "category": "chemistry",
+    "explanation": "To klasyczny przykład na to, jak właściwości związku chemicznego mogą całkowicie różnić się od właściwości tworzących go pierwiastków.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-31",
+    "title": "Reakcja termitowa wytwarza ekstremalnie wysoką temperaturę",
+    "content": "Reakcja proszku aluminiowego z tlenkiem żelaza, zwana reakcją termitową, wytwarza temperaturę przekraczającą 2000 stopni Celsjusza i stopione żelazo.",
+    "category": "chemistry",
+    "explanation": "Zjawisko to jest wykorzystywane między innymi do spawania szyn kolejowych bezpośrednio na miejscu ich układania.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-32",
+    "title": "Suchy lód zamienia się od razu w gaz, pomijając stan ciekły",
+    "content": "Zamrożony dwutlenek węgla, znany jako suchy lód, w warunkach normalnego ciśnienia sublimuje – przechodzi bezpośrednio ze stanu stałego w gazowy.",
+    "category": "chemistry",
+    "explanation": "Dlatego suchy lód nie topi się w kałużę wody, tylko po prostu 'znika', otoczony charakterystyczną mgiełką schłodzonego powietrza.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-33",
+    "title": "Barwa płomienia zależy od temperatury i spalanej substancji",
+    "content": "Kolor płomienia zmienia się w zależności od temperatury spalania oraz od tego, jakie pierwiastki są obecne w spalanym materiale.",
+    "category": "chemistry",
+    "explanation": "Najgorętsze części płomienia bywają niebieskie, a chłodniejsze, bogatsze w sadzę obszary – żółte lub pomarańczowe.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-34",
+    "title": "Kwas cytrynowy odpowiada za kwaśny smak owoców cytrusowych",
+    "content": "To właśnie kwas cytrynowy, obecny w cytrynach, pomarańczach i limonkach, odpowiada za charakterystyczny, kwaśny smak tych owoców.",
+    "category": "chemistry",
+    "explanation": "Związek ten jest też szeroko wykorzystywany w przemyśle spożywczym jako naturalny konserwant i regulator kwasowości.",
+    "surpriseLevel": 1,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-35",
+    "title": "Elektroliza rozkłada wodę na wodór i tlen",
+    "content": "Przepuszczenie prądu elektrycznego przez wodę powoduje jej rozkład na czysty wodór i tlen, które zbierają się osobno przy dwóch elektrodach.",
+    "category": "chemistry",
+    "explanation": "Metoda ta jest dziś badana jako sposób produkcji czystego wodoru wykorzystywanego jako alternatywne źródło energii.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-36",
+    "title": "Cez reaguje z wodą jeszcze gwałtowniej niż sód",
+    "content": "Metal cez, znajdujący się niżej w tej samej grupie układu okresowego co sód, wybucha przy kontakcie z wodą znacznie gwałtowniej niż sód czy potas.",
+    "category": "chemistry",
+    "explanation": "Im niżej w grupie metali alkalicznych, tym silniejsza i bardziej gwałtowna jest reakcja tych pierwiastków z wodą.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "mathematics-20",
+    "title": "Liczba e pojawia się w naturalnym wzroście i procencie składanym",
+    "content": "Stała matematyczna e, w przybliżeniu równa 2,718, opisuje procesy ciągłego wzrostu, takie jak naliczanie odsetek składanych czy rozmnażanie populacji.",
+    "category": "mathematics",
+    "explanation": "Podobnie jak liczba pi, e jest liczbą niewymierną i pojawia się w wielu, na pozór niepowiązanych ze sobą dziedzinach matematyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-21",
+    "title": "Liczby zespolone mają realne zastosowania inżynieryjne",
+    "content": "Liczby zespolone, zawierające tak zwaną jednostkę urojoną, są niezbędne w inżynierii elektrycznej, akustyce oraz w opisie fal i drgań.",
+    "category": "mathematics",
+    "explanation": "Mimo nazwy sugerującej coś nierealnego, liczby te pozwalają rozwiązywać praktyczne problemy techniczne, których nie da się opisać liczbami rzeczywistymi.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-22",
+    "title": "Każdą płaską mapę można pokolorować, używając tylko czterech kolorów",
+    "content": "Twierdzenie o czterech barwach mówi, że każdą mapę podzieloną na obszary można pokolorować przy użyciu jedynie czterech kolorów, tak by sąsiadujące obszary się różniły.",
+    "category": "mathematics",
+    "explanation": "Twierdzenie to udowodniono dopiero w latach 70. XX wieku, korzystając po raz pierwszy w historii matematyki z pomocy komputera.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-23",
+    "title": "Zmiana decyzji w słynnym paradoksie zwiększa szansę na wygraną",
+    "content": "W paradoksie Monty Halla, dotyczącym wyboru jednych z trzech drzwi, zmiana pierwotnej decyzji po odsłonięciu jednych pustych drzwi statystycznie podwaja szansę wygranej.",
+    "category": "mathematics",
+    "explanation": "Wynik ten jest tak sprzeczny z intuicją, że nawet część zawodowych matematyków początkowo kwestionowała jego poprawność.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-24",
+    "title": "Wielkie Twierdzenie Fermata czekało na dowód ponad 350 lat",
+    "content": "Twierdzenie sformułowane przez Pierre'a de Fermata w XVII wieku doczekało się pełnego matematycznego dowodu dopiero w 1994 roku.",
+    "category": "mathematics",
+    "explanation": "Dowód, opracowany przez Andrew Wilesa, wymagał zaawansowanych narzędzi matematycznych, które nie istniały jeszcze za czasów samego Fermata.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-25",
+    "title": "Prawdopodobieństwo zbieżnych urodzin w małej grupie jest zaskakująco wysokie",
+    "content": "W grupie zaledwie 23 losowo dobranych osób prawdopodobieństwo, że przynajmniej dwie z nich mają urodziny tego samego dnia, przekracza 50 procent.",
+    "category": "mathematics",
+    "explanation": "Ten tak zwany paradoks urodzinowy wynika z liczby możliwych par osób w grupie, która rośnie znacznie szybciej niż sama liczba osób.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-26",
+    "title": "Sieci neuronowe uczą się dzięki matematycznej metodzie propagacji wstecznej",
+    "content": "Sztuczne sieci neuronowe dostosowują swoje wewnętrzne parametry dzięki algorytmowi zwanemu propagacją wsteczną błędu, opartemu na rachunku różniczkowym.",
+    "category": "mathematics",
+    "explanation": "Ta matematyczna metoda pozwala systemowi stopniowo poprawiać swoje przewidywania na podstawie porównania z oczekiwanym wynikiem.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-27",
+    "title": "Teoria grafów pomaga optymalizować trasy i sieci komunikacyjne",
+    "content": "Matematyczna teoria grafów, opisująca punkty i połączenia między nimi, jest wykorzystywana do wyznaczania najkrótszych tras oraz projektowania sieci internetowych.",
+    "category": "mathematics",
+    "explanation": "Nawigacje samochodowe czy systemy dostaw paczek korzystają z algorytmów opartych właśnie na teorii grafów.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-28",
+    "title": "Liczby pierwsze bliźniacze różnią się zawsze dokładnie o dwa",
+    "content": "Liczby pierwsze bliźniacze to pary liczb pierwszych różniących się o dwa, jak 11 i 13, a matematycy wciąż nie wiedzą, czy takich par jest nieskończenie wiele.",
+    "category": "mathematics",
+    "explanation": "To jeden z najsłynniejszych nierozwiązanych problemów matematyki, znany jako hipoteza liczb bliźniaczych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-29",
+    "title": "Prawo wielkich liczb wyjaśnia, dlaczego kasyna długoterminowo zarabiają",
+    "content": "Prawo wielkich liczb mówi, że przy dużej liczbie powtórzeń wynik gry hazardowej zbliża się do przewidywanej statystycznie wartości, korzystnej dla organizatora.",
+    "category": "mathematics",
+    "explanation": "Choć pojedynczy gracz może wygrać, w długim okresie i przy wielu grających przewaga matematyczna zawsze działa na korzyść kasyna.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-30",
+    "title": "Topologia bada kształty, które można rozciągać bez rozrywania",
+    "content": "Topologia to dział matematyki opisujący właściwości figur, które nie zmieniają się przy rozciąganiu czy zginaniu, o ile nie dochodzi do rozerwania powierzchni.",
+    "category": "mathematics",
+    "explanation": "Z tego punktu widzenia kubek z uchem i obwarzanek są 'takie same', ponieważ jeden można teoretycznie deformować w drugi bez rozrywania.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-31",
+    "title": "Bezpieczeństwo wielu systemów szyfrowania opiera się na trudnym zadaniu matematycznym",
+    "content": "Wiele nowoczesnych metod szyfrowania opiera się na tym, że rozłożenie bardzo dużej liczby na czynniki pierwsze jest dla komputerów niezwykle czasochłonne.",
+    "category": "mathematics",
+    "explanation": "Dopóki nie istnieje szybki sposób na takie rozłożenie ogromnych liczb, dane zaszyfrowane tą metodą pozostają praktycznie bezpieczne.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-32",
+    "title": "Niektóre liczby są tak ogromne, że nie da się ich zapisać w znanym Wszechświecie",
+    "content": "Tak zwana liczba Grahama, używana w pewnym dowodzie matematycznym, jest tak niewyobrażalnie wielka, że jej pełny zapis nie zmieściłby się nawet w całym obserwowalnym Wszechświecie.",
+    "category": "mathematics",
+    "explanation": "Do opisu takich liczb matematycy stosują specjalną notację, ponieważ zwykłe potęgowanie nie wystarcza, by je wyrazić.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-33",
+    "title": "Proste reguły matematyczne mogą tworzyć niezwykle złożone wzorce",
+    "content": "Gra w życie, opracowana przez matematyka Johna Conwaya, pokazuje, jak z zaledwie kilku prostych reguł mogą wyłaniać się bardzo złożone, przypominające żywe wzory.",
+    "category": "mathematics",
+    "explanation": "Ta symulacja, oparta na siatce komórek 'żywych' i 'martwych', jest dziś klasycznym przykładem w badaniach nad automatami komórkowymi.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-34",
+    "title": "Największe znane liczby pierwsze mają miliony cyfr",
+    "content": "Poszukiwaniem coraz większych liczb pierwszych, szczególnie w postaci tak zwanych liczb Mersenne'a, zajmuje się rozproszona globalna sieć ochotniczych komputerów.",
+    "category": "mathematics",
+    "explanation": "Znalezienie nowej, rekordowo dużej liczby pierwszej wymaga ogromnej mocy obliczeniowej i bywa udziałem zwykłych entuzjastów matematyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-35",
+    "title": "Geometria hiperboliczna łamie klasyczne zasady geometrii Euklidesa",
+    "content": "W geometrii hiperbolicznej przez punkt poza daną prostą można poprowadzić nieskończenie wiele prostych równoległych, w przeciwieństwie do klasycznej geometrii.",
+    "category": "mathematics",
+    "explanation": "Tego typu geometrie nieeuklidesowe znalazły później zastosowanie między innymi w ogólnej teorii względności Einsteina.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-36",
+    "title": "Algorytmy kompresji wykorzystują matematyczne wzorce w danych",
+    "content": "Metody kompresji plików wykorzystują matematyczne prawidłowości i powtórzenia w danych, by zapisać tę samą informację przy użyciu mniejszej liczby bitów.",
+    "category": "mathematics",
+    "explanation": "Im więcej powtarzających się wzorców zawiera plik, tym skuteczniej można go skompresować bez utraty zawartych w nim informacji.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "geography-20",
+    "title": "Nil i Amazonka rywalizują o miano najdłuższej rzeki świata",
+    "content": "W zależności od przyjętej metody pomiaru źródeł i ujścia, to Nil lub Amazonka bywają uznawane za najdłuższą rzekę świata – spór trwa wśród geografów do dziś.",
+    "category": "geography",
+    "explanation": "Trudność pomiaru wynika z licznych dopływów i delt, przez co dokładne wyznaczenie początku i końca rzeki nie zawsze jest jednoznaczne.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-21",
+    "title": "Jezioro Bajkał zawiera ogromną część światowych zasobów słodkiej wody",
+    "content": "Bajkał na Syberii jest najgłębszym jeziorem świata i magazynuje sam w sobie około jednej piątej wszystkich powierzchniowych zasobów słodkiej wody na Ziemi.",
+    "category": "geography",
+    "explanation": "Jego niezwykła głębokość, sięgająca ponad 1600 metrów, sprawia, że mieści więcej wody niż wszystkie Wielkie Jeziora Ameryki Północnej razem wzięte.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-22",
+    "title": "Bhutan mierzy szczęście narodowe obok wskaźników gospodarczych",
+    "content": "Himalajskie królestwo Bhutanu od lat 70. XX wieku oficjalnie posługuje się wskaźnikiem 'szczęścia narodowego brutto' jako uzupełnieniem tradycyjnych miar rozwoju.",
+    "category": "geography",
+    "explanation": "Wskaźnik ten uwzględnia między innymi dobrostan psychiczny mieszkańców, ochronę środowiska i zachowanie tradycji kulturowej.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-23",
+    "title": "Singapur jest jednocześnie miastem i całym państwem",
+    "content": "Singapur to jeden z niewielu przykładów miasta-państwa na świecie – jego granice administracyjne pokrywają się z granicami całego suwerennego kraju.",
+    "category": "geography",
+    "explanation": "Mimo niewielkiej powierzchni Singapur jest jednym z najgęściej zaludnionych i najbardziej rozwiniętych gospodarczo krajów świata.",
+    "surpriseLevel": 2,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-24",
+    "title": "Himalaje wciąż rosną z powodu ruchu płyt kontynentalnych",
+    "content": "Zderzenie płyty indyjskiej z płytą euroazjatycką sprawia, że Himalaje nieustannie się podnoszą, choć erozja częściowo równoważy ten wzrost.",
+    "category": "geography",
+    "explanation": "Naukowcy szacują, że niektóre szczyty Himalajów rosną o kilka milimetrów rocznie w wyniku tego wciąż trwającego procesu geologicznego.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-25",
+    "title": "Morze Kaspijskie to największy na świecie zbiornik słonej wody bez ujścia do oceanu",
+    "content": "Morze Kaspijskie, mimo swojej nazwy, jest w rzeczywistości największym na świecie jeziorem, całkowicie odciętym od otwartych oceanów.",
+    "category": "geography",
+    "explanation": "Graniczy z pięcioma krajami, a jego woda jest słona, choć znacznie mniej niż woda w prawdziwych oceanach.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-26",
+    "title": "Mongolia ma jedną z najniższych gęstości zaludnienia na świecie",
+    "content": "Mimo sporej powierzchni Mongolia jest zamieszkana przez zaledwie kilka osób na kilometr kwadratowy, co czyni ją jednym z najrzadziej zaludnionych krajów świata.",
+    "category": "geography",
+    "explanation": "Duża część mieszkańców wciąż prowadzi tradycyjny, koczowniczy tryb życia związany z hodowlą zwierząt na rozległych stepach.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-27",
+    "title": "Australia jest zarówno kontynentem, jak i pojedynczym państwem",
+    "content": "Australia to jedyny przypadek na świecie, w którym granice całego kontynentu pokrywają się dokładnie z granicami jednego, suwerennego państwa.",
+    "category": "geography",
+    "explanation": "Wszystkie pozostałe kontynenty są podzielone na wiele odrębnych krajów o różnych granicach i systemach politycznych.",
+    "surpriseLevel": 2,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-28",
+    "title": "Biegun północny nie ma pod sobą stałego lądu",
+    "content": "W odróżnieniu od bieguna południowego, leżącego na kontynencie Antarktydy, biegun północny znajduje się na dryfującym lodzie morskim, pod którym jest głęboki ocean.",
+    "category": "geography",
+    "explanation": "Dlatego na biegunie północnym nie da się wznieść trwałej stacji badawczej – lód morski nieustannie się przemieszcza.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-29",
+    "title": "Rzeka Missisipi wielokrotnie zmieniała swój bieg w historii",
+    "content": "Rzeka Missisipi w Stanach Zjednoczonych na przestrzeni tysięcy lat wielokrotnie zmieniała swoje koryto, tworząc rozległą, wciąż zmieniającą się deltę.",
+    "category": "geography",
+    "explanation": "Inżynierowie od dawna próbują kontrolować bieg rzeki za pomocą wałów i tam, by chronić miasta i porty leżące na jej brzegach.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-30",
+    "title": "Malediwy są jednym z krajów najbardziej zagrożonych podnoszeniem się mórz",
+    "content": "Malediwy, złożone z niskich wysp koralowych, mają najniższą średnią wysokość nad poziomem morza spośród wszystkich krajów świata.",
+    "category": "geography",
+    "explanation": "Nawet niewielki wzrost poziomu oceanów może w przyszłości zagrozić dużej części terytorium tego archipelagu.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-31",
+    "title": "Boliwia i Paragwaj to jedyne kraje Ameryki Południowej bez dostępu do morza",
+    "content": "Spośród wszystkich państw Ameryki Południowej tylko Boliwia i Paragwaj nie mają bezpośredniego dostępu do wybrzeża morskiego.",
+    "category": "geography",
+    "explanation": "Boliwia utraciła swój dostęp do Oceanu Spokojnego w XIX-wiecznej wojnie z Chile, co do dziś pozostaje przedmiotem sporów dyplomatycznych.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-32",
+    "title": "Wyspa Wielkanocna jest jednym z najbardziej odizolowanych zamieszkanych miejsc świata",
+    "content": "Wyspa Wielkanocna na Oceanie Spokojnym leży w ogromnej odległości od najbliższego zamieszkanego lądu, co czyni ją jednym z najbardziej odosobnionych miejsc na Ziemi.",
+    "category": "geography",
+    "explanation": "Mimo tej izolacji dawni mieszkańcy wyspy wznieśli setki monumentalnych posągów moai, które do dziś budzą zainteresowanie badaczy.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-33",
+    "title": "Kanał Sueski i Kanał Panamski skracają morskie trasy handlowe o tysiące kilometrów",
+    "content": "Kanał Sueski i Kanał Panamski pozwalają statkom omijać opłynięcie całych kontynentów, skracając niektóre trasy handlowe nawet o kilka tysięcy kilometrów.",
+    "category": "geography",
+    "explanation": "Oba kanały należą do najważniejszych szlaków handlowych świata i mają ogromny wpływ na globalny transport towarów.",
+    "surpriseLevel": 2,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-34",
+    "title": "Etiopia jako jeden z niewielu krajów Afryki nigdy nie była kolonią europejską",
+    "content": "Etiopia jest jednym z nielicznych krajów afrykańskich, które nigdy nie zostały formalnie skolonizowane przez europejskie mocarstwa w epoce kolonializmu.",
+    "category": "geography",
+    "explanation": "Kraj ten skutecznie obronił swoją niepodległość militarnie pod koniec XIX wieku, co dziś jest źródłem dumy narodowej.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-35",
+    "title": "Niektóre rzeki na świecie płyną wzdłuż granic aż kilku państw",
+    "content": "Rzeka Dunaj przepływa lub graniczy z terytorium więcej niż dziesięciu krajów Europy, co czyni ją jedną z najbardziej międzynarodowych rzek na świecie.",
+    "category": "geography",
+    "explanation": "Taka liczba granic wymaga ścisłej międzynarodowej współpracy w zarządzaniu żeglugą, jakością wody i ochroną środowiska rzeki.",
+    "surpriseLevel": 2,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-36",
+    "title": "Death Valley w Kalifornii to jedno z najgorętszych miejsc na Ziemi",
+    "content": "Dolina Śmierci w Kalifornii odnotowała jedne z najwyższych temperatur powietrza kiedykolwiek zmierzonych na powierzchni Ziemi, przekraczające 56 stopni Celsjusza.",
+    "category": "geography",
+    "explanation": "Niezwykły upał wynika z położenia doliny poniżej poziomu morza oraz otaczających ją gór, które zatrzymują gorące powietrze.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  }
+]

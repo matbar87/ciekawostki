@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "plants-20",
+    "title": "Rafflesia produkuje największy pojedynczy kwiat na świecie",
+    "content": "Kwiat rośliny Rafflesia, rosnącej w lasach Azji Południowo-Wschodniej, może osiągać ponad metr średnicy i jest największym pojedynczym kwiatem świata.",
+    "category": "plants",
+    "explanation": "Roślina ta wydziela zapach przypominający padlinę, by przyciągnąć muchy pełniące rolę zapylaczy zamiast pszczół czy motyli.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-21",
+    "title": "Baobaby potrafią magazynować tysiące litrów wody w swoim pniu",
+    "content": "Charakterystyczne, grube pnie baobabów działają jak naturalne zbiorniki, magazynując tysiące litrów wody, którą drzewo wykorzystuje w porach suszy.",
+    "category": "plants",
+    "explanation": "Dzięki tej zdolności baobaby mogą przetrwać długie okresy bez opadów, znacznie dłużej niż większość innych drzew rosnących na sawannie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-22",
+    "title": "Rośliny sukulenty magazynują wodę bezpośrednio w liściach",
+    "content": "Sukulenty, takie jak aloes czy niektóre gatunki kaktusów, mają grube, mięsiste liście przystosowane do gromadzenia i przechowywania wody na czas suszy.",
+    "category": "plants",
+    "explanation": "Ta adaptacja pozwala im przetrwać w bardzo suchych środowiskach, gdzie inne rośliny bez takich zapasów szybko by uschły.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-23",
+    "title": "Niektóre rośliny wydajniej radzą sobie z upałem dzięki fotosyntezie typu C4",
+    "content": "Rośliny wykorzystujące tak zwaną fotosyntezę typu C4, jak kukurydza czy trzcina cukrowa, potrafią efektywniej wykorzystywać wodę i światło w gorącym klimacie.",
+    "category": "plants",
+    "explanation": "Ten zmodyfikowany mechanizm fotosyntezy ogranicza straty wody przez liście, co daje tym roślinom przewagę w upalnych i suchych regionach świata.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-24",
+    "title": "Mimoza wstydliwa chowa liście natychmiast po dotknięciu",
+    "content": "Roślina zwana mimozą wstydliwą składa swoje listki niemal natychmiast po najmniejszym dotknięciu, jakby reagowała na potencjalne zagrożenie.",
+    "category": "plants",
+    "explanation": "Ten szybki ruch wywołany jest nagłą zmianą ciśnienia wody w komórkach u nasady listków, a nie prawdziwym układem nerwowym, którego rośliny nie posiadają.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-25",
+    "title": "Sekwoje przybrzeżne czerpią część wody bezpośrednio z mgły",
+    "content": "Sekwoje przybrzeżne rosnące wzdłuż wybrzeża Kalifornii potrafią pochłaniać wilgoć bezpośrednio z gęstej mgły za pomocą swoich igieł, nie tylko przez korzenie.",
+    "category": "plants",
+    "explanation": "Ta dodatkowa zdolność jest szczególnie ważna latem, gdy opady deszczu w tym regionie są rzadkie, a mgła znad oceanu pozostaje głównym źródłem wilgoci.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-26",
+    "title": "Rośliny strączkowe wzbogacają glebę w azot dzięki współpracy z bakteriami",
+    "content": "Korzenie roślin strączkowych, takich jak groch czy soja, żyją w symbiozie z bakteriami zdolnymi pobierać azot z powietrza i wzbogacać nim glebę.",
+    "category": "plants",
+    "explanation": "Dlatego rolnicy od wieków sadzą rośliny strączkowe naprzemiennie z innymi uprawami, by naturalnie użyźniać pola bez sztucznych nawozów.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-27",
+    "title": "Niektóre rośliny pustynne kiełkują wyłącznie po rzadkich opadach deszczu",
+    "content": "Nasiona niektórych roślin pustynnych mogą leżeć w suchej ziemi przez lata, kiełkując dopiero wtedy, gdy pojawi się wystarczająco obfity, rzadki deszcz.",
+    "category": "plants",
+    "explanation": "Dzięki temu pustynia po rzadkim deszczu potrafi na krótko zamienić się w kolorowe pole kwiatów, zanim znów zapadnie długi okres suszy.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-28",
+    "title": "Pnącza wspinają się dzięki różnym mechanizmom przyczepnym",
+    "content": "Rośliny pnące, takie jak bluszcz czy winorośl, wykorzystują różne metody wspinaczki – od cienkich wąsów czepnych po drobne korzenie przyczepne wrastające w podłoże.",
+    "category": "plants",
+    "explanation": "Dzięki takim przystosowaniom pnącza mogą osiągać duże wysokości, nie potrzebując przy tym grubego, samodzielnie stabilnego pnia jak drzewa.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-29",
+    "title": "Rośliny epifityczne rosną na innych roślinach, nie pasożytując na nich",
+    "content": "Epifity, takie jak wiele gatunków storczyków, rosną na gałęziach innych roślin wyłącznie jako miejscu oparcia, pobierając wodę i składniki odżywcze z powietrza i deszczu.",
+    "category": "plants",
+    "explanation": "W odróżnieniu od pasożytów epifity nie czerpią żadnych substancji odżywczych bezpośrednio z rośliny, na której rosną.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-30",
+    "title": "Palma daktylowa jest uprawiana przez człowieka od tysięcy lat",
+    "content": "Palma daktylowa była uprawiana przez ludzi na Bliskim Wschodzie już kilka tysięcy lat temu i do dziś pozostaje ważnym źródłem pożywienia w suchych regionach świata.",
+    "category": "plants",
+    "explanation": "Roślina ta jest wyjątkowo odporna na suszę i wysokie temperatury, co czyni ją cennym źródłem pożywienia na obszarach pustynnych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-31",
+    "title": "Niektóre nasiona mają twardą, ognioodporną łupinę kiełkującą po pożarze",
+    "content": "Nasiona niektórych roślin, zwłaszcza w australijskich lasach eukaliptusowych, otwierają się i kiełkują dopiero po intensywnym cieple wywołanym przez pożar lasu.",
+    "category": "plants",
+    "explanation": "Ta adaptacja pozwala nowym pokoleniom roślin skorzystać z użyźnionej popiołem gleby, tuż po tym, jak konkurencja innych roślin została zniszczona przez ogień.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-32",
+    "title": "Glony morskie produkują znaczną część tlenu w atmosferze Ziemi",
+    "content": "Mikroskopijne glony morskie, zwane fitoplanktonem, odpowiadają za wytwarzanie znacznej części tlenu obecnego w ziemskiej atmosferze.",
+    "category": "plants",
+    "explanation": "Choć rzadko o nich myślimy, te mikroskopijne organizmy odgrywają porównywalną rolę w produkcji tlenu co wielkie lasy lądowe.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "plants-33",
+    "title": "Korzenie roślin zmieniają kierunek wzrostu w odpowiedzi na grawitację",
+    "content": "Korzenie roślin rosną zawsze w dół, w stronę działania siły grawitacji, dzięki zjawisku zwanemu geotropizmem dodatnim, wykrywanemu przez specjalne komórki korzenia.",
+    "category": "plants",
+    "explanation": "Nawet jeśli nasiono zostanie posadzone w nietypowej pozycji, korzeń i tak skoryguje kierunek swojego wzrostu, kierując się w dół.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-34",
+    "title": "Bambus jest botanicznie trawą, a nie drzewem",
+    "content": "Mimo że bambus może osiągać wysokość kilkunastu metrów i przypomina wyglądem drzewo, botanicznie jest zaliczany do traw, podobnie jak zwykła trawa na trawniku.",
+    "category": "plants",
+    "explanation": "Ta klasyfikacja wynika z budowy jego łodygi i sposobu wzrostu, typowego właśnie dla traw, a nie dla roślin drzewiastych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-35",
+    "title": "Niektóre pnącza owijają się wokół podpory zawsze w tym samym kierunku",
+    "content": "Poszczególne gatunki pnączy owijają się wokół podpory zawsze w tym samym, charakterystycznym dla danego gatunku kierunku, zgodnie lub przeciwnie do ruchu wskazówek zegara.",
+    "category": "plants",
+    "explanation": "Ten kierunek jest zdeterminowany genetycznie i pozostaje niezmienny niezależnie od tego, na jakiej podporze dana roślina rośnie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-36",
+    "title": "Muchołówka zamyka swoją pułapkę w ułamku sekundy",
+    "content": "Muchołówka amerykańska zatrzaskuje swoje liście-pułapki w ułamku sekundy, gdy owad dwukrotnie dotknie znajdujących się w nich czułych włosków wyzwalających.",
+    "category": "plants",
+    "explanation": "Konieczność podwójnego dotknięcia zapobiega marnowaniu energii na zamykanie pułapki, gdy w środku znajdzie się przypadkowa kropla deszczu, a nie prawdziwa zdobycz.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-20",
+    "title": "Więcej ludzi na świecie ma dziś dostęp do telefonu komórkowego niż do bezpiecznej toalety",
+    "content": "Według danych organizacji międzynarodowych więcej osób na świecie korzysta z telefonu komórkowego niż ma dostęp do bezpiecznej, higienicznej toalety.",
+    "category": "society",
+    "explanation": "Ta dysproporcja pokazuje, jak nierówno rozłożony bywa dostęp do różnych rodzajów infrastruktury we współczesnym świecie.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-21",
+    "title": "Publiczne biblioteki jako instytucja mają setki lat historii",
+    "content": "Idea bibliotek dostępnych publicznie, a nie tylko dla wąskiej grupy uczonych czy duchownych, rozwijała się stopniowo na przestrzeni ostatnich kilkuset lat.",
+    "category": "society",
+    "explanation": "Wcześniejsze biblioteki, takie jak ta w starożytnej Aleksandrii, służyły głównie uczonym, podczas gdy nowoczesne biblioteki publiczne miały umożliwić dostęp do wiedzy każdemu obywatelowi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-22",
+    "title": "Pierwszy system ubezpieczeń społecznych wprowadzono w Niemczech pod koniec XIX wieku",
+    "content": "Nowoczesny system obowiązkowych ubezpieczeń społecznych, obejmujący między innymi ubezpieczenie chorobowe i emerytalne, wprowadzono najpierw w Niemczech w latach 80. XIX wieku.",
+    "category": "society",
+    "explanation": "Rozwiązania te stały się wzorem dla podobnych systemów wprowadzanych później w wielu innych krajach na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-23",
+    "title": "Handel niewolnikami był prawnie znoszony w różnych krajach w bardzo różnym czasie",
+    "content": "Formalne zniesienie niewolnictwa następowało w poszczególnych krajach na przestrzeni wielu dekad, od początku do końca XIX wieku, a w niektórych miejscach jeszcze później.",
+    "category": "society",
+    "explanation": "Ta rozciągnięta w czasie zmiana pokazuje, że proces społecznego i prawnego uznania praw człowieka postępował nierównomiernie na różnych kontynentach.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-24",
+    "title": "Wciąż nie cała ludzkość ma dostęp do czystej wody pitnej",
+    "content": "Mimo postępu technologicznego wciąż znacząca część światowej populacji nie ma stałego dostępu do bezpiecznej, czystej wody pitnej blisko swojego miejsca zamieszkania.",
+    "category": "society",
+    "explanation": "Brak takiego dostępu jest jedną z głównych przyczyn chorób przenoszonych przez wodę w wielu regionach świata.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-25",
+    "title": "Liczba osób mieszkających samotnie znacząco wzrosła w ostatnich dekadach",
+    "content": "W wielu krajach rozwiniętych odsetek osób mieszkających samodzielnie w jednym gospodarstwie domowym wzrósł znacząco w ciągu ostatnich kilkudziesięciu lat.",
+    "category": "society",
+    "explanation": "Zjawisko to wiąże się między innymi z późniejszym zakładaniem rodzin, wzrostem zamożności społeczeństw oraz zmianami kulturowymi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-26",
+    "title": "Praca dzieci była powszechna w wielu krajach jeszcze na początku XX wieku",
+    "content": "Na początku XX wieku dzieci w wielu krajach przemysłowych regularnie pracowały w fabrykach i kopalniach, często w bardzo trudnych i niebezpiecznych warunkach.",
+    "category": "society",
+    "explanation": "Dopiero stopniowe wprowadzanie prawa pracy i obowiązku szkolnego w kolejnych dekadach ograniczyło skalę tego zjawiska w krajach rozwiniętych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-27",
+    "title": "Niektóre tradycyjne społeczności liczyły czas według faz Księżyca",
+    "content": "Wiele dawnych kultur na całym świecie opierało swój kalendarz na cyklach Księżyca, zamiast na obiegu Ziemi wokół Słońca, jak w powszechnie dziś stosowanym kalendarzu.",
+    "category": "society",
+    "explanation": "Kalendarze księżycowe wciąż są używane w niektórych tradycjach religijnych i kulturowych do wyznaczania dat świąt.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-28",
+    "title": "Ruch praw obywatelskich doprowadził do zniesienia segregacji rasowej w wielu krajach",
+    "content": "Wielkie ruchy społeczne XX wieku doprowadziły do zniesienia prawnej segregacji rasowej w wielu krajach, choć proces ten trwał dekady i napotykał silny opór.",
+    "category": "society",
+    "explanation": "Zmiany te obejmowały zniesienie oddzielnych szkół, środków transportu czy miejsc publicznych dla różnych grup rasowych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-29",
+    "title": "Systemy opieki zdrowotnej finansowane publicznie znacząco różnią się między krajami",
+    "content": "Kraje na całym świecie w bardzo różny sposób finansują opiekę zdrowotną – od w pełni publicznych systemów po modele oparte głównie na prywatnych ubezpieczeniach.",
+    "category": "society",
+    "explanation": "Te różnice w modelach finansowania wpływają znacząco na dostępność i koszty leczenia odczuwane bezpośrednio przez obywateli poszczególnych krajów.",
+    "surpriseLevel": 1,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-30",
+    "title": "Tempo urbanizacji na świecie gwałtownie przyspieszyło w XX wieku",
+    "content": "Odsetek ludzi mieszkających w miastach wzrósł na całym świecie znacznie szybciej w ciągu XX wieku niż w jakimkolwiek wcześniejszym okresie historii ludzkości.",
+    "category": "society",
+    "explanation": "Ten proces napędzały rozwój przemysłu oraz poszukiwanie pracy, które przyciągały coraz więcej mieszkańców wsi do rozrastających się ośrodków miejskich.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-31",
+    "title": "Powszechne prawo wyborcze dla wszystkich dorosłych obywateli jest stosunkowo młodym zjawiskiem",
+    "content": "Prawo do głosowania obejmujące wszystkich dorosłych obywateli, niezależnie od płci, majątku czy pochodzenia, wprowadzano w wielu krajach dopiero w ciągu ostatniego stulecia.",
+    "category": "society",
+    "explanation": "Wcześniej prawo głosu było często ograniczone do mężczyzn posiadających majątek lub spełniających inne dodatkowe warunki.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-32",
+    "title": "Wielopokoleniowe gospodarstwa domowe były historycznie normą w wielu kulturach",
+    "content": "Przez większość historii ludzkości typowym modelem rodziny było wspólne mieszkanie kilku pokoleń pod jednym dachem, a nie osobne gospodarstwa dla każdej rodziny nuklearnej.",
+    "category": "society",
+    "explanation": "Model rodziny nuklearnej, mieszkającej osobno od dziadków i dalszych krewnych, stał się dominujący w wielu krajach dopiero w ostatnich dekadach.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-33",
+    "title": "Instytucja małżeństwa przybierała bardzo różne formy w historii",
+    "content": "Zasady i forma zawierania małżeństwa znacznie różniły się w zależności od epoki i kultury, obejmując zarówno różne rytuały, jak i odmienne oczekiwania społeczne wobec małżonków.",
+    "category": "society",
+    "explanation": "Współczesne rozumienie małżeństwa, oparte głównie na osobistym wyborze partnerów, jest w wielu miejscach świata stosunkowo nowym zjawiskiem kulturowym.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-34",
+    "title": "Umieralność niemowląt była znacznie wyższa jeszcze sto lat temu",
+    "content": "Jeszcze na początku XX wieku znaczący odsetek dzieci na całym świecie nie dożywał piątego roku życia, głównie z powodu chorób zakaźnych i niedożywienia.",
+    "category": "society",
+    "explanation": "Postęp w medycynie, szczepieniach i higienie w ciągu ostatniego stulecia doprowadził do drastycznego spadku umieralności niemowląt na całym świecie.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-35",
+    "title": "Populacja miast na świecie przewyższyła dziś populację terenów wiejskich",
+    "content": "Od kilku lat na świecie więcej ludzi mieszka w miastach niż na terenach wiejskich, co jest historycznym przełomem w sposobie życia większości ludzkości.",
+    "category": "society",
+    "explanation": "Ta zmiana ma daleko idące konsekwencje dla planowania infrastruktury, transportu i zaopatrzenia w żywność dla rosnących metropolii.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-36",
+    "title": "Systemy emerytalne w różnych krajach finansowane są na bardzo różne sposoby",
+    "content": "Niektóre kraje finansują emerytury bieżącymi składkami pracujących obywateli, podczas gdy inne opierają się głównie na indywidualnych, wcześniej zgromadzonych oszczędnościach.",
+    "category": "society",
+    "explanation": "Wybór modelu finansowania emerytur ma istotny wpływ na stabilność systemu w obliczu starzejącego się społeczeństwa.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-20",
+    "title": "Pierwsze towarzystwa akcyjne powstały w XVII-wiecznej Holandii",
+    "content": "Holenderska Kompania Wschodnioindyjska, założona na początku XVII wieku, jest uznawana za pierwszą na świecie spółkę akcyjną notowaną publicznie na giełdzie.",
+    "category": "economy",
+    "explanation": "Model ten pozwolił zwykłym inwestorom kupować udziały w ryzykownych, dalekomorskich wyprawach handlowych, dzieląc się zarówno zyskami, jak i stratami.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-21",
+    "title": "Bańka tulipanowa w XVII-wiecznej Holandii to jeden z pierwszych udokumentowanych kryzysów spekulacyjnych",
+    "content": "W XVII-wiecznej Holandii ceny cebulek tulipanów wzrosły do absurdalnie wysokich poziomów, zanim rynek gwałtownie się załamał, tworząc jeden z pierwszych opisanych kryzysów spekulacyjnych.",
+    "category": "economy",
+    "explanation": "To wydarzenie do dziś jest przywoływane jako klasyczny przykład bańki spekulacyjnej, gdy ceny aktywów oderwane od ich realnej wartości gwałtownie rosną, a potem spadają.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-22",
+    "title": "System kart kredytowych rozwinął się dopiero w XX wieku",
+    "content": "Pierwsze powszechnie stosowane karty kredytowe wprowadzono w Stanach Zjednoczonych w połowie XX wieku, znacznie później niż powszechne wcześniej systemy czeków i gotówki.",
+    "category": "economy",
+    "explanation": "Karty kredytowe zmieniły sposób dokonywania zakupów, umożliwiając płatności bez konieczności noszenia przy sobie dużych sum gotówki.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-23",
+    "title": "Niektóre społeczności historycznie wykorzystywały muszle jako środek płatniczy",
+    "content": "W niektórych regionach świata, na przykład w Afryce Zachodniej i Azji, przez wieki jako środek płatniczy wykorzystywano muszle kauri zamiast monet czy banknotów.",
+    "category": "economy",
+    "explanation": "Muszle te były łatwe do przenoszenia, trudne do podrobienia i cenione ze względu na swój wygląd, co czyniło je funkcjonalną formą pieniądza.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-24",
+    "title": "Globalizacja handlu przyspieszyła gwałtownie po wprowadzeniu kontenerowców",
+    "content": "Wprowadzenie standardowych kontenerów transportowych w drugiej połowie XX wieku drastycznie obniżyło koszty i czas przewozu towarów drogą morską na całym świecie.",
+    "category": "economy",
+    "explanation": "Dzięki temu produkcja mogła zostać przeniesiona do odległych krajów, a towary mogły być transportowane globalnie znacznie taniej niż wcześniej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-25",
+    "title": "Rynek obligacji rządowych pozwala państwom pożyczać pieniądze od inwestorów",
+    "content": "Rządy wielu krajów finansują część swoich wydatków, emitując obligacje, czyli pożyczając pieniądze od inwestorów w zamian za obietnicę ich zwrotu z odsetkami.",
+    "category": "economy",
+    "explanation": "Wielkość rynku obligacji rządowych na świecie jest ogromna i stanowi jeden z kluczowych elementów globalnego systemu finansowego.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-26",
+    "title": "Ekonomia behawioralna bada, jak psychologia wpływa na decyzje finansowe ludzi",
+    "content": "Ekonomia behawioralna łączy psychologię z ekonomią, badając, dlaczego ludzie często podejmują decyzje finansowe niezgodne z czystą, racjonalną kalkulacją zysków i strat.",
+    "category": "economy",
+    "explanation": "Za badania w tej dziedzinie przyznano już kilkukrotnie Nagrodę Nobla w dziedzinie ekonomii, co podkreśla jej znaczenie dla zrozumienia realnych rynków.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-27",
+    "title": "Pierwsze banki jako instytucje pojawiły się w renesansowych Włoszech",
+    "content": "Nowoczesna bankowość, obejmująca udzielanie pożyczek i prowadzenie rachunków, zaczęła się rozwijać w miastach-państwach renesansowych Włoch, takich jak Florencja i Wenecja.",
+    "category": "economy",
+    "explanation": "To właśnie włoskim bankierom zawdzięczamy wiele terminów finansowych używanych do dziś, takich jak sam wyraz 'bank', pochodzący od ławy, przy której siedzieli.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-28",
+    "title": "Niektóre waluty cyfrowe nie mają żadnego fizycznego odpowiednika",
+    "content": "W przeciwieństwie do tradycyjnych walut, niektóre nowoczesne waluty cyfrowe istnieją wyłącznie w formie zapisów elektronicznych, bez żadnych fizycznych monet czy banknotów.",
+    "category": "economy",
+    "explanation": "Ich wartość i istnienie opierają się wyłącznie na uzgodnionych zasadach technicznych oraz zaufaniu użytkowników do danego systemu cyfrowego.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-29",
+    "title": "Globalny kryzys finansowy z 2008 roku miał źródła w rynku kredytów hipotecznych",
+    "content": "Światowy kryzys finansowy z 2008 roku wywołały między innymi ryzykowne kredyty hipoteczne udzielane w Stanach Zjednoczonych, które rozprzestrzeniły problemy na cały globalny system bankowy.",
+    "category": "economy",
+    "explanation": "Skutki tego kryzysu odczuwalne były przez lata na całym świecie, prowadząc do zmian w regulacjach nadzoru nad instytucjami finansowymi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-30",
+    "title": "Handel detaliczny online zmienił sposób robienia zakupów na całym świecie",
+    "content": "Rozwój internetowych platform sprzedażowych w ciągu ostatnich dekad radykalnie zmienił sposób, w jaki ludzie na całym świecie kupują towary i usługi.",
+    "category": "economy",
+    "explanation": "Sklepy internetowe pozwoliły konsumentom porównywać ceny i kupować produkty z całego świata bez konieczności wychodzenia z domu.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-31",
+    "title": "Ubezpieczenia na życie jako produkt finansowy rozwinęły się w XVIII wieku",
+    "content": "Nowoczesne ubezpieczenia na życie, oparte na statystycznych obliczeniach ryzyka, zaczęły się rozwijać w Wielkiej Brytanii w XVIII wieku.",
+    "category": "economy",
+    "explanation": "Wcześniejsze próby ubezpieczania życia były znacznie mniej precyzyjne, ponieważ brakowało jeszcze rozwiniętych metod statystycznych do oceny ryzyka śmierci.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-32",
+    "title": "Niektóre kraje utrzymują duże rezerwy złota jako zabezpieczenie swojej waluty",
+    "content": "Wiele banków centralnych na świecie wciąż przechowuje znaczne ilości złota jako część swoich oficjalnych rezerw finansowych, mimo że waluty nie są już bezpośrednio wymienialne na złoto.",
+    "category": "economy",
+    "explanation": "Złoto jest traktowane jako bezpieczna forma przechowywania wartości, szczególnie w okresach niepewności gospodarczej lub politycznej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-33",
+    "title": "System barterowy poprzedzał powstanie pieniądza w wielu starożytnych społeczeństwach",
+    "content": "Zanim upowszechniło się użycie monet i banknotów, wiele starożytnych społeczności wymieniało towary i usługi bezpośrednio, bez pośrednictwa jakiejkolwiek formy pieniądza.",
+    "category": "economy",
+    "explanation": "Wprowadzenie pieniądza znacznie ułatwiło handel, eliminując konieczność znalezienia partnera, który akurat potrzebował dokładnie tego, co miało się do zaoferowania.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-34",
+    "title": "Fundusze inwestycyjne pozwalają drobnym inwestorom łączyć swoje oszczędności",
+    "content": "Fundusze inwestycyjne zbierają pieniądze od wielu drobnych inwestorów i inwestują je wspólnie, dając dostęp do bardziej zdywersyfikowanego portfela niż byłoby to możliwe indywidualnie.",
+    "category": "economy",
+    "explanation": "Dzięki temu nawet osoby z niewielkim kapitałem mogą pośrednio inwestować w szeroki zestaw akcji lub obligacji zarządzanych przez profesjonalistów.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-35",
+    "title": "Inflacja i deflacja mają odwrotny wpływ na siłę nabywczą pieniądza",
+    "content": "Inflacja oznacza wzrost ogólnego poziomu cen i spadek siły nabywczej pieniądza, podczas gdy deflacja to zjawisko odwrotne – spadek cen i wzrost wartości pieniądza.",
+    "category": "economy",
+    "explanation": "Choć deflacja brzmi korzystnie dla konsumentów, w praktyce może prowadzić do wstrzymywania zakupów w oczekiwaniu na jeszcze niższe ceny, co szkodzi gospodarce.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-36",
+    "title": "Niektóre firmy rodzinne są przekazywane z pokolenia na pokolenie od setek lat",
+    "content": "Na świecie istnieją firmy rodzinne, zwłaszcza w Japonii i Europie, które są prowadzone nieprzerwanie przez tę samą rodzinę od kilkuset lat, przechodząc z pokolenia na pokolenie.",
+    "category": "economy",
+    "explanation": "Taka długowieczność wymaga elastycznego dostosowywania się firmy do zmieniających się warunków rynkowych na przestrzeni wielu stuleci.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-20",
+    "title": "Pierwsza maszyna do pisania miała inny układ klawiszy niż dzisiejsza klawiatura",
+    "content": "Wczesne modele maszyn do pisania z XIX wieku eksperymentowały z różnymi układami klawiszy, zanim ostatecznie ukształtował się dzisiejszy standardowy układ QWERTY.",
+    "category": "inventions",
+    "explanation": "Ostateczny wybór układu klawiszy podyktowany był głównie ograniczeniami mechanicznymi ówczesnych maszyn, a nie wyłącznie wygodą pisania.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-21",
+    "title": "Zegar mechaniczny umożliwił precyzyjny podział doby na godziny",
+    "content": "Wynalezienie zegarów mechanicznych w średniowieczu pozwoliło po raz pierwszy precyzyjnie i niezależnie od pozycji słońca dzielić dobę na równe godziny.",
+    "category": "inventions",
+    "explanation": "Wcześniej czas mierzono głównie za pomocą zegarów słonecznych lub klepsydr, które były mniej dokładne i zależne od pogody czy pory dnia.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-22",
+    "title": "Pierwsze lodówki domowe zastąpiły bloki lodu przechowywane w specjalnych szafach",
+    "content": "Zanim rozpowszechniły się elektryczne lodówki, żywność chłodzono w specjalnych szafach lodowych, do których regularnie dostarczano bloki naturalnego lodu.",
+    "category": "inventions",
+    "explanation": "Cała branża zajmowała się wtedy wydobywaniem, transportem i sprzedażą lodu, zanim technologia chłodzenia elektrycznego uczyniła to zajęcie zbędnym.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-23",
+    "title": "Pierwsze pralki mechaniczne wymagały ręcznego napędu korbą",
+    "content": "Wczesne pralki mechaniczne z XIX wieku nie posiadały jeszcze silnika elektrycznego i wymagały ręcznego obracania korbą, by poruszać bęben z praniem.",
+    "category": "inventions",
+    "explanation": "Dopiero elektryfikacja gospodarstw domowych w XX wieku pozwoliła zautomatyzować ten proces i znacząco ułatwić pranie odzieży.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-24",
+    "title": "Kompas magnetyczny był znany w Chinach na długo przed europejską żeglugą",
+    "content": "Chińczycy wykorzystywali magnetyczny kompas do celów nawigacyjnych już około tysiąca lat przed jego szerokim zastosowaniem w europejskiej żegludze morskiej.",
+    "category": "inventions",
+    "explanation": "Wcześniej kompas w Chinach bywał wykorzystywany także do celów wróżebnych i geomantycznych, zanim jego praktyczne zastosowanie nawigacyjne stało się powszechne.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-25",
+    "title": "Papier wynaleziono w Chinach na długo przed tym, jak dotarł do Europy",
+    "content": "Technika produkcji papieru z włókien roślinnych została opracowana w starożytnych Chinach, a do Europy dotarła dopiero po wielu wiekach, za pośrednictwem świata arabskiego.",
+    "category": "inventions",
+    "explanation": "Zanim papier upowszechnił się w Europie, do zapisu wykorzystywano głównie znacznie droższy i trudniejszy w produkcji pergamin ze skóry zwierzęcej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-26",
+    "title": "Pierwsze maszyny parowe znalazły zastosowanie głównie w kopalniach",
+    "content": "Wczesne maszyny parowe z przełomu XVII i XVIII wieku wykorzystywano początkowo głównie do wypompowywania wody z zalanych szybów kopalnianych.",
+    "category": "inventions",
+    "explanation": "Dopiero późniejsze udoskonalenia tej technologii pozwoliły zastosować silniki parowe w transporcie kolejowym i innych gałęziach przemysłu.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-27",
+    "title": "Guma do żucia ma korzenie w naturalnych żywicach drzew",
+    "content": "Zanim powstała nowoczesna guma do żucia, różne kultury na całym świecie żuły naturalne żywice i soki drzew, takie jak żywica świerkowa czy sok drzewa chikle.",
+    "category": "inventions",
+    "explanation": "Dopiero w XIX wieku opracowano metody produkcji gumy do żucia na skalę przemysłową, wykorzystując właśnie sok drzewa chikle z Ameryki Środkowej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-28",
+    "title": "Pierwsze druty kolczaste zaprojektowano do ogradzania terenów rolniczych",
+    "content": "Drut kolczasty opatentowano w XIX wieku w Stanach Zjednoczonych jako tanie i skuteczne rozwiązanie do ogradzania rozległych terenów rolniczych i pastwisk.",
+    "category": "inventions",
+    "explanation": "Wynalazek ten znacząco zmienił krajobraz amerykańskiego Zachodu, umożliwiając skuteczne oddzielanie prywatnych działek bez konieczności budowy kosztownych płotów drewnianych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-29",
+    "title": "Zamki szyfrowe do sejfów rozwinięto w XIX wieku wraz z rozwojem bankowości",
+    "content": "Rozwój bankowości w XIX wieku napędził udoskonalanie zamków szyfrowych do sejfów, mających chronić coraz większe ilości gotówki i cennych dokumentów.",
+    "category": "inventions",
+    "explanation": "Konkurencja między producentami zamków a osobami próbującymi je złamać doprowadziła do powstania coraz bardziej skomplikowanych mechanizmów zabezpieczających.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-30",
+    "title": "Pierwsza kosiarka do trawy została opatentowana w XIX wieku",
+    "content": "Pierwszą mechaniczną kosiarkę do trawy opatentowano w Wielkiej Brytanii w 1830 roku, zastępując wcześniejsze ręczne koszenie kosą lub sierpem.",
+    "category": "inventions",
+    "explanation": "Wynalazek ten stał się szczególnie popularny wraz z rozwojem prywatnych ogrodów i parków publicznych w miastach epoki wiktoriańskiej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-31",
+    "title": "Pierwsza podróżna walizka na kółkach pojawiła się później, niż mogłoby się wydawać",
+    "content": "Mimo że koła znano od tysięcy lat, walizki na kółkach dla podróżnych opatentowano dopiero w latach 70. XX wieku, znacznie później niż wiele innych nowoczesnych wynalazków.",
+    "category": "inventions",
+    "explanation": "Przez wiele lat po wprowadzeniu tego rozwiązania podróżni wciąż woleli nosić bagaż ręcznie, zanim walizki na kółkach stały się powszechnym standardem.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-32",
+    "title": "Termos wykorzystuje próżnię między dwiema ściankami, by ograniczyć straty ciepła",
+    "content": "Termos zbudowany jest z dwóch ścianek oddzielonych próżnią, która skutecznie ogranicza przekazywanie ciepła przez przewodnictwo, utrzymując napój ciepłym lub zimnym przez długi czas.",
+    "category": "inventions",
+    "explanation": "Ta sama zasada izolacji próżniowej jest wykorzystywana także w bardziej zaawansowanych zastosowaniach, na przykład w niektórych pojemnikach kriogenicznych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-33",
+    "title": "Pierwszy nowoczesny parasol składany zaprojektowano z myślą o łatwym przechowywaniu",
+    "content": "Parasole składane, umożliwiające zmniejszenie ich rozmiaru po użyciu, zaprojektowano z myślą o wygodnym noszeniu w torbie lub kieszeni, w odróżnieniu od wcześniejszych, sztywnych modeli.",
+    "category": "inventions",
+    "explanation": "To rozwiązanie znacznie zwiększyło popularność noszenia parasola na wypadek nagłego deszczu, bez konieczności dźwigania nieporęcznego, długiego przedmiotu.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-34",
+    "title": "Zapałki bezpieczne zapalają się tylko o specjalnie przygotowaną powierzchnię",
+    "content": "W odróżnieniu od dawnych zapałek, które mogły zapalić się od dowolnej szorstkiej powierzchni, nowoczesne zapałki bezpieczne zapalają się tylko po potarciu o specjalnie przygotowany pasek na pudełku.",
+    "category": "inventions",
+    "explanation": "To rozwiązanie znacznie zmniejszyło ryzyko przypadkowego zapłonu podczas przechowywania czy transportu zapałek.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-35",
+    "title": "Pierwsza zmywarka do naczyń została opatentowana pod koniec XIX wieku",
+    "content": "Pierwszą praktyczną zmywarkę do naczyń opatentowała w Stanach Zjednoczonych w 1886 roku Josephine Cochrane, zmęczona ręcznym zmywaniem i tłuczeniem cennej porcelany.",
+    "category": "inventions",
+    "explanation": "Jej wynalazek początkowo trafił głównie do restauracji i hoteli, zanim po dekadach zmniejszenia rozmiaru i ceny stał się popularnym urządzeniem domowym.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-36",
+    "title": "Pierwsze zszywki papierowe różniły się kształtem od dzisiejszych",
+    "content": "Wczesne wersje zszywek biurowych z XIX wieku miały różne, czasem dekoracyjne kształty, zanim ustandaryzowano prosty, dziś powszechnie znany kształt litery U.",
+    "category": "inventions",
+    "explanation": "Standaryzacja kształtu zszywek pozwoliła na ich masową, tanią produkcję oraz kompatybilność z różnymi modelami zszywaczy biurowych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "earth-20",
+    "title": "Skorupa ziemska dzieli się na kilkanaście dużych i mniejszych płyt tektonicznych",
+    "content": "Zewnętrzna skorupa Ziemi jest podzielona na kilkanaście dużych i mniejszych płyt tektonicznych, które nieustannie, choć bardzo powoli, przesuwają się względem siebie.",
+    "category": "earth",
+    "explanation": "To właśnie ruch tych płyt odpowiada za powstawanie gór, trzęsień ziemi oraz aktywność wulkaniczną na granicach poszczególnych płyt.",
+    "surpriseLevel": 2,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-21",
+    "title": "Najgłębszy odwiert naukowy sięgnął zaledwie ułamka drogi do jądra Ziemi",
+    "content": "Najgłębszy odwiert wykonany przez człowieka, wywiercony na Półwyspie Kolskim, osiągnął głębokość ponad dwunastu kilometrów, co wciąż jest zaledwie ułamkiem drogi do jądra planety.",
+    "category": "earth",
+    "explanation": "Dalsze wiercenie okazało się niemożliwe z powodu ekstremalnie wysokiej temperatury skał na tej głębokości, znacznie przekraczającej wcześniejsze oczekiwania naukowców.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-22",
+    "title": "Ziemska atmosfera składa się głównie z azotu, a nie z tlenu",
+    "content": "Wbrew powszechnemu przekonaniu ziemska atmosfera składa się w około 78 procentach z azotu, a tlen stanowi jedynie około 21 procent jej całkowitej objętości.",
+    "category": "earth",
+    "explanation": "Mimo że to właśnie tlen jest kluczowy dla oddychania większości organizmów, to azot jest w rzeczywistości dominującym gazem w powietrzu, którym oddychamy.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-23",
+    "title": "Zorza polarna powstaje dzięki oddziaływaniu wiatru słonecznego z polem magnetycznym Ziemi",
+    "content": "Zorza polarna powstaje, gdy naładowane cząstki wiatru słonecznego zderzają się z cząsteczkami gazu w górnych warstwach atmosfery, prowadzone przez ziemskie pole magnetyczne w stronę biegunów.",
+    "category": "earth",
+    "explanation": "Kolor zorzy zależy od tego, z jakim gazem atmosferycznym zderzają się naładowane cząstki – tlen daje zielony i czerwony odcień, a azot niebieski i fioletowy.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-24",
+    "title": "Wulkaniczne wyspy mogą powstawać i znikać w ciągu zaledwie kilku lat",
+    "content": "Podwodne erupcje wulkaniczne potrafią w krótkim czasie stworzyć nową wyspę z zastygłej lawy, która jednak bywa równie szybko niszczona przez erozję falową.",
+    "category": "earth",
+    "explanation": "Niektóre takie wyspy, powstałe w ciągu miesięcy, znikały pod powierzchnią oceanu zaledwie kilka lat później, zanim zdążyły się na dobre ustabilizować.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-25",
+    "title": "Prądy oceaniczne rozprowadzają ciepło po całej planecie",
+    "content": "Wielkie prądy oceaniczne przenoszą ogromne ilości ciepła z rejonów równikowych w stronę biegunów, wpływając znacząco na klimat wielu regionów świata.",
+    "category": "earth",
+    "explanation": "Zaburzenia w takich prądach, na przykład osłabienie prądu Golfsztromu, mogłyby znacząco zmienić klimat Europy Zachodniej.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-26",
+    "title": "Ziemska litosfera unosi się na gęstszej i gorętszej warstwie płaszcza",
+    "content": "Sztywna, zewnętrzna litosfera Ziemi, obejmująca skorupę i górną część płaszcza, unosi się powoli na gęstszej, plastycznej warstwie płaszcza znajdującej się głębiej.",
+    "category": "earth",
+    "explanation": "To powolne, plastyczne przemieszczanie się materiału płaszcza jest jedną z sił napędzających ruch płyt tektonicznych na powierzchni planety.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-27",
+    "title": "Skamieniałości pozwalają naukowcom odtworzyć wygląd Ziemi sprzed milionów lat",
+    "content": "Analiza rozmieszczenia skamieniałości na różnych kontynentach pomogła naukowcom potwierdzić teorię, że kontynenty były niegdyś połączone w jeden wielki ląd.",
+    "category": "earth",
+    "explanation": "Odnajdywanie identycznych gatunków skamieniałości po obu stronach dzisiejszego Oceanu Atlantyckiego było jednym z kluczowych dowodów na istnienie superkontynentu Pangea.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-28",
+    "title": "Trzęsienia ziemi najczęściej występują wzdłuż granic płyt tektonicznych",
+    "content": "Zdecydowana większość trzęsień ziemi na świecie koncentruje się wzdłuż granic płyt tektonicznych, tworząc rozpoznawalne strefy wysokiej aktywności sejsmicznej.",
+    "category": "earth",
+    "explanation": "Jedną z najbardziej aktywnych sejsmicznie stref świata jest tak zwany Pierścień Ognia otaczający Ocean Spokojny.",
+    "surpriseLevel": 2,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-29",
+    "title": "Ziemia doświadcza tysięcy niewielkich trzęsień każdego dnia",
+    "content": "Choć na co dzień tego nie zauważamy, na Ziemi rejestruje się każdego dnia tysiące niewielkich trzęsień ziemi, zbyt słabych, by były odczuwalne przez ludzi.",
+    "category": "earth",
+    "explanation": "Tylko niewielki odsetek wszystkich trzęsień ziemi jest wystarczająco silny, by wyrządzić realne szkody lub zostać zauważonym przez mieszkańców danego regionu.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-30",
+    "title": "Oceany pochłaniają znaczną część ciepła generowanego przez zmiany klimatu",
+    "content": "Oceany świata pochłonęły w ostatnich dekadach znaczną część nadmiaru ciepła zatrzymywanego w atmosferze, spowalniając widoczny wzrost temperatury powietrza.",
+    "category": "earth",
+    "explanation": "Ta zdolność ma jednak swoją cenę – dodatkowe ciepło przyczynia się do topnienia lodowców morskich oraz zmian w zachowaniu ekosystemów morskich.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-31",
+    "title": "Skały osadowe formują się przez miliony lat z osadzającego się materiału",
+    "content": "Skały osadowe, takie jak wapień czy piaskowiec, powstają przez miliony lat z gromadzącego się i zagęszczającego materiału, na przykład piasku, mułu czy szczątków organizmów.",
+    "category": "earth",
+    "explanation": "Warstwy takich skał często zawierają skamieniałości, które pozwalają naukowcom datować dany okres w historii Ziemi na podstawie znanego wieku danych warstw.",
+    "surpriseLevel": 2,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-32",
+    "title": "Grawitacja Ziemi jest nieznacznie silniejsza w pobliżu dużych złóż gęstych skał",
+    "content": "Siła grawitacji na powierzchni Ziemi nie jest wszędzie identyczna – w rejonach z dużymi złożami gęstych skał lub minerałów jest ona nieznacznie silniejsza niż gdzie indziej.",
+    "category": "earth",
+    "explanation": "Satelity naukowe potrafią dziś mierzyć te subtelne różnice grawitacji, tworząc szczegółowe mapy rozkładu masy wewnątrz planety.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-33",
+    "title": "Cień Ziemi podczas zaćmienia Księżyca ma zakrzywiony kształt",
+    "content": "Podczas zaćmienia Księżyca obserwatorzy mogą zobaczyć zakrzywiony cień Ziemi padający na powierzchnię Księżyca, co od starożytności było dowodem na kulisty kształt naszej planety.",
+    "category": "earth",
+    "explanation": "Ten prosty, obserwowalny dowód znali już starożytni greccy astronomowie, na długo przed pierwszymi lotami kosmicznymi.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-34",
+    "title": "Warstwa ozonowa powoli regeneruje się dzięki międzynarodowym ograniczeniom emisji",
+    "content": "Dziura w warstwie ozonowej nad Antarktydą stopniowo się zmniejsza dzięki międzynarodowemu porozumieniu ograniczającemu emisję substancji niszczących ozon, podpisanemu w latach 80. XX wieku.",
+    "category": "earth",
+    "explanation": "Ten przykład pokazuje, że skoordynowane globalne działania mogą realnie odwrócić negatywne zmiany środowiskowe na przestrzeni dekad.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-35",
+    "title": "Erozja wiatrowa i wodna kształtuje krajobraz przez miliony lat",
+    "content": "Powolne, ale nieustanne działanie wiatru i wody stopniowo rzeźbi powierzchnię Ziemi, tworząc kaniony, wydmy i inne charakterystyczne formy terenu na przestrzeni milionów lat.",
+    "category": "earth",
+    "explanation": "Wielki Kanion w Stanach Zjednoczonych jest jednym z najbardziej znanych przykładów takiej erozji, wyrzeźbionej przez rzekę na przestrzeni milionów lat.",
+    "surpriseLevel": 2,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-36",
+    "title": "Ziemia mogła w przeszłości mieć więcej niż jeden naturalny satelita",
+    "content": "Niektóre teorie naukowe sugerują, że we wczesnej historii Ziemi mogła ona przez pewien czas posiadać więcej niż jeden naturalny księżyc, zanim doszło do ich połączenia.",
+    "category": "earth",
+    "explanation": "Taka hipoteza mogłaby tłumaczyć niektóre różnice geologiczne między bliższą i dalszą stroną dzisiejszego, pojedynczego Księżyca.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "human-20",
+    "title": "Ludzki mózg zużywa około jednej piątej całkowitej energii organizmu",
+    "content": "Mimo że stanowi zaledwie około dwóch procent masy ciała, ludzki mózg zużywa aż około dwadzieścia procent całkowitej energii spalanej przez organizm w spoczynku.",
+    "category": "human",
+    "explanation": "Ta ogromna, nieproporcjonalna do rozmiaru ilość energii jest potrzebna do nieustannego przetwarzania informacji i utrzymywania aktywności miliardów neuronów.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-21",
+    "title": "Noworodki rodzą się z odruchami, które zanikają w pierwszych miesiącach życia",
+    "content": "Niemowlęta rodzą się z wrodzonymi odruchami, takimi jak odruch chwytny czy odruch szukania piersi, z których większość samoistnie zanika w pierwszych miesiącach życia.",
+    "category": "human",
+    "explanation": "Te wczesne odruchy pomagają noworodkowi przetrwać pierwsze tygodnie życia, zanim zostaną zastąpione bardziej świadomymi, wyuczonymi zachowaniami.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-22",
+    "title": "Ludzkie ciało zawiera więcej komórek bakteryjnych niż komórek własnych",
+    "content": "Według wielu szacunków liczba komórek bakteryjnych zamieszkujących ludzkie ciało, głównie w jelitach, jest porównywalna lub nawet większa niż liczba komórek ludzkich.",
+    "category": "human",
+    "explanation": "Te bakterie, zwane mikrobiomem, odgrywają ważną rolę w trawieniu i funkcjonowaniu układu odpornościowego, nie będąc jednocześnie szkodliwymi pasożytami.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-23",
+    "title": "Paznokcie i włosy nie rosną po śmierci, mimo powszechnego mitu",
+    "content": "Wbrew popularnemu przekonaniu paznokcie i włosy nie rosną po śmierci – pozorne ich wydłużenie wynika z kurczenia się i wysychania skóry wokół nich.",
+    "category": "human",
+    "explanation": "Ten efekt optyczny, w połączeniu z brakiem golenia czy obcinania paznokci po śmierci, przez lata podtrzymywał ten powszechny, choć błędny mit.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-24",
+    "title": "Ludzkie oko potrafi dostrzec pojedynczy foton światła w odpowiednich warunkach",
+    "content": "Badania wykazały, że w idealnie ciemnym otoczeniu ludzkie oko jest zdolne wykryć pojedynczy foton, czyli najmniejszą możliwą 'porcję' światła.",
+    "category": "human",
+    "explanation": "Ta niezwykła czułość wynika ze specjalnych komórek światłoczułych w siatkówce, zdolnych zareagować nawet na absolutnie minimalną ilość energii świetlnej.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-25",
+    "title": "Człowiek traci rocznie znaczną ilość włosów, które są nieustannie zastępowane nowymi",
+    "content": "Przeciętny człowiek traci naturalnie tysiące włosów rocznie w wyniku cyklicznego procesu wzrostu, wypadania i odrastania włosów na skórze głowy.",
+    "category": "human",
+    "explanation": "Ten cykl przebiega w sposób niezsynchronizowany między poszczególnymi mieszkami włosowymi, dzięki czemu nie tracimy wszystkich włosów naraz.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-26",
+    "title": "Ludzka szczęka zmieniała się wraz ze zmianą diety w toku ewolucji",
+    "content": "Rozmiar i kształt ludzkiej szczęki oraz zębów stopniowo zmieniały się na przestrzeni ewolucji wraz z przejściem od surowego pożywienia do gotowanego i przetworzonego.",
+    "category": "human",
+    "explanation": "Naukowcy powiązują między innymi zmniejszenie się rozmiaru szczęki człowieka z rozpowszechnieniem obróbki termicznej żywności, ułatwiającej jej trawienie.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-27",
+    "title": "Mięsień sercowy różni się budową od innych mięśni szkieletowych",
+    "content": "Mięsień sercowy ma unikalną budowę, różną od mięśni szkieletowych rąk czy nóg, co pozwala mu kurczyć się rytmicznie i nieprzerwanie przez całe życie bez zmęczenia.",
+    "category": "human",
+    "explanation": "Ta specjalna struktura komórek serca zapewnia mu odporność na zmęczenie, jakiej nie mają zwykłe mięśnie szkieletowe podlegające świadomej kontroli.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-28",
+    "title": "Ludzki mózg tworzy nowe połączenia nerwowe przez całe życie",
+    "content": "Wbrew dawniejszym przekonaniom, ludzki mózg zachowuje zdolność tworzenia nowych połączeń nerwowych, zwaną neuroplastycznością, nie tylko w dzieciństwie, ale przez całe życie.",
+    "category": "human",
+    "explanation": "Dzięki tej zdolności możliwe jest uczenie się nowych umiejętności oraz częściowa regeneracja funkcji mózgu po niektórych urazach, nawet w dorosłym wieku.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-29",
+    "title": "Ludzkie ciało reguluje temperaturę poprzez pocenie się i rozszerzanie naczyń krwionośnych",
+    "content": "Gdy organizmowi grozi przegrzanie, ciało reguluje temperaturę, wydzielając pot na skórze oraz rozszerzając naczynia krwionośne blisko powierzchni ciała.",
+    "category": "human",
+    "explanation": "Parowanie potu z powierzchni skóry pochłania ciepło, skutecznie chłodząc organizm, gdy temperatura otoczenia lub wysiłek fizyczny są zbyt duże.",
+    "surpriseLevel": 1,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-30",
+    "title": "Dłonie i stopy mają znacznie więcej receptorów dotyku niż inne części ciała",
+    "content": "Skóra dłoni i stóp jest wyjątkowo gęsto pokryta receptorami dotyku, co czyni te części ciała znacznie bardziej wrażliwymi niż na przykład plecy czy ramiona.",
+    "category": "human",
+    "explanation": "Ta większa wrażliwość jest kluczowa dla precyzyjnego chwytania przedmiotów oraz utrzymywania równowagi podczas chodzenia.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-31",
+    "title": "Ludzie zapamiętują twarze lepiej niż imiona osób, które właśnie poznali",
+    "content": "Badania nad pamięcią pokazują, że ludziom zwykle łatwiej jest zapamiętać wygląd twarzy nowo poznanej osoby niż jej imię, usłyszane raptem chwilę wcześniej.",
+    "category": "human",
+    "explanation": "Wynika to prawdopodobnie z tego, że mózg przetwarza informacje wizualne, takie jak twarze, w inny, bardziej zautomatyzowany sposób niż abstrakcyjne dźwięki słów.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "human-32",
+    "title": "Ludzki układ odpornościowy uczy się rozpoznawać patogeny przez całe życie",
+    "content": "Układ odpornościowy człowieka nieustannie 'uczy się' rozpoznawać nowe zagrożenia, zapamiętując wcześniej napotkane wirusy i bakterie na wiele lat, a czasem na całe życie.",
+    "category": "human",
+    "explanation": "Ta pamięć immunologiczna jest podstawą działania szczepionek, które uczą organizm rozpoznawać dany patogen, zanim faktycznie do niego dojdzie.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-33",
+    "title": "Wzrost człowieka jest nieznacznie wyższy rano niż wieczorem",
+    "content": "Ludzki kręgosłup nieznacznie się ściska w ciągu dnia pod wpływem grawitacji, przez co większość ludzi jest rano o kilka milimetrów wyższa niż wieczorem tego samego dnia.",
+    "category": "human",
+    "explanation": "Podczas snu w pozycji leżącej kręgosłup ponownie się rozciąga, przywracając nieco utraconą w ciągu dnia wysokość ciała.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-34",
+    "title": "Ludzki żołądek produkuje nową warstwę śluzu ochronnego, by nie strawić samego siebie",
+    "content": "Ściany żołądka są chronione grubą warstwą śluzu, która stale się odnawia, dzięki czemu silnie kwaśne soki trawienne nie uszkadzają tkanki samego żołądka.",
+    "category": "human",
+    "explanation": "Bez tej stałej ochrony żołądek uszkadzałby sam siebie tymi samymi kwasami i enzymami, które służą do trawienia spożywanego pokarmu.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "human-35",
+    "title": "Każdy człowiek ma indywidualny zapach ciała rozpoznawalny nawet przez psy",
+    "content": "Każdy człowiek wydziela unikalny zapach ciała, wynikający z indywidualnego składu chemicznego potu i bakterii skórnych, na tyle charakterystyczny, że mogą go rozróżniać wyszkolone psy.",
+    "category": "human",
+    "explanation": "Ta zdolność psów jest wykorzystywana między innymi w pracy służb tropiących zaginione osoby na podstawie pozostawionych śladów zapachowych.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-36",
+    "title": "Człowiek ma zdolność szybkiego rozpoznawania podstawowych emocji na twarzy innych ludzi",
+    "content": "Ludzki mózg potrafi błyskawicznie rozpoznać podstawowe emocje, takie jak radość, strach czy złość, na podstawie samego wyrazu twarzy innej osoby.",
+    "category": "human",
+    "explanation": "Ta zdolność, częściowo wrodzona, jest kluczowa dla sprawnej komunikacji społecznej i szybkiej oceny intencji innych ludzi w danej sytuacji.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  }
+]

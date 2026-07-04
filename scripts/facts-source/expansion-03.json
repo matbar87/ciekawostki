@@ -1,0 +1,852 @@
+[
+  {
+    "id": "technology-19",
+    "title": "Pierwsze odtwarzacze MP3 miały bardzo małą pojemność pamięci",
+    "content": "Pierwsze komercyjne odtwarzacze MP3 pod koniec lat 90. XX wieku mieściły zaledwie kilkanaście utworów, mimo swojej wysokiej ceny.",
+    "category": "technology",
+    "explanation": "Postęp w pojemności pamięci flash w kolejnych latach pozwolił na tworzenie odtwarzaczy mieszczących tysiące piosenek w kieszonkowym urządzeniu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-20",
+    "title": "USB zaprojektowano, by zastąpić wiele różnych typów portów komputerowych",
+    "content": "Standard USB powstał w latach 90. XX wieku, by ujednolicić i zastąpić dziesiątki niekompatybilnych ze sobą portów stosowanych wcześniej w komputerach.",
+    "category": "technology",
+    "explanation": "Dzięki temu jedno gniazdo mogło obsługiwać myszy, klawiatury, drukarki i wiele innych urządzeń peryferyjnych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-21",
+    "title": "Pierwsza publiczna transmisja telewizyjna była eksperymentalna i czarno-biała",
+    "content": "Pierwsze regularne transmisje telewizyjne w latach 30. XX wieku były czarno-białe, o niskiej rozdzielczości i docierały jedynie do garstki odbiorców.",
+    "category": "technology",
+    "explanation": "Telewizja kolorowa i szeroki zasięg nadawania stały się powszechne dopiero kilka dekad później.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-22",
+    "title": "Ekrany plazmowe i LCD wykorzystują zupełnie inne technologie wyświetlania",
+    "content": "Ekrany plazmowe generują obraz za pomocą maleńkich komórek z zjonizowanym gazem, podczas gdy ekrany LCD sterują przepływem światła przez ciekłe kryształy.",
+    "category": "technology",
+    "explanation": "Obie technologie rywalizowały ze sobą na rynku telewizorów, zanim ekrany LED i OLED stały się dominującym standardem.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-23",
+    "title": "Pierwsze skanery kodów QR powstały dla przemysłu motoryzacyjnego",
+    "content": "Kod QR opracowano w Japonii w latach 90. XX wieku z myślą o szybkim śledzeniu części samochodowych podczas produkcji.",
+    "category": "technology",
+    "explanation": "Dopiero znacznie później, wraz z upowszechnieniem smartfonów z aparatem, kody QR zaczęto wykorzystywać powszechnie w reklamie i płatnościach.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-24",
+    "title": "Klawiatury ekranowe smartfonów przewidują kolejne słowa podczas pisania",
+    "content": "Klawiatury dotykowe smartfonów analizują wzorce pisania użytkownika, by przewidywać kolejne słowa i przyspieszać wpisywanie tekstu.",
+    "category": "technology",
+    "explanation": "Mechanizmy te opierają się na statystycznych modelach języka, uczących się na podstawie wcześniej wpisywanych przez użytkownika tekstów.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-25",
+    "title": "Baterie słoneczne zasilają sondy kosmiczne przez całe dekady",
+    "content": "Niektóre sondy kosmiczne wyposażone w panele słoneczne pozostają aktywne i przesyłają dane na Ziemię jeszcze przez dziesiątki lat po starcie.",
+    "category": "technology",
+    "explanation": "W przestrzeni kosmicznej brak atmosfery i chmur sprawia, że panele słoneczne mogą pracować niemal bez przerwy i strat efektywności.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "technology-26",
+    "title": "Streaming muzyki wymaga kompresji dźwięku bez wyraźnej utraty jakości",
+    "content": "Serwisy streamingowe kompresują pliki muzyczne, usuwając dźwięki trudne do usłyszenia dla ludzkiego ucha, by zmniejszyć rozmiar danych bez zauważalnej straty jakości.",
+    "category": "technology",
+    "explanation": "Ta technika opiera się na wiedzy o ograniczeniach ludzkiego słuchu, pozwalając przesyłać muzykę szybciej przy ograniczonym transferze internetowym.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-27",
+    "title": "Pierwsze płyty CD zaprojektowano tak, by pomieścić całą symfonię",
+    "content": "Standardowa pojemność pierwszych płyt CD, wynosząca około 74 minut, miała podobno umożliwić zmieszczenie na jednym krążku IX Symfonii Beethovena.",
+    "category": "technology",
+    "explanation": "Ta anegdota często pojawia się w historii technologii, choć ostateczna decyzja o pojemności wynikała też z wielu innych czynników technicznych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-28",
+    "title": "Domowe sieci Wi-Fi wykorzystują fale radiowe podobne do tych z kuchenki mikrofalowej",
+    "content": "Wiele domowych routerów Wi-Fi działa na częstotliwości 2,4 gigaherca, bardzo zbliżonej do częstotliwości używanej przez kuchenki mikrofalowe.",
+    "category": "technology",
+    "explanation": "Dlatego działająca kuchenka mikrofalowa może czasem chwilowo zakłócać sygnał sieci bezprzewodowej w pobliżu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-29",
+    "title": "Pierwsze komercyjne procesory komputerowe mieściły tysiące tranzystorów",
+    "content": "Pierwszy powszechnie dostępny mikroprocesor z lat 70. XX wieku zawierał zaledwie kilka tysięcy tranzystorów, podczas gdy dzisiejsze układy mają ich miliardy.",
+    "category": "technology",
+    "explanation": "Ten gwałtowny wzrost liczby tranzystorów w kolejnych dekadach jest jednym z filarów postępu mocy obliczeniowej komputerów.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-30",
+    "title": "Ładowanie bezprzewodowe telefonów wykorzystuje zjawisko indukcji elektromagnetycznej",
+    "content": "Bezprzewodowe ładowarki przekazują energię za pomocą pola magnetycznego generowanego w cewce, indukującego prąd w drugiej cewce wewnątrz telefonu.",
+    "category": "technology",
+    "explanation": "To samo podstawowe zjawisko fizyczne wykorzystywane jest od dawna w transformatorach elektrycznych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-31",
+    "title": "Nawigacja satelitarna wymaga synchronizacji zegarów co do nanosekundy",
+    "content": "Satelity systemów nawigacyjnych muszą utrzymywać niezwykle precyzyjną synchronizację czasu, ponieważ nawet niewielki błąd przekłada się na spory błąd lokalizacji.",
+    "category": "technology",
+    "explanation": "Uwzględnienie efektów teorii względności jest tu konieczne, ponieważ zegary na orbicie płyną nieco inaczej niż zegary na powierzchni Ziemi.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "technology-32",
+    "title": "Pierwsze aparaty cyfrowe w telefonach miały bardzo niską rozdzielczość",
+    "content": "Pierwsze telefony komórkowe z wbudowanym aparatem, z przełomu wieków, robiły zdjęcia o rozdzielczości znacznie niższej niż dzisiejsze proste kamerki internetowe.",
+    "category": "technology",
+    "explanation": "Mimo niskiej jakości zdjęć, urządzenia te zapoczątkowały trend, który doprowadził do dzisiejszych zaawansowanych aparatów w smartfonach.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-33",
+    "title": "Ekrany dotykowe pojemnościowe wykrywają dotyk dzięki przewodnictwu skóry",
+    "content": "Ekrany dotykowe pojemnościowe, stosowane w smartfonach, reagują na dotyk palca, ponieważ ludzka skóra przewodzi prąd i zaburza pole elektryczne ekranu.",
+    "category": "technology",
+    "explanation": "Dlatego takie ekrany zwykle nie reagują poprawnie na dotyk rękawiczką, która nie przewodzi elektryczności.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-34",
+    "title": "Pierwsze dyski SSD były znacznie droższe niż dyski talerzowe o tej samej pojemności",
+    "content": "Gdy dyski półprzewodnikowe SSD pojawiły się na rynku konsumenckim, ich cena za gigabajt pojemności była wielokrotnie wyższa niż tradycyjnych dysków talerzowych.",
+    "category": "technology",
+    "explanation": "Mimo wyższej ceny SSD oferowały znacznie szybszy odczyt i zapis danych oraz odporność na wstrząsy dzięki brakowi ruchomych części.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "technology-35",
+    "title": "Systemy rozpoznawania twarzy porównują charakterystyczne punkty na twarzy",
+    "content": "Technologia rozpoznawania twarzy analizuje odległości między charakterystycznymi punktami twarzy, takimi jak oczy, nos i usta, tworząc unikalny wzorzec.",
+    "category": "technology",
+    "explanation": "Ten cyfrowy wzorzec jest następnie porównywany z bazą danych, by zidentyfikować lub zweryfikować tożsamość danej osoby.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "computerScience-20",
+    "title": "Wyszukiwanie binarne znacznie przyspiesza przeszukiwanie posortowanych danych",
+    "content": "Algorytm wyszukiwania binarnego dzieli za każdym razem zbiór danych na pół, dzięki czemu znajduje szukany element znacznie szybciej niż przeszukiwanie po kolei.",
+    "category": "computerScience",
+    "explanation": "W milionowym zbiorze posortowanych danych algorytm ten potrzebuje zaledwie około dwudziestu porównań, by znaleźć szukaną wartość.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-21",
+    "title": "Programowanie funkcyjne traktuje obliczenia jak wywoływanie funkcji matematycznych",
+    "content": "W programowaniu funkcyjnym program buduje się z funkcji matematycznych bez zmiennego stanu, co ułatwia przewidywanie zachowania kodu i jego testowanie.",
+    "category": "computerScience",
+    "explanation": "Ten paradygmat, wywodzący się z matematyki, zyskuje dziś na popularności w kontekście programowania współbieżnego i równoległego.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-22",
+    "title": "Pierwsza baza danych relacyjna powstała w latach 70. XX wieku",
+    "content": "Koncepcję relacyjnych baz danych, opartą na tabelach i logice matematycznej, zaproponował Edgar Codd w 1970 roku, zmieniając na zawsze sposób przechowywania danych.",
+    "category": "computerScience",
+    "explanation": "Model relacyjny do dziś stanowi podstawę większości systemów baz danych wykorzystywanych w firmach i aplikacjach na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-23",
+    "title": "Złożoność obliczeniowa opisuje, jak rośnie czas działania algorytmu",
+    "content": "Złożoność obliczeniowa algorytmu określa, jak bardzo wydłuża się czas jego działania w miarę zwiększania liczby przetwarzanych danych.",
+    "category": "computerScience",
+    "explanation": "Dzięki tej analizie informatycy mogą przewidzieć, czy dany program poradzi sobie z ogromną ilością danych, zanim jeszcze go uruchomią.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-24",
+    "title": "Pierwsze sieci komputerowe łączyły zaledwie kilka amerykańskich uczelni",
+    "content": "Sieć ARPANET, protoplasta dzisiejszego internetu, w 1969 roku łączyła zaledwie cztery amerykańskie ośrodki naukowe.",
+    "category": "computerScience",
+    "explanation": "Z tej niewielkiej, eksperymentalnej sieci akademickiej wyrósł z czasem globalny internet, z którego korzystają dziś miliardy ludzi.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-25",
+    "title": "Systemy operacyjne zarządzają dostępem programów do pamięci i procesora",
+    "content": "System operacyjny działa jak pośrednik, przydzielając poszczególnym programom fragmenty pamięci i czas procesora, tak by mogły działać jednocześnie.",
+    "category": "computerScience",
+    "explanation": "Dzięki temu wiele aplikacji może pracować równolegle na jednym komputerze, choć procesor faktycznie przełącza się między nimi bardzo szybko.",
+    "surpriseLevel": 1,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-26",
+    "title": "Oprogramowanie z otwartym kodem może być przeglądane i modyfikowane przez każdego",
+    "content": "Oprogramowanie open source udostępnia swój kod źródłowy publicznie, pozwalając każdemu przeglądać, zgłaszać poprawki i tworzyć własne wersje programu.",
+    "category": "computerScience",
+    "explanation": "Wiele kluczowych elementów dzisiejszego internetu, w tym serwery i systemy operacyjne, opiera się właśnie na oprogramowaniu open source.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-27",
+    "title": "Struktura drzewa binarnego pozwala szybko wyszukiwać i porządkować dane",
+    "content": "Drzewo binarne organizuje dane w hierarchiczną strukturę, w której każdy element ma maksymalnie dwoje dzieci, co przyspiesza wyszukiwanie i sortowanie.",
+    "category": "computerScience",
+    "explanation": "Taka struktura jest wykorzystywana między innymi w bazach danych oraz w systemach plików do szybkiego odnajdywania konkretnych rekordów.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-28",
+    "title": "Pierwszy kompilator języka programowania powstał w latach 50. XX wieku",
+    "content": "Grace Hopper opracowała jeden z pierwszych kompilatorów w latach 50. XX wieku, umożliwiając programistom pisanie kodu bliższego językowi naturalnemu.",
+    "category": "computerScience",
+    "explanation": "Wcześniej programiści musieli pisać instrukcje niemal bezpośrednio w języku zrozumiałym dla samego procesora, co było powolne i podatne na błędy.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-29",
+    "title": "Programy antywirusowe wykrywają złośliwy kod na podstawie charakterystycznych wzorców",
+    "content": "Klasyczne oprogramowanie antywirusowe porównuje fragmenty analizowanych plików z bazą znanych wzorców szkodliwego kodu, zwanych sygnaturami.",
+    "category": "computerScience",
+    "explanation": "Nowsze systemy dodatkowo obserwują podejrzane zachowanie programów, by wykrywać także zupełnie nowe, nieznane wcześniej zagrożenia.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-30",
+    "title": "Wirtualizacja pozwala uruchamiać wiele systemów operacyjnych na jednym komputerze",
+    "content": "Dzięki technologii wirtualizacji jeden fizyczny komputer może jednocześnie uruchamiać kilka niezależnych, odseparowanych od siebie systemów operacyjnych.",
+    "category": "computerScience",
+    "explanation": "Rozwiązanie to jest szeroko wykorzystywane w serwerowniach, pozwalając lepiej wykorzystać moc obliczeniową sprzętu.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-31",
+    "title": "Środowiska testowe izolują potencjalnie niebezpieczny kod od reszty systemu",
+    "content": "Tak zwane sandboksy pozwalają uruchomić nieznany lub podejrzany program w odizolowanym środowisku, chroniąc resztę systemu przed ewentualnymi szkodami.",
+    "category": "computerScience",
+    "explanation": "Ta technika jest powszechnie stosowana w przeglądarkach internetowych, by ograniczyć skutki potencjalnie złośliwych stron internetowych.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-32",
+    "title": "Pierwsze gry komputerowe z grafiką wektorową wyświetlały tylko proste linie",
+    "content": "Wczesne gry arcade wykorzystywały grafikę wektorową, rysując obraz z pojedynczych, jasnych linii zamiast siatki kolorowych pikseli.",
+    "category": "computerScience",
+    "explanation": "Ten styl graficzny wynikał z ograniczeń technicznych ówczesnych monitorów, ale dziś bywa celowo odtwarzany dla efektu retro.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-33",
+    "title": "Systemy rozproszone dzielą obliczenia pomiędzy wiele niezależnych komputerów",
+    "content": "Systemy rozproszone dzielą jedno duże zadanie obliczeniowe pomiędzy wiele osobnych komputerów pracujących razem, jakby były jednym systemem.",
+    "category": "computerScience",
+    "explanation": "Takie podejście pozwala przetwarzać dane na skalę, z którą pojedynczy, nawet bardzo mocny komputer, nie poradziłby sobie w rozsądnym czasie.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-34",
+    "title": "Blockchain zapisuje dane w sposób utrudniający ich niepostrzeżoną zmianę",
+    "content": "Technologia blockchain przechowuje dane w łańcuchu powiązanych ze sobą bloków, gdzie zmiana jednego z nich wymagałaby przebudowania wszystkich kolejnych.",
+    "category": "computerScience",
+    "explanation": "Ta struktura, rozproszona pomiędzy wieloma komputerami jednocześnie, utrudnia niezauważone sfałszowanie zapisanej historii transakcji.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-35",
+    "title": "Pierwszy edytor tekstu dla komputerów osobistych miał bardzo ograniczone możliwości",
+    "content": "Pierwsze programy do edycji tekstu na komputerach osobistych w latach 70. i 80. XX wieku nie obsługiwały nawet podstawowego formatowania czcionek.",
+    "category": "computerScience",
+    "explanation": "Dopiero rozwój edytorów graficznych, wyświetlających tekst dokładnie tak, jak wyglądałby na wydruku, zrewolucjonizował pracę biurową.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-36",
+    "title": "Uczenie maszynowe wykorzystuje dane treningowe do 'nauki' rozpoznawania wzorców",
+    "content": "Modele uczenia maszynowego dostosowują swoje wewnętrzne parametry na podstawie ogromnych zbiorów przykładowych danych, ucząc się rozpoznawać w nich powtarzające się wzorce.",
+    "category": "computerScience",
+    "explanation": "Im więcej różnorodnych danych treningowych, tym zwykle lepiej model radzi sobie z nowymi, nieznanymi wcześniej przypadkami.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "ai-20",
+    "title": "AI potrafi generować realistyczne twarze osób, które nigdy nie istniały",
+    "content": "Modele generatywne mogą tworzyć niezwykle realistyczne, w pełni wymyślone twarze ludzkie, które nie należą do żadnej istniejącej osoby.",
+    "category": "ai",
+    "explanation": "Technologia ta bywa wykorzystywana zarówno w projektowaniu awatarów, jak i budzi obawy związane z możliwym tworzeniem fałszywych tożsamości.",
+    "surpriseLevel": 4,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-21",
+    "title": "Systemy AI mogą tworzyć obrazy na podstawie samego opisu tekstowego",
+    "content": "Modele generatywne potrafią stworzyć realistyczny lub artystyczny obraz wyłącznie na podstawie krótkiego opisu słownego wpisanego przez użytkownika.",
+    "category": "ai",
+    "explanation": "Takie modele uczą się powiązania słów z wizualnymi cechami obrazów na podstawie ogromnych zbiorów opisanych wcześniej zdjęć i grafik.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-22",
+    "title": "Sztuczna inteligencja jest wykorzystywana do prognozowania pogody",
+    "content": "Nowoczesne modele AI analizują ogromne ilości danych atmosferycznych, wspomagając tradycyjne metody prognozowania pogody i przyspieszając obliczenia.",
+    "category": "ai",
+    "explanation": "Takie modele potrafią uczyć się na historycznych danych pogodowych, poprawiając z czasem dokładność krótkoterminowych prognoz.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "ai-23",
+    "title": "AI analizuje zdjęcia satelitarne, by śledzić zmiany klimatyczne",
+    "content": "Algorytmy sztucznej inteligencji przetwarzają ogromne ilości zdjęć satelitarnych, wykrywając zmiany w lodowcach, lasach i miastach na przestrzeni lat.",
+    "category": "ai",
+    "explanation": "Dzięki temu naukowcy mogą szybciej monitorować skutki zmian klimatycznych na skalę globalną, niż byłoby to możliwe ręcznie.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "ai-24",
+    "title": "Pierwsze eksperymenty z uczeniem maszynowym sięgają lat 50. XX wieku",
+    "content": "Już w latach 50. XX wieku badacze tworzyli proste programy potrafiące uczyć się grać w gry, takie jak warcaby, na podstawie wcześniejszych rozgrywek.",
+    "category": "ai",
+    "explanation": "Te wczesne eksperymenty, choć proste jak na dzisiejsze standardy, zapoczątkowały dziedzinę uczenia maszynowego rozwijaną do dziś.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-25",
+    "title": "Systemy AI bywają wykorzystywane do wykrywania oszustw finansowych",
+    "content": "Banki i firmy płatnicze wykorzystują modele sztucznej inteligencji do analizowania wzorców transakcji i wykrywania podejrzanych, potencjalnie oszukańczych operacji.",
+    "category": "ai",
+    "explanation": "Takie systemy potrafią wychwycić nietypowe zachowanie na koncie w ułamku sekundy, znacznie szybciej niż analiza wykonywana ręcznie.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-26",
+    "title": "Boty grające w gry planszowe uczą się strategii, rozgrywając miliony partii z samymi sobą",
+    "content": "Niektóre systemy AI opanowały skomplikowane gry planszowe, rozgrywając miliony partii przeciwko własnym wcześniejszym wersjom, bez ludzkiego nauczyciela.",
+    "category": "ai",
+    "explanation": "Ta metoda, zwana uczeniem przez wzmacnianie, pozwala programowi samodzielnie odkrywać skuteczne strategie metodą prób i błędów.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-27",
+    "title": "AI pomaga w projektowaniu nowych leków, przewidując ich działanie",
+    "content": "Modele sztucznej inteligencji potrafią przewidywać, jak potencjalne cząsteczki leków będą oddziaływać z białkami w organizmie, przyspieszając badania.",
+    "category": "ai",
+    "explanation": "Dzięki temu naukowcy mogą szybciej zawężać listę obiecujących kandydatów na leki, zanim przejdą do kosztownych testów laboratoryjnych.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-28",
+    "title": "Sztuczna inteligencja rozpoznaje gatunki zwierząt na zdjęciach z kamer w terenie",
+    "content": "Badacze przyrody wykorzystują AI do automatycznego rozpoznawania gatunków zwierząt na milionach zdjęć zbieranych przez ukryte kamery w terenie.",
+    "category": "ai",
+    "explanation": "Bez takiego wsparcia analiza tak ogromnej liczby zdjęć ręcznie zajęłaby zespołom badawczym całe lata pracy.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-29",
+    "title": "Modele rozpoznawania mowy uczą się jednocześnie na nagraniach wielu języków",
+    "content": "Niektóre nowoczesne modele rozpoznawania mowy trenowane są na nagraniach w dziesiątkach języków naraz, co poprawia ich skuteczność nawet w rzadszych językach.",
+    "category": "ai",
+    "explanation": "Dzięki wspólnemu uczeniu się wzorców dźwiękowych model potrafi lepiej radzić sobie z językami, dla których dostępnych danych jest niewiele.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-30",
+    "title": "Sztuczna inteligencja bywa wykorzystywana do przewidywania awarii maszyn",
+    "content": "Analizując dane z czujników pracujących maszyn przemysłowych, systemy AI potrafią przewidzieć zbliżającą się awarię, zanim faktycznie do niej dojdzie.",
+    "category": "ai",
+    "explanation": "Dzięki takiemu wczesnemu ostrzeżeniu firmy mogą zaplanować konserwację sprzętu, zanim awaria spowoduje kosztowny przestój produkcji.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-31",
+    "title": "AI potrafi generować zwięzłe podsumowania długich dokumentów tekstowych",
+    "content": "Modele językowe potrafią automatycznie streszczać wielostronicowe dokumenty do kilku zdań, zachowując najważniejsze informacje z oryginalnego tekstu.",
+    "category": "ai",
+    "explanation": "Ta funkcja bywa wykorzystywana między innymi do szybkiego przeglądania długich raportów, artykułów naukowych czy dokumentów prawnych.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-32",
+    "title": "Algorytmy uczenia maszynowego rozpoznają wzorce oszustw kartowych",
+    "content": "Systemy płatnicze wykorzystują uczenie maszynowe do analizowania wzorców zakupowych i natychmiastowego wychwytywania transakcji odbiegających od typowego zachowania klienta.",
+    "category": "ai",
+    "explanation": "Dzięki temu podejrzana transakcja może zostać zablokowana niemal w czasie rzeczywistym, zanim dojdzie do finalizacji płatności.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-33",
+    "title": "Sztuczna inteligencja analizuje obrazy medyczne w poszukiwaniu nowotworów",
+    "content": "Modele AI trenowane na tysiącach zdjęć medycznych potrafią wspierać lekarzy w wykrywaniu podejrzanych zmian nowotworowych na zdjęciach rentgenowskich czy tomografii.",
+    "category": "ai",
+    "explanation": "Takie systemy działają jako dodatkowe wsparcie dla radiologów, pomagając zwrócić uwagę na obszary wymagające dokładniejszej analizy.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "ai-34",
+    "title": "Systemy AI w grach wideo potrafią dostosowywać poziom trudności do gracza",
+    "content": "Niektóre gry komputerowe wykorzystują AI do obserwowania stylu gry użytkownika i dynamicznego dostosowywania poziomu trudności w czasie rzeczywistym.",
+    "category": "ai",
+    "explanation": "Celem takiego mechanizmu jest utrzymanie gracza w stanie zaangażowania – ani zbyt sfrustrowanego, ani znudzonego zbyt łatwym wyzwaniem.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-35",
+    "title": "AI pomaga tłumaczom w automatycznym tworzeniu napisów do filmów",
+    "content": "Systemy rozpoznawania mowy i tłumaczenia maszynowego automatycznie generują wstępne napisy do filmów, które później są poprawiane przez tłumaczy.",
+    "category": "ai",
+    "explanation": "Takie rozwiązanie znacznie przyspiesza proces tworzenia napisów, choć ostateczna redakcja wciąż wymaga udziału człowieka dla zachowania dokładności.",
+    "surpriseLevel": 2,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "ai-36",
+    "title": "Sztuczna inteligencja jest wykorzystywana do tłumaczenia zagrożonych języków",
+    "content": "Badacze wykorzystują modele AI do dokumentowania i tłumaczenia rzadkich, zagrożonych wymarciem języków na podstawie nielicznych dostępnych nagrań.",
+    "category": "ai",
+    "explanation": "Dzięki temu część wiedzy językowej społeczności posługujących się ginącymi językami może zostać zachowana dla przyszłych pokoleń.",
+    "surpriseLevel": 3,
+    "source": "MIT Technology Review",
+    "sourceUrl": "https://www.technologyreview.com"
+  },
+  {
+    "id": "archaeology-20",
+    "title": "Grobowce faraonów ukrywały pułapki i fałszywe przejścia",
+    "content": "Starożytni budowniczowie grobowców egipskich projektowali fałszywe korytarze i ukryte komory, by zmylić i zniechęcić potencjalnych rabusiów grobów.",
+    "category": "archaeology",
+    "explanation": "Mimo tych zabezpieczeń zdecydowana większość grobowców faraonów i tak została splądrowana już w starożytności.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-21",
+    "title": "Starożytne miasto Petra wykuto bezpośrednio w skalnych klifach",
+    "content": "Nabatejczycy wyrzeźbili monumentalne budowle miasta Petra w Jordanii bezpośrednio w piaskowcowych klifach ponad dwa tysiące lat temu.",
+    "category": "archaeology",
+    "explanation": "Miasto to było ważnym punktem na starożytnych szlakach handlowych, dzięki czemu zgromadziło znaczne bogactwo widoczne w jego architekturze.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-22",
+    "title": "Archeolodzy odnaleźli starożytne narzędzia chirurgiczne sprzed tysięcy lat",
+    "content": "Wykopaliska w różnych częściach świata ujawniły starożytne narzędzia chirurgiczne, w tym instrumenty służące do trepanacji czaszki sprzed tysięcy lat.",
+    "category": "archaeology",
+    "explanation": "Ślady zagojonych kości czaszki po takich zabiegach dowodzą, że część pacjentów przeżywała nawet tak ryzykowne, prymitywne operacje.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-23",
+    "title": "Analiza izotopów w kościach ujawnia dietę i pochodzenie starożytnych ludzi",
+    "content": "Badanie stosunku izotopów chemicznych w kościach i zębach pozwala archeologom ustalić, jaką dietę stosowała dana osoba i skąd pochodziła.",
+    "category": "archaeology",
+    "explanation": "Ta metoda pomogła na przykład ustalić, że część robotników budujących niektóre starożytne budowle przybyła z odległych regionów.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-24",
+    "title": "Wykopaliska w Çatalhöyük odsłoniły jedno z najstarszych znanych miast świata",
+    "content": "Stanowisko Çatalhöyük w dzisiejszej Turcji, liczące około dziewięciu tysięcy lat, jest jednym z najlepiej zachowanych przykładów wczesnych osad miejskich.",
+    "category": "archaeology",
+    "explanation": "Domy w tym mieście budowano ściana przy ścianie, a mieszkańcy wchodzili do wnętrza przez otwory w dachu, ponieważ nie istniały ulice między budynkami.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-25",
+    "title": "Rzymski beton przetrwał tysiące lat zanurzony w wodzie morskiej",
+    "content": "Starożytny rzymski beton stosowany w portowych konstrukcjach z czasem twardniał w kontakcie z wodą morską, zamiast ulegać erozji, jak większość nowoczesnego betonu.",
+    "category": "archaeology",
+    "explanation": "Naukowcy badają dziś skład tego starożytnego materiału, mając nadzieję na stworzenie bardziej trwałego betonu na potrzeby współczesnych konstrukcji morskich.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-26",
+    "title": "Groby wikingów zawierały łodzie wykorzystywane jako trumny",
+    "content": "Niektórzy zamożni wikingowie byli chowani razem z całą łodzią, którą wykorzystywano jako swego rodzaju trumnę, wraz z przedmiotami codziennego użytku.",
+    "category": "archaeology",
+    "explanation": "Taki pochówek miał symbolicznie zapewnić zmarłemu bezpieczną podróż do zaświatów zgodnie z ówczesnymi wierzeniami skandynawskimi.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-27",
+    "title": "Analiza starożytnego DNA ujawnia migracje ludzi sprzed tysięcy lat",
+    "content": "Badanie DNA wydobytego ze starożytnych szczątków pozwoliło naukowcom odtworzyć trasy migracji ludzi na różnych kontynentach na przestrzeni tysięcy lat.",
+    "category": "archaeology",
+    "explanation": "Dzięki tym badaniom udało się na przykład prześledzić, jak rolnictwo rozprzestrzeniało się po Europie wraz z falami migrujących ludzi.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "archaeology-28",
+    "title": "Angkor Wat jest jednym z największych kompleksów świątynnych na świecie",
+    "content": "Świątynia Angkor Wat w Kambodży, wzniesiona w XII wieku, jest jednym z największych zabytków religijnych świata pod względem zajmowanej powierzchni.",
+    "category": "archaeology",
+    "explanation": "Kompleks otoczony jest fosą i murami, a jego budowa wymagała precyzyjnego planowania architektonicznego i astronomicznego.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-29",
+    "title": "Grobowce chińskich cesarzy zawierały zaawansowane systemy odprowadzania rtęci",
+    "content": "Według starożytnych źródeł grobowiec pierwszego cesarza Chin miał zawierać rzeki rtęci symbolizujące realne rzeki i morza całego kraju.",
+    "category": "archaeology",
+    "explanation": "Badania geochemiczne gleby wokół grobowca wykazały rzeczywiście podwyższony poziom rtęci, co częściowo potwierdza te starożytne opisy.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-30",
+    "title": "Starożytne miasto Ur było jednym z pierwszych dużych ośrodków miejskich",
+    "content": "Miasto Ur w starożytnej Mezopotamii było już cztery tysiące lat temu jednym z największych i najważniejszych ośrodków miejskich znanego wówczas świata.",
+    "category": "archaeology",
+    "explanation": "Wykopaliska w Ur ujawniły monumentalną świątynię zwaną zigguratem oraz bogato wyposażone groby królewskie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "archaeology-31",
+    "title": "Ślady wyleczonych złamań na starożytnych kościach świadczą o opiece nad chorymi",
+    "content": "Archeolodzy odnaleźli starożytne szczątki ze śladami poważnych, ale wyleczonych złamań, co wskazuje, że innym członkom społeczności udzielano opieki podczas rekonwalescencji.",
+    "category": "archaeology",
+    "explanation": "Bez pomocy innych osób w dostarczaniu jedzenia i wody osoba z tak poważnym urazem nie przeżyłaby wystarczająco długo, by kość mogła się zrosnąć.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-32",
+    "title": "Podwodne wykopaliska ujawniły zatopione porty starożytnego świata",
+    "content": "Archeolodzy podwodni odkryli pozostałości starożytnych portów, które zatonęły w wyniku trzęsień ziemi lub podnoszenia się poziomu morza na przestrzeni wieków.",
+    "category": "archaeology",
+    "explanation": "Takie stanowiska, jak zatopiony port Aleksandrii, dostarczają cennych informacji o dawnym handlu morskim i architekturze nabrzeży.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-33",
+    "title": "Skamieniałe odchody dostarczają informacji o diecie starożytnych ludzi",
+    "content": "Skamieniałe odchody, zwane koprolitami, pozwalają naukowcom badać, co dokładnie jedli ludzie żyjący tysiące lat temu, na podstawie zachowanych resztek pokarmu.",
+    "category": "archaeology",
+    "explanation": "Analiza takich próbek ujawniła między innymi ślady nasion, kości ryb czy pyłków roślin spożywanych przez starożytne społeczności.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-34",
+    "title": "Starożytne kalendarze kamienne wyznaczały pory roku na podstawie ruchu Słońca",
+    "content": "Wiele starożytnych kultur budowało kamienne konstrukcje precyzyjnie ustawione tak, by wschodzące lub zachodzące słońce oznaczało nadejście przesileń i równonocy.",
+    "category": "archaeology",
+    "explanation": "Takie obserwatoria astronomiczne pomagały dawnym społecznościom planować siew i zbiory zgodnie z porami roku, jeszcze przed wynalezieniem pisma.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-35",
+    "title": "Starożytne kopalnie krzemienia dostarczały surowca na budowę narzędzi",
+    "content": "Prehistoryczni ludzie kopali głębokie szyby, by wydobywać wysokiej jakości krzemień, z którego wytwarzali ostre narzędzia i broń.",
+    "category": "archaeology",
+    "explanation": "Niektóre z tych starożytnych kopalni, liczące tysiące lat, były eksploatowane systematycznie przez wiele pokoleń tej samej społeczności.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-36",
+    "title": "Starożytne miasta budowano czasem na planie ściśle geometrycznym",
+    "content": "Niektóre starożytne miasta, jak Mohendżo Daro w dolinie Indusu, miały ulice ułożone w regularną, prostokątną siatkę już cztery tysiące lat temu.",
+    "category": "archaeology",
+    "explanation": "Taki poziom planowania urbanistycznego wskazuje na zaawansowaną organizację społeczną i administracyjną tamtejszej cywilizacji.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "language-19",
+    "title": "Papua-Nowa Gwinea ma najwięcej języków używanych w jednym kraju",
+    "content": "W Papui-Nowej Gwinei używa się ponad ośmiuset różnych języków, co czyni ją krajem o największej różnorodności językowej na świecie.",
+    "category": "language",
+    "explanation": "Ta ogromna różnorodność wynika w dużej mierze z górzystego ukształtowania terenu, które przez wieki izolowało od siebie sąsiadujące społeczności.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-20",
+    "title": "Chiński mandaryński ma najwięcej rodzimych użytkowników na świecie",
+    "content": "Pod względem liczby osób, dla których jest to język ojczysty, chiński mandaryński wyprzedza wszystkie inne języki świata, w tym angielski i hiszpański.",
+    "category": "language",
+    "explanation": "Wynika to głównie z ogromnej liczby ludności Chin, gdzie mandaryński jest oficjalnym językiem urzędowym całego kraju.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-21",
+    "title": "Niektóre języki afrykańskie wykorzystują dźwięki mlaskowe jako spółgłoski",
+    "content": "W niektórych językach południowej Afryki, takich jak khoisan czy zulu, dźwięki mlaskowe pełnią funkcję zwykłych spółgłosek, tworząc odrębne słowa.",
+    "category": "language",
+    "explanation": "Dla osób nieprzyzwyczajonych do takich dźwięków ich poprawne wypowiadanie bywa jednym z najtrudniejszych elementów nauki tych języków.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-22",
+    "title": "Alfabet łaciński wywodzi się pośrednio z alfabetu greckiego",
+    "content": "Alfabet łaciński, używany dziś w wielu językach świata, rozwinął się na bazie alfabetu greckiego, przejętego wcześniej za pośrednictwem Etrusków.",
+    "category": "language",
+    "explanation": "Wiele liter alfabetu łacińskiego wciąż przypomina swoim kształtem odpowiadające im litery greckie, mimo tysięcy lat ewolucji pisma.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-23",
+    "title": "Wietnamski i tajski to języki tonalne, w których wysokość głosu zmienia znaczenie słowa",
+    "content": "W językach tonalnych, takich jak wietnamski czy tajski, to samo słowo wypowiedziane innym tonem głosu może mieć zupełnie odmienne znaczenie.",
+    "category": "language",
+    "explanation": "Dlatego osoby uczące się takich języków muszą trenować nie tylko wymowę dźwięków, ale i precyzyjną melodię głosu w każdym słowie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-24",
+    "title": "Międzynarodowy alfabet fonetyczny pozwala zapisać wymowę dowolnego języka",
+    "content": "Międzynarodowy alfabet fonetyczny, w skrócie IPA, zawiera symbole pozwalające precyzyjnie zapisać wymowę głosek ze wszystkich znanych języków świata.",
+    "category": "language",
+    "explanation": "Lingwiści i lektorzy używają go, by jednoznacznie opisać dźwięki mowy, niezależnie od zasad pisowni danego języka.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-25",
+    "title": "Pierwsze systemy pisma powstały niezależnie w kilku miejscach świata",
+    "content": "Pismo wynaleziono niezależnie od siebie w kilku miejscach, między innymi w Mezopotamii, starożytnych Chinach oraz w przedkolumbijskiej Mezoameryce.",
+    "category": "language",
+    "explanation": "Fakt, że różne cywilizacje niezależnie doszły do podobnego rozwiązania problemu zapisu mowy, świadczy o uniwersalnej potrzebie utrwalania informacji.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-26",
+    "title": "Islandzki tworzy nowe słowa z rodzimych korzeni zamiast zapożyczeń",
+    "content": "Zamiast zapożyczać obce słowa dla nowych technologii, język islandzki często tworzy nowe wyrazy, łącząc istniejące już rodzime rdzenie słowotwórcze.",
+    "category": "language",
+    "explanation": "Dzięki temu podejściu islandzki zachowuje spójność językową, a nowe słowa często brzmią tak, jakby istniały od zawsze.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-27",
+    "title": "Gestykulacja różni się znacząco w zależności od kultury",
+    "content": "Ten sam gest dłoni, uznawany w jednej kulturze za pozytywny, w innym kraju może być zupełnie neutralny lub wręcz obraźliwy.",
+    "category": "language",
+    "explanation": "Dlatego podróżnicy i osoby pracujące międzynarodowo muszą uważać nie tylko na słowa, ale i na towarzyszący im język ciała.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-28",
+    "title": "Slang młodzieżowy zmienia się szybciej niż formalny język pisany",
+    "content": "Potoczny język młodzieżowy ewoluuje znacznie szybciej niż język formalny stosowany w dokumentach czy podręcznikach, często zmieniając się w ciągu zaledwie kilku lat.",
+    "category": "language",
+    "explanation": "Ta szybka zmienność wynika z chęci młodych ludzi do odróżnienia swojego sposobu mówienia od języka starszych pokoleń.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-29",
+    "title": "Niektóre języki gramatycznie oznaczają, skąd wiemy o danym fakcie",
+    "content": "W niektórych językach, na przykład w kilku językach andyjskich, gramatyka wymaga zaznaczenia, czy mówiący widział coś sam, czy usłyszał o tym od kogoś innego.",
+    "category": "language",
+    "explanation": "Ta cecha, zwana ewidencjalnością, sprawia, że w takich językach trudno jest przekazać informację bez ujawnienia źródła swojej wiedzy.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-30",
+    "title": "Pismo Braille'a można dziś czytać także za pomocą elektronicznych wyświetlaczy",
+    "content": "Oprócz tradycyjnych, wypukłych kropek na papierze, alfabet Braille'a można dziś odczytywać za pomocą elektronicznych wyświetlaczy z ruchomymi kołkami.",
+    "category": "language",
+    "explanation": "Takie urządzenia pozwalają osobom niewidomym na bieżąco czytać teksty cyfrowe, w tym strony internetowe i wiadomości.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-31",
+    "title": "Liczba języków świata maleje z powodu wypierania mniejszych języków przez większe",
+    "content": "Znaczna część spośród kilku tysięcy języków świata jest dziś zagrożona wymarciem, głównie z powodu wypierania ich przez dominujące języki globalne.",
+    "category": "language",
+    "explanation": "Wraz z zanikiem każdego takiego języka bezpowrotnie tracona jest część unikalnej wiedzy kulturowej i sposobu opisywania świata.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-32",
+    "title": "Pismo hieroglificzne łączyło znaki dźwiękowe ze znakami obrazkowymi",
+    "content": "Starożytne egipskie hieroglify nie były wyłącznie obrazkami – część znaków reprezentowała konkretne dźwięki, podobnie jak litery w alfabetach fonetycznych.",
+    "category": "language",
+    "explanation": "To połączenie obrazu i dźwięku sprawiało, że odczytanie hieroglifów wymagało znajomości zarówno symboliki, jak i systemu fonetycznego pisma.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-33",
+    "title": "Wiele języków ma słowa, których nie da się dokładnie przetłumaczyć jednym wyrazem",
+    "content": "Niektóre języki mają pojedyncze słowa opisujące złożone uczucia lub sytuacje, dla których inne języki potrzebują całego zdania, by oddać ich znaczenie.",
+    "category": "language",
+    "explanation": "Takie słowa często odzwierciedlają unikalne dla danej kultury sposoby postrzegania relacji, emocji czy codziennych sytuacji.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-34",
+    "title": "Dzieci dwujęzyczne mogą przełączać się między językami niemal automatycznie",
+    "content": "Dzieci wychowywane od najmłodszych lat w dwóch językach potrafią płynnie przełączać się między nimi w zależności od rozmówcy, często bez większego wysiłku.",
+    "category": "language",
+    "explanation": "Zjawisko to, zwane przełączaniem kodów, jest naturalnym elementem dwujęzyczności, a nie oznaką pomieszania czy trudności językowych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-35",
+    "title": "Alfabet fenicki był jednym z pierwszych alfabetów opartych wyłącznie na spółgłoskach",
+    "content": "Starożytny alfabet fenicki zapisywał wyłącznie spółgłoski, pozostawiając czytelnikowi domyślanie się samogłosek na podstawie kontekstu.",
+    "category": "language",
+    "explanation": "Ten system pisma rozprzestrzenił się na wiele późniejszych alfabetów, w tym grecki, który jako pierwszy dodał osobne znaki dla samogłosek.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

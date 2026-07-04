@@ -1,0 +1,852 @@
+[
+  {
+    "id": "culture-20",
+    "title": "Chiński Nowy Rok wyznacza kalendarz księżycowy",
+    "content": "Data chińskiego Nowego Roku zmienia się co roku, ponieważ zależy od cykli księżyca, a nie od stałej daty w kalendarzu słonecznym używanym na Zachodzie.",
+    "category": "culture",
+    "explanation": "Święto to przypada zwykle między końcem stycznia a połową lutego i jest obchodzone przez miliony ludzi na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-21",
+    "title": "Flamenco łączy taniec, śpiew i grę na gitarze w jedną tradycję",
+    "content": "Flamenco, wywodzące się z andaluzyjskiej Hiszpanii, to złożona tradycja artystyczna łącząca rytmiczny taniec, charakterystyczny śpiew i grę na gitarze.",
+    "category": "culture",
+    "explanation": "Ta forma sztuki ma korzenie w kulturze Romów, Maurów oraz ludności andaluzyjskiej, które przenikały się przez wieki.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-22",
+    "title": "Fińska sauna jest częścią codziennego życia od wieków",
+    "content": "W Finlandii sauna jest tak powszechna, że na kilka milionów mieszkańców przypadają miliony saun, znacznie więcej niż samochodów w tym kraju.",
+    "category": "culture",
+    "explanation": "Sauna od wieków pełni w fińskiej kulturze funkcję nie tylko higieniczną, ale też społeczną, jako miejsce spotkań i relaksu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-23",
+    "title": "Japońska ceremonia herbaty ma ściśle określony przebieg",
+    "content": "Tradycyjna japońska ceremonia parzenia i podawania herbaty przebiega według precyzyjnych, wielowiekowych zasad dotyczących gestów, naczyń i kolejności czynności.",
+    "category": "culture",
+    "explanation": "Celem ceremonii nie jest samo picie herbaty, lecz praktykowanie spokoju, szacunku i uważności wobec gości.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-24",
+    "title": "Święto Holi w Indiach celebruje nadejście wiosny kolorowymi proszkami",
+    "content": "Podczas indyjskiego święta Holi ludzie obsypują się nawzajem kolorowymi proszkami i wodą, symbolicznie witając wiosnę i triumf dobra nad złem.",
+    "category": "culture",
+    "explanation": "Święto to gromadzi ludzi niezależnie od kasty czy statusu społecznego, co czyni je jednym z najbardziej powszechnych obchodów w Indiach.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-25",
+    "title": "Maski karnawałowe w Wenecji mają wielowiekową tradycję",
+    "content": "Weneckie maski karnawałowe, znane z bogatych zdobień, pozwalały niegdyś mieszkańcom miasta ukrywać swoją tożsamość i status społeczny podczas świątecznych obchodów.",
+    "category": "culture",
+    "explanation": "Tradycja ta sięga średniowiecza i do dziś jest jednym z symboli rozpoznawalnych na całym świecie karnawału weneckiego.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-26",
+    "title": "Zdejmowanie butów przed wejściem do domu jest zwyczajem w wielu krajach Azji",
+    "content": "W wielu krajach Azji, takich jak Japonia czy Korea Południowa, zdejmowanie obuwia przed wejściem do domu jest powszechnym i ważnym zwyczajem kulturowym.",
+    "category": "culture",
+    "explanation": "Zwyczaj ten wynika z troski o czystość wnętrza domu, które często pełni też funkcję miejsca odpoczynku bezpośrednio na podłodze.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-27",
+    "title": "Flagi narodowe mają swoją symbolikę kolorów i wzorów",
+    "content": "Kolory i symbole na flagach narodowych zwykle odzwierciedlają historię, wartości lub geografię danego kraju, a nie są dobierane przypadkowo.",
+    "category": "culture",
+    "explanation": "Na przykład zielony kolor często symbolizuje rolnictwo lub naturę, a czerwony bywa kojarzony z walką o niepodległość.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-28",
+    "title": "Tradycyjne tatuaże polinezyjskie opowiadały historię danej osoby",
+    "content": "W tradycyjnej kulturze polinezyjskiej wzory tatuaży, zwane tatau, symbolicznie opowiadały o pochodzeniu, statusie społecznym i osiągnięciach danej osoby.",
+    "category": "culture",
+    "explanation": "Każdy element wzoru miał swoje konkretne znaczenie, dlatego tatuaż mógł być odczytywany niemal jak zapisana biografia.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-29",
+    "title": "Capoeira łączy w sobie taniec i sztukę walki",
+    "content": "Brazylijska capoeira powstała jako połączenie tańca, akrobatyki i sztuki walki, rozwinięte przez afrykańskich niewolników jako sposób ukrytego treningu obronnego.",
+    "category": "culture",
+    "explanation": "Dzięki rytmicznej muzyce i tanecznym ruchom capoeira mogła być praktykowana jawnie, mimo że w rzeczywistości uczyła technik samoobrony.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-30",
+    "title": "Przygotowania do karnawału w Rio trwają praktycznie cały rok",
+    "content": "Szkoły samby w Rio de Janeiro przygotowują stroje, choreografię i muzykę na karnawał przez niemal cały rok poprzedzający kilkudniowe obchody.",
+    "category": "culture",
+    "explanation": "Rywalizacja między poszczególnymi szkołami samby jest traktowana niezwykle poważnie i angażuje tysiące osób z lokalnych społeczności.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-31",
+    "title": "Niektóre kultury liczą wiek człowieka inaczej niż zachodni kalendarz",
+    "content": "W tradycyjnym koreańskim systemie liczenia wieku noworodek uznawany jest za mającego już rok życia w dniu narodzin, a nie zero, jak na Zachodzie.",
+    "category": "culture",
+    "explanation": "Ten system był powszechny w Korei przez wieki, choć obecnie kraj oficjalnie przechodzi na międzynarodowy sposób liczenia wieku.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-32",
+    "title": "Zwyczaj chowania monety w wypieku ma odpowiedniki w wielu krajach",
+    "content": "W wielu krajach Europy istnieje tradycja chowania monety lub drobnego przedmiotu w świątecznym cieście, a znalezienie go ma przynosić szczęście na cały rok.",
+    "category": "culture",
+    "explanation": "Podobne zwyczaje, choć pod różnymi nazwami, spotyka się we Francji, Grecji, Bułgarii i wielu innych krajach o odmiennych tradycjach kulinarnych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-33",
+    "title": "Stroje samurajów miały ściśle określoną symbolikę",
+    "content": "Zbroja i strój japońskiego samuraja zawierały elementy symbolizujące jego przynależność klanową, status społeczny oraz osobiste wartości, takie jak honor i lojalność.",
+    "category": "culture",
+    "explanation": "Nawet kolor sznurowań zbroi czy wzory na hełmie mogły przekazywać informacje o randze i przynależności danego wojownika.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-34",
+    "title": "Gest kciuka w górę ma różne znaczenia w różnych krajach",
+    "content": "Choć na Zachodzie gest uniesionego kciuka oznacza aprobatę, w niektórych krajach Bliskiego Wschodu i Azji bywa on odbierany jako obraźliwy.",
+    "category": "culture",
+    "explanation": "Ta różnica pokazuje, jak ważna jest znajomość lokalnych zwyczajów niewerbalnych podczas podróży międzynarodowych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-35",
+    "title": "Tradycja opowiadania historii przy ognisku istniała na długo przed pismem",
+    "content": "Zanim powstało pismo, wiedza, mity i historia społeczności były przekazywane ustnie z pokolenia na pokolenie, często właśnie podczas wspólnych spotkań przy ognisku.",
+    "category": "culture",
+    "explanation": "Ten sposób przekazu wymagał doskonałej pamięci narratorów i często opierał się na rytmicznych, łatwych do zapamiętania formach, takich jak pieśni czy rymy.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-36",
+    "title": "Niektóre tradycyjne tańce ludowe odtwarzają dawne czynności rolnicze",
+    "content": "Wiele tradycyjnych tańców ludowych na całym świecie w swoich ruchach naśladuje dawne czynności rolnicze, takie jak sianie, żniwa czy młócenie zboża.",
+    "category": "culture",
+    "explanation": "Tańce te powstawały często jako część obrzędów dziękczynnych za urodzaj, wykonywanych po zakończeniu prac polowych.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-20",
+    "title": "Rembrandt malował liczne autoportrety przez całe swoje życie",
+    "content": "Rembrandt van Rijn namalował kilkadziesiąt autoportretów w różnych okresach swojego życia, tworząc niezwykle szczegółowy zapis własnego starzenia się.",
+    "category": "art",
+    "explanation": "Te autoportrety pozwalają dziś historykom sztuki śledzić zarówno rozwój jego techniki malarskiej, jak i zmiany w jego życiu osobistym.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-21",
+    "title": "Technika sfumato Leonarda da Vinci zaciera wyraźne kontury",
+    "content": "Leonardo da Vinci rozwinął technikę sfumato, polegającą na delikatnym, niemal niezauważalnym przechodzeniu jednego koloru w drugi bez ostrych linii konturowych.",
+    "category": "art",
+    "explanation": "To właśnie ta technika odpowiada za miękkie, tajemnicze cienie widoczne wokół twarzy na obrazie Mona Lisa.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-22",
+    "title": "Impresjoniści często malowali w plenerze, uchwytując zmienne światło",
+    "content": "Malarze impresjoniści porzucili pracownie na rzecz malowania bezpośrednio w plenerze, starając się uchwycić ulotne efekty naturalnego światła i pogody.",
+    "category": "art",
+    "explanation": "To podejście było możliwe dzięki wynalezieniu przenośnych tubek z farbą olejną, które ułatwiły pracę poza pracownią malarską.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-23",
+    "title": "Fresk to technika malowania na świeżym, wilgotnym tynku",
+    "content": "Technika fresku polega na nakładaniu farby bezpośrednio na mokry tynk, dzięki czemu pigment wiąże się trwale z powierzchnią ściany w miarę jej wysychania.",
+    "category": "art",
+    "explanation": "Malarz musiał pracować szybko, zanim tynk wysechł, co wymagało dokładnego planowania kompozycji jeszcze przed rozpoczęciem malowania.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-24",
+    "title": "Technika kolażu łączy różne materiały w jedno dzieło sztuki",
+    "content": "Kolaż jako technika artystyczna polega na łączeniu wycinków papieru, tkanin czy innych materiałów w jedną, spójną kompozycję na płaskiej powierzchni.",
+    "category": "art",
+    "explanation": "Technikę tę spopularyzowali na początku XX wieku artyści awangardowi, wprowadzając do sztuki elementy codziennych, znalezionych przedmiotów.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-25",
+    "title": "Słynny obraz 'Krzyk' był kilkakrotnie kradziony i odzyskiwany",
+    "content": "Obraz Edvarda Muncha znany jako 'Krzyk' był co najmniej dwukrotnie kradziony z muzeów w Norwegii, a za każdym razem udało się go później odzyskać.",
+    "category": "art",
+    "explanation": "Wysoka rozpoznawalność i wartość dzieła sprawiają, że stało się ono jednym z częstszych celów prób kradzieży dzieł sztuki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-26",
+    "title": "Perspektywa linearna została matematycznie opisana w okresie renesansu",
+    "content": "Renesansowi artyści i architekci opracowali matematyczne zasady perspektywy linearnej, pozwalające realistycznie oddać głębię przestrzeni na płaskim obrazie.",
+    "category": "art",
+    "explanation": "Odkrycie to zrewolucjonizowało malarstwo, umożliwiając tworzenie obrazów sprawiających wrażenie trójwymiarowej głębi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-27",
+    "title": "Drzeworyt pozwalał powielać obrazy jeszcze przed erą druku typograficznego",
+    "content": "Technika drzeworytu, polegająca na wycinaniu obrazu w drewnianej płycie i odbijaniu go na papierze, umożliwiała powielanie grafik na długo przed wynalezieniem druku ruchomą czcionką.",
+    "category": "art",
+    "explanation": "Dzięki tej metodzie te same obrazy mogły trafiać do wielu odbiorców jednocześnie, co wcześniej było niemożliwe przy ręcznym kopiowaniu.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-28",
+    "title": "Niektóre XIX-wieczne obrazy kryją pod sobą ślady wcześniejszych kompozycji",
+    "content": "Analiza rentgenowska niektórych XIX-wiecznych obrazów ujawniła pod widoczną warstwą farby zupełnie inne, wcześniejsze kompozycje tego samego malarza.",
+    "category": "art",
+    "explanation": "Artyści często ponownie wykorzystywali te same płótna, malując nowy obraz bezpośrednio na starym, gdy nowe płótno było zbyt kosztowne.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-29",
+    "title": "Witraże średniowiecznych katedr opowiadały historie biblijne niepiśmiennym wiernym",
+    "content": "Kolorowe witraże w średniowiecznych katedrach pełniły funkcję obrazkowych opowieści biblijnych, zrozumiałych nawet dla wiernych, którzy nie potrafili czytać.",
+    "category": "art",
+    "explanation": "Światło przechodzące przez barwne szkło tworzyło dodatkowo niezwykły, uroczysty nastrój wewnątrz kamiennych budowli.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-30",
+    "title": "Rzeźbiarstwo w marmurze nie pozwala cofnąć żadnego błędu",
+    "content": "Rzeźbienie w marmurze polega na stopniowym usuwaniu nadmiaru kamienia, dlatego jeden błędny cios dłutem może nieodwracalnie zniszczyć wiele godzin wcześniejszej pracy.",
+    "category": "art",
+    "explanation": "Dlatego rzeźbiarze często najpierw tworzyli dokładne modele z gliny lub gipsu, by dopiero potem przenosić precyzyjny projekt na twardy kamień.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-31",
+    "title": "Technika pointylizmu buduje obraz z tysięcy małych kropek koloru",
+    "content": "Malarze pointylistyczni, tacy jak Georges Seurat, tworzyli obrazy z tysięcy drobnych kropek czystego koloru, które z odległości łączą się optycznie w spójny obraz.",
+    "category": "art",
+    "explanation": "Metoda ta opierała się na ówczesnych naukowych badaniach nad percepcją barw i sposobem, w jaki ludzkie oko miesza kolory z odległości.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-32",
+    "title": "Pierwsze zdjęcia kolorowe wymagały skomplikowanego procesu trzech osobnych ekspozycji",
+    "content": "Jedna z pierwszych metod fotografii kolorowej wymagała wykonania trzech osobnych czarno-białych zdjęć przez różne filtry barwne, a następnie ich połączenia.",
+    "category": "art",
+    "explanation": "Dopiero znacznie później opracowano filmy fotograficzne rejestrujące kolor bezpośrednio w jednej ekspozycji, bez konieczności łączenia kilku zdjęć.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-33",
+    "title": "Prace anonimowego artysty ulicznego bywają sprzedawane za ogromne kwoty",
+    "content": "Prace anonimowego brytyjskiego artysty ulicznego, znanego pod pseudonimem, potrafią osiągać na aukcjach ceny liczone w milionach, mimo że wciąż nie ujawnił on swojej tożsamości.",
+    "category": "art",
+    "explanation": "Ten paradoks – anonimowej sztuki ulicznej sprzedawanej w prestiżowych domach aukcyjnych – budzi wciąż dyskusje na temat natury i wartości sztuki współczesnej.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-34",
+    "title": "Niektórzy artyści malowali obrazy jednocześnie obiema rękami",
+    "content": "Niektórzy malarze i rysownicy w historii sztuki potrafili tworzyć dwa symetryczne lub odrębne fragmenty obrazu jednocześnie, posługując się obiema rękami naraz.",
+    "category": "art",
+    "explanation": "Ta rzadka umiejętność, zwana oburęcznością, wymaga wyjątkowej koordynacji i była traktowana jako niezwykły popis warsztatowy.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-35",
+    "title": "Muzeum Prado w Madrycie zgromadziło jedną z największych kolekcji malarstwa europejskiego",
+    "content": "Muzeum Prado w Madrycie przechowuje jedną z największych na świecie kolekcji dzieł europejskiego malarstwa, w tym setki obrazów hiszpańskich mistrzów.",
+    "category": "art",
+    "explanation": "Kolekcja ta powstała w dużej mierze dzięki wielowiekowemu mecenatowi hiszpańskiej rodziny królewskiej, gromadzącej dzieła sztuki od wieków.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-36",
+    "title": "Farby akwarelowe pozwalają na efekty niemożliwe do uzyskania farbą olejną",
+    "content": "Dzięki przezroczystości akwareli światło odbija się od papieru pod warstwą farby, tworząc świetlistość niemożliwą do uzyskania nieprzezroczystą farbą olejną.",
+    "category": "art",
+    "explanation": "Ta właściwość sprawia, że błędów w akwareli nie da się łatwo poprawić, w przeciwieństwie do farby olejnej, którą można nakładać wielokrotnie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-20",
+    "title": "Mozart komponował utwory muzyczne już jako małe dziecko",
+    "content": "Wolfgang Amadeusz Mozart zaczął komponować własne utwory muzyczne, mając zaledwie pięć lat, a już jako dziecko koncertował na dworach europejskich władców.",
+    "category": "music",
+    "explanation": "Jego niezwykły talent i wczesny rozwój muzyczny do dziś są przywoływane jako jeden z najbardziej wyjątkowych przypadków w historii muzyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-21",
+    "title": "Pierwsze nagranie dźwięku udało się wykonać w XIX wieku",
+    "content": "Thomas Edison w 1877 roku skonstruował fonograf, urządzenie, które jako jedno z pierwszych na świecie potrafiło nagrywać, a następnie odtwarzać dźwięk.",
+    "category": "music",
+    "explanation": "Wynalazek ten zapoczątkował całą przemysł nagraniowy, dzięki któremu muzyka mogła być po raz pierwszy w historii utrwalana i odtwarzana dowolną liczbę razy.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-22",
+    "title": "Skala pentatoniczna występuje niezależnie w muzyce wielu odległych kultur",
+    "content": "Skala pentatoniczna, złożona z pięciu dźwięków, pojawia się niezależnie w tradycyjnej muzyce Chin, Afryki, Ameryki Południowej i wielu innych regionów świata.",
+    "category": "music",
+    "explanation": "Naukowcy przypuszczają, że jej powszechność może wynikać z naturalnej harmonijności tych dźwięków dla ludzkiego ucha.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-23",
+    "title": "Brzmienie skrzypiec zależy w dużej mierze od jakości drewna i lakieru",
+    "content": "Legendarne skrzypce, takie jak instrumenty wykonane przez mistrza Stradivariego, zawdzięczają swoje niezwykłe brzmienie między innymi jakości drewna i receptury lakieru.",
+    "category": "music",
+    "explanation": "Naukowcy do dziś próbują dokładnie odtworzyć sekret tych instrumentów, analizując skład drewna i warstwy pokrywającego je lakieru.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-24",
+    "title": "Muzyka potrafi wywoływać u ludzi dreszcze zwane 'gęsią skórką'",
+    "content": "Niektóre fragmenty utworów muzycznych, zwłaszcza nagłe zmiany dynamiki lub harmonii, potrafią wywołać u słuchaczy fizyczną reakcję w postaci dreszczy na skórze.",
+    "category": "music",
+    "explanation": "Naukowcy powiązali to zjawisko z uwalnianiem dopaminy w mózgu w momentach silnego emocjonalnego zaangażowania w słuchaną muzykę.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "music-25",
+    "title": "Didgeridoo to jeden z najstarszych instrumentów dętych na świecie",
+    "content": "Didgeridoo, tradycyjny instrument rdzennych mieszkańców Australii, jest uważany za jeden z najstarszych wciąż używanych instrumentów dętych na świecie.",
+    "category": "music",
+    "explanation": "Gra na nim wymaga techniki oddechu okrężnego, pozwalającej wydobywać ciągły dźwięk bez przerywania go na zaczerpnięcie powietrza.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-26",
+    "title": "Opera Pekińska łączy śpiew, akrobacje i tradycyjny makijaż twarzy",
+    "content": "Chińska Opera Pekińska łączy w sobie śpiew, taniec, akrobatykę oraz charakterystyczny, symboliczny makijaż twarzy oznaczający cechy charakteru danej postaci.",
+    "category": "music",
+    "explanation": "Kolor i wzór makijażu informuje widza już na pierwszy rzut oka, czy dana postać jest bohaterem, zdrajcą czy postacią komiczną.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-27",
+    "title": "Niektórzy kompozytorzy tworzyli muzykę według ścisłych wzorów matematycznych",
+    "content": "Niektórzy kompozytorzy XX wieku komponowali utwory, opierając strukturę dźwięków na matematycznych sekwencjach, takich jak ciąg Fibonacciego.",
+    "category": "music",
+    "explanation": "Takie podejście miało nadać kompozycji ukrytą, logiczną strukturę, niekoniecznie od razu słyszalną dla przeciętnego słuchacza.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-28",
+    "title": "Human beatbox naśladuje brzmienie instrumentów perkusyjnych samymi ustami",
+    "content": "Wykonawcy beatboxu potrafią naśladować dźwięki perkusji, w tym stopy basowej i talerzy, wyłącznie za pomocą ust, języka i gardła, bez żadnych instrumentów.",
+    "category": "music",
+    "explanation": "Ta technika wymaga wielu lat treningu, by precyzyjnie kontrolować różne mięśnie odpowiedzialne za tworzenie dźwięku.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-29",
+    "title": "Muzyka filmowa potrafi wzmacniać emocje sceny bez użycia słów",
+    "content": "Ścieżka dźwiękowa filmu może znacząco zmienić odbiór tej samej sceny, wzmacniając napięcie, smutek lub radość wyłącznie za pomocą samej muzyki instrumentalnej.",
+    "category": "music",
+    "explanation": "Kompozytorzy filmowi celowo dobierają tempo, tonację i instrumentację, by kierować emocjami widza w konkretnych momentach fabuły.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-30",
+    "title": "Tradycyjne perkusje afrykańskie od wieków służyły do przekazywania wiadomości",
+    "content": "W niektórych tradycyjnych społecznościach Afryki bębny wykorzystywano nie tylko do muzyki, ale i do przekazywania wiadomości na duże odległości za pomocą ustalonych rytmów.",
+    "category": "music",
+    "explanation": "Odpowiednio wyszkolony słuchacz potrafił odczytać znaczenie konkretnego bicia bębna, podobnie jak dziś odczytujemy komunikat tekstowy.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-31",
+    "title": "Gitara akustyczna i elektryczna różnią się sposobem wzmacniania dźwięku",
+    "content": "Gitara akustyczna wzmacnia dźwięk strun dzięki rezonującemu, pustemu w środku pudłu, podczas gdy gitara elektryczna wymaga przetwornika i zewnętrznego wzmacniacza.",
+    "category": "music",
+    "explanation": "Ta różnica w konstrukcji wpływa znacząco na charakter brzmienia obu instrumentów, mimo że wizualnie mogą wyglądać dość podobnie.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-32",
+    "title": "Klawesyn poprzedzał powstanie fortepianu o kilka wieków",
+    "content": "Klawesyn, w którym struny są szarpane, a nie uderzane młoteczkami jak w fortepianie, był popularnym instrumentem klawiszowym na długo przed wynalezieniem fortepianu.",
+    "category": "music",
+    "explanation": "Fortepian zyskał popularność między innymi dlatego, że pozwalał grać zarówno głośno, jak i cicho, w zależności od siły uderzenia klawisza.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-33",
+    "title": "Jodłowanie wykorzystuje szybkie przełączanie między rejestrami głosu",
+    "content": "Technika jodłowania, znana z tradycyjnej muzyki alpejskiej, polega na szybkim przełączaniu się między niskim a bardzo wysokim rejestrem głosu.",
+    "category": "music",
+    "explanation": "Ta charakterystyczna zmiana rejestru wynika ze świadomego przełączania sposobu pracy strun głosowych podczas śpiewu.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-34",
+    "title": "Muzyka relaksacyjna bywa dostrajana do rytmu zbliżonego do tętna spoczynkowego",
+    "content": "Niektóre utwory muzyki relaksacyjnej komponuje się celowo w tempie zbliżonym do spoczynkowego rytmu serca, by wspomóc uspokojenie słuchacza.",
+    "category": "music",
+    "explanation": "Takie tempo, zwykle w okolicach sześćdziesięciu uderzeń na minutę, ma pomagać organizmowi naturalnie zwolnić i się zrelaksować.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "music-35",
+    "title": "Niektóre instrumenty muzyczne wykonuje się dziś z materiałów odzyskanych z recyklingu",
+    "content": "Niektórzy współcześni lutnicy i konstruktorzy instrumentów eksperymentują z tworzeniem grających instrumentów z materiałów pochodzących z recyklingu, w tym z odpadów.",
+    "category": "music",
+    "explanation": "Takie projekty łączą troskę o środowisko z dowodem na to, że dobre brzmienie niekoniecznie wymaga drogich, tradycyjnych materiałów.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-36",
+    "title": "Śpiew wielogłosowy istnieje w tradycjach muzycznych na całym świecie",
+    "content": "Śpiew wielogłosowy, w którym różne głosy śpiewają jednocześnie odrębne, uzupełniające się melodie, występuje niezależnie w tradycjach muzycznych bardzo odległych kultur.",
+    "category": "music",
+    "explanation": "Przykładem są zarówno chóry gruzińskie, jak i tradycyjne pieśni ludów Pigmejów w Afryce Środkowej, mimo braku historycznego kontaktu między nimi.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-20",
+    "title": "Starożytne igrzyska olimpijskie trwały ponad tysiąc lat, zanim je zniesiono",
+    "content": "Starożytne igrzyska olimpijskie odbywały się nieprzerwanie przez ponad tysiąc lat, zanim zostały zniesione pod koniec IV wieku naszej ery.",
+    "category": "sport",
+    "explanation": "Nowożytne igrzyska olimpijskie, wskrzeszone dopiero pod koniec XIX wieku, nawiązują do tej starożytnej tradycji sportowej i pokojowej rywalizacji.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-21",
+    "title": "Zespoły Formuły 1 potrafią wymienić wszystkie opony w kilka sekund",
+    "content": "Wyszkolone zespoły mechaników Formuły 1 potrafią wymienić wszystkie cztery opony bolidu podczas postoju w alei serwisowej w niecałe trzy sekundy.",
+    "category": "sport",
+    "explanation": "Taka precyzja wymaga ścisłej koordynacji kilkunastu osób, z których każda odpowiada za jeden, dokładnie wyćwiczony element całej procedury.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-22",
+    "title": "Curling wymaga precyzyjnego szczotkowania lodu, by kontrolować tor kamienia",
+    "content": "W curlingu zawodnicy szybko szczotkują powierzchnię lodu przed sunącym kamieniem, co zmienia tarcie i pozwala kontrolować jego prędkość oraz kierunek toru.",
+    "category": "sport",
+    "explanation": "Ta z pozoru prosta czynność wymaga dużej precyzji i zgranej współpracy całej drużyny, by kamień zatrzymał się dokładnie w wyznaczonym miejscu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-23",
+    "title": "Pierwsze mecze piłki nożnej rozgrywano bez ustalonego rozmiaru boiska",
+    "content": "We wczesnych, nieformalnych wersjach piłki nożnej rozmiar boiska nie był ściśle określony i różnił się znacznie w zależności od dostępnego terenu.",
+    "category": "sport",
+    "explanation": "Dopiero spisanie oficjalnych zasad w XIX wieku ujednoliciło rozmiary boiska i podstawowe reguły gry na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-24",
+    "title": "Sporty zimowe wymagają specjalnie przygotowanego, sztucznego śniegu lub lodu",
+    "content": "Wiele zawodów w sportach zimowych, nawet w naturalnie zimnych krajach, korzysta ze sztucznie wytwarzanego śniegu lub specjalnie mrożonego lodu, by zapewnić stałe warunki.",
+    "category": "sport",
+    "explanation": "Dzięki temu organizatorzy zawodów mogą zagwarantować identyczne warunki dla wszystkich zawodników, niezależnie od kaprysów pogody.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-25",
+    "title": "Judo powstało w Japonii jako sposób na samoobronę bez użycia broni",
+    "content": "Judo zostało stworzone pod koniec XIX wieku w Japonii jako system samoobrony i wychowania fizycznego, wykorzystujący siłę przeciwnika zamiast walki z nią wprost.",
+    "category": "sport",
+    "explanation": "Twórca judo, Jigoro Kano, kładł duży nacisk na aspekt edukacyjny tej sztuki walki, a nie wyłącznie na samą skuteczność bojową.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-26",
+    "title": "Triathlon łączy pływanie, jazdę na rowerze i bieganie w jednym zawodzie",
+    "content": "Triathlon to dyscyplina sportowa łącząca w jednych zawodach pływanie, jazdę na rowerze oraz bieg, rozgrywane bezpośrednio jedno po drugim bez dłuższej przerwy.",
+    "category": "sport",
+    "explanation": "Zawodnicy muszą sprawnie i szybko przechodzić między poszczególnymi dyscyplinami, ponieważ czas spędzony na przebraniu również wlicza się do ostatecznego wyniku.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-27",
+    "title": "Rekordy lekkoatletyczne bywają zależne od warunków pogodowych",
+    "content": "Rekordy w biegach sprinterskich mogą zostać uznane za oficjalne tylko wtedy, gdy wiatr wiejący w plecy zawodnika nie przekracza ściśle określonej wartości.",
+    "category": "sport",
+    "explanation": "Zbyt silny wiatr w plecy mógłby sztucznie zawyżać wynik biegacza, dlatego organizatorzy mierzą jego prędkość specjalnymi czujnikami.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-28",
+    "title": "Łucznictwo olimpijskie wymaga trafienia w tarczę oddaloną o kilkadziesiąt metrów",
+    "content": "W olimpijskim łucznictwie zawodnicy strzelają do tarczy oddalonej o siedemdziesiąt metrów, celując w środek o średnicy zaledwie kilkunastu centymetrów.",
+    "category": "sport",
+    "explanation": "Na taką odległość nawet najmniejsze drżenie ręki czy podmuch wiatru może znacząco wpłynąć na trafność strzału.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-29",
+    "title": "Wspinaczka wysokogórska wymaga stopniowej aklimatyzacji do rzadkiego powietrza",
+    "content": "Na dużych wysokościach powietrze zawiera znacznie mniej tlenu, dlatego wspinacze muszą stopniowo aklimatyzować organizm, zanim zaatakują najwyższe partie gór.",
+    "category": "sport",
+    "explanation": "Zbyt szybkie wejście na dużą wysokość bez aklimatyzacji grozi poważną chorobą wysokościową, niebezpieczną nawet dla bardzo wytrenowanych osób.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-30",
+    "title": "Snowboarding wywodzi się częściowo z surfingu i deskorolki",
+    "content": "Snowboarding powstał w drugiej połowie XX wieku, inspirowany zarówno surfingiem na falach, jak i jazdą na deskorolce, przeniesionymi na zaśnieżone stoki.",
+    "category": "sport",
+    "explanation": "Choć początkowo traktowany z rezerwą przez tradycyjne środowisko narciarskie, snowboarding z czasem stał się pełnoprawną dyscypliną olimpijską.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-31",
+    "title": "Walki sumo w Japonii poprzedzają ścisłe rytuały",
+    "content": "Przed właściwą walką w sumo zawodnicy wykonują szereg tradycyjnych rytuałów, w tym rozsypywanie soli na ringu, mające symbolicznie oczyścić miejsce walki.",
+    "category": "sport",
+    "explanation": "Te rytuały, głęboko zakorzenione w japońskiej tradycji, są integralną częścią sumo, tak samo ważną jak sama sportowa rywalizacja.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-32",
+    "title": "Pierwsze nowożytne igrzyska olimpijskie odbyły się w Atenach w 1896 roku",
+    "content": "Pierwsze nowożytne igrzyska olimpijskie, zorganizowane z inicjatywy Pierre'a de Coubertina, odbyły się w Atenach w 1896 roku, gromadząc sportowców z kilkunastu krajów.",
+    "category": "sport",
+    "explanation": "Od tamtej pory, z wyjątkiem przerw spowodowanych wojnami światowymi, igrzyska olimpijskie odbywają się regularnie co cztery lata.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-33",
+    "title": "Squash należy do sportów o najwyższym tempie spalania kalorii",
+    "content": "Ze względu na intensywność i ciągły ruch, squash jest często wymieniany jako jeden ze sportów pozwalających spalić najwięcej kalorii w krótkim czasie gry.",
+    "category": "sport",
+    "explanation": "Dynamiczne zmiany kierunku i konieczność szybkiego reagowania na odbicia piłki angażują niemal cały układ mięśniowy zawodnika.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-34",
+    "title": "Boks zawodowy dzieli zawodników na kategorie wagowe dla większego bezpieczeństwa",
+    "content": "Podział na kategorie wagowe w boksie ma na celu zapewnienie, by rywalizujący ze sobą zawodnicy mieli podobną masę ciała, co zwiększa bezpieczeństwo i sprawiedliwość walki.",
+    "category": "sport",
+    "explanation": "Bez takiego podziału znaczna różnica masy ciała między zawodnikami mogłaby prowadzić do bardzo nierównych i niebezpiecznych pojedynków.",
+    "surpriseLevel": 1,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-35",
+    "title": "Wioślarstwo jest dyscypliną olimpijską od czasów pierwszych nowożytnych igrzysk",
+    "content": "Wioślarstwo znajduje się w programie igrzysk olimpijskich niemal od samego początku ery nowożytnych igrzysk, choć pierwsze zaplanowane zawody odwołano z powodu pogody.",
+    "category": "sport",
+    "explanation": "Dyscyplina ta wymaga od zawodników wyjątkowej wytrzymałości oraz perfekcyjnej synchronizacji ruchów całej załogi łodzi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-36",
+    "title": "Sporty motorowe wymagają paliw o innym składzie niż zwykła benzyna",
+    "content": "Paliwa stosowane w wyścigowych sportach motorowych mają często inny skład chemiczny niż zwykła benzyna sprzedawana na stacjach, co pozwala uzyskać wyższą wydajność silnika.",
+    "category": "sport",
+    "explanation": "Regulaminy większości serii wyścigowych ściśle określają dopuszczalny skład takiego paliwa, by zachować uczciwą rywalizację między zespołami.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "animals-20",
+    "title": "Osy potrafią rozpoznawać twarze innych os w swojej kolonii",
+    "content": "Niektóre gatunki os potrafią rozpoznawać indywidualne twarze innych os w swojej kolonii, podobnie jak ludzie rozpoznają znajome osoby.",
+    "category": "animals",
+    "explanation": "Ta zdolność pomaga im ustalać i utrzymywać hierarchię społeczną wewnątrz gniazda bez konieczności ciągłych, kosztownych energetycznie starć.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-21",
+    "title": "Niektóre gatunki ptaków budują gniazda używane przez wiele pokoleń",
+    "content": "Niektóre duże gatunki ptaków drapieżnych budują ogromne gniazda, które są następnie rozbudowywane i ponownie używane przez kolejne pokolenia tych samych ptaków.",
+    "category": "animals",
+    "explanation": "Z czasem takie gniazda mogą osiągać ogromne rozmiary i wagę, ważąc nawet setki kilogramów po latach systematycznej rozbudowy.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-22",
+    "title": "Koala śpi większość doby, oszczędzając energię",
+    "content": "Koale spędzają na śnie nawet do dwudziestu godzin na dobę, co pomaga im oszczędzać energię, ponieważ ich dieta z liści eukaliptusa jest bardzo uboga.",
+    "category": "animals",
+    "explanation": "Liście eukaliptusa są dodatkowo trudne do strawienia i lekko toksyczne, co dodatkowo wymusza na koalach spowolniony, energooszczędny tryb życia.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-23",
+    "title": "Rekiny młot mają oczy rozstawione na końcach spłaszczonej głowy",
+    "content": "Charakterystyczny kształt głowy rekina młota umieszcza jego oczy daleko po bokach, co daje mu wyjątkowo szerokie pole widzenia we wszystkich kierunkach.",
+    "category": "animals",
+    "explanation": "Taki układ oczu pozwala rekinowi młotowi widzieć niemal cały obszar wokół siebie, kosztem częściowej utraty widzenia bezpośrednio przed sobą.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-24",
+    "title": "Niektóre gatunki ryb wykrywają pola elektryczne innych zwierząt",
+    "content": "Niektóre ryby, takie jak rekiny czy węgorze elektryczne, potrafią wykrywać słabe pola elektryczne generowane przez mięśnie innych zwierząt w wodzie.",
+    "category": "animals",
+    "explanation": "Ta zdolność pozwala im lokalizować ukryty w piasku pokarm lub potencjalną zdobycz nawet w mętnej, słabo widocznej wodzie.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-25",
+    "title": "Psy potrafią rozróżniać emocje zawarte w ludzkim głosie",
+    "content": "Badania pokazują, że psy potrafią rozróżniać emocjonalny ton ludzkiego głosu, reagując inaczej na głos radosny, smutny czy zły, nawet nie znając znaczenia słów.",
+    "category": "animals",
+    "explanation": "Ta zdolność wynika prawdopodobnie z tysięcy lat wspólnej ewolucji psów i ludzi, podczas której umiejętność odczytywania nastroju właściciela dawała psom przewagę.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-26",
+    "title": "Niektóre mrówki potrafią budować tratwy ze swoich ciał, by przetrwać powódź",
+    "content": "W obliczu powodzi niektóre gatunki mrówek łączą się ciałami w pływającą tratwę, w której centrum chronią królową i larwy przed utonięciem.",
+    "category": "animals",
+    "explanation": "Taka tratwa może utrzymać się na powierzchni wody przez wiele dni, dzięki czemu kolonia przetrwa nawet długotrwałe zalanie mrowiska.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-27",
+    "title": "Ośmiornice potrafią niemal natychmiastowo zmieniać kolor i teksturę skóry",
+    "content": "Ośmiornice i kalmary posiadają w skórze wyspecjalizowane komórki, dzięki którym mogą w ułamku sekundy zmieniać zarówno kolor, jak i fakturę swojej powierzchni ciała.",
+    "category": "animals",
+    "explanation": "Ta niezwykła zdolność służy zarówno maskowaniu się przed drapieżnikami, jak i komunikacji z innymi osobnikami tego samego gatunku.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-28",
+    "title": "Niektóre gatunki nietoperzy żywią się wyłącznie nektarem kwiatów",
+    "content": "Niektóre gatunki nietoperzy, w przeciwieństwie do popularnego wyobrażenia, żywią się wyłącznie nektarem kwiatów, pełniąc ważną rolę zapylaczy w swoich ekosystemach.",
+    "category": "animals",
+    "explanation": "Ich długie języki są dostosowane do sięgania głęboko do kwiatów, podobnie jak u kolibrów, mimo że oba gatunki nie są ze sobą spokrewnione.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-29",
+    "title": "Słonie komunikują się na duże odległości za pomocą niskich dźwięków",
+    "content": "Słonie potrafią wydawać dźwięki o częstotliwości zbyt niskiej, by usłyszał je człowiek, docierające do innych słoni oddalonych nawet o kilka kilometrów.",
+    "category": "animals",
+    "explanation": "Te dźwięki, wyczuwalne częściowo jako wibracje przez stopy zwierzęcia, pozwalają stadom koordynować swoje ruchy nawet na dużych, otwartych obszarach.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-30",
+    "title": "Niedźwiedzie brunatne nie jedzą ani nie piją podczas snu zimowego",
+    "content": "Podczas kilkumiesięcznego snu zimowego niedźwiedzie brunatne nie jedzą, nie piją ani nie oddają moczu, żyjąc wyłącznie z wcześniej zgromadzonych zapasów tłuszczu.",
+    "category": "animals",
+    "explanation": "Ich organizm w tym czasie potrafi przetwarzać własne odpady metaboliczne w sposób niemożliwy do zastosowania u większości innych ssaków.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-31",
+    "title": "Niektóre gatunki ptaków potrafią naśladować dźwięki maszyn",
+    "content": "Niektóre ptaki śpiewające, takie jak szpaki czy papugi, potrafią naśladować nie tylko inne zwierzęta, ale też odgłosy maszyn, telefonów czy alarmów samochodowych.",
+    "category": "animals",
+    "explanation": "Ta zdolność naśladowania wynika z bardzo elastycznej budowy ich narządu głosowego, umożliwiającej wydawanie zaskakująco różnorodnych dźwięków.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-32",
+    "title": "Rekiny wymieniają zęby przez całe swoje życie",
+    "content": "Rekiny tracą i odtwarzają zęby przez całe życie, a niektóre gatunki mogą zużyć w ten sposób nawet dziesiątki tysięcy zębów na przestrzeni swojego życia.",
+    "category": "animals",
+    "explanation": "Nowe zęby rosną w rzędach za tymi używanymi i przesuwają się do przodu, gdy stare zęby wypadną lub się złamią.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-33",
+    "title": "Wiewiórki pamiętają lokalizację tysięcy ukrytych przez siebie zapasów",
+    "content": "Wiewiórki potrafią zapamiętać dokładne miejsce ukrycia tysięcy pojedynczych orzechów schowanych jesienią na zapas, odnajdując je nawet po kilku miesiącach.",
+    "category": "animals",
+    "explanation": "Naukowcy przypuszczają, że wiewiórki korzystają przy tym z charakterystycznych punktów orientacyjnych w terenie, a nie wyłącznie z pamięci przestrzennej.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-34",
+    "title": "Niektóre żaby wydzielają przez skórę silne substancje toksyczne",
+    "content": "Niektóre gatunki żab, takie jak żaby drzewołazy, wydzielają przez skórę silnie toksyczne substancje, które chronią je przed niemal wszystkimi drapieżnikami.",
+    "category": "animals",
+    "explanation": "Jaskrawe, ostrzegawcze barwy takich żab informują potencjalnych drapieżników, że dotknięcie lub zjedzenie ich może być bardzo niebezpieczne.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-35",
+    "title": "Papugi potrafią naśladować ludzką mowę, choć nie rozumieją jej znaczenia",
+    "content": "Papugi są zdolne do wiernego naśladowania ludzkich słów i zdań dzięki elastycznej budowie krtani, choć w większości przypadków nie rozumieją znaczenia powtarzanych fraz.",
+    "category": "animals",
+    "explanation": "Niektóre badania sugerują jednak, że najbardziej inteligentne gatunki papug potrafią kojarzyć niektóre słowa z konkretnymi przedmiotami czy sytuacjami.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-36",
+    "title": "Niektóre gatunki mrówek prowadzą regularne 'wojny' o terytorium",
+    "content": "Kolonie niektórych gatunków mrówek regularnie toczą ze sobą zorganizowane starcia terytorialne, przypominające swoją skalą i organizacją prawdziwe konflikty zbrojne.",
+    "category": "animals",
+    "explanation": "Takie starcia mogą angażować tysiące robotnic i trwać wiele godzin, a ich celem jest zwykle kontrola nad źródłami pożywienia w danym rejonie.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "id": "science-20",
+    "title": "Ludzkie ciało zawiera śladowe ilości złota",
+    "content": "Organizm przeciętnego dorosłego człowieka zawiera około 0,2 miligrama złota, rozproszonego głównie we krwi i kościach.",
+    "category": "science",
+    "explanation": "Ilość jest zbyt mała, by pełnić jakąkolwiek funkcję biologiczną, ale wystarczająco duża, by wykryć ją czułymi metodami laboratoryjnymi.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-21",
+    "title": "Kwas fluorowodorowy rozpuszcza szkło",
+    "content": "To jeden z niewielu powszechnie znanych związków chemicznych zdolnych rozpuścić szkło, ponieważ reaguje bezpośrednio z dwutlenkiem krzemu.",
+    "category": "science",
+    "explanation": "Dlatego przechowuje się go w pojemnikach z tworzyw sztucznych, a nie w typowych szklanych naczyniach laboratoryjnych.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-22",
+    "title": "Czasem gorąca woda zamarza szybciej niż zimna",
+    "content": "Zjawisko znane jako efekt Mpemby opisuje sytuacje, w których cieplejsza woda w pewnych warunkach zamarza szybciej niż chłodniejsza próbka.",
+    "category": "science",
+    "explanation": "Mechanizm wciąż budzi dyskusje naukowe – tłumaczy się go m.in. różnicami w parowaniu, konwekcji i rozpuszczonych gazach.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-23",
+    "title": "Dźwięk nie rozchodzi się w próżni",
+    "content": "Dźwięk potrzebuje ośrodka materialnego – powietrza, wody czy metalu – ponieważ jest falą mechaniczną przenoszoną przez drgania cząsteczek.",
+    "category": "science",
+    "explanation": "W przestrzeni kosmicznej, gdzie panuje niemal doskonała próżnia, żadne drgania nie mają czego przenosić.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "science-24",
+    "title": "Bursztyn to skamieniała żywica sprzed milionów lat",
+    "content": "Bursztyn powstaje z żywicy drzew iglastych, która twardniała i zachowywała się w ziemi lub wodzie przez dziesiątki milionów lat.",
+    "category": "science",
+    "explanation": "Niektóre bryłki bursztynu zawierają doskonale zachowane owady lub rośliny sprzed epoki dinozaurów.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "science-25",
+    "title": "Syntetyczne diamenty są chemicznie identyczne z naturalnymi",
+    "content": "Diamenty wytwarzane w laboratoriach mają dokładnie taką samą strukturę krystaliczną i skład chemiczny jak diamenty wydobywane z ziemi.",
+    "category": "science",
+    "explanation": "Odróżnienie ich wymaga specjalistycznego sprzętu wykrywającego subtelne różnice powstałe w procesie produkcji.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-26",
+    "title": "Zasadę camera obscura znano już w starożytności",
+    "content": "Starożytni uczeni zauważyli, że światło przechodzące przez mały otwór do ciemnego pomieszczenia tworzy odwrócony obraz otoczenia na ścianie.",
+    "category": "science",
+    "explanation": "To samo zjawisko optyczne leży u podstaw działania ludzkiego oka oraz późniejszych aparatów fotograficznych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-27",
+    "title": "Woda wrze w niższej temperaturze na dużej wysokości",
+    "content": "Im niższe ciśnienie atmosferyczne, tym niższa temperatura wrzenia wody – w wysokich górach woda może wrzeć już przy około 70 stopniach Celsjusza.",
+    "category": "science",
+    "explanation": "Dlatego gotowanie potraw na dużej wysokości trwa dłużej – niższa temperatura wrzenia oznacza wolniejsze przenikanie ciepła.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-28",
+    "title": "Obrót Ziemi zakrzywia tor wielkich prądów powietrza i wody",
+    "content": "Za sprawą efektu Coriolisa, wynikającego z obrotu Ziemi wokół własnej osi, wielkoskalowe prądy powietrzne i oceaniczne skręcają w charakterystyczny sposób.",
+    "category": "science",
+    "explanation": "Efekt jest zauważalny dopiero na wielką skalę – nie wpływa realnie na kierunek wody spływającej w domowym zlewie.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-29",
+    "title": "Metaliczny potas reaguje gwałtownie z wodą",
+    "content": "Czysty potas w kontakcie z wodą natychmiast się zapala, wydzielając wodór i dużo ciepła w bardzo gwałtownej reakcji chemicznej.",
+    "category": "science",
+    "explanation": "Dlatego metale alkaliczne, takie jak potas czy sód, przechowuje się w laboratoriach zanurzone w oleju, z dala od wilgoci.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-30",
+    "title": "Niektóre grzyby świecą w ciemności",
+    "content": "Kilkadziesiąt gatunków grzybów wytwarza własne światło dzięki reakcji chemicznej zwanej bioluminescencją, świecąc delikatnie w nocy.",
+    "category": "science",
+    "explanation": "Naukowcy przypuszczają, że blask przyciąga owady, które pomagają rozprzestrzeniać zarodniki grzyba.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "science-31",
+    "title": "Kryształy soli kuchennej mają regularny, sześcienny układ",
+    "content": "Chlorek sodu krystalizuje w układzie regularnym, dlatego ziarenka zwykłej soli kuchennej pod mikroskopem mają kształt maleńkich sześcianów.",
+    "category": "science",
+    "explanation": "Ten uporządkowany układ atomów sodu i chloru wynika z ich naprzemiennego, geometrycznie stabilnego rozmieszczenia w sieci krystalicznej.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "science-32",
+    "title": "Dwutlenek węgla pochłania promieniowanie podczerwone",
+    "content": "Cząsteczki dwutlenku węgla w atmosferze pochłaniają i ponownie emitują promieniowanie podczerwone, co jest podstawą naturalnego efektu cieplarnianego.",
+    "category": "science",
+    "explanation": "Bez tego zjawiska średnia temperatura powierzchni Ziemi byłaby znacznie niższa niż obecnie.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "science-33",
+    "title": "Światło porusza się wolniej w szkle i wodzie niż w próżni",
+    "content": "Przechodząc przez szkło lub wodę, światło zwalnia w porównaniu z prędkością, jaką osiąga w próżni, co powoduje zjawisko załamania.",
+    "category": "science",
+    "explanation": "To właśnie to spowolnienie i zmiana kierunku światła sprawiają, że słomka w szklance wody wygląda na złamaną.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-34",
+    "title": "Fale radiowe i światło widzialne to ten sam rodzaj promieniowania",
+    "content": "Fale radiowe, światło widzialne i promieniowanie rentgenowskie są formami tego samego zjawiska – promieniowania elektromagnetycznego – różniącymi się długością fali.",
+    "category": "science",
+    "explanation": "Ludzkie oko odbiera jedynie niewielki wycinek tego szerokiego spektrum, który nazywamy światłem widzialnym.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "science-35",
+    "title": "Pierwsze superszybkie zdjęcia uchwyciły kroplę mleka w locie",
+    "content": "W latach 30. XX wieku inżynier Harold Edgerton opracował technikę fotografii stroboskopowej, uwieczniając moment odbicia się kropli mleka.",
+    "category": "science",
+    "explanation": "Jego metoda pozwoliła po raz pierwszy zobaczyć zjawiska trwające ułamki sekundy, niewidoczne gołym okiem.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "science-36",
+    "title": "Magnetyt to naturalnie namagnesowany minerał",
+    "content": "Magnetyt jest jednym z niewielu minerałów, które w naturze mogą być trwale namagnesowane i same przyciągać drobne metalowe przedmioty.",
+    "category": "science",
+    "explanation": "Starożytni żeglarze wykorzystywali kawałki magnetytu jako pierwsze prymitywne kompasy do orientacji w terenie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "space-21",
+    "title": "Na Tytanie, księżycu Saturna, płyną rzeki metanu",
+    "content": "Tytan, największy księżyc Saturna, ma na swojej powierzchni jeziora i rzeki ciekłego metanu oraz etanu zamiast wody.",
+    "category": "space",
+    "explanation": "Panująca tam temperatura, około minus 180 stopni Celsjusza, sprawia, że metan pozostaje w stanie ciekłym zamiast gazowym.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-22",
+    "title": "Merkury nie jest najgorętszą planetą Układu Słonecznego",
+    "content": "Choć Merkury krąży najbliżej Słońca, to Wenus ma wyższą temperaturę powierzchni z powodu gęstej atmosfery zatrzymującej ciepło.",
+    "category": "space",
+    "explanation": "Atmosfera Wenus składa się głównie z dwutlenku węgla, co wywołuje ekstremalny efekt cieplarniany.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-23",
+    "title": "Czarne dziury emitują promieniowanie i mogą powoli parować",
+    "content": "Zgodnie z teorią Stephena Hawkinga czarne dziury powoli emitują promieniowanie i tracą masę, co teoretycznie może prowadzić do ich zaniku.",
+    "category": "space",
+    "explanation": "Proces ten, zwany promieniowaniem Hawkinga, jest tak wolny dla dużych czarnych dziur, że trwałby dłużej niż obecny wiek Wszechświata.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-24",
+    "title": "Na Marsie zachodzą pyłowe burze obejmujące całą planetę",
+    "content": "Mars regularnie doświadcza burz pyłowych, które w skrajnych przypadkach potrafią otoczyć całą planetę i trwać całymi miesiącami.",
+    "category": "space",
+    "explanation": "Taka globalna burza w 2018 roku zakończyła misję łazika Opportunity, odcinając go od światła słonecznego potrzebnego do ładowania baterii.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-25",
+    "title": "Słońce traci masę w każdej sekundzie",
+    "content": "Słońce nieustannie zamienia część swojej masy w energię w procesie fuzji jądrowej, tracąc przy tym miliony ton materii każdą sekundę.",
+    "category": "space",
+    "explanation": "Mimo tej ogromnej liczby ubytek jest znikomy w porównaniu z całkowitą masą Słońca i nie wpłynie na nie znacząco jeszcze przez miliardy lat.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-26",
+    "title": "Kosmiczne promieniowanie tła to pozostałość Wielkiego Wybuchu",
+    "content": "Całą przestrzeń kosmiczną wypełnia słabe mikrofalowe promieniowanie, będące pozostałością po Wielkim Wybuchu sprzed ponad 13 miliardów lat.",
+    "category": "space",
+    "explanation": "Jego odkrycie w 1965 roku dostarczyło jednego z najsilniejszych dowodów potwierdzających teorię Wielkiego Wybuchu.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-27",
+    "title": "Na Wenus jeden dzień jest dłuższy niż jej pełny obieg wokół Słońca",
+    "content": "Wenus obraca się wokół własnej osi tak wolno, że jedna jej doba trwa dłużej niż cały jej rok, czyli obieg wokół Słońca.",
+    "category": "space",
+    "explanation": "Dodatkowo Wenus obraca się w przeciwnym kierunku niż większość planet, więc Słońce wschodzi tam na zachodzie.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-28",
+    "title": "Kometa może mieć ogon dłuższy niż odległość Ziemia-Słońce",
+    "content": "Ogony niektórych komet, złożone z gazu i pyłu odparowującego pod wpływem Słońca, mogą rozciągać się na dziesiątki milionów kilometrów.",
+    "category": "space",
+    "explanation": "Ogon zawsze skierowany jest w stronę przeciwną do Słońca, niezależnie od kierunku ruchu komety.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-29",
+    "title": "Gwiazdy neutronowe mogą obracać się setki razy na sekundę",
+    "content": "Niektóre gwiazdy neutronowe, zwane pulsarami milisekundowymi, wirują wokół własnej osi setki razy w ciągu jednej sekundy.",
+    "category": "space",
+    "explanation": "Taka prędkość obrotu jest możliwa dzięki ogromnej gęstości i niewielkim rozmiarom gwiazdy neutronowej, mimo jej masy porównywalnej ze Słońcem.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-30",
+    "title": "W kosmosie metal może się samoistnie zespawać",
+    "content": "W próżni kosmicznej dwa kawałki tego samego czystego metalu, zetknięte ze sobą, mogą się trwale połączyć bez żadnego źródła ciepła.",
+    "category": "space",
+    "explanation": "Zjawisko to, zwane zimnym spawaniem, zachodzi, bo bez warstwy tlenku atomy obu powierzchni po prostu nie \"widzą\" różnicy między sobą.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-31",
+    "title": "Układ Słoneczny krąży wokół centrum Drogi Mlecznej",
+    "content": "Nasz cały Układ Słoneczny okrąża centrum Drogi Mlecznej, a jeden pełny obieg zajmuje mu około 230 milionów lat.",
+    "category": "space",
+    "explanation": "Od czasu powstania Ziemi nasz Układ Słoneczny zdążył okrążyć centrum galaktyki niecałe 20 razy.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-32",
+    "title": "Na biegunach Marsa znajdują się czapy lodowe z wody i suchego lodu",
+    "content": "Bieguny Marsa pokrywają czapy polarne złożone z zamrożonej wody oraz zamarzniętego dwutlenku węgla, czyli suchego lodu.",
+    "category": "space",
+    "explanation": "Latem na danej półkuli część suchego lodu odparowuje bezpośrednio w gaz, powiększając cienką atmosferę Marsa.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-33",
+    "title": "Teleskop kosmiczny Hubble'a codziennie generuje ogromne ilości danych",
+    "content": "Teleskop Hubble'a krąży wokół Ziemi od 1990 roku i przez dekady dostarczył danych, które zaowocowały tysiącami publikacji naukowych.",
+    "category": "space",
+    "explanation": "Jego zdjęcia odległych galaktyk pomogły oszacować wiek Wszechświata i odkryć przyspieszające tempo jego rozszerzania się.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-34",
+    "title": "Meteoryty na Ziemi bywają starsze niż sama planeta",
+    "content": "Niektóre meteoryty spadające na Ziemię pochodzą z czasów formowania się Układu Słonecznego i mogą liczyć nawet 4,6 miliarda lat.",
+    "category": "space",
+    "explanation": "Analiza takich meteorytów pozwala naukowcom badać skład materii, z jakiej powstały planety, w tym nasza własna.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-35",
+    "title": "Na Uranie oś obrotu jest niemal położona na boku",
+    "content": "Uran obraca się wokół osi nachylonej o ponad 90 stopni względem płaszczyzny swojego obiegu, przez co toczy się niemal 'na boku'.",
+    "category": "space",
+    "explanation": "Naukowcy przypuszczają, że tak silne nachylenie mogło powstać w wyniku potężnego zderzenia z innym ciałem miliardy lat temu.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-36",
+    "title": "W kosmosie astronauci muszą specjalnie ćwiczyć, by nie tracić kości",
+    "content": "W warunkach mikrograwitacji kości i mięśnie astronautów szybko tracą masę, dlatego na stacji kosmicznej codziennie wykonują intensywne ćwiczenia.",
+    "category": "space",
+    "explanation": "Bez regularnego treningu długotrwały pobyt w kosmosie mógłby prowadzić do znacznego osłabienia układu kostnego po powrocie na Ziemię.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-37",
+    "title": "Rakiety kosmiczne muszą przezwyciężyć prędkość ucieczki Ziemi",
+    "content": "Aby opuścić grawitację Ziemi na stałe, statek kosmiczny musi osiągnąć prędkość ucieczki wynoszącą około 11,2 kilometra na sekundę.",
+    "category": "space",
+    "explanation": "To ponad 30 razy szybciej niż prędkość dźwięku w powietrzu przy powierzchni Ziemi.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "history-20",
+    "title": "Wielka Piramida w Gizie była najwyższą budowlą świata przez tysiące lat",
+    "content": "Przez ponad 3800 lat od jej ukończenia Wielka Piramida w Gizie pozostawała najwyższą budowlą wzniesioną przez człowieka na świecie.",
+    "category": "history",
+    "explanation": "Rekord ten przetrwał aż do budowy katedry w Lincoln w Anglii w średniowieczu, znacznie później niż upadek starożytnego Egiptu.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-21",
+    "title": "Kodeks Hammurabiego to jeden z najstarszych spisanych zbiorów praw",
+    "content": "Spisany około 1750 roku przed naszą erą w Babilonii kodeks Hammurabiego zawierał niemal 300 szczegółowych przepisów prawnych.",
+    "category": "history",
+    "explanation": "Prawa były wyryte na kamiennej steli i wystawione publicznie, by każdy mieszkaniec mógł się z nimi zapoznać.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-22",
+    "title": "Czarna śmierć zabiła znaczną część mieszkańców średniowiecznej Europy",
+    "content": "Epidemia dżumy w połowie XIV wieku, znana jako czarna śmierć, wyniszczyła prawdopodobnie od jednej trzeciej do połowy ludności Europy.",
+    "category": "history",
+    "explanation": "Skutki demograficzne były tak poważne, że część Europy odczuwała je gospodarczo i społecznie jeszcze przez kolejne stulecia.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-23",
+    "title": "Rzymskie Koloseum mogło pomieścić dziesiątki tysięcy widzów",
+    "content": "Amfiteatr Flawiuszów w Rzymie, znany dziś jako Koloseum, mógł pomieścić jednorazowo nawet około pięćdziesięciu tysięcy widzów.",
+    "category": "history",
+    "explanation": "Budowla miała rozbudowany system korytarzy i wejść, umożliwiający sprawne opróżnienie trybun w kilkanaście minut.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-24",
+    "title": "Konstantynopol kilkukrotnie zmieniał nazwę wraz z historią",
+    "content": "Miasto założone jako Bizancjum stało się Konstantynopolem za cesarza Konstantyna, a po podboju osmańskim ostatecznie przyjęło nazwę Stambuł.",
+    "category": "history",
+    "explanation": "Każda zmiana nazwy odzwierciedlała przejście miasta pod władzę innego imperium – rzymskiego, bizantyjskiego i osmańskiego.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-25",
+    "title": "Chińska flota admirała Zheng He była ogromna jak na swoje czasy",
+    "content": "Na początku XV wieku chiński admirał Zheng He dowodził flotą liczącą setki statków, docierając aż do wschodnich wybrzeży Afryki.",
+    "category": "history",
+    "explanation": "Niektóre z jego okrętów były znacznie większe niż statki europejskich odkrywców, którzy wyruszyli w podobne podróże dekady później.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-26",
+    "title": "Pierwsza wojna światowa zapoczątkowała masowe użycie broni chemicznej",
+    "content": "Podczas pierwszej wojny światowej po raz pierwszy na tak dużą skalę użyto gazów bojowych, takich jak chlor i iperyt, na europejskich frontach.",
+    "category": "history",
+    "explanation": "Skala cierpienia, jaką wywołały te ataki, doprowadziła później do międzynarodowych traktatów zakazujących broni chemicznej.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-27",
+    "title": "Imperium Mongolskie było największym połączonym imperium lądowym w historii",
+    "content": "W szczytowym okresie XIII wieku Imperium Mongolskie rozciągało się od Europy Wschodniej aż po Ocean Spokojny, obejmując ogromne połacie Azji.",
+    "category": "history",
+    "explanation": "Mongołowie zbudowali sprawny system komunikacji na te odległości dzięki sieci stacji pocztowych i szybkich jeźdźców.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-28",
+    "title": "Winston Churchill otrzymał Nagrodę Nobla w dziedzinie literatury",
+    "content": "Brytyjski premier Winston Churchill otrzymał w 1953 roku Nagrodę Nobla w dziedzinie literatury, głównie za swoje prace historyczne i przemówienia.",
+    "category": "history",
+    "explanation": "Nagrodę przyznano mu za mistrzostwo w opisie historycznych i biograficznych wydarzeń oraz za wybitną sztukę oratorską.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-29",
+    "title": "Rewolucja przemysłowa zaczęła się w Wielkiej Brytanii w XVIII wieku",
+    "content": "Rewolucja przemysłowa, która na zawsze zmieniła sposób produkcji i pracy, rozpoczęła się w Wielkiej Brytanii w drugiej połowie XVIII wieku.",
+    "category": "history",
+    "explanation": "Kluczowym impulsem był rozwój maszyny parowej oraz mechanizacja przemysłu włókienniczego, co przyspieszyło urbanizację.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-30",
+    "title": "Traktat westfalski ukształtował nowoczesne rozumienie suwerenności państw",
+    "content": "Zawarty w 1648 roku pokój westfalski zakończył wojnę trzydziestoletnią i wprowadził zasadę, że państwa mają suwerenność na swoim terytorium.",
+    "category": "history",
+    "explanation": "Ta zasada nieingerencji w wewnętrzne sprawy innych państw do dziś pozostaje jednym z filarów prawa międzynarodowego.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-31",
+    "title": "Pierwsza wyprawa dookoła świata zakończyła się bez swojego inicjatora",
+    "content": "Ferdynand Magellan zaplanował pierwszą wyprawę dookoła świata, ale zginął na Filipinach, zanim jego flota zdołała dopłynąć z powrotem do Europy.",
+    "category": "history",
+    "explanation": "Podróż dokończył jeden ze statków floty pod dowództwem Juana Sebastiana Elcano, który jako pierwszy faktycznie opłynął cały glob.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-32",
+    "title": "Starożytna Sparta wymagała surowego wychowania chłopców od dzieciństwa",
+    "content": "Chłopcy w starożytnej Sparcie od siódmego roku życia byli zabierani z domu i poddawani surowemu, wojskowemu systemowi wychowania zwanemu agoge.",
+    "category": "history",
+    "explanation": "Celem tego systemu było wykształcenie silnych, zdyscyplinowanych żołnierzy gotowych do obrony miasta-państwa.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-33",
+    "title": "Wielki Głód w Irlandii zmienił strukturę ludności całego kraju",
+    "content": "Klęska nieurodzaju ziemniaków w latach 40. XIX wieku doprowadziła do Wielkiego Głodu w Irlandii, w wyniku którego kraj stracił znaczną część mieszkańców.",
+    "category": "history",
+    "explanation": "Ogromna liczba osób zmarła z głodu lub wyemigrowała, głównie do Stanów Zjednoczonych, trwale zmieniając demografię Irlandii.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-34",
+    "title": "Starożytna Aleksandria miała latarnię morską uznawaną za cud świata",
+    "content": "Latarnia morska na wyspie Faros w Aleksandrii, wzniesiona w III wieku przed naszą erą, była zaliczana do siedmiu cudów starożytnego świata.",
+    "category": "history",
+    "explanation": "Jej światło miało być widoczne z odległości wielu kilometrów, prowadząc statki bezpiecznie do portu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-35",
+    "title": "Rzymianie budowali akwedukty ciągnące wodę na dziesiątki kilometrów",
+    "content": "Starożytni Rzymianie wznosili akwedukty, które za pomocą samego spadku terenu doprowadzały wodę do miast z odległości nawet stu kilometrów.",
+    "category": "history",
+    "explanation": "Precyzja inżynierska tych konstrukcji była tak duża, że różnica wysokości na całej trasie wynosiła czasem zaledwie kilkanaście centymetrów.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-36",
+    "title": "Podróże Krzysztofa Kolumba nie dotarły do kontynentalnej Ameryki Północnej",
+    "content": "Krzysztof Kolumb podczas swoich czterech wypraw dotarł do wysp Karaibów i wybrzeży Ameryki Środkowej i Południowej, nigdy nie docierając do dzisiejszych USA.",
+    "category": "history",
+    "explanation": "Mimo to jego wyprawy z 1492 roku są powszechnie uznawane za początek trwałych kontaktów Europy z Nowym Światem.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "psychology-20",
+    "title": "Ekspertom bywa trudno wyjaśniać rzeczy początkującym",
+    "content": "Zjawisko zwane 'przekleństwem wiedzy' sprawia, że osobom bardzo dobrze znającym temat trudno jest wyobrazić sobie, czego nie wie osoba początkująca.",
+    "category": "psychology",
+    "explanation": "Dlatego dobrzy nauczyciele muszą świadomie ćwiczyć tłumaczenie rzeczy prostym językiem, zamiast zakładać wiedzę wstępną.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-21",
+    "title": "Atrakcyjność fizyczna wpływa na postrzeganie innych cech człowieka",
+    "content": "Efekt aureoli sprawia, że osoby postrzegane jako atrakcyjne fizycznie są automatycznie oceniane jako bardziej kompetentne czy sympatyczne.",
+    "category": "psychology",
+    "explanation": "To nieświadome uogólnianie jednej pozytywnej cechy na całą ocenę osoby może wpływać nawet na decyzje rekrutacyjne czy sądowe.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-22",
+    "title": "Skupienie uwagi może sprawić, że nie zauważymy oczywistych rzeczy",
+    "content": "Zjawisko 'ślepoty nieuwagi' pokazuje, że osoby skoncentrowane na jednym zadaniu potrafią nie zauważyć nawet bardzo wyraźnego zdarzenia w tle.",
+    "category": "psychology",
+    "explanation": "W słynnym eksperymencie znaczna część badanych, licząc podania piłki, nie zauważyła osoby przebranej za goryla przechodzącej przez kadr.",
+    "surpriseLevel": 4,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-23",
+    "title": "Im częściej widzimy coś znajomego, tym bardziej zwykle to lubimy",
+    "content": "Zjawisko zwane efektem czystej ekspozycji pokazuje, że powtarzający się kontakt z daną osobą, dźwiękiem czy obrazem zwiększa nasze upodobanie do niego.",
+    "category": "psychology",
+    "explanation": "Mechanizm ten wykorzystuje się często w reklamie i marketingu, powtarzając ten sam komunikat wielokrotnie.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-24",
+    "title": "Zbyt duży wybór opcji może obniżać satysfakcję z decyzji",
+    "content": "Badania nad paradoksem wyboru pokazują, że nadmiar dostępnych opcji potrafi utrudniać decyzję i zmniejszać zadowolenie z ostatecznego wyboru.",
+    "category": "psychology",
+    "explanation": "Osoby stojące przed zbyt wieloma możliwościami częściej odczuwają żal związany z niewybranymi opcjami.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-25",
+    "title": "Niedokończone zadania zapamiętujemy lepiej niż dokończone",
+    "content": "Zjawisko znane jako efekt Zeigarnik pokazuje, że ludzie znacznie lepiej pamiętają przerwane, niedokończone zadania niż te już zamknięte.",
+    "category": "psychology",
+    "explanation": "Umysł zdaje się utrzymywać niedokończone sprawy w stanie 'aktywnym', co ułatwia ich przypominanie sobie później.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-26",
+    "title": "Ludzie przeceniają swój wpływ na całkowicie przypadkowe zdarzenia",
+    "content": "Zjawisko nazywane iluzją kontroli sprawia, że ludzie wierzą, iż mają większy wpływ na losowe wyniki, na przykład rzut kością, niż to możliwe.",
+    "category": "psychology",
+    "explanation": "Dlatego wiele osób rzuca kością mocniej, licząc na wyższy wynik, choć siła rzutu nie ma na to żadnego wpływu.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-27",
+    "title": "Ludzie w niepewnych sytuacjach kopiują zachowania innych",
+    "content": "Zjawisko społecznego dowodu słuszności sprawia, że w niejasnej sytuacji ludzie patrzą na zachowanie innych, by zdecydować, jak sami mają postąpić.",
+    "category": "psychology",
+    "explanation": "Ten mechanizm bywa wykorzystywany na przykład w reklamach informujących, że dany produkt wybrały już miliony klientów.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-28",
+    "title": "Ludzie szybko przyzwyczajają się do nowych, pozytywnych zmian",
+    "content": "Zjawisko zwane adaptacją hedonistyczną pokazuje, że poziom szczęścia po pozytywnej zmianie życiowej często wraca do wcześniejszego poziomu.",
+    "category": "psychology",
+    "explanation": "Dotyczy to zarówno awansu, jak i zakupu nowych rzeczy – po pewnym czasie nowość przestaje wywoływać tak silne emocje jak na początku.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-29",
+    "title": "Muzyka o wolnym tempie może obniżać tętno i poziom stresu",
+    "content": "Słuchanie muzyki o wolnym rytmie, zbliżonym do spoczynkowego tętna serca, może pomagać obniżyć napięcie i poziom odczuwanego stresu.",
+    "category": "psychology",
+    "explanation": "Efekt ten bywa wykorzystywany w terapii relaksacyjnej oraz w miejscach, gdzie zależy na uspokojeniu odwiedzających.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-30",
+    "title": "Informacje powiązane z emocjami zapamiętujemy lepiej niż neutralne fakty",
+    "content": "Silne emocje towarzyszące jakiemuś wydarzeniu sprawiają, że pamięć o nim jest znacznie trwalsza niż pamięć suchych, neutralnych informacji.",
+    "category": "psychology",
+    "explanation": "Dlatego ludzie często pamiętają dokładnie, gdzie byli w chwili ważnych, poruszających wydarzeń, a zapominają zwykłe dni.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-31",
+    "title": "Im więcej świadków zdarzenia, tym mniejsza szansa na reakcję kogokolwiek",
+    "content": "Efekt biernego obserwatora pokazuje, że obecność wielu innych osób podczas zdarzenia wymagającego pomocy zmniejsza szansę, że ktokolwiek zareaguje.",
+    "category": "psychology",
+    "explanation": "Każdy świadek zakłada, że zareaguje ktoś inny, co paradoksalnie zmniejsza łączną szansę udzielenia pomocy.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-32",
+    "title": "Odręczne pisanie notatek może wspomagać zapamiętywanie",
+    "content": "Badania sugerują, że pisanie notatek odręcznie sprzyja lepszemu zapamiętywaniu treści niż samo przepisywanie ich na klawiaturze.",
+    "category": "psychology",
+    "explanation": "Powolniejsze pisanie ręczne zmusza do przetwarzania i skracania informacji, co pomaga głębiej ją zapamiętać.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-33",
+    "title": "Pierwsze wrażenie o nowej osobie tworzymy w ułamku sekundy",
+    "content": "Ludzie potrafią wyrobić sobie wstępną opinię o obcej osobie na podstawie samej twarzy w czasie krótszym niż jedna sekunda.",
+    "category": "psychology",
+    "explanation": "Choć takie pierwsze wrażenie bywa niedokładne, często utrzymuje się długo i wpływa na dalsze postrzeganie danej osoby.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-34",
+    "title": "Ludzie częściej ufają informacjom podanym z pewnością siebie",
+    "content": "Sposób, w jaki ktoś przekazuje informację, wpływa na to, jak bardzo mu wierzymy – pewny siebie ton bywa przekonujący niezależnie od faktycznej trafności.",
+    "category": "psychology",
+    "explanation": "Dlatego osoby przekonująco mówiące potrafią być bardziej wiarygodne w oczach słuchaczy niż osoby faktycznie lepiej poinformowane.",
+    "surpriseLevel": 3,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-35",
+    "title": "Krótkotrwały kontakt wzrokowy może zwiększać poczucie bliskości",
+    "content": "Utrzymywanie kontaktu wzrokowego podczas rozmowy przez kilka sekund dłużej niż zwykle może zwiększać odczuwaną bliskość między rozmówcami.",
+    "category": "psychology",
+    "explanation": "Zjawisko to bywa wykorzystywane w badaniach nad budowaniem zaufania oraz w niektórych ćwiczeniach terapeutycznych dla par.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "psychology-36",
+    "title": "Poczucie upływu czasu zmienia się w zależności od naszych emocji",
+    "content": "Czas subiektywnie płynie inaczej w zależności od emocji – chwile nudy wydają się dłuższe, a intensywne, ekscytujące momenty mijają szybciej.",
+    "category": "psychology",
+    "explanation": "Mózg ocenia upływ czasu na podstawie liczby zarejestrowanych bodźców i wspomnień, a nie rzeczywistego odmierzania sekund.",
+    "surpriseLevel": 2,
+    "source": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org"
+  },
+  {
+    "id": "biology-20",
+    "title": "Mitochondria mają własne DNA, odrębne od jądra komórkowego",
+    "content": "Mitochondria, czyli \"elektrownie\" komórki, posiadają własną, niewielką cząsteczkę DNA, dziedziczoną niezależnie od DNA znajdującego się w jądrze.",
+    "category": "biology",
+    "explanation": "Naukowcy uważają, że mitochondria wywodzą się z bakterii, które miliardy lat temu zostały wchłonięte przez większe komórki.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-21",
+    "title": "Ludzki genom zawiera fragmenty DNA pochodzące od starożytnych wirusów",
+    "content": "Znaczna część ludzkiego genomu składa się z pozostałości starożytnych wirusów, które wbudowały się w DNA naszych przodków miliony lat temu.",
+    "category": "biology",
+    "explanation": "Niektóre z tych wirusowych fragmentów zostały z czasem 'oswojone' i pełnią dziś funkcje istotne dla prawidłowego rozwoju organizmu.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-22",
+    "title": "Niektóre zwierzęta rozmnażają się bez udziału samca",
+    "content": "Niektóre gatunki gadów i owadów mogą rozmnażać się bezpłciowo dzięki zjawisku partenogenezy, w którym jajo rozwija się bez zapłodnienia.",
+    "category": "biology",
+    "explanation": "Potomstwo powstałe w ten sposób jest zwykle genetycznie niemal identyczne z matką.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-23",
+    "title": "Telomery skracają się przy każdym podziale komórki",
+    "content": "Końce chromosomów, zwane telomerami, ulegają nieznacznemu skróceniu przy każdym kolejnym podziale komórki w organizmie.",
+    "category": "biology",
+    "explanation": "Proces ten jest jednym z mechanizmów badanych w kontekście starzenia się komórek i ograniczonej liczby ich podziałów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-24",
+    "title": "Niektóre bakterie wymieniają się genami niezależnie od rozmnażania",
+    "content": "Bakterie mogą przekazywać sobie nawzajem fragmenty DNA w procesie zwanym poziomym transferem genów, nawet między różnymi gatunkami.",
+    "category": "biology",
+    "explanation": "Ten mechanizm jest jedną z głównych dróg, którymi rozprzestrzenia się oporność bakterii na antybiotyki.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-25",
+    "title": "Pewna linia ludzkich komórek nowotworowych dzieli się w laboratoriach od dekad",
+    "content": "Komórki znane jako linia HeLa, pobrane od pacjentki w latach 50. XX wieku, wciąż są hodowane w laboratoriach na całym świecie.",
+    "category": "biology",
+    "explanation": "Te niezwykle wytrzymałe komórki przyczyniły się do rozwoju szczepionek, badań nad rakiem i wielu innych odkryć medycznych.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-26",
+    "title": "Niespokrewnione gatunki mogą rozwijać bardzo podobne cechy",
+    "content": "Zjawisko ewolucji konwergentnej sprawia, że niespokrewnione ze sobą gatunki, takie jak ptaki i nietoperze, niezależnie wykształciły zdolność latania.",
+    "category": "biology",
+    "explanation": "Podobne warunki środowiskowe mogą prowadzić do podobnych rozwiązań ewolucyjnych nawet u zupełnie odrębnych linii rodowych.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-27",
+    "title": "Salamandry potrafią odtworzyć całą utraconą kończynę",
+    "content": "Niektóre gatunki salamander są zdolne do odtworzenia całej utraconej nogi lub ogona, wraz z kośćmi, mięśniami i nerwami.",
+    "category": "biology",
+    "explanation": "Naukowcy badają mechanizmy tej regeneracji, mając nadzieję na zastosowanie podobnych procesów w medycynie regeneracyjnej człowieka.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-28",
+    "title": "DNA można odczytać ze szczątków sprzed dziesiątek tysięcy lat",
+    "content": "Postęp w sekwencjonowaniu DNA pozwala naukowcom odczytywać materiał genetyczny z dobrze zachowanych szczątków sprzed dziesiątek tysięcy lat.",
+    "category": "biology",
+    "explanation": "Dzięki temu udało się zsekwencjonować genomy neandertalczyków i porównać je z genomem współczesnego człowieka.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-29",
+    "title": "Porosty to organizm złożony z dwóch różnych gatunków",
+    "content": "Porosty powstają dzięki symbiozie grzyba i glonu lub sinicy, które żyją razem jako jeden, funkcjonujący jak pojedynczy organizm.",
+    "category": "biology",
+    "explanation": "Grzyb zapewnia strukturę i ochronę, a glon lub sinica dostarcza energii z fotosyntezy – korzystają na tym oba organizmy.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-30",
+    "title": "Różne komórki ludzkiego ciała żyją bardzo różnie długo",
+    "content": "Niektóre komórki organizmu, jak komórki jelit, wymieniają się co kilka dni, podczas gdy neurony w mózgu mogą towarzyszyć nam przez całe życie.",
+    "category": "biology",
+    "explanation": "Ta różnica tempa odnowy odzwierciedla odmienne funkcje tkanek – szybka regeneracja tam, gdzie zużycie jest duże, i stabilność tam, gdzie liczy się ciągłość.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-31",
+    "title": "Niesporczaki przetrwają niemal całkowite odwodnienie organizmu",
+    "content": "Niesporczaki potrafią wejść w stan kryptobiozy, w którym niemal całkowicie tracą wodę z organizmu i wstrzymują metabolizm na długi czas.",
+    "category": "biology",
+    "explanation": "W tym stanie mogą przetrwać ekstremalne temperatury, promieniowanie, a nawet próżnię kosmiczną, po czym 'wracają do życia' po nawodnieniu.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-32",
+    "title": "Oko wyewoluowało niezależnie w wielu różnych liniach zwierząt",
+    "content": "Narząd wzroku pojawiał się w toku ewolucji wielokrotnie i niezależnie w różnych grupach zwierząt, przyjmując bardzo różne formy budowy.",
+    "category": "biology",
+    "explanation": "Dlatego oczy ośmiornicy i oczy człowieka są zbudowane inaczej, mimo że pełnią bardzo podobną funkcję widzenia.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-33",
+    "title": "Oporność bakterii na antybiotyki powstaje w drodze naturalnej selekcji",
+    "content": "Bakterie odporne na antybiotyki nie powstają nagle – to efekt naturalnej selekcji, w której przeżywają i rozmnażają się osobniki z korzystną mutacją.",
+    "category": "biology",
+    "explanation": "Nadużywanie antybiotyków przyspiesza ten proces, eliminując wrażliwe bakterie i pozostawiając przestrzeń dla opornych szczepów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-34",
+    "title": "Niektóre gatunki ryb i skorupiaków żyją we wzajemnie korzystnej symbiozie",
+    "content": "Rybki błazenki żyją bezpiecznie wśród parzących mackek ukwiałów, będąc odpornymi na ich jad, a w zamian bronią gospodarza przed pasożytami.",
+    "category": "biology",
+    "explanation": "Taka wzajemnie korzystna współpraca dwóch różnych gatunków nazywana jest mutualizmem i występuje powszechnie w ekosystemach morskich.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-35",
+    "title": "Niektóre rośliny i grzyby wymieniają się składnikami odżywczymi pod ziemią",
+    "content": "Sieci grzybni łączące korzenie wielu roślin umożliwiają wymianę wody, cukrów i minerałów pomiędzy różnymi, nawet odległymi roślinami.",
+    "category": "biology",
+    "explanation": "Ten podziemny system bywa nazywany 'wood wide web' i pozwala roślinom wspierać się nawzajem, zwłaszcza w trudnych warunkach.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-36",
+    "title": "Niektóre komórki organizmu potrafią rozpoznawać i niszczyć własne, uszkodzone kopie",
+    "content": "Układ odpornościowy oraz same komórki dysponują mechanizmami rozpoznawania i eliminowania uszkodzonych lub potencjalnie niebezpiecznych komórek własnego ciała.",
+    "category": "biology",
+    "explanation": "Proces kontrolowanego samobójstwa komórki, zwany apoptozą, chroni organizm przed rozprzestrzenianiem się uszkodzeń czy nowotworów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  }
+]
