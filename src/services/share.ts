@@ -1,7 +1,14 @@
 import type { Fact } from '@/types/fact';
+import { factPath } from '@/utils/routes';
+
+/** Stała strona ciekawostki w tej aplikacji (do udostępniania/kopiowania). */
+function appFactUrl(fact: Fact): string {
+  return `${window.location.origin}${factPath(fact.id)}`;
+}
 
 function formatFactText(fact: Fact): string {
-  return `${fact.title}\n\n${fact.content}\n\nŹródło: ${fact.source} (${fact.sourceUrl})\n\nOdkryte w aplikacji Ciekawostki`;
+  const appUrl = appFactUrl(fact);
+  return `${fact.title}\n\n${fact.content}\n\nŹródło: ${fact.source} (${fact.sourceUrl})\n\nOdkryte w aplikacji: ${appUrl}`;
 }
 
 /** Kopiuje ciekawostkę do schowka. Zwraca true przy sukcesie. */
@@ -26,7 +33,7 @@ export async function shareFact(fact: Fact): Promise<boolean> {
     await navigator.share({
       title: fact.title,
       text: formatFactText(fact),
-      url: fact.sourceUrl,
+      url: appFactUrl(fact),
     });
     return true;
   } catch (error) {
