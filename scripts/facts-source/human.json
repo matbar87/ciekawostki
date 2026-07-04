@@ -1,0 +1,192 @@
+[
+  {
+    "id": "human-01",
+    "title": "Człowiek traci kilogramy komórek skóry rocznie",
+    "content": "Przez rok dorosły człowiek złuszcza z ciała łącznie kilka kilogramów martwych komórek skóry, które w większości stają się częścią domowego kurzu.",
+    "category": "human",
+    "explanation": "Naskórek nieustannie się odnawia, a stare komórki są usuwane z powierzchni ciała w naturalnym procesie złuszczania.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-02",
+    "title": "Odciski palców są unikalne nawet u bliźniąt jednojajowych",
+    "content": "Nawet bliźnięta jednojajowe, mające identyczne DNA, rodzą się z różnymi odciskami palców ukształtowanymi przez drobne różnice w macicy.",
+    "category": "human",
+    "explanation": "Wzór linii papilarnych kształtuje się pod wpływem losowych czynników podczas rozwoju płodowego, takich jak ciśnienie płynu owodniowego.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-03",
+    "title": "Człowiek produkuje litry śliny dziennie",
+    "content": "Przeciętny dorosły człowiek wytwarza od jednego do półtora litra śliny każdego dnia, co ułatwia trawienie i chroni zęby przed próchnicą.",
+    "category": "human",
+    "explanation": "Ślina zawiera enzymy rozpoczynające trawienie skrobi już w jamie ustnej oraz substancje neutralizujące kwasy szkodliwe dla szkliwa.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-04",
+    "title": "Ludzkie ciało zawiera tyle żelaza, by zrobić mały gwóźdź",
+    "content": "W organizmie dorosłego człowieka znajduje się łącznie około 3–4 gramów żelaza, czyli wystarczająco, aby wykonać z niego mały gwóźdź.",
+    "category": "human",
+    "explanation": "Większość żelaza w organizmie znajduje się w hemoglobinie, białku czerwonych krwinek odpowiedzialnym za transport tlenu.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-05",
+    "title": "Człowiek nie może się połaskotać sam",
+    "content": "Większość ludzi nie odczuwa łaskotania, gdy próbuje połaskotać się samodzielnie, ponieważ mózg przewiduje własny ruch i tłumi reakcję na niego.",
+    "category": "human",
+    "explanation": "Móżdżek generuje sygnał kompensujący przewidywalne bodźce wywołane naszym własnym działaniem, dzięki czemu reagujemy silniej na niespodziewany dotyk innych.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-06",
+    "title": "Paznokcie rosną szybciej na dłoni dominującej",
+    "content": "Paznokcie na ręce, którą częściej używamy, na przykład prawej u praworęcznych, rosną nieznacznie szybciej niż na drugiej dłoni.",
+    "category": "human",
+    "explanation": "Zwiększona aktywność i ukrwienie częściej używanej ręki mogą nieznacznie przyspieszać metabolizm komórek odpowiedzialnych za wzrost paznokci.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-07",
+    "title": "Dorosły człowiek ma mniej kości niż niemowlę",
+    "content": "Noworodek rodzi się z około 300 elementami kostnymi, a dorosły ma ich jedynie 206, ponieważ część kości zrasta się ze sobą w trakcie wzrostu.",
+    "category": "human",
+    "explanation": "Zrastanie się kości czaszki, kręgosłupa i miednicy jest naturalnym elementem dojrzewania szkieletu trwającym do wczesnej dorosłości.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-08",
+    "title": "Serce człowieka bije ponad 100 tysięcy razy dziennie",
+    "content": "Przeciętne ludzkie serce wykonuje około 100 tysięcy uderzeń na dobę, pompując w tym czasie nawet kilka tysięcy litrów krwi przez organizm.",
+    "category": "human",
+    "explanation": "To ogromne obciążenie pracą sprawia, że serce jest jednym z najbardziej wytrzymałych mięśni w ciele, pracującym nieprzerwanie przez całe życie.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-09",
+    "title": "Człowiek widzi świat 'do góry nogami' na siatkówce",
+    "content": "Obraz padający na siatkówkę oka jest odwrócony do góry nogami, a mózg dopiero przetwarza go i 'odwraca' do postaci, jaką świadomie widzimy.",
+    "category": "human",
+    "explanation": "Soczewka oka działa jak w aparacie fotograficznym, odwracając obraz, a kora wzrokowa mózgu koryguje tę orientację w procesie percepcji.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-10",
+    "title": "Nos i uszy nie przestają rosnąć przez całe życie",
+    "content": "Chrząstka nosa i uszu rośnie powoli, ale w zasadzie nieprzerwanie przez całe życie, przez co u osób starszych bywają nieco większe niż w młodości.",
+    "category": "human",
+    "explanation": "W przeciwieństwie do większości kości, tkanka chrzęstna tych narządów nie przestaje się rozwijać po osiągnięciu dorosłości.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-11",
+    "title": "Człowiek może żyć znacznie dłużej bez jedzenia niż bez snu",
+    "content": "Człowiek jest w stanie przetrwać bez jedzenia nawet kilka tygodni, ale skrajny brak snu przez zaledwie kilka dni prowadzi do poważnych zaburzeń organizmu.",
+    "category": "human",
+    "explanation": "Sen pełni kluczową funkcję w regeneracji mózgu i konsolidacji pamięci, a jego długotrwały brak zaburza niemal wszystkie procesy fizjologiczne.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-12",
+    "title": "Kichanie może wywołać przepływ powietrza z dużą prędkością",
+    "content": "Podczas kichnięcia powietrze i drobne kropelki mogą opuszczać nos i usta z prędkością sięgającą nawet kilkudziesięciu kilometrów na godzinę.",
+    "category": "human",
+    "explanation": "To odruch obronny mający usunąć z dróg oddechowych drażniące cząstki, takie jak pył czy alergeny, zanim dotrą głębiej do organizmu.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-13",
+    "title": "Ludzki mózg nie odczuwa bólu bezpośrednio",
+    "content": "Tkanka mózgowa sama w sobie nie posiada receptorów bólu, dlatego neurochirurdzy mogą operować mózg pacjenta, który pozostaje przytomny i nie odczuwa bólu w tym miejscu.",
+    "category": "human",
+    "explanation": "Ból głowy powstaje w rzeczywistości w innych strukturach – oponach mózgowych, naczyniach krwionośnych czy mięśniach głowy i szyi.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-14",
+    "title": "Ludzkie ciało generuje wystarczająco dużo ciepła, by zagotować wodę",
+    "content": "Ciepło wytwarzane przez organizm dorosłego człowieka w ciągu około pół godziny teoretycznie wystarczyłoby, by zagotować litr wody.",
+    "category": "human",
+    "explanation": "Metabolizm komórkowy nieustannie uwalnia energię cieplną jako produkt uboczny licznych reakcji chemicznych zachodzących w organizmie.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-15",
+    "title": "Ludzie mrugają tysiące razy dziennie",
+    "content": "Przeciętny człowiek mruga oczami od 15 do 20 razy na minutę, co daje nawet kilkanaście tysięcy mrugnięć w ciągu jednego dnia.",
+    "category": "human",
+    "explanation": "Mruganie nawilża i oczyszcza powierzchnię oka, a jego częstotliwość zwykle spada podczas intensywnego skupienia, na przykład czytania.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-16",
+    "title": "Człowiek traci pamięć zapachów najwolniej ze wszystkich zmysłów",
+    "content": "Wspomnienia powiązane z zapachem bywają wyjątkowo trwałe i potrafią wywoływać żywe skojarzenia sprzed dekad, silniej niż inne bodźce zmysłowe.",
+    "category": "human",
+    "explanation": "Droga nerwowa od receptorów węchowych prowadzi bezpośrednio do struktur mózgu odpowiedzialnych za emocje i pamięć, z pominięciem innych etapów przetwarzania.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-17",
+    "title": "Przeciętny człowiek spędza lata życia we śnie",
+    "content": "Zakładając około 8 godzin snu na dobę, przeciętny człowiek spędza we śnie łącznie ponad 25 lat swojego życia.",
+    "category": "human",
+    "explanation": "Sen jest niezbędny dla regeneracji ciała i mózgu, dlatego zajmuje tak dużą część naszego życia mimo pozornej bezczynności.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "human-18",
+    "title": "Głód i pragnienie mogą wpływać na podejmowane decyzje",
+    "content": "Badania pokazują, że osoby głodne lub spragnione częściej podejmują bardziej impulsywne decyzje finansowe niż osoby najedzone i nawodnione.",
+    "category": "human",
+    "explanation": "Stan fizjologiczny organizmu wpływa na aktywność obszarów mózgu odpowiedzialnych za samokontrolę i ocenę ryzyka.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "human-19",
+    "title": "Ludzka skóra to największy organ ciała",
+    "content": "Skóra dorosłego człowieka ma powierzchnię około 1,5–2 metrów kwadratowych, co czyni ją największym pojedynczym organem ciała.",
+    "category": "human",
+    "explanation": "Skóra pełni funkcje ochronne, termoregulacyjne i czuciowe, a jej powierzchnia i masa znacznie przewyższają jakikolwiek inny organ wewnętrzny.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  }
+]

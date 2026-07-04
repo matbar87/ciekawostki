@@ -1,0 +1,192 @@
+[
+  {
+    "id": "archaeology-01",
+    "title": "Terakotowa Armia liczy tysiące unikalnych żołnierzy",
+    "content": "Terakotowa Armia odkryta w Chinach liczy ponad 8000 figur wojowników, a każda z nich ma nieco inne rysy twarzy i detale ubioru.",
+    "category": "archaeology",
+    "explanation": "Rzeźby powstały, by strzec grobowca pierwszego cesarza Chin, a ich zróżnicowanie mogło mieć symbolizować realną, zróżnicowaną armię.",
+    "surpriseLevel": 4,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "archaeology-02",
+    "title": "Stonehenge budowano etapami przez setki lat",
+    "content": "Budowa Stonehenge w Anglii trwała w kilku etapach przez ponad 1000 lat, a niektóre głazy przetransportowano z odległości ponad 200 kilometrów.",
+    "category": "archaeology",
+    "explanation": "Dokładny cel budowli wciąż jest przedmiotem badań, choć wiele wskazuje na jej związek z obserwacjami astronomicznymi i rytuałami.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "archaeology-03",
+    "title": "Machu Picchu zbudowano bez użycia zaprawy murarskiej",
+    "content": "Kamienne budowle Machu Picchu w Peru wzniesiono techniką suchego muru, w której precyzyjnie ociosane bloki skalne łączą się ze sobą bez żadnej zaprawy.",
+    "category": "archaeology",
+    "explanation": "Taka konstrukcja zwiększała odporność budowli na trzęsienia ziemi, częste w tym regionie Andów.",
+    "surpriseLevel": 4,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "archaeology-04",
+    "title": "Zamarznięty człowiek z lodowca ujawnił tajemnice epoki brązu",
+    "content": "Ötzi, mumia człowieka sprzed ponad 5000 lat znaleziona w alpejskim lodowcu, zachowała się na tyle dobrze, że zbadano nawet zawartość jego żołądka.",
+    "category": "archaeology",
+    "explanation": "Analiza DNA, ubrania i narzędzi Ötziego dostarczyła unikalnych informacji o codziennym życiu ludzi w epoce miedzi i wczesnego brązu.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "archaeology-05",
+    "title": "W piramidach znaleziono szczątki pieczywa sprzed tysięcy lat",
+    "content": "Archeolodzy odnaleźli w Egipcie skamieniałe pozostałości chleba i drożdży sprzed ponad 4000 lat, co pozwoliło zrekonstruować starożytne receptury.",
+    "category": "archaeology",
+    "explanation": "Analiza tych znalezisk pomogła naukowcom odtworzyć technikę wypieku chleba i warzenia piwa stosowaną przez starożytnych Egipcjan.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-06",
+    "title": "Rosetta pomogła odczytać hieroglify po wiekach milczenia",
+    "content": "Kamień z Rosetty, zawierający ten sam tekst w trzech pismach, pozwolił w XIX wieku po raz pierwszy odczytać starożytne egipskie hieroglify.",
+    "category": "archaeology",
+    "explanation": "Przez wieki hieroglify pozostawały nieodczytane, dopóki Jean-François Champollion nie wykorzystał tego znaleziska do złamania kodu pisma.",
+    "surpriseLevel": 3,
+    "source": "British Museum",
+    "sourceUrl": "https://www.britishmuseum.org"
+  },
+  {
+    "id": "archaeology-07",
+    "title": "Podwodne miasta również są przedmiotem badań archeologicznych",
+    "content": "U wybrzeży Egiptu odkryto zatopione starożytne miasto Thonis-Herakleion, które zniknęło pod wodą wskutek trzęsień ziemi i podnoszenia się poziomu morza.",
+    "category": "archaeology",
+    "explanation": "Badania podwodne prowadzone od początku XXI wieku odsłoniły posągi, świątynie i statki zachowane w mule przez ponad tysiąc lat.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "archaeology-08",
+    "title": "Najstarsze znane malowidła naskalne mają dziesiątki tysięcy lat",
+    "content": "W jaskiniach Indonezji odnaleziono malowidła przedstawiające zwierzęta, których wiek oszacowano na ponad 40 tysięcy lat.",
+    "category": "archaeology",
+    "explanation": "To jedne z najstarszych znanych przykładów sztuki figuratywnej, świadczące o zdolnościach symbolicznego myślenia ludzi już w tak odległej przeszłości.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "archaeology-09",
+    "title": "Starożytni żeglarze pokonywali ocean bez map",
+    "content": "Polinezyjczycy zasiedlili odległe wyspy Pacyfiku, pokonując tysiące kilometrów oceanu, orientując się według gwiazd, prądów i lotu ptaków.",
+    "category": "archaeology",
+    "explanation": "Ta umiejętność nawigacji, przekazywana ustnie z pokolenia na pokolenie, pozwoliła zasiedlić niemal wszystkie zamieszkiwalne wyspy Oceanii na długo przed epoką map.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "archaeology-10",
+    "title": "Groby królewskie w Egipcie ukrywano przed rabusiami",
+    "content": "Grobowiec Tutanchamona przetrwał niemal nienaruszony przez ponad 3000 lat, ponieważ jego wejście przypadkowo zostało zasypane gruzem z późniejszych budowli.",
+    "category": "archaeology",
+    "explanation": "Dzięki temu, gdy Howard Carter odnalazł grobowiec w 1922 roku, większość jego skarbów wciąż znajdowała się na swoim pierwotnym miejscu.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-11",
+    "title": "Neandertalczycy grzebali swoich zmarłych",
+    "content": "Badania stanowisk archeologicznych sugerują, że neandertalczycy celowo grzebali swoich zmarłych, czasem układając przy nich kwiaty lub narzędzia.",
+    "category": "archaeology",
+    "explanation": "To odkrycie zmieniło postrzeganie neandertalczyków jako istot zdolnych do zachowań symbolicznych, wcześniej przypisywanych wyłącznie ludziom współczesnym.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "archaeology-12",
+    "title": "Starożytne narzędzia kamienne liczą miliony lat",
+    "content": "Najstarsze znane narzędzia kamienne wykonane przez przodków człowieka mają ponad 3 miliony lat i zostały znalezione w Afryce Wschodniej.",
+    "category": "archaeology",
+    "explanation": "Znalezisko to przesunęło w czasie początki celowego wytwarzania narzędzi przez hominidy znacznie wcześniej, niż wcześniej sądzono.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "archaeology-13",
+    "title": "Starożytni budowniczowie stosowali skomplikowaną logistykę",
+    "content": "Do budowy piramid w Gizie transportowano wielotonowe bloki wapienia i granitu, częściowo wykorzystując rampy oraz statki płynące po specjalnie zbudowanych kanałach.",
+    "category": "archaeology",
+    "explanation": "Odkryte niedawno papirusy opisujące codzienną pracę robotników rzuciły nowe światło na organizację i logistykę tych ogromnych przedsięwzięć budowlanych.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-14",
+    "title": "Starożytne miasto Pompeje zachowało się dzięki erupcji wulkanu",
+    "content": "Erupcja Wezuwiusza w 79 roku naszej ery zasypała miasto Pompeje popiołem, paradoksalnie konserwując je i pozwalając zachować szczegóły codziennego życia Rzymian.",
+    "category": "archaeology",
+    "explanation": "Popiół wulkaniczny odciął dostęp powietrza i wilgoci, dzięki czemu odsłonięte później budynki, freski i przedmioty przetrwały w wyjątkowo dobrym stanie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "archaeology-15",
+    "title": "Analiza pyłku kwiatowego pomaga datować stanowiska archeologiczne",
+    "content": "Badanie mikroskopijnych ziaren pyłku znajdowanych w warstwach ziemi pozwala archeologom precyzyjnie rekonstruować dawną roślinność i klimat danego terenu.",
+    "category": "archaeology",
+    "explanation": "Metoda ta, zwana palinologią, umożliwia też pośrednie datowanie warstw archeologicznych na podstawie znanych okresów występowania poszczególnych roślin.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-16",
+    "title": "Starożytni Majowie stosowali zaawansowaną astronomię",
+    "content": "Majowie opracowali bardzo precyzyjny kalendarz astronomiczny, zdolny przewidywać zaćmienia Słońca i Księżyca z dużym wyprzedzeniem czasowym.",
+    "category": "archaeology",
+    "explanation": "Ich obserwacje opierały się na wieloletnich zapisach ruchów ciał niebieskich, prowadzonych bez użycia jakichkolwiek instrumentów optycznych.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-17",
+    "title": "Odciski stóp sprzed tysięcy lat odkryto w Ameryce Północnej",
+    "content": "W Nowym Meksyku odnaleziono skamieniałe ślady stóp ludzkich, których wiek oszacowano na kilkanaście tysięcy lat, co wpłynęło na debatę o zasiedleniu Ameryk.",
+    "category": "archaeology",
+    "explanation": "Odkrycie to sugeruje, że ludzie mogli dotrzeć do Ameryki Północnej wcześniej, niż zakładały wcześniejsze teorie migracji.",
+    "surpriseLevel": 4,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "archaeology-18",
+    "title": "Starożytne rzeźby bywały pierwotnie kolorowe",
+    "content": "Wiele antycznych greckich i rzymskich posągów, dziś kojarzonych z białym marmurem, było pierwotnie pomalowanych w żywe, intensywne barwy.",
+    "category": "archaeology",
+    "explanation": "Ślady pigmentów wykryte za pomocą specjalistycznych technik obrazowania pozwoliły zrekonstruować oryginalny, kolorowy wygląd wielu rzeźb antycznych.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "archaeology-19",
+    "title": "Groby z epoki lodowcowej ujawniają wspólne pochówki psów i ludzi",
+    "content": "W niektórych europejskich stanowiskach sprzed tysięcy lat znaleziono szczątki psów pochowanych obok ludzi, co sugeruje wczesną, bliską więź między gatunkami.",
+    "category": "archaeology",
+    "explanation": "Takie wspólne pochówki wskazują, że udomowione psy mogły być traktowane przez ludzi epoki kamienia jako pełnoprawni członkowie rodziny lub grupy.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  }
+]

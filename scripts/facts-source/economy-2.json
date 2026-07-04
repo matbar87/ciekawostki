@@ -1,0 +1,82 @@
+[
+  {
+    "id": "economy-12",
+    "title": "Banki centralne zaczęły powstawać już w XVII wieku",
+    "content": "Jeden z pierwszych nowoczesnych banków centralnych, Sveriges Riksbank w Szwecji, powstał w 1668 roku i działa nieprzerwanie do dziś.",
+    "category": "economy",
+    "explanation": "Banki centralne odpowiadają dziś między innymi za politykę pieniężną i stabilność cen, co czyni je kluczowymi instytucjami we współczesnych gospodarkach.",
+    "surpriseLevel": 2,
+    "source": "IMF",
+    "sourceUrl": "https://www.imf.org"
+  },
+  {
+    "id": "economy-13",
+    "title": "Ubezpieczenia morskie rozwinęły się już w starożytności",
+    "content": "Wczesne formy ubezpieczeń, zabezpieczające kupców przed stratą towaru podczas transportu morskiego, praktykowano już w starożytnej Mezopotamii i Grecji.",
+    "category": "economy",
+    "explanation": "Te wczesne umowy dzieliły ryzyko finansowe między kilku inwestorów, co jest podstawową zasadą działania ubezpieczeń stosowaną do dziś.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-14",
+    "title": "Handel międzynarodowy istniał na długo przed nowoczesnymi państwami",
+    "content": "Szlaki handlowe, takie jak Jedwabny Szlak, łączyły odległe cywilizacje Azji, Bliskiego Wschodu i Europy na długo przed powstaniem współczesnych granic państwowych.",
+    "category": "economy",
+    "explanation": "Wymiana towarów, takich jak jedwab czy przyprawy, na tych szlakach sprzyjała też wymianie idei, technologii i wierzeń między odległymi kulturami.",
+    "surpriseLevel": 2,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "economy-15",
+    "title": "Niektóre firmy technologiczne warte są więcej niż całe gospodarki wielu krajów",
+    "content": "Wartość rynkowa niektórych największych firm technologicznych na świecie przekracza produkt krajowy brutto wielu mniejszych państw.",
+    "category": "economy",
+    "explanation": "Taka koncentracja wartości pokazuje, jak duży wpływ na globalną gospodarkę mają dziś przedsiębiorstwa oparte na technologii cyfrowej i danych.",
+    "surpriseLevel": 3,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "economy-16",
+    "title": "Standaryzacja kontenerów zrewolucjonizowała globalny handel",
+    "content": "Wprowadzenie standardowych kontenerów transportowych w połowie XX wieku znacznie skróciło czas i koszt załadunku towarów na statki, przyspieszając globalny handel.",
+    "category": "economy",
+    "explanation": "Wcześniej ładowanie luzem różnorodnych towarów było czasochłonne i kosztowne, a standaryzacja pozwoliła zautomatyzować ten proces na masową skalę.",
+    "surpriseLevel": 2,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "economy-17",
+    "title": "Niektóre waluty narodowe zostały całkowicie wycofane z obiegu",
+    "content": "Po wprowadzeniu wspólnej waluty euro kilkanaście europejskich krajów całkowicie wycofało swoje dotychczasowe waluty narodowe z codziennego obiegu.",
+    "category": "economy",
+    "explanation": "Proces ten wymagał precyzyjnej koordynacji między bankami centralnymi, by zapewnić płynne przejście na nową walutę bez zakłóceń gospodarczych.",
+    "surpriseLevel": 2,
+    "source": "IMF",
+    "sourceUrl": "https://www.imf.org"
+  },
+  {
+    "id": "economy-18",
+    "title": "Mikrokredyty pomogły milionom przedsiębiorców na całym świecie",
+    "content": "Model mikrokredytów, polegający na udzielaniu niewielkich pożyczek osobom bez dostępu do tradycyjnych banków, pomógł milionom drobnych przedsiębiorców rozpocząć własną działalność.",
+    "category": "economy",
+    "explanation": "Koncepcja ta zyskała szczególny rozgłos dzięki instytucjom finansowym działającym w krajach rozwijających się, wspierając lokalną przedsiębiorczość.",
+    "surpriseLevel": 2,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "economy-19",
+    "title": "Niektóre kraje eksperymentowały z ujemnymi stopami procentowymi",
+    "content": "W ostatnich dekadach kilka banków centralnych wprowadziło ujemne stopy procentowe, co oznaczało, że banki musiały płacić za trzymanie nadwyżek gotówki.",
+    "category": "economy",
+    "explanation": "Celem takiej niestandardowej polityki było zachęcenie banków do udzielania większej liczby kredytów zamiast gromadzenia rezerw gotówkowych.",
+    "surpriseLevel": 3,
+    "source": "IMF",
+    "sourceUrl": "https://www.imf.org"
+  }
+]

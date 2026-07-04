@@ -1,0 +1,72 @@
+[
+  {
+    "id": "computerScience-13",
+    "title": "Pierwszy dysk twardy ważył tyle co mały samochód",
+    "content": "Pierwszy komercyjny dysk twardy z 1956 roku ważył ponad tonę i mieścił dane, które dziś zajęłyby ułamek pojemności zwykłej karty pamięci.",
+    "category": "computerScience",
+    "explanation": "Jego pojemność wynosiła zaledwie kilka megabajtów, a mimo to była to rewolucja w porównaniu z wcześniejszym zapisem danych na taśmach magnetycznych.",
+    "surpriseLevel": 4,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "computerScience-14",
+    "title": "Rekurencja pozwala funkcji odwoływać się do samej siebie",
+    "content": "W informatyce rekurencja to technika, w której funkcja wywołuje samą siebie, by rozwiązać mniejszy fragment tego samego problemu, aż do osiągnięcia prostego przypadku bazowego.",
+    "category": "computerScience",
+    "explanation": "Ta elegancka koncepcja pozwala prosto opisywać złożone problemy, takie jak przeszukiwanie drzew danych czy obliczanie silni liczby.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-15",
+    "title": "Pierwsze gry komputerowe powstały jeszcze w latach 50. XX wieku",
+    "content": "Jedna z pierwszych znanych gier komputerowych, prosta symulacja tenisa, powstała już w 1958 roku na oscyloskopie podłączonym do komputera analogowego.",
+    "category": "computerScience",
+    "explanation": "Gra ta powstała jako sposób na uatrakcyjnienie dnia otwartego w laboratorium naukowym, na długo przed powstaniem komercyjnego przemysłu gier wideo.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "computerScience-16",
+    "title": "Struktury danych wpływają na szybkość działania programów",
+    "content": "Wybór odpowiedniej struktury danych, na przykład tablicy zamiast listy, może radykalnie przyspieszyć lub spowolnić działanie tego samego programu komputerowego.",
+    "category": "computerScience",
+    "explanation": "Programiści analizują złożoność obliczeniową operacji na danych, by wybrać strukturę najlepiej dopasowaną do konkretnego zastosowania.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-17",
+    "title": "Pierwszy publiczny e-mail spam wysłano w 1978 roku",
+    "content": "Pierwszą masową, niechcianą wiadomość reklamową rozesłaną pocztą elektroniczną wysłano już w 1978 roku do kilkuset użytkowników wczesnej sieci ARPANET.",
+    "category": "computerScience",
+    "explanation": "Wiadomość ta reklamowała prezentację nowych komputerów i wywołała wśród odbiorców oburzenie, mimo że internet dopiero raczkował.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "computerScience-18",
+    "title": "Testowanie oprogramowania bywa bardziej czasochłonne niż jego pisanie",
+    "content": "W wielu profesjonalnych projektach programistycznych czas poświęcony na testowanie i naprawianie błędów bywa porównywalny lub większy niż czas napisania pierwotnego kodu.",
+    "category": "computerScience",
+    "explanation": "Dokładne testowanie pomaga wykryć błędy, zanim oprogramowanie trafi do użytkowników, co jest szczególnie istotne w systemach o dużym znaczeniu, jak systemy medyczne.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-19",
+    "title": "Pierwszy 'emotikon' w kodzie źródłowym pojawił się w komentarzach programistów",
+    "content": "Programiści od dekad umieszczają w komentarzach swojego kodu żartobliwe uwagi i prowizoryczne emotikony, tworząc nieformalną tradycję komunikacji między twórcami oprogramowania.",
+    "category": "computerScience",
+    "explanation": "Takie komentarze, choć nieformalne, bywają cennym źródłem kontekstu dla innych programistów pracujących później nad tym samym kodem.",
+    "surpriseLevel": 1,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  }
+]

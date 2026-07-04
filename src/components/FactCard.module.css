@@ -1,0 +1,131 @@
+.card {
+  background: var(--color-surface-container);
+  border-radius: var(--radius-large);
+  padding: var(--space-6);
+  box-shadow: var(--elevation-2);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  animation: fact-enter var(--motion-medium) var(--motion-easing);
+  max-width: 640px;
+  width: 100%;
+}
+
+.overline {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-on-surface-variant);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.title {
+  font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+  line-height: 1.25;
+  font-weight: 700;
+  color: var(--color-on-surface);
+}
+
+.content {
+  font-size: clamp(1.05rem, 1.6vw, 1.2rem);
+  line-height: 1.6;
+  color: var(--color-on-surface);
+}
+
+.expandSection {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.expandButton {
+  align-self: flex-start;
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  padding: var(--space-1) 0;
+}
+
+.explanation {
+  background: var(--color-surface-dim);
+  border-radius: var(--radius-medium);
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  color: var(--color-on-surface-variant);
+  line-height: 1.55;
+  animation: fade-in var(--motion-medium) var(--motion-easing);
+}
+
+.sourceLink {
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  align-self: flex-start;
+}
+
+.sourceLink:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  border-top: 1px solid var(--color-outline-variant);
+  padding-top: var(--space-4);
+}
+
+.readingTime {
+  font-size: 0.85rem;
+  color: var(--color-on-surface-variant);
+}
+
+.actions {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.iconAction {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  border: none;
+  background: transparent;
+  font-size: 1.2rem;
+  color: var(--color-on-surface-variant);
+  cursor: pointer;
+  transition: background-color var(--motion-fast) var(--motion-easing), transform var(--motion-fast) var(--motion-easing);
+}
+
+.iconAction:hover {
+  background: var(--color-surface-container-high);
+}
+
+.iconAction:active {
+  transform: scale(0.9);
+}
+
+.favoriteActive {
+  color: #f2b705;
+}
+
+@media (max-width: 480px) {
+  .card {
+    padding: var(--space-5);
+    border-radius: var(--radius-medium);
+  }
+}

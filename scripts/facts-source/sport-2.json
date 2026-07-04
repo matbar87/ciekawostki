@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sport-13",
+    "title": "Piłka do siatkówki plażowej jest lżejsza niż standardowa piłka halowa",
+    "content": "Piłki do siatkówki plażowej są nieco większe i lżejsze od piłek do siatkówki halowej, co ułatwia grę na wietrze i piasku podczas zawodów plażowych.",
+    "category": "sport",
+    "explanation": "Taka różnica konstrukcyjna pomaga zawodnikom lepiej kontrolować lot piłki w warunkach zewnętrznych, gdzie wiatr może znacząco wpływać na jej tor.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-14",
+    "title": "Maski bramkarskie w hokeju wprowadzono stosunkowo późno",
+    "content": "Bramkarze hokejowi grali bez ochronnych masek na twarz jeszcze w połowie XX wieku, mimo ryzyka poważnych urazów od szybko lecącego krążka.",
+    "category": "sport",
+    "explanation": "Dopiero po serii kontuzji jeden ze znanych bramkarzy spopularyzował noszenie maski, co z czasem stało się standardem w profesjonalnym hokeju.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-15",
+    "title": "Wspinaczka sportowa stała się dyscypliną olimpijską niedawno",
+    "content": "Wspinaczka sportowa zadebiutowała jako oficjalna dyscyplina olimpijska dopiero podczas igrzysk w Tokio w 2021 roku, mimo wieloletniej tradycji zawodów wspinaczkowych.",
+    "category": "sport",
+    "explanation": "Włączenie nowych dyscyplin do programu olimpijskiego ma zwykle na celu przyciągnięcie młodszej widowni i zwiększenie różnorodności igrzysk.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-16",
+    "title": "Zawodowi kolarze pokonują dystanse porównywalne z podróżą między miastami",
+    "content": "Podczas wieloetapowych wyścigów kolarskich, takich jak Tour de France, zawodnicy pokonują łącznie dystans przekraczający 3000 kilometrów w ciągu trzech tygodni.",
+    "category": "sport",
+    "explanation": "Tak intensywny wysiłek wymaga od kolarzy starannie zaplanowanej diety, dostarczającej organizmowi znacznie więcej kalorii niż przeciętnemu człowiekowi.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-17",
+    "title": "Sztuki walki mają korzenie sięgające tysięcy lat wstecz",
+    "content": "Malowidła i rzeźby przedstawiające techniki zapaśnicze podobne do dzisiejszych sztuk walki znajdowano na stanowiskach archeologicznych sprzed tysięcy lat.",
+    "category": "sport",
+    "explanation": "Wiele współczesnych dyscyplin sztuk walki czerpie bezpośrednio z tradycyjnych technik obronnych i rytuałów wojskowych dawnych cywilizacji.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "sport-18",
+    "title": "Zawodnicy e-sportu trenują refleks podobnie jak sportowcy tradycyjni",
+    "content": "Profesjonalni zawodnicy e-sportu regularnie trenują refleks, koordynację i wytrzymałość psychiczną w sposób zbliżony do przygotowań sportowców tradycyjnych dyscyplin.",
+    "category": "sport",
+    "explanation": "Badania pokazują, że czas reakcji czołowych graczy e-sportowych bywa porównywalny z czasem reakcji zawodowych sportowców w szybkich dyscyplinach.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "sport-19",
+    "title": "Bieganie boso przez wieki było normą, zanim wynaleziono buty sportowe",
+    "content": "Nowoczesne obuwie sportowe z amortyzacją to wynalazek dopiero XX wieku, podczas gdy ludzie biegali na długich dystansach boso lub w prostych sandałach od tysiącleci.",
+    "category": "sport",
+    "explanation": "Współcześni naukowcy wciąż badają, jak różne rodzaje obuwia wpływają na technikę biegu i ryzyko kontuzji w porównaniu z bieganiem boso.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  }
+]

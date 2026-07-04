@@ -1,0 +1,192 @@
+[
+  {
+    "id": "geography-01",
+    "title": "Rosja rozciąga się na jedenaście stref czasowych",
+    "content": "Rosja jest tak rozległym krajem, że obejmuje jedenaście różnych stref czasowych, więcej niż jakiekolwiek inne państwo na świecie.",
+    "category": "geography",
+    "explanation": "Ogromna rozciągłość Rosji ze wschodu na zachód sprawia, że gdy na jednym jej krańcu jest ranek, na drugim może być już wieczór.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "geography-02",
+    "title": "Kanada ma więcej jezior niż reszta świata razem wzięta",
+    "content": "Szacuje się, że Kanada posiada więcej jezior niż wszystkie pozostałe kraje świata razem wzięte, głównie dzięki działalności dawnych lodowców.",
+    "category": "geography",
+    "explanation": "Cofające się lodowce po ostatniej epoce lodowcowej pozostawiły w Kanadzie miliony zagłębień terenu, które z czasem wypełniły się wodą.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-03",
+    "title": "Afryka mogłaby pomieścić kilka największych krajów świata",
+    "content": "Powierzchnia Afryki jest tak duża, że zmieściłyby się na niej łącznie Chiny, Indie, USA oraz kilka krajów Europy Zachodniej.",
+    "category": "geography",
+    "explanation": "Popularne mapy świata w projekcji Merkatora zniekształcają rzeczywiste proporcje kontynentów, przez co Afryka wydaje się mniejsza, niż jest naprawdę.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-04",
+    "title": "Najgłębsze miejsce na Ziemi znajduje się w oceanie",
+    "content": "Rów Mariański w Oceanie Spokojnym sięga głębokości niemal 11 kilometrów, co czyni go najgłębszym znanym miejscem na Ziemi.",
+    "category": "geography",
+    "explanation": "Gdyby Mount Everest umieścić na dnie tego rowu, jego szczyt wciąż znajdowałby się ponad dwa kilometry pod powierzchnią wody.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "geography-05",
+    "title": "Sahara nie zawsze była pustynią",
+    "content": "Kilka tysięcy lat temu Sahara była znacznie bardziej zielona, z jeziorami i sawannami zamieszkanymi przez zwierzęta, zanim zmiany klimatu zamieniły ją w pustynię.",
+    "category": "geography",
+    "explanation": "Malowidła naskalne odnalezione na terenie dzisiejszej Sahary przedstawiają żyrafy, hipopotamy i inne zwierzęta typowe dla wilgotniejszego klimatu.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-06",
+    "title": "Grenlandia jest w rzeczywistości znacznie mniejsza niż na wielu mapach",
+    "content": "Na wielu popularnych mapach Grenlandia wygląda niemal tak duże jak Afryka, choć w rzeczywistości jej powierzchnia jest kilkukrotnie mniejsza.",
+    "category": "geography",
+    "explanation": "To skutek zniekształceń projekcji kartograficznej, która powiększa obszary bliżej biegunów, przez co Grenlandia wydaje się nieproporcjonalnie duża.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-07",
+    "title": "Rzeka Amazonka nie ma ani jednego mostu na większości swojej długości",
+    "content": "Mimo ogromnej długości rzeki Amazonki, przez większość jej biegu nie zbudowano żadnego mostu łączącego oba brzegi.",
+    "category": "geography",
+    "explanation": "Gęsta dżungla, zmienny poziom wody i niska gęstość zaludnienia wzdłuż większości rzeki sprawiają, że budowa mostów jest tam wyjątkowo trudna i nieopłacalna.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-08",
+    "title": "Antarktyda jest technicznie największą pustynią świata",
+    "content": "Antarktyda, mimo skojarzeń wyłącznie z lodem, spełnia definicję pustyni ze względu na wyjątkowo niski poziom opadów, co czyni ją największą pustynią na Ziemi.",
+    "category": "geography",
+    "explanation": "Pustynia definiowana jest przez ilość opadów, a nie temperaturę, dlatego suchy, zimny klimat Antarktydy formalnie kwalifikuje ją jako pustynię lodową.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "geography-09",
+    "title": "Niektóre granice państw przecinają pojedyncze budynki",
+    "content": "W niektórych europejskich miejscowościach granica państwowa przebiega dosłownie przez środek pojedynczych budynków, dzieląc je między dwa kraje.",
+    "category": "geography",
+    "explanation": "Takie sytuacje wynikają zwykle z historycznych ustaleń granicznych, które nie zawsze uwzględniały istniejącą wcześniej zabudowę.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "geography-10",
+    "title": "Mount Everest wciąż rośnie",
+    "content": "Mount Everest rośnie o kilka milimetrów rocznie w wyniku ruchu płyt tektonicznych, które wciąż wypychają Himalaje w górę.",
+    "category": "geography",
+    "explanation": "Kolizja płyty indyjskiej z euroazjatycką trwa od milionów lat i nadal powoli, ale systematycznie podnosi wysokość całego łańcucha górskiego.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "geography-11",
+    "title": "Islandia niemal nie posiada rodzimych drzew leśnych",
+    "content": "Islandia ma jeden z najniższych na świecie procentowych udziałów lasów w powierzchni kraju, głównie z powodu wylesienia po osiedleniu się Wikingów.",
+    "category": "geography",
+    "explanation": "Trudne warunki klimatyczne i wcześniejsze wykarczowanie lasów sprawiają, że ponowne zalesianie wyspy jest dziś procesem bardzo powolnym.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-12",
+    "title": "Morze Martwe jest jednym z najsłonszych zbiorników wody na Ziemi",
+    "content": "Zasolenie Morza Martwego jest kilkukrotnie wyższe niż przeciętnego oceanu, co pozwala ciałom unosić się na powierzchni niemal bez wysiłku.",
+    "category": "geography",
+    "explanation": "Wysokie parowanie w gorącym klimacie i brak odpływu wody powodują stałe zagęszczanie soli rozpuszczonych w tym zbiorniku.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-13",
+    "title": "Niektóre wyspy powstały w wyniku erupcji wulkanicznych w ciągu kilku dni",
+    "content": "Wyspa Surtsey u wybrzeży Islandii wyłoniła się z morza w wyniku erupcji podwodnego wulkanu w latach 1963–1967, tworząc się niemal na oczach naukowców.",
+    "category": "geography",
+    "explanation": "Powstanie wyspy pozwoliło badaczom obserwować od podstaw proces kolonizacji nowego lądu przez rośliny i zwierzęta.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "geography-14",
+    "title": "Rosja i USA są oddzielone wąską cieśniną",
+    "content": "Cieśnina Beringa, oddzielająca Rosję od Alaski, w najwęższym miejscu ma zaledwie około 82 kilometry szerokości, a przy niskim poziomie wody kiedyś tworzyła most lądowy.",
+    "category": "geography",
+    "explanation": "To właśnie przez ten obszar, zwany mostem beringijskim, ludzie migrowali z Azji do obu Ameryk w czasach epoki lodowcowej.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-15",
+    "title": "Watykan jest najmniejszym niepodległym państwem świata",
+    "content": "Watykan zajmuje powierzchnię niewiele większą niż 44 hektary, co czyni go najmniejszym uznanym międzynarodowo, niepodległym państwem na świecie.",
+    "category": "geography",
+    "explanation": "Mimo znikomej powierzchni Watykan ma własne obywatelstwo, walutę oraz niezależną administrację, w tym własną gwardię i pocztę.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "geography-16",
+    "title": "Niektóre rzeki płyną w dwóch kierunkach naprzemiennie",
+    "content": "Rzeka Tonle Sap w Kambodży dwa razy w roku zmienia kierunek nurtu w zależności od pory monsunowej i poziomu wody w rzece Mekong.",
+    "category": "geography",
+    "explanation": "To rzadkie zjawisko hydrologiczne kształtuje unikalny ekosystem otaczającego ją jeziora, znanego z ogromnej bioróżnorodności ryb.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-17",
+    "title": "Chile ma jeden z najbardziej wydłużonych kształtów kraju na świecie",
+    "content": "Chile rozciąga się na długości ponad 4300 kilometrów wzdłuż wybrzeża Pacyfiku, mając przy tym średnią szerokość zaledwie około 175 kilometrów.",
+    "category": "geography",
+    "explanation": "Taki kształt sprawia, że w Chile występuje ogromna różnorodność klimatów – od suchej pustyni Atakama na północy po lodowce na południu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "geography-18",
+    "title": "Niektóre jaskinie kryją całe podziemne rzeki",
+    "content": "System jaskiń Son Doong w Wietnamie jest tak ogromny, że wewnątrz niego znajduje się własna dżungla, rzeka i lokalna pogoda, w tym chmury.",
+    "category": "geography",
+    "explanation": "Ogromne rozmiary tej jaskini pozwalają na przenikanie światła słonecznego, co umożliwia rozwój roślinności w jej wnętrzu.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "geography-19",
+    "title": "Niektóre miasta zbudowano na wielu poziomach z powodu ukształtowania terenu",
+    "content": "Miasto Machu Picchu i inne osady andyjskie budowano na tarasach dopasowanych do stromego, górskiego ukształtowania terenu, by umożliwić rolnictwo i zabudowę.",
+    "category": "geography",
+    "explanation": "Tarasowanie zboczy pozwalało jednocześnie zapobiegać erozji gleby oraz efektywnie wykorzystywać ograniczoną powierzchnię uprawną w górskim terenie.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  }
+]

@@ -1,0 +1,20 @@
+.meter {
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.dot,
+.dotFilled {
+  width: 8px;
+  height: 8px;
+  border-radius: var(--radius-full);
+}
+
+.dot {
+  background: var(--color-outline-variant);
+}
+
+.dotFilled {
+  background: var(--color-primary);
+}

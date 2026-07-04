@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mathematics-01",
+    "title": "Liczba pi nie ma końca ani powtarzającego się wzoru",
+    "content": "Liczba pi ma nieskończenie wiele cyfr po przecinku, które nigdy się nie powtarzają w żadnym regularnym schemacie, mimo obliczenia już bilionów jej cyfr.",
+    "category": "mathematics",
+    "explanation": "Pi jest liczbą niewymierną i przestępną, co matematycznie dowiedziono w XIX wieku, choć samą liczbę znano od tysięcy lat.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-02",
+    "title": "Zero jako liczba pojawiło się stosunkowo późno",
+    "content": "Pojęcie zera jako pełnoprawnej liczby, a nie tylko symbolu braku, rozwinęło się w Indiach dopiero około V wieku naszej ery.",
+    "category": "mathematics",
+    "explanation": "Wcześniejsze systemy liczbowe, jak rzymski, w ogóle nie miały symbolu zera, co znacznie utrudniało wykonywanie skomplikowanych obliczeń.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-03",
+    "title": "Istnieją liczby pierwsze o milionach cyfr",
+    "content": "Największe znane liczby pierwsze mają obecnie ponad 24 miliony cyfr i są odkrywane dzięki rozproszonym obliczeniom tysięcy komputerów na świecie.",
+    "category": "mathematics",
+    "explanation": "Poszukiwaniem tak dużych liczb pierwszych, zwanych liczbami Mersenne'a, zajmuje się międzynarodowy projekt ochotniczych obliczeń GIMPS.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-04",
+    "title": "Szachownica z ziarnami ryżu przewyższa całą produkcję świata",
+    "content": "Podwajanie liczby ziaren ryżu na każdym kolejnym z 64 pól szachownicy dałoby ilość przewyższającą całą historyczną produkcję ryżu na Ziemi.",
+    "category": "mathematics",
+    "explanation": "To klasyczny przykład wzrostu wykładniczego – liczba ziaren na ostatnim polu wynosi 2 do potęgi 63, czyli ponad 9 trylionów.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-05",
+    "title": "Ciąg Fibonacciego opisuje wzorce w przyrodzie",
+    "content": "Liczby ciągu Fibonacciego, w którym każda kolejna jest sumą dwóch poprzednich, pojawiają się w układzie łusek szyszek i nasion słonecznika.",
+    "category": "mathematics",
+    "explanation": "Taki wzorzec wzrostu pozwala roślinom optymalnie upakować nasiona lub liście, minimalizując zacienianie i maksymalizując dostęp do światła.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-06",
+    "title": "Paradoks urodzinowy zaskakuje swoją matematyką",
+    "content": "W grupie zaledwie 23 losowych osób prawdopodobieństwo, że dwie z nich mają urodziny tego samego dnia, przekracza 50%.",
+    "category": "mathematics",
+    "explanation": "Wynika to z faktu, że liczba możliwych par osób rośnie znacznie szybciej niż liczba osób, co intuicyjnie łatwo nie doceniać.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-07",
+    "title": "Nieskończoności mogą mieć różne rozmiary",
+    "content": "Matematycy udowodnili, że liczb rzeczywistych jest 'więcej' niż liczb naturalnych, mimo że obu zbiorów jest nieskończenie wiele.",
+    "category": "mathematics",
+    "explanation": "Georg Cantor pokazał to za pomocą metody przekątniowej, wprowadzając pojęcie różnych mocy zbiorów nieskończonych.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-08",
+    "title": "Suma kątów trójkąta nie zawsze wynosi 180 stopni",
+    "content": "Na zakrzywionej powierzchni, takiej jak kula ziemska, suma kątów trójkąta narysowanego na tej powierzchni może przekraczać 180 stopni.",
+    "category": "mathematics",
+    "explanation": "To podstawa geometrii nieeuklidesowej, która opisuje przestrzenie zakrzywione inaczej niż klasyczna geometria płaszczyzny.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-09",
+    "title": "Liczba możliwych partii szachów przewyższa liczbę atomów w obserwowalnym Wszechświecie",
+    "content": "Szacowana liczba możliwych, sensownych partii szachów jest większa niż szacowana liczba atomów w całym obserwowalnym Wszechświecie.",
+    "category": "mathematics",
+    "explanation": "Ta liczba, zwana liczbą Shannona, wynika z ogromnej liczby możliwych kombinacji ruchów dostępnych już od pierwszych posunięć.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-10",
+    "title": "Matematyka pozwoliła odkryć planetę, zanim ją zobaczono",
+    "content": "Istnienie Neptuna przewidziano matematycznie na podstawie zaburzeń orbity Urana, zanim astronomowie po raz pierwszy zaobserwowali tę planetę.",
+    "category": "mathematics",
+    "explanation": "Obliczenia Urbaina Le Verriera wskazały dokładne miejsce na niebie, gdzie w 1846 roku faktycznie odnaleziono Neptuna.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "mathematics-11",
+    "title": "Węzeł gordyjski matematyki – hipoteza Collatza wciąż nierozwiązana",
+    "content": "Prosta zasada matematyczna zwana hipotezą Collatza, sprawdzona komputerowo dla bilionów liczb, wciąż nie doczekała się formalnego dowodu.",
+    "category": "mathematics",
+    "explanation": "Hipoteza mówi, że powtarzając proste operacje na dowolnej liczbie naturalnej, zawsze dojdziemy do liczby 1, ale nikt tego dotąd nie udowodnił ogólnie.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-12",
+    "title": "Origami łączy geometrię z inżynierią kosmiczną",
+    "content": "Matematyczne wzory znane ze sztuki origami wykorzystano do zaprojektowania sposobu składania paneli słonecznych satelitów przed startem rakiety.",
+    "category": "mathematics",
+    "explanation": "Wzory składania pozwalają upakować dużą powierzchnię w niewielkiej objętości, a następnie rozłożyć ją precyzyjnie w przestrzeni kosmicznej.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "mathematics-13",
+    "title": "Liczby doskonałe są niezwykle rzadkie",
+    "content": "Liczba doskonała to taka, która równa się sumie swoich dzielników właściwych, na przykład 6 (1+2+3); znanych jest ich zaledwie kilkadziesiąt.",
+    "category": "mathematics",
+    "explanation": "Wszystkie znane dotąd liczby doskonałe są parzyste, a istnienie nieparzystej liczby doskonałej pozostaje jednym z otwartych problemów matematyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-14",
+    "title": "Kształt płatka śniegu Kocha ma nieskończony obwód, ale skończone pole",
+    "content": "Matematyczna krzywa Kocha, przypominająca płatek śniegu, ma nieskończenie długi obwód, mimo że otacza obszar o skończonej powierzchni.",
+    "category": "mathematics",
+    "explanation": "To klasyczny przykład fraktala – kształtu, który przy każdym powiększeniu ujawnia kolejne, samopodobne detale bez końca.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-15",
+    "title": "Prawdopodobieństwo wygrania w totolotka jest mniejsze niż uderzenie pioruna",
+    "content": "Statystycznie masz większą szansę zostać trafionym przez piorun w ciągu życia niż trafić szóstkę w typowej loterii liczbowej.",
+    "category": "mathematics",
+    "explanation": "Wynika to z astronomicznie małego prawdopodobieństwa trafienia konkretnej kombinacji liczb spośród milionów możliwych układów.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "mathematics-16",
+    "title": "Algorytm Euklidesa ma ponad 2000 lat i wciąż jest używany",
+    "content": "Metoda znajdowania największego wspólnego dzielnika opisana przez Euklidesa około 300 roku p.n.e. jest do dziś podstawą wielu algorytmów komputerowych.",
+    "category": "mathematics",
+    "explanation": "Jego elegancka prostota sprawia, że algorytm Euklidesa jest wciąż jedną z najefektywniejszych metod tego typu, mimo upływu tysięcy lat.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-17",
+    "title": "Symetria płatków śniegu wynika z fizyki cząsteczek wody",
+    "content": "Sześciokątny kształt płatków śniegu odzwierciedla sześciokątną symetrię, w jaką układają się cząsteczki wody podczas zamarzania.",
+    "category": "mathematics",
+    "explanation": "Chociaż podstawowy kształt jest zawsze sześciokątny, drobne różnice temperatury i wilgotności sprawiają, że każdy płatek jest unikalny.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "mathematics-18",
+    "title": "Twierdzenie Pitagorasa znano przed Pitagorasem",
+    "content": "Zależność między bokami trójkąta prostokątnego opisaną w twierdzeniu Pitagorasa znały już wcześniej cywilizacje babilońska i egipska.",
+    "category": "mathematics",
+    "explanation": "Greccy matematycy, w tym szkoła Pitagorasa, jako pierwsi podali jednak formalny dowód tej zależności, stąd nazwa twierdzenia.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "mathematics-19",
+    "title": "Losowe tasowanie talii kart daje praktycznie unikalny układ",
+    "content": "Po dobrze przetasowanej talii 52 kart powstały układ jest niemal na pewno unikalny w całej historii tasowania kart na świecie.",
+    "category": "mathematics",
+    "explanation": "Liczba możliwych ułożeń talii wynosi 52 silnia, czyli liczba tak ogromna, że przewyższa liczbę sekund, jakie upłynęły od Wielkiego Wybuchu.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

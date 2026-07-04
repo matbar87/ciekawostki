@@ -1,0 +1,192 @@
+[
+  {
+    "id": "culture-01",
+    "title": "Uścisk dłoni jako gest pokoju ma starożytne korzenie",
+    "content": "Podanie dłoni na powitanie mogło pierwotnie służyć pokazaniu, że w ręku nie trzyma się broni, co miało symbolizować pokojowe intencje.",
+    "category": "culture",
+    "explanation": "Wizerunki takiego gestu odnaleziono już na starożytnych greckich i asyryjskich reliefach sprzed tysięcy lat.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "culture-02",
+    "title": "Chleb był walutą w niektórych starożytnych społecznościach",
+    "content": "W starożytnym Egipcie robotnikom budującym piramidy płacono częściowo w postaci chleba i piwa, które traktowano jako podstawowy ekwiwalent wynagrodzenia.",
+    "category": "culture",
+    "explanation": "System ten odzwierciedlał gospodarkę opartą w dużej mierze na wymianie dóbr, zanim powszechnie wprowadzono monety.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "culture-03",
+    "title": "Kolor żałoby różni się w zależności od kultury",
+    "content": "W wielu krajach zachodnich kolorem żałoby jest czerń, ale w części kultur azjatyckich, na przykład w Chinach, tradycyjnym kolorem żałoby jest biały.",
+    "category": "culture",
+    "explanation": "Różnice te wynikają z odmiennych symbolicznych znaczeń przypisywanych barwom w poszczególnych tradycjach religijnych i filozoficznych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-04",
+    "title": "Herbata rozprzestrzeniła się na świecie dzięki szlakom handlowym",
+    "content": "Zwyczaj picia herbaty, wywodzący się ze starożytnych Chin, rozprzestrzenił się na cały świat głównie za pośrednictwem szlaków handlowych i kolonialnych.",
+    "category": "culture",
+    "explanation": "Każda kultura wykształciła własne rytuały związane z parzeniem i piciem herbaty, od japońskiej ceremonii po brytyjskie 'five o'clock'.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-05",
+    "title": "Niektóre języki mają dziesiątki słów na określenie śniegu",
+    "content": "Niektóre języki inuickie mają wiele odrębnych określeń na różne rodzaje śniegu i lodu, odzwierciedlających jego znaczenie w codziennym życiu.",
+    "category": "culture",
+    "explanation": "Bogactwo słownictwa związanego ze śniegiem pokazuje, jak język dostosowuje się do potrzeb opisu środowiska istotnego dla danej społeczności.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-06",
+    "title": "Olimpiada starożytna miała wyłącznie jedną konkurencję na początku",
+    "content": "Pierwsze udokumentowane starożytne igrzyska olimpijskie w 776 roku p.n.e. obejmowały tylko jedną konkurencję – bieg na dystansie jednego stadionu.",
+    "category": "culture",
+    "explanation": "Z czasem do igrzysk dodawano kolejne dyscypliny, takie jak zapasy, rzut dyskiem czy wyścigi rydwanów, tworząc bogaty program sportowy.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-07",
+    "title": "Karnawał w Rio ma korzenie w europejskich tradycjach przedpostnych",
+    "content": "Brazylijski karnawał wywodzi się z europejskich, katolickich tradycji zabaw poprzedzających Wielki Post, przywiezionych przez portugalskich kolonizatorów.",
+    "category": "culture",
+    "explanation": "Z czasem tradycja ta połączyła się z afrykańskimi i rdzennymi wpływami kulturowymi, tworząc unikalny, współczesny charakter karnawału w Brazylii.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-08",
+    "title": "Chińska tradycja podarunków unika liczby cztery",
+    "content": "W wielu kulturach chińskich liczba cztery jest uważana za pechową, ponieważ jej wymowa brzmi podobnie do słowa oznaczającego śmierć.",
+    "category": "culture",
+    "explanation": "Z tego powodu w niektórych budynkach w Azji Wschodniej pomija się czwarte piętro, podobnie jak w niektórych krajach zachodnich pomija się piętro trzynaste.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-09",
+    "title": "Pierwsze zapisane przepisy kulinarne liczą tysiące lat",
+    "content": "Najstarsze znane spisane przepisy kulinarne pochodzą z mezopotamskich tabliczek klinowych sprzed około 3700 lat i opisują gotowanie duszonego mięsa.",
+    "category": "culture",
+    "explanation": "Tabliczki te są dziś przechowywane w muzeach i stanowią jedno z najstarszych źródeł wiedzy o kulinarnych zwyczajach starożytnych cywilizacji.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "culture-10",
+    "title": "Symbol OK wywodzi się z niejasnego XIX-wiecznego żartu językowego",
+    "content": "Popularny skrót 'OK' prawdopodobnie powstał w latach 30. XIX wieku w Bostonie jako żartobliwy, celowo błędny skrót od 'oll korrect'.",
+    "category": "culture",
+    "explanation": "Ten swobodny żart językowy przetrwał i rozprzestrzenił się na cały świat, stając się jednym z najbardziej rozpoznawalnych słów w wielu językach.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-11",
+    "title": "Chusta w kratę stała się symbolem wielu kultur na świecie",
+    "content": "Wzór szkockiej kraty, znany jako tartan, jest historycznie powiązany z konkretnymi klanami szkockimi i wciąż odgrywa ważną rolę w tożsamości regionalnej.",
+    "category": "culture",
+    "explanation": "Każdy wzór tartanu ma swoją unikalną kombinację kolorów i linii, zarejestrowaną w oficjalnym rejestrze prowadzonym w Szkocji.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-12",
+    "title": "Zwyczaj wznoszenia toastów ma starożytne korzenie",
+    "content": "Wznoszenie toastów przy piciu alkoholu wywodzi się prawdopodobnie ze starożytnego zwyczaju wspólnego picia jako dowodu, że napój nie jest zatruty.",
+    "category": "culture",
+    "explanation": "Stukanie się kielichami mogło pierwotnie pomagać przelać odrobinę trunku między naczyniami, co miało zapewnić wzajemne zaufanie biesiadników.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-13",
+    "title": "Japońska sztuka kintsugi naprawia ceramikę złotem",
+    "content": "W japońskiej tradycji kintsugi pęknięcia w ceramice naprawia się złotym lakierem, celowo eksponując uszkodzenie jako część historii przedmiotu.",
+    "category": "culture",
+    "explanation": "Filozofia ta traktuje ślady uszkodzeń jako wartość, a nie wadę, symbolizując akceptację niedoskonałości i historii przedmiotu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-14",
+    "title": "Powszechne zwyczaje ślubne mają zaskakująco różne pochodzenie",
+    "content": "Zwyczaj rzucania ryżu za młodą parą wywodzi się z dawnych wierzeń o zapewnianiu płodności i dobrobytu nowożeńcom w wielu kulturach.",
+    "category": "culture",
+    "explanation": "Podobne symboliczne znaczenie miały wcześniej ziarna pszenicy czy orzechy, zanim ryż stał się popularnym symbolem w wielu krajach zachodnich.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-15",
+    "title": "Pierwsze emotikony pojawiły się dekady przed erą smartfonów",
+    "content": "Pierwsze cyfrowe emotikony, takie jak uśmiech ':-)', zaproponowano w 1982 roku na uniwersyteckim forum internetowym, na długo przed powstaniem smsów.",
+    "category": "culture",
+    "explanation": "Miały pomóc odróżnić żartobliwe wiadomości od poważnych w tekstowej komunikacji, gdzie trudno wyrazić ton emocjonalny.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "culture-16",
+    "title": "Niektóre tradycyjne stroje ludowe mają skomplikowaną symbolikę haftu",
+    "content": "Wzory haftu na tradycyjnych strojach ludowych w wielu krajach niosą ukryte znaczenia, wskazujące na region pochodzenia, stan cywilny lub status społeczny.",
+    "category": "culture",
+    "explanation": "Tego rodzaju symboliczny 'język' haftu przekazywano ustnie z pokolenia na pokolenie, zanim spisano go w opracowaniach etnograficznych.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "culture-17",
+    "title": "Fikcyjne postacie bywają honorowane obywatelstwem",
+    "content": "Niektóre miasta na świecie oficjalnie honorowały popularne postacie fikcyjne symbolicznym obywatelstwem lub kluczem do miasta jako element promocji kultury.",
+    "category": "culture",
+    "explanation": "Takie gesty często mają charakter marketingowy i mają podkreślić związek danego miejsca z popularną historią lub twórcą danej postaci.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-18",
+    "title": "Tradycyjne przysłowia często mają odpowiedniki w wielu językach",
+    "content": "Wiele przysłów o podobnym znaczeniu, jak te dotyczące cierpliwości czy uczciwości, funkcjonuje niezależnie w bardzo odległych od siebie kulturach świata.",
+    "category": "culture",
+    "explanation": "Sugeruje to, że pewne obserwacje o ludzkiej naturze i codziennym życiu są na tyle uniwersalne, że niezależnie pojawiają się w różnych tradycjach.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "culture-19",
+    "title": "Niektóre festiwale światła obchodzone są od tysięcy lat",
+    "content": "Indyjskie święto Diwali, znane jako festiwal światła, obchodzone jest od tysięcy lat i symbolizuje zwycięstwo dobra nad złem oraz światła nad ciemnością.",
+    "category": "culture",
+    "explanation": "Podczas Diwali domy dekoruje się lampkami oliwnymi zwanymi diya, a tradycja ta jest dziś obchodzona przez miliony ludzi na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

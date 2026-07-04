@@ -1,0 +1,112 @@
+[
+  {
+    "id": "economy-01",
+    "title": "Pierwsze monety pojawiły się ponad 2600 lat temu",
+    "content": "Jedne z pierwszych znanych monet wybito w starożytnym królestwie Lidii, na terenie dzisiejszej Turcji, około VII wieku przed naszą erą.",
+    "category": "economy",
+    "explanation": "Monety te wykonywano z elektrum, naturalnego stopu złota i srebra, co ułatwiło handel w porównaniu z wcześniejszą wymianą barterową.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-02",
+    "title": "Inflacja w skrajnych przypadkach potrafiła sięgać milionów procent",
+    "content": "W historii zdarzały się przypadki hiperinflacji, gdzie ceny podwajały się w ciągu zaledwie kilkudziesięciu godzin, a banknoty traciły wartość niemal natychmiast.",
+    "category": "economy",
+    "explanation": "Takie skrajne sytuacje gospodarcze zwykle wynikały z połączenia niekontrolowanego druku pieniądza, wojen i załamania zaufania do waluty.",
+    "surpriseLevel": 4,
+    "source": "IMF",
+    "sourceUrl": "https://www.imf.org"
+  },
+  {
+    "id": "economy-03",
+    "title": "Papierowy pieniądz pojawił się w Chinach wieki przed Europą",
+    "content": "Papierowe banknoty zaczęto stosować w Chinach już w IX wieku naszej ery, na wiele stuleci przed ich upowszechnieniem się w Europie.",
+    "category": "economy",
+    "explanation": "Wcześniej dominującą formą płatności były monety metalowe, a papierowy pieniądz ułatwił transport dużych sum na duże odległości handlowe.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-04",
+    "title": "Giełdy papierów wartościowych mają korzenie w XVII-wiecznym handlu",
+    "content": "Jedna z pierwszych nowoczesnych giełd papierów wartościowych powstała w Amsterdamie na początku XVII wieku, powiązana z handlem udziałami spółek kolonialnych.",
+    "category": "economy",
+    "explanation": "Rozwój tej instytucji finansowej umożliwił inwestorom kupowanie i sprzedawanie udziałów w przedsięwzięciach handlowych bez konieczności bezpośredniego udziału w wyprawach.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-05",
+    "title": "Globalny handel morski przewozi większość towarów świata",
+    "content": "Zdecydowana większość towarów wymienianych w handlu międzynarodowym transportowana jest drogą morską, ze względu na niski koszt przewozu dużych ilości ładunku.",
+    "category": "economy",
+    "explanation": "Standaryzowane kontenery, wprowadzone w połowie XX wieku, znacznie usprawniły i obniżyły koszty globalnego transportu morskiego.",
+    "surpriseLevel": 2,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "economy-06",
+    "title": "Niektóre waluty historycznie opierały się na niecodziennych dobrach",
+    "content": "W różnych okresach historii jako środek płatniczy wykorzystywano między innymi muszle, sól czy ziarna kakao, zanim upowszechniły się monety metalowe.",
+    "category": "economy",
+    "explanation": "Kluczową cechą takich 'walut' była ich rzadkość, trwałość i powszechna akceptacja wśród lokalnej społeczności handlowej.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-07",
+    "title": "Wielki Kryzys lat 30. XX wieku miał globalny zasięg",
+    "content": "Wielki Kryzys, który rozpoczął się w 1929 roku, doprowadził do gwałtownego wzrostu bezrobocia i spadku produkcji w wielu krajach na całym świecie jednocześnie.",
+    "category": "economy",
+    "explanation": "Skala i długość tego kryzysu skłoniły rządy wielu krajów do wprowadzenia nowych regulacji finansowych i programów wsparcia gospodarczego.",
+    "surpriseLevel": 2,
+    "source": "IMF",
+    "sourceUrl": "https://www.imf.org"
+  },
+  {
+    "id": "economy-08",
+    "title": "Kryptowaluty opierają się na technologii sprzed dekad",
+    "content": "Podstawowe koncepcje kryptografii i rozproszonych rejestrów wykorzystywane dziś w kryptowalutach badano już w latach 80. i 90. XX wieku, na długo przed Bitcoinem.",
+    "category": "economy",
+    "explanation": "Dopiero połączenie tych wcześniejszych pomysłów w spójny system w 2008 roku umożliwiło powstanie pierwszej powszechnie znanej kryptowaluty.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "economy-09",
+    "title": "Niektóre kraje mają gospodarki oparte niemal wyłącznie na jednym surowcu",
+    "content": "Gospodarki niektórych krajów są w bardzo dużym stopniu zależne od eksportu jednego kluczowego surowca, na przykład ropy naftowej, co czyni je wrażliwymi na wahania cen.",
+    "category": "economy",
+    "explanation": "Takie uzależnienie gospodarcze skłania część tych krajów do prób dywersyfikacji gospodarki, by zmniejszyć ryzyko związane z wahaniami cen jednego surowca.",
+    "surpriseLevel": 2,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "economy-10",
+    "title": "Niektóre firmy istnieją nieprzerwanie od setek lat",
+    "content": "Na świecie istnieją firmy rodzinne, głównie w Japonii, które działają nieprzerwanie od ponad tysiąca lat, przechodząc z pokolenia na pokolenie.",
+    "category": "economy",
+    "explanation": "Taka długowieczność biznesowa zwykle wiąże się z wąską specjalizacją, np. rzemiosłem czy usługami tradycyjnymi, przekazywanymi w rodzinie z pokolenia na pokolenie.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "economy-11",
+    "title": "Handel wymienny wciąż istnieje we współczesnej gospodarce",
+    "content": "Mimo powszechności pieniądza, handel wymienny bez użycia gotówki wciąż praktykowany jest zarówno w niewielkich lokalnych społecznościach, jak i w niektórych transakcjach międzynarodowych.",
+    "category": "economy",
+    "explanation": "Tego rodzaju wymiana bywa wykorzystywana na przykład w handlu międzynarodowym surowcami, gdy strony wolą uniknąć wahań kursów walutowych.",
+    "surpriseLevel": 2,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  }
+]

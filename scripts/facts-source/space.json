@@ -1,0 +1,202 @@
+[
+  {
+    "id": "space-01",
+    "title": "Doba na Wenus dłuższa niż jej rok",
+    "content": "Wenus obraca się wokół własnej osi tak wolno, że jedna jej doba (243 dni ziemskie) trwa dłużej niż jej rok (225 dni ziemskich potrzebne na okrążenie Słońca).",
+    "category": "space",
+    "explanation": "To efekt bardzo powolnej rotacji planety, dodatkowo odbywającej się w kierunku przeciwnym niż u większości planet Układu Słonecznego.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-02",
+    "title": "Na Marsie zachodzi śnieg z suchego lodu",
+    "content": "Na biegunach Marsa spada śnieg zbudowany z zamarzniętego dwutlenku węgla, czyli suchego lodu, a nie z wody, jak na Ziemi.",
+    "category": "space",
+    "explanation": "Niskie temperatury i atmosfera bogata w CO2 sprawiają, że gaz ten zamarza i opada w postaci kryształków, co zaobserwowały sondy badające klimat Marsa.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-03",
+    "title": "Jeden dzień na Ziemi robi się dłuższy",
+    "content": "Doba na Ziemi wydłuża się średnio o około 1,8 milisekundy na stulecie z powodu tarcia pływowego wywoływanego przez Księżyc.",
+    "category": "space",
+    "explanation": "Grawitacja Księżyca spowalnia rotację Ziemi, przekazując część jej energii obrotowej na oddalanie się Księżyca po orbicie.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-04",
+    "title": "Księżyc oddala się od Ziemi",
+    "content": "Księżyc oddala się od Ziemi w tempie około 3,8 centymetra rocznie, co zmierzono dzięki lustrom pozostawionym przez misje Apollo.",
+    "category": "space",
+    "explanation": "Odbicia wiązek laserowych od luster odblaskowych na Księżycu pozwalają precyzyjnie liczyć odległość Ziemia-Księżyc od dekad.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-05",
+    "title": "Słońce stanowi 99,8% masy Układu Słonecznego",
+    "content": "Słońce zawiera około 99,8% całej masy Układu Słonecznego, a wszystkie planety, księżyce i planetoidy razem wzięte to zaledwie ułamek reszty.",
+    "category": "space",
+    "explanation": "Ogromna masa Słońca powstała z tego samego obłoku gazu i pyłu co planety, ale grawitacja skoncentrowała większość materii w jego wnętrzu.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-06",
+    "title": "Na Jowiszu wieje sztorm od setek lat",
+    "content": "Wielka Czerwona Plama na Jowiszu to gigantyczny sztorm, który obserwujemy nieprzerwanie od co najmniej XVII wieku i wciąż nie ustaje.",
+    "category": "space",
+    "explanation": "To olbrzymi układ burzowy, większy niż Ziemia, podtrzymywany przez różnice prędkości wiatrów w atmosferze Jowisza.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-07",
+    "title": "Saturn zmieściłby się w wodzie",
+    "content": "Saturn ma tak niską gęstość średnią, że gdyby istniał wystarczająco wielki zbiornik wody, ta planeta unosiłaby się na jego powierzchni.",
+    "category": "space",
+    "explanation": "Gęstość Saturna wynosi około 0,69 g/cm³, czyli mniej niż gęstość wody (1 g/cm³), mimo jego ogromnych rozmiarów.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-08",
+    "title": "Jedna łyżeczka gwiazdy neutronowej waży miliardy ton",
+    "content": "Materia gwiazdy neutronowej jest tak gęsta, że jedna łyżeczka tej substancji ważyłaby na Ziemi mniej więcej tyle, co góra.",
+    "category": "space",
+    "explanation": "Gwiazdy neutronowe powstają z zapadnięcia się jądra masywnej gwiazdy, a ich materia osiąga gęstości porównywalne z jądrem atomowym.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-09",
+    "title": "Światło Słońca potrzebuje 8 minut do Ziemi",
+    "content": "Światło ze Słońca dociera do Ziemi w około 8 minut i 20 sekund, mimo że porusza się z prędkością niemal 300 tysięcy kilometrów na sekundę.",
+    "category": "space",
+    "explanation": "Odległość Ziemia-Słońce wynosi około 150 milionów kilometrów, co przy prędkości światła daje właśnie taki czas podróży.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-10",
+    "title": "Międzynarodowa Stacja Kosmiczna okrąża Ziemię 16 razy dziennie",
+    "content": "ISS leci z prędkością około 28 tysięcy km/h i okrąża Ziemię mniej więcej co 90 minut, co daje 16 wschodów i zachodów Słońca na dobę.",
+    "category": "space",
+    "explanation": "Tak duża prędkość jest potrzebna, aby stacja utrzymywała stabilną orbitę na wysokości około 400 km nad Ziemią.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-11",
+    "title": "Kosmos zaczyna się bardzo blisko",
+    "content": "Umowna granica kosmosu, czyli linia Kármána, znajduje się zaledwie około 100 kilometrów nad powierzchnią Ziemi.",
+    "category": "space",
+    "explanation": "To mniej więcej odległość, jaką pokonuje samochód w niecałą godzinę jazdy autostradą, a jednak dzieli nas od próżni kosmicznej.",
+    "surpriseLevel": 3,
+    "source": "ESA",
+    "sourceUrl": "https://www.esa.int"
+  },
+  {
+    "id": "space-12",
+    "title": "Na Marsie jest najwyższy wulkan Układu Słonecznego",
+    "content": "Olympus Mons na Marsie ma około 22 kilometrów wysokości, czyli jest niemal trzykrotnie wyższy niż Mount Everest.",
+    "category": "space",
+    "explanation": "Brak tektoniki płyt na Marsie pozwolił temu wulkanowi rosnąć w jednym miejscu przez miliony lat, zamiast przesuwać się wraz z płytą.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-13",
+    "title": "Pierścienie Saturna są bardzo cienkie",
+    "content": "Choć pierścienie Saturna rozciągają się na setki tysięcy kilometrów, ich grubość w wielu miejscach wynosi zaledwie kilkadziesiąt metrów.",
+    "category": "space",
+    "explanation": "Pierścienie zbudowane są głównie z lodu i skalnych okruchów, a ich niewielka grubość wynika z płaszczyzny, w jakiej krążą wokół planety.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-14",
+    "title": "Astronauci rosną w kosmosie",
+    "content": "W warunkach mikrograwitacji kręgosłup astronautów lekko się rozciąga, przez co mogą urosnąć nawet o kilka centymetrów podczas misji.",
+    "category": "space",
+    "explanation": "Brak nacisku grawitacji sprawia, że krążki międzykręgowe rozprężają się, a wzrost wraca do normy po powrocie na Ziemię.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-15",
+    "title": "Wszechświat wciąż przyspiesza",
+    "content": "Obserwacje odległych supernowych pokazały, że tempo rozszerzania się Wszechświata nie zwalnia, lecz przyspiesza.",
+    "category": "space",
+    "explanation": "Za to przyspieszenie odpowiada tajemnicza ciemna energia, której naturę naukowcy wciąż badają.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-16",
+    "title": "Na Neptunie wieją najsilniejsze wiatry",
+    "content": "Na Neptunie zarejestrowano wiatry wiejące z prędkością do około 2100 km/h – to najsilniejsze wiatry znane w Układzie Słonecznym.",
+    "category": "space",
+    "explanation": "Tak silne wiatry są zaskakujące, biorąc pod uwagę, że Neptun otrzymuje od Słońca dużo mniej energii niż planety bliżej niego.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-17",
+    "title": "Odciski dłoni w kosmicznym pyle przetrwają miliony lat",
+    "content": "Ślady stóp astronautów pozostawione na Księżycu mogą przetrwać miliony lat, ponieważ nie ma tam wiatru ani wody, które mogłyby je zatrzeć.",
+    "category": "space",
+    "explanation": "Brak atmosfery na Księżycu oznacza brak erozji, więc ślady z misji Apollo z lat 60. i 70. wciąż są widoczne.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-18",
+    "title": "Galaktyka Andromedy zderzy się z Drogą Mleczną",
+    "content": "Za około 4 miliardy lat galaktyka Andromedy zderzy się z Drogą Mleczną, tworząc jedną, większą galaktykę.",
+    "category": "space",
+    "explanation": "Mimo zderzenia gwiazdy raczej miną się nawzajem, bo odległości między nimi są ogromne w porównaniu z ich rozmiarami.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-19",
+    "title": "Kosmos jest zupełnie cichy",
+    "content": "W przestrzeni kosmicznej dźwięk nie rozchodzi się w ogóle, ponieważ jest tam zbyt mało cząsteczek, by przenosić fale dźwiękowe.",
+    "category": "space",
+    "explanation": "Dźwięk potrzebuje ośrodka, na przykład powietrza czy wody, a próżnia kosmiczna praktycznie go nie ma.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "space-20",
+    "title": "Jedna strona Księżyca zawsze jest niewidoczna",
+    "content": "Z Ziemi zawsze widzimy tę samą stronę Księżyca, bo jego obrót wokół własnej osi trwa dokładnie tyle samo, co obieg wokół Ziemi.",
+    "category": "space",
+    "explanation": "To zjawisko nazywa się synchronizacją pływową i jest efektem oddziaływań grawitacyjnych między Ziemią a Księżycem.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  }
+]

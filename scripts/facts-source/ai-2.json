@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ai-12",
+    "title": "AI potrafi generować muzykę w stylu konkretnych kompozytorów",
+    "content": "Modele sztucznej inteligencji trenowane na utworach klasycznych potrafią komponować nowe fragmenty przypominające styl konkretnego kompozytora, na przykład Bacha.",
+    "category": "ai",
+    "explanation": "Algorytmy analizują wzorce harmoniczne i rytmiczne w istniejących utworach, a następnie generują nowe kompozycje zgodne z wyuczonym stylem.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-13",
+    "title": "Systemy AI mogą tłumaczyć mowę niemal w czasie rzeczywistym",
+    "content": "Nowoczesne systemy tłumaczenia maszynowego potrafią przekładać mowę z jednego języka na drugi z opóźnieniem liczonym w pojedynczych sekundach.",
+    "category": "ai",
+    "explanation": "Wymaga to jednoczesnego rozpoznawania mowy, tłumaczenia tekstu i syntezy głosu, wykonywanych niemal równolegle przez różne moduły systemu.",
+    "surpriseLevel": 2,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "ai-14",
+    "title": "Algorytmy rekomendacji analizują wzorce zachowań milionów użytkowników",
+    "content": "Systemy rekomendujące filmy czy produkty analizują wzorce zachowań milionów użytkowników jednocześnie, by przewidzieć indywidualne preferencje pojedynczej osoby.",
+    "category": "ai",
+    "explanation": "Takie systemy porównują nasze zachowania z zachowaniami osób o podobnych upodobaniach, co pozwala trafnie przewidywać nowe rekomendacje.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "ai-15",
+    "title": "Sztuczna inteligencja bywa wykorzystywana do przewidywania trzęsień ziemi",
+    "content": "Naukowcy testują modele uczenia maszynowego, które analizując dane sejsmiczne, próbują wychwycić subtelne wzorce mogące poprzedzać wystąpienie trzęsień ziemi.",
+    "category": "ai",
+    "explanation": "Precyzyjne przewidywanie trzęsień ziemi wciąż pozostaje ogromnym wyzwaniem naukowym, a AI jest jednym z narzędzi wspierających te badania.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "ai-16",
+    "title": "Modele AI mogą uczyć się grać w gry, nie znając ich zasad z góry",
+    "content": "Niektóre systemy uczenia przez wzmacnianie potrafiły nauczyć się grać w gry komputerowe na wysokim poziomie, obserwując jedynie obraz ekranu i wynik punktowy.",
+    "category": "ai",
+    "explanation": "Taki system samodzielnie odkrywa strategie i zasady gry metodą prób i błędów, bez wcześniejszego zaprogramowania konkretnych reguł rozgrywki.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-17",
+    "title": "Rozpoznawanie mowy przez komputery rozwijało się dekadami",
+    "content": "Pierwsze systemy rozpoznawania mowy z lat 50. XX wieku potrafiły rozróżnić zaledwie kilka wypowiadanych cyfr, w przeciwieństwie do dzisiejszych zaawansowanych asystentów głosowych.",
+    "category": "ai",
+    "explanation": "Postęp w mocy obliczeniowej oraz dostępność ogromnych zbiorów nagrań mowy pozwoliły z czasem znacząco zwiększyć dokładność takich systemów.",
+    "surpriseLevel": 2,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "ai-18",
+    "title": "AI pomaga archeologom odnajdywać nieznane wcześniej stanowiska",
+    "content": "Algorytmy analizujące zdjęcia satelitarne potrafiły wykryć subtelne różnice w roślinności wskazujące na ukryte pod ziemią, nieodkryte wcześniej stanowiska archeologiczne.",
+    "category": "ai",
+    "explanation": "Takie automatyczne analizy pozwalają naukowcom szybciej przeszukiwać ogromne obszary terenu niż przy tradycyjnych metodach badań w terenie.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-19",
+    "title": "Niektóre modele AI potrafią rozpoznawać emocje na podstawie głosu",
+    "content": "Systemy analizy głosu potrafią z pewną skutecznością rozpoznawać emocjonalny ton wypowiedzi, na przykład wykrywając oznaki zmęczenia lub stresu u mówiącego.",
+    "category": "ai",
+    "explanation": "Analiza opiera się na cechach akustycznych głosu, takich jak tempo mowy, wysokość tonu czy jego zmienność, powiązanych statystycznie z danym stanem emocjonalnym.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  }
+]

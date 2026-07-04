@@ -1,0 +1,192 @@
+[
+  {
+    "id": "biology-01",
+    "title": "Rekiny żyły przed drzewami",
+    "content": "Rekiny pojawiły się na Ziemi ponad 400 milionów lat temu, czyli wcześniej niż pierwsze drzewa, które wyewoluowały około 350 milionów lat temu.",
+    "category": "biology",
+    "explanation": "Rekiny przetrwały aż cztery masowe wymierania, co czyni je jedną z najstarszych i najbardziej wytrzymałych linii ewolucyjnych kręgowców.",
+    "surpriseLevel": 5,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-02",
+    "title": "Ośmiornice mają trzy serca",
+    "content": "Ośmiornice posiadają trzy serca – dwa pompują krew przez skrzela, a trzecie tłoczy ją do reszty ciała.",
+    "category": "biology",
+    "explanation": "Krew ośmiornic zawiera hemocyjaninę zamiast hemoglobiny, co nadaje jej niebieskawy kolor i wymaga innego systemu krążenia niż u ssaków.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-03",
+    "title": "Niektóre drzewa komunikują się przez sieć grzybni",
+    "content": "Drzewa w lesie mogą wymieniać składniki odżywcze i sygnały ostrzegawcze za pośrednictwem podziemnej sieci grzybów mikoryzowych łączących ich korzenie.",
+    "category": "biology",
+    "explanation": "Naukowcy nazywają tę sieć czasem 'wood wide web' – pozwala ona starszym drzewom wspierać młodsze osobniki, przekazując im węgiel i substancje odżywcze.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-04",
+    "title": "Meduzy istniały przed dinozaurami",
+    "content": "Meduzy pojawiły się w oceanach ponad 500 milionów lat temu, czyli na długo przed dinozaurami i praktycznie przed większością znanych form życia.",
+    "category": "biology",
+    "explanation": "Ich prosta budowa ciała, pozbawiona kości czy mózgu, okazała się na tyle skuteczna ewolucyjnie, że przetrwała niemal niezmieniona przez setki milionów lat.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-05",
+    "title": "Niektóre gatunki meduz są biologicznie nieśmiertelne",
+    "content": "Meduza Turritopsis dohrnii potrafi po osiągnięciu dojrzałości cofnąć swój cykl życiowy do stadium młodocianego, co czyni ją teoretycznie nieśmiertelną.",
+    "category": "biology",
+    "explanation": "Proces ten, zwany transdyferencjacją komórkową, pozwala komórkom zmienić swoją funkcję i odmłodzić cały organizm w odpowiedzi na stres lub uszkodzenia.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-06",
+    "title": "DNA człowieka i banana jest częściowo podobne",
+    "content": "Ludzkie DNA i DNA banana mają wspólne około 50–60% sekwencji genów, ponieważ obie formy życia współdzielą wiele podstawowych procesów komórkowych.",
+    "category": "biology",
+    "explanation": "Geny odpowiedzialne za podstawowe funkcje życiowe, jak podział komórek czy metabolizm, są ewolucyjnie bardzo stare i wspólne dla wielu organizmów.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-07",
+    "title": "Bakterie żyją praktycznie wszędzie na Ziemi",
+    "content": "Bakterie odnaleziono w gorących źródłach o temperaturze ponad 100°C, na dnie oceanów oraz kilka kilometrów pod powierzchnią skorupy ziemskiej.",
+    "category": "biology",
+    "explanation": "Takie organizmy nazywa się ekstremofilami – potrafią przetrwać warunki śmiertelne dla większości innych form życia dzięki wyjątkowej biochemii komórek.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-08",
+    "title": "Niektóre rośliny potrafią 'liczyć' dotknięcia",
+    "content": "Muchołówka amerykańska zamyka pułapkę dopiero po dwukrotnym dotknięciu włosków czuciowych w krótkim odstępie czasu, co chroni ją przed fałszywym alarmem.",
+    "category": "biology",
+    "explanation": "Ten mechanizm oszczędza roślinie energię, zapobiegając zamykaniu się liścia w reakcji na przypadkowe, pojedyncze potrącenie przez kroplę deszczu.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-09",
+    "title": "Wieloryby śpią tylko połową mózgu naraz",
+    "content": "Wieloryby i delfiny śpią, wyłączając na zmianę tylko jedną półkulę mózgu, dzięki czemu mogą jednocześnie oddychać świadomie i pływać.",
+    "category": "biology",
+    "explanation": "Ten rodzaj snu nazywa się snem jednopółkulowym i pozwala tym ssakom morskim przetrwać, mimo że muszą regularnie wypływać po powietrze.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-10",
+    "title": "Niektóre bakterie potrafią przetrwać w kosmicznej próżni",
+    "content": "Zarodniki niektórych bakterii przetrwały eksperyment, w którym umieszczono je na zewnątrz Międzynarodowej Stacji Kosmicznej na ponad rok.",
+    "category": "biology",
+    "explanation": "Ekstremalna odporność zarodników na promieniowanie, próżnię i skrajne temperatury pomaga naukowcom badać granice, w jakich może istnieć życie.",
+    "surpriseLevel": 5,
+    "source": "ESA",
+    "sourceUrl": "https://www.esa.int"
+  },
+  {
+    "id": "biology-11",
+    "title": "Rośliny mięsożerne trawią owady enzymami, nie kwasem żołądkowym",
+    "content": "Rośliny takie jak dzbaneczniki wydzielają specjalne enzymy trawienne, które rozkładają schwytane owady na składniki odżywcze przyswajalne przez roślinę.",
+    "category": "biology",
+    "explanation": "Ta strategia pozwala roślinom mięsożernym przetrwać w ubogich w azot glebach, uzupełniając brakujące składniki odżywcze z ciał owadów.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-12",
+    "title": "Niektóre żaby zamarzają zimą i wracają do życia wiosną",
+    "content": "Żaba leśna z Ameryki Północnej potrafi przetrwać zimę z niemal całkowicie zamarzniętym ciałem, a wiosną jej serce ponownie zaczyna bić.",
+    "category": "biology",
+    "explanation": "Wątroba tej żaby produkuje duże ilości glukozy, która działa jak naturalny środek przeciw zamarzaniu, chroniąc komórki przed uszkodzeniem przez lód.",
+    "surpriseLevel": 5,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-13",
+    "title": "Genom niektórych roślin jest większy niż ludzki",
+    "content": "Genom pewnych roślin, na przykład niezapominajki wodnej, zawiera znacznie więcej par zasad DNA niż genom człowieka.",
+    "category": "biology",
+    "explanation": "Wielkość genomu nie jest bezpośrednio powiązana ze złożonością organizmu – rośliny często gromadzą dużo powtarzających się, niekodujących sekwencji DNA.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-14",
+    "title": "Niektóre grzyby potrafią sterować zachowaniem owadów",
+    "content": "Grzyb z rodzaju Ophiocordyceps infekuje mrówki i zmienia ich zachowanie tak, by przed śmiercią wspięły się wysoko, co ułatwia rozprzestrzenianie zarodników.",
+    "category": "biology",
+    "explanation": "To zjawisko, zwane 'zombifikacją', jest efektem substancji chemicznych wydzielanych przez grzyb, wpływających bezpośrednio na układ nerwowy owada.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-15",
+    "title": "Krew niektórych zwierząt jest zielona lub bezbarwna",
+    "content": "Ryby z rodziny Channichthyidae, żyjące w wodach Antarktyki, mają praktycznie bezbarwną krew, ponieważ nie zawiera ona hemoglobiny.",
+    "category": "biology",
+    "explanation": "Zimna, bogata w tlen woda pozwala tym rybom pobierać wystarczająco dużo tlenu bezpośrednio przez skórę, mimo braku czerwonych krwinek.",
+    "surpriseLevel": 5,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-16",
+    "title": "Korzenie roślin potrafią 'wyczuwać' wodę na odległość",
+    "content": "Korzenie roślin rosną w kierunku wilgotniejszej gleby, reagując na subtelne różnice wilgotności wykrywane na poziomie komórkowym, zanim jeszcze jej dotkną.",
+    "category": "biology",
+    "explanation": "Ten mechanizm, zwany hydrotropizmem, pomaga roślinom efektywnie poszukiwać wody nawet w suchym lub nierównomiernie nawodnionym podłożu.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-17",
+    "title": "Niektóre bezkręgowce potrafią odtworzyć całe ciało z fragmentu",
+    "content": "Płazińce z rodzaju planarii potrafią odrosnąć w cały nowy organizm nawet z niewielkiego fragmentu swojego ciała, włącznie z głową i mózgiem.",
+    "category": "biology",
+    "explanation": "Zawdzięczają to dużej liczbie komórek macierzystych rozproszonych po całym ciele, zdolnych przekształcić się w dowolny potrzebny typ tkanki.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "biology-18",
+    "title": "Niektóre nasiona czekają dekady na odpowiednie warunki",
+    "content": "Nasiona niektórych roślin pustynnych mogą pozostawać uśpione w glebie przez dziesięciolecia, kiełkując dopiero po rzadkich, obfitych opadach deszczu.",
+    "category": "biology",
+    "explanation": "Ta strategia przetrwania pozwala roślinom unikać kiełkowania w niesprzyjających warunkach i czekać na moment dający największą szansę na rozwój.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "biology-19",
+    "title": "Niedźwiedzie polarne mają czarną skórę pod białym futrem",
+    "content": "Skóra niedźwiedzia polarnego jest czarna, a jego sierść w rzeczywistości nie jest biała, lecz przezroczysta i tylko odbija światło, sprawiając wrażenie bieli.",
+    "category": "biology",
+    "explanation": "Czarna skóra pomaga pochłaniać ciepło słoneczne, a przezroczyste włosy prowadzą promieniowanie UV bezpośrednio do skóry, wspomagając ogrzewanie ciała.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  }
+]

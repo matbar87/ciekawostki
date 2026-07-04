@@ -1,0 +1,94 @@
+/**
+ * Tokeny kolorów inspirowane Material Design 3 (tonal palettes). Ustawiane
+ * na :root i nadpisywane przez [data-theme="dark"] – przełącznik motywu
+ * (`useTheme`) tylko zmienia ten atrybut, cała reszta apki korzysta
+ * wyłącznie ze zmiennych CSS poniżej.
+ */
+:root {
+  color-scheme: light;
+
+  --color-primary: #6750a4;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #eaddff;
+  --color-on-primary-container: #21005d;
+
+  --color-secondary: #625b71;
+  --color-secondary-container: #e8def8;
+  --color-on-secondary-container: #1d192b;
+
+  --color-surface: #fffbfe;
+  --color-surface-dim: #f7f2fa;
+  --color-surface-container: #f3edf7;
+  --color-surface-container-high: #ece6f0;
+  --color-on-surface: #1c1b1f;
+  --color-on-surface-variant: #49454f;
+
+  --color-outline: #79747e;
+  --color-outline-variant: #cac4d0;
+  --color-background: #fffbfe;
+  --color-error: #ba1a1a;
+  --color-success: #2e7d32;
+
+  --shadow-color: 220deg 40% 30%;
+  --elevation-1: 0 1px 3px hsl(var(--shadow-color) / 0.15), 0 1px 2px hsl(var(--shadow-color) / 0.1);
+  --elevation-2: 0 3px 6px hsl(var(--shadow-color) / 0.16), 0 2px 4px hsl(var(--shadow-color) / 0.12);
+  --elevation-3: 0 10px 20px hsl(var(--shadow-color) / 0.18), 0 3px 6px hsl(var(--shadow-color) / 0.12);
+
+  --radius-small: 12px;
+  --radius-medium: 20px;
+  --radius-large: 28px;
+  --radius-full: 999px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --font-family: 'Segoe UI', system-ui, -apple-system, 'Roboto', 'Helvetica Neue', Arial,
+    sans-serif;
+
+  --motion-fast: 150ms;
+  --motion-medium: 280ms;
+  --motion-slow: 420ms;
+  --motion-easing: cubic-bezier(0.2, 0, 0, 1);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --color-primary: #d0bcff;
+  --color-on-primary: #381e72;
+  --color-primary-container: #4f378b;
+  --color-on-primary-container: #eaddff;
+
+  --color-secondary: #ccc2dc;
+  --color-secondary-container: #4a4458;
+  --color-on-secondary-container: #e8def8;
+
+  --color-surface: #141218;
+  --color-surface-dim: #141218;
+  --color-surface-container: #211f26;
+  --color-surface-container-high: #2b2930;
+  --color-on-surface: #e6e1e5;
+  --color-on-surface-variant: #cac4d0;
+
+  --color-outline: #938f99;
+  --color-outline-variant: #49454f;
+  --color-background: #141218;
+  --color-error: #ffb4ab;
+  --color-success: #81c784;
+
+  --shadow-color: 220deg 40% 2%;
+}
+
+/* Respektuj preferencję redukcji ruchu użytkownika. */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --motion-fast: 0ms;
+    --motion-medium: 0ms;
+    --motion-slow: 0ms;
+  }
+}

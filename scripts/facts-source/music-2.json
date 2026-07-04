@@ -1,0 +1,32 @@
+[
+  {
+    "id": "music-17",
+    "title": "Niektóre opery trwają dłużej niż większość filmów pełnometrażowych",
+    "content": "Niektóre klasyczne opery, jak dzieła Wagnera, potrafią trwać nawet ponad cztery godziny, znacznie dłużej niż przeciętny film kinowy.",
+    "category": "music",
+    "explanation": "Tak długie formy operowe wymagają od śpiewaków i orkiestry wyjątkowej wytrzymałości oraz starannego zaplanowania przerw podczas przedstawienia.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-18",
+    "title": "Perfekcyjny słuch absolutny występuje tylko u niewielkiego odsetka ludzi",
+    "content": "Zdolność do rozpoznania wysokości dźwięku bez punktu odniesienia, zwana słuchem absolutnym, występuje jedynie u niewielkiego odsetka populacji na świecie.",
+    "category": "music",
+    "explanation": "Badania sugerują, że taka zdolność częściej rozwija się u osób, które rozpoczęły naukę muzyki we wczesnym dzieciństwie.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-19",
+    "title": "Niektóre instrumenty ludowe wykorzystują naturalne rezonatory z tykwy",
+    "content": "Tradycyjne instrumenty strunowe w wielu kulturach Afryki i Ameryki Południowej wykorzystują wysuszone tykwy jako naturalne pudła rezonansowe wzmacniające dźwięk.",
+    "category": "music",
+    "explanation": "Taki naturalny rezonator, mimo prostoty konstrukcji, potrafi nadać instrumentowi ciepłe i charakterystyczne brzmienie cenione przez lokalnych muzyków.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

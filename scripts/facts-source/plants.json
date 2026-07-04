@@ -1,0 +1,192 @@
+[
+  {
+    "id": "plants-01",
+    "title": "Bambus jest jedną z najszybciej rosnących roślin świata",
+    "content": "Niektóre gatunki bambusa potrafią urosnąć nawet o około 90 centymetrów w ciągu jednej doby w sprzyjających warunkach.",
+    "category": "plants",
+    "explanation": "Tak szybki wzrost jest możliwy dzięki wyjątkowej strukturze komórek w węzłach łodygi, które wydłużają się niemal jednocześnie na całej długości.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "plants-02",
+    "title": "Sekwoje należą do najwyższych i najstarszych organizmów na Ziemi",
+    "content": "Sekwoje wieczniezielone mogą przekraczać 100 metrów wysokości i żyć ponad 2000 lat, co czyni je jednymi z najstarszych żywych organizmów.",
+    "category": "plants",
+    "explanation": "Ich niezwykła długowieczność wynika między innymi z grubej, odpornej na ogień kory oraz braku naturalnych szkodników zagrażających tak dużym drzewom.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "plants-03",
+    "title": "Niektóre kwiaty zmieniają temperaturę, by przyciągnąć zapylaczy",
+    "content": "Kwiaty niektórych roślin, jak lotos, potrafią samodzielnie podnosić swoją temperaturę o kilkanaście stopni ponad temperaturę otoczenia.",
+    "category": "plants",
+    "explanation": "Podwyższona temperatura pomaga uwalniać zapach przyciągający owady zapylające oraz może chronić delikatne struktury kwiatu przed chłodem.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-04",
+    "title": "Rośliny potrafią 'słyszeć' dźwięk żerujących owadów",
+    "content": "Badania wykazały, że niektóre rośliny reagują zwiększoną produkcją substancji obronnych po wystawieniu na nagranie dźwięku żucia liścia przez gąsienicę.",
+    "category": "plants",
+    "explanation": "Rośliny wykrywają drgania dźwiękowe za pomocą wyspecjalizowanych komórek, co pozwala im uruchomić obronę chemiczną, zanim szkodnik wyrządzi większe szkody.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-05",
+    "title": "Niektóre nasiona przetrwały tysiące lat, zanim wykiełkowały",
+    "content": "Naukowcom udało się wyhodować roślinę z nasiona daktyla znalezionego na starożytnym stanowisku archeologicznym, liczącego około 2000 lat.",
+    "category": "plants",
+    "explanation": "Suche, stabilne warunki przechowywania nasion pozwoliły zachować ich zdolność kiełkowania przez tysiąclecia, co potwierdziły późniejsze analizy DNA.",
+    "surpriseLevel": 5,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "plants-06",
+    "title": "Rośliny produkują tlen, którym oddychamy",
+    "content": "Szacuje się, że rośliny lądowe i fitoplankton morski razem odpowiadają za większość tlenu obecnego obecnie w atmosferze Ziemi.",
+    "category": "plants",
+    "explanation": "Proces fotosyntezy zamienia dwutlenek węgla i wodę w tlen oraz cukry, które są podstawą łańcucha pokarmowego niemal całego życia na Ziemi.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "plants-07",
+    "title": "Niektóre grzyby są bliżej spokrewnione ze zwierzętami niż z roślinami",
+    "content": "Z ewolucyjnego punktu widzenia grzyby są genetycznie bliżej spokrewnione ze zwierzętami niż z roślinami, mimo że przez wieki klasyfikowano je razem z roślinami.",
+    "category": "plants",
+    "explanation": "Grzyby i zwierzęta dzielą wspólnego przodka, który oddzielił się od linii roślin wcześniej niż linie grzybów i zwierząt rozeszły się między sobą.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-08",
+    "title": "Kaktusy potrafią magazynować wodę na miesiące",
+    "content": "Duże kaktusy, takie jak saguaro, potrafią zgromadzić w swoich tkankach setki litrów wody, które wykorzystują podczas długich okresów suszy.",
+    "category": "plants",
+    "explanation": "Gruba, woskowata skóra i specjalna budowa tkanek miękiszowych ograniczają parowanie wody, pozwalając roślinie przetrwać miesiące bez opadów.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "plants-09",
+    "title": "Niektóre rośliny wydzielają truciznę, by odstraszyć roślinożerców",
+    "content": "Liście niektórych akacji afrykańskich zaczynają produkować gorzkie związki toksyczne w ciągu kilku minut od rozpoczęcia objadania przez zwierzęta.",
+    "category": "plants",
+    "explanation": "Co więcej, niektóre akacje potrafią ostrzegać sąsiednie drzewa lotnymi związkami chemicznymi, dzięki czemu te również zaczynają się bronić.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-10",
+    "title": "Storczyki są jedną z najliczniejszych rodzin roślin kwiatowych",
+    "content": "Rodzina storczykowatych liczy ponad 25 tysięcy opisanych gatunków, co czyni ją jedną z największych rodzin roślin kwiatowych na Ziemi.",
+    "category": "plants",
+    "explanation": "Ogromna różnorodność storczyków wynika z ich wyspecjalizowanych, często bardzo precyzyjnych mechanizmów zapylania przez konkretne gatunki owadów.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "plants-11",
+    "title": "Drzewa mogą 'dzielić się' węglem z sąsiadami przez korzenie",
+    "content": "Poprzez sieć grzybni mikoryzowej drzewa potrafią przekazywać węgiel i substancje odżywcze innym drzewom, nawet innych gatunków, rosnącym w pobliżu.",
+    "category": "plants",
+    "explanation": "Naukowcy nazywają to zjawisko przekazywaniem zasobów przez wspólną sieć grzybów, co może wspierać przetrwanie osłabionych lub młodych drzew w lesie.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-12",
+    "title": "Niektóre rośliny kwitną tylko raz na kilkadziesiąt lat",
+    "content": "Agawa amerykańska rośnie przez kilkanaście, a nawet kilkadziesiąt lat, zanim wykształci jeden ogromny kwiatostan, po czym roślina zwykle obumiera.",
+    "category": "plants",
+    "explanation": "Roślina gromadzi przez lata zapasy energii, by raz w życiu wytworzyć imponujący kwiatostan i zapewnić sobie skuteczne rozmnażanie.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "plants-13",
+    "title": "Truskawka to owoc, w którym prawdziwe nasiona są na zewnątrz",
+    "content": "Małe żółte punkciki na powierzchni truskawki to w rzeczywistości pojedyncze, niewielkie owoce, a nie nasiona w tradycyjnym rozumieniu.",
+    "category": "plants",
+    "explanation": "Z botanicznego punktu widzenia mięsista, czerwona część truskawki to rozrośnięte dno kwiatowe, a nie owoc w ścisłym znaczeniu tego słowa.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "plants-14",
+    "title": "Niektóre lasy deszczowe wytwarzają własny deszcz",
+    "content": "Lasy deszczowe Amazonii uwalniają do atmosfery ogromne ilości wilgoci przez transpirację, co znacząco wspiera lokalne opady deszczu.",
+    "category": "plants",
+    "explanation": "Ten mechanizm, nazywany czasem 'latającymi rzekami', sprawia, że lasy deszczowe częściowo same podtrzymują warunki niezbędne do swojego istnienia.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "plants-15",
+    "title": "Mech potrafi przetrwać wysuszenie na wiele lat",
+    "content": "Niektóre gatunki mchów, po całkowitym wysuszeniu, potrafią wrócić do aktywnego życia już kilka minut po zwilżeniu, nawet po latach suszy.",
+    "category": "plants",
+    "explanation": "Ta odporność na wysychanie, zwana anhydrobiozą, pozwala mchom zasiedlać skrajnie surowe środowiska, od pustyń po Antarktykę.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-16",
+    "title": "Niektóre rośliny wabią owady zapachem przypominającym padlinę",
+    "content": "Kwiat trupi lilii wydziela intensywny zapach przypominający gnijące mięso, aby przyciągnąć muchy i chrząszcze pełniące rolę zapylaczy.",
+    "category": "plants",
+    "explanation": "Ten nietypowy zapach jest efektywną strategią ewolucyjną w środowiskach, gdzie owady preferujące padlinę są liczniejsze niż tradycyjni zapylacze kwiatów.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "plants-17",
+    "title": "Korzenie niektórych drzew sięgają dziesiątek metrów w głąb ziemi",
+    "content": "Korzenie niektórych drzew rosnących na terenach suchych mogą sięgać nawet kilkudziesięciu metrów w głąb gleby w poszukiwaniu wody gruntowej.",
+    "category": "plants",
+    "explanation": "Tak głębokie systemy korzeniowe pozwalają drzewom przetrwać długotrwałe susze, docierając do wód niedostępnych dla płycej korzeniących się roślin.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "plants-18",
+    "title": "Rośliny potrafią kierować wzrost liści w stronę światła",
+    "content": "Liście wielu roślin zmieniają swoje ustawienie w ciągu dnia, podążając za pozycją słońca, by maksymalizować ilość pochłanianego światła.",
+    "category": "plants",
+    "explanation": "Zjawisko to, zwane heliotropizmem, jest regulowane przez hormony roślinne reagujące na różnice w naświetleniu poszczególnych części liścia.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "plants-19",
+    "title": "Niektóre rośliny wodne rosną w tempie kilku centymetrów dziennie",
+    "content": "Rzęsa wodna, jedna z najmniejszych roślin kwiatowych, potrafi podwoić swoją populację na powierzchni wody w zaledwie kilka dni.",
+    "category": "plants",
+    "explanation": "Tak szybki rozwój sprawia, że rzęsa bywa testowana jako potencjalne źródło biomasy czy nawet składnik pożywienia w niektórych badaniach rolniczych.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

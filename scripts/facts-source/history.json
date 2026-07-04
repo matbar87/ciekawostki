@@ -1,0 +1,192 @@
+[
+  {
+    "id": "history-01",
+    "title": "Kleopatra żyła bliżej czasów lądowania na Księżycu niż budowy piramid",
+    "content": "Wielka Piramida w Gizie powstała ponad 2500 lat przed narodzinami Kleopatry, a od jej czasów do lądowania Apollo 11 minęło niecałe 2000 lat.",
+    "category": "history",
+    "explanation": "To zestawienie dobrze pokazuje, jak ogromna była rozpiętość czasowa starożytnego Egiptu, obejmująca tysiące lat historii.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-02",
+    "title": "Oksford był już uczelnią przed podbojem Ameryki przez Azteków",
+    "content": "Uniwersytet Oksfordzki prowadził nauczanie już w XII wieku, czyli na długo przed powstaniem imperium Azteków w środkowym Meksyku.",
+    "category": "history",
+    "explanation": "Data dokładnego założenia Oksfordu nie jest znana, ale nauczanie odbywało się tam już od około 1096 roku.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-03",
+    "title": "Ostatnia egzekucja na gilotynie odbyła się niedawno",
+    "content": "Ostatnią egzekucję za pomocą gilotyny we Francji przeprowadzono w 1977 roku, czyli w tym samym roku, w którym miała premierę pierwsza część 'Gwiezdnych Wojen'.",
+    "category": "history",
+    "explanation": "Francja zniosła karę śmierci dopiero w 1981 roku, co czyni gilotynę narzędziem używanym znacznie dłużej, niż powszechnie się sądzi.",
+    "surpriseLevel": 5,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-04",
+    "title": "Wojna stuletnia trwała ponad sto lat",
+    "content": "Wojna stuletnia między Anglią a Francją trwała w rzeczywistości 116 lat, od 1337 do 1453 roku, z licznymi okresami zawieszenia broni.",
+    "category": "history",
+    "explanation": "Nazwa 'wojna stuletnia' została nadana konfliktowi dopiero przez historyków w XIX wieku, długo po jego zakończeniu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-05",
+    "title": "Napoleon nie był niskiego wzrostu",
+    "content": "Napoleon Bonaparte mierzył około 168–170 centymetrów, czyli był przeciętnego jak na swoje czasy wzrostu, mimo popularnego mitu o jego niskim wzroście.",
+    "category": "history",
+    "explanation": "Mit ten mógł powstać z powodu różnic między francuskim a angielskim systemem miar oraz brytyjskiej propagandy wymierzonej w cesarza.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-06",
+    "title": "Wieża Eiffla miała być rozebrana po 20 latach",
+    "content": "Wieża Eiffla w Paryżu została zaprojektowana jako tymczasowa konstrukcja na wystawę światową w 1889 roku i miała zostać rozebrana po dwudziestu latach.",
+    "category": "history",
+    "explanation": "Uratowała ją przydatność jako maszt antenowy do eksperymentów z telegrafią bezprzewodową, co przekonało władze do jej pozostawienia.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-07",
+    "title": "Pierwsza wojna światowa zakończyła się formalnie dekady po rozejmie",
+    "content": "Formalny stan wojny między Niemcami a aliantami z I wojny światowej zakończył się dopiero traktatem podpisanym wiele lat po zawieszeniu broni z 1918 roku.",
+    "category": "history",
+    "explanation": "Skomplikowane procedury dyplomatyczne i kolejne traktaty pokojowe sprawiły, że formalności prawne ciągnęły się przez długi czas po ustaniu walk.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-08",
+    "title": "Wikingowie nie nosili rogatych hełmów",
+    "content": "Nie istnieją wiarygodne dowody archeologiczne na to, że wikingowie nosili hełmy z rogami – ten wizerunek spopularyzowano dopiero w XIX-wiecznej sztuce i operze.",
+    "category": "history",
+    "explanation": "Odnalezione hełmy wikińskie mają prostą, okrągłą konstrukcję, praktyczną w walce, bez ozdobnych rogów utrudniających noszenie.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "history-09",
+    "title": "Wielki Mur Chiński nie jest widoczny gołym okiem z kosmosu",
+    "content": "Wbrew popularnemu przekonaniu Wielki Mur Chiński nie jest wystarczająco szeroki, by dostrzec go gołym okiem z orbity Ziemi bez pomocy optycznej.",
+    "category": "history",
+    "explanation": "Astronauci wielokrotnie potwierdzali, że mur jest zbyt wąski w porównaniu z odległością orbitalną, by wyróżniał się na tle otoczenia bez powiększenia.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "history-10",
+    "title": "Rzymianie mieli już system podłogowego ogrzewania",
+    "content": "Starożytni Rzymianie stosowali system hipokaustu, czyli ogrzewania podłogowego, w którym gorące powietrze krążyło pod podłogami budynków i term.",
+    "category": "history",
+    "explanation": "System ten wymagał zaawansowanej wiedzy inżynieryjnej i był używany głównie w łaźniach publicznych oraz willach zamożnych obywateli.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-11",
+    "title": "Kalendarz gregoriański wprowadzono, przeskakując kilkanaście dni",
+    "content": "Przy wprowadzeniu kalendarza gregoriańskiego w 1582 roku w niektórych krajach po 4 października nastąpił od razu 15 października, by skorygować błędy poprzedniego kalendarza.",
+    "category": "history",
+    "explanation": "Ta korekta miała wyrównać narastające przez wieki przesunięcie kalendarza juliańskiego względem rzeczywistego roku astronomicznego.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-12",
+    "title": "Starożytni Egipcjanie grali w gry planszowe",
+    "content": "Gra senet, znaleziona w egipskich grobowcach sprzed ponad 5000 lat, jest jedną z najstarszych znanych gier planszowych na świecie.",
+    "category": "history",
+    "explanation": "Dokładne zasady gry senet nie są w pełni znane, ale plansze i pionki znaleziono nawet w grobowcu faraona Tutanchamona.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "history-13",
+    "title": "Rewolucja francuska wprowadziła kalendarz z dziesięciodniowym tygodniem",
+    "content": "Podczas rewolucji francuskiej wprowadzono krótkotrwały kalendarz republikański z tygodniami liczącymi dziesięć dni zamiast siedmiu.",
+    "category": "history",
+    "explanation": "Kalendarz ten miał symbolizować zerwanie z tradycją religijną i monarchiczną, ale został wycofany po kilkunastu latach jako niepraktyczny.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-14",
+    "title": "Ludzie chodzili po Księżycu, zanim wynaleziono kółka walizek",
+    "content": "Walizki na kółkach opatentowano dopiero w 1972 roku, czyli już po pierwszym lądowaniu człowieka na Księżycu w 1969 roku.",
+    "category": "history",
+    "explanation": "To zaskakujące zestawienie pokazuje, że rozwój technologii nie zawsze przebiega w intuicyjnej kolejności – złożone problemy bywają rozwiązane przed prostymi.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "history-15",
+    "title": "Starożytna Aleksandria miała ogromną bibliotekę",
+    "content": "Biblioteka Aleksandryjska w starożytnym Egipcie gromadziła według niektórych szacunków setki tysięcy zwojów, będąc jednym z największych ośrodków wiedzy antyku.",
+    "category": "history",
+    "explanation": "Jej zniszczenie na przestrzeni wieków, spowodowane m.in. pożarami i konfliktami, uważane jest za jedną z największych strat dla wiedzy starożytnego świata.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-16",
+    "title": "Pierwsza fotografia człowieka powstała przez przypadek",
+    "content": "Na jednym z pierwszych zdjęć ulicy paryskiej z 1838 roku widoczny jest człowiek, który przystanął na tyle długo, by długi czas naświetlania go uchwycił.",
+    "category": "history",
+    "explanation": "Ze względu na wielominutowy czas naświetlania ówczesnych zdjęć, poruszający się ruch uliczny w ogóle nie został zarejestrowany na kliszy.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "history-17",
+    "title": "Chiny wynalazły papier na długo przed Europą",
+    "content": "Papier wynaleziono w Chinach około II wieku naszej ery, czyli ponad tysiąc lat, zanim technologia jego produkcji dotarła do Europy.",
+    "category": "history",
+    "explanation": "Wcześniej w Europie do pisania używano głównie pergaminu i papirusu, znacznie droższych i trudniejszych w produkcji materiałów.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-18",
+    "title": "Rzymskie drogi wciąż są częściowo używane",
+    "content": "Fragmenty starożytnych rzymskich dróg, budowanych ponad 2000 lat temu, wciąż istnieją w niektórych częściach Europy, a niektóre trasy zachowały swój przebieg do dziś.",
+    "category": "history",
+    "explanation": "Solidna, wielowarstwowa konstrukcja rzymskich dróg pozwoliła im przetrwać wieki użytkowania i zmian klimatycznych znacznie lepiej niż wielu późniejszym budowlom.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "history-19",
+    "title": "Pierwsza kobieta-programistka pracowała w XIX wieku",
+    "content": "Ada Lovelace w połowie XIX wieku napisała pierwszy algorytm przeznaczony do wykonania przez maszynę, na długo przed powstaniem elektronicznych komputerów.",
+    "category": "history",
+    "explanation": "Jej praca nad maszyną analityczną Charlesa Babbage'a jest dziś uznawana za fundament myślenia algorytmicznego i informatyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

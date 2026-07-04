@@ -1,0 +1,122 @@
+[
+  {
+    "id": "computerScience-01",
+    "title": "Pierwszy 'bug' komputerowy był dosłownie owadem",
+    "content": "W 1947 roku informatycy znaleźli martwą ćmę utkniętą w przekaźniku komputera Harvard Mark II, co spopularyzowało określenie 'bug' na błąd w systemie.",
+    "category": "computerScience",
+    "explanation": "Owada wklejono nawet do dziennika technicznego z dopiskiem o 'znalezieniu pierwszego prawdziwego przypadku błędu', co żartobliwie utrwaliło ten termin.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "computerScience-02",
+    "title": "Algorytmy sortowania mają różną szybkość w zależności od danych",
+    "content": "Niektóre algorytmy sortowania, jak sortowanie bąbelkowe, działają znacznie wolniej na dużych zbiorach danych niż bardziej złożone metody, jak sortowanie szybkie.",
+    "category": "computerScience",
+    "explanation": "Wybór odpowiedniego algorytmu ma ogromne znaczenie w informatyce, ponieważ różnice w czasie wykonania mogą sięgać wielu rzędów wielkości przy dużych danych.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-03",
+    "title": "Pierwszy język programowania wysokiego poziomu powstał w latach 50.",
+    "content": "FORTRAN, jeden z pierwszych języków programowania wysokiego poziomu, opracowano w połowie lat 50. XX wieku, a jego elementy są używane do dziś w obliczeniach naukowych.",
+    "category": "computerScience",
+    "explanation": "Umożliwił on programistom pisanie kodu bliższego językowi naturalnemu i matematycznemu, zamiast żmudnego kodowania bezpośrednio w języku maszynowym.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-04",
+    "title": "Szyfrowanie klucza publicznego zrewolucjonizowało bezpieczeństwo danych",
+    "content": "Wprowadzenie kryptografii klucza publicznego w latach 70. XX wieku pozwoliło bezpiecznie przesyłać informacje bez wcześniejszej wymiany tajnego klucza.",
+    "category": "computerScience",
+    "explanation": "Ta technika stanowi dziś podstawę bezpiecznej komunikacji internetowej, w tym bankowości online i szyfrowanych wiadomości.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-05",
+    "title": "Liczba możliwych stanów szachownicy przewyższa moc obliczeniową dzisiejszych komputerów",
+    "content": "Mimo ogromnej mocy obliczeniowej współczesnych superkomputerów, pełne przeanalizowanie wszystkich możliwych partii szachów wciąż pozostaje poza ich zasięgiem.",
+    "category": "computerScience",
+    "explanation": "Programy szachowe radzą sobie mimo to bardzo dobrze dzięki inteligentnym algorytmom przeszukiwania, które nie muszą sprawdzać dosłownie każdej możliwości.",
+    "surpriseLevel": 4,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-06",
+    "title": "Pierwsza strona internetowa wciąż jest dostępna online",
+    "content": "Pierwsza strona internetowa na świecie, stworzona w CERN w 1991 roku, została zarchiwizowana i jest wciąż dostępna online w swojej pierwotnej formie.",
+    "category": "computerScience",
+    "explanation": "Strona ta opisywała samą koncepcję World Wide Web i sposób korzystania z nowego wówczas systemu hipertekstowego.",
+    "surpriseLevel": 3,
+    "source": "CERN",
+    "sourceUrl": "https://home.cern"
+  },
+  {
+    "id": "computerScience-07",
+    "title": "Systemy binarne mają korzenie znacznie starsze niż komputery",
+    "content": "Zasady systemu dwójkowego, na którym oparte są współczesne komputery, opisywał już w XVII wieku matematyk Gottfried Leibniz, na długo przed erą elektroniki.",
+    "category": "computerScience",
+    "explanation": "Leibniz interesował się systemem binarnym częściowo z powodów filozoficznych, nie przewidując, że setki lat później stanie się on podstawą informatyki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "computerScience-08",
+    "title": "Pierwszy komputer osobisty sprzedawano w formie zestawu do samodzielnego montażu",
+    "content": "Jeden z pierwszych popularnych komputerów osobistych z połowy lat 70. sprzedawano jako zestaw części, które entuzjaści musieli samodzielnie lutować i składać.",
+    "category": "computerScience",
+    "explanation": "Dopiero kolejne modele, dostępne w gotowej obudowie, otworzyły drogę do masowej popularyzacji komputerów wśród zwykłych użytkowników.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "computerScience-09",
+    "title": "Kompresja danych pozwala zmniejszyć pliki bez utraty informacji",
+    "content": "Algorytmy kompresji bezstratnej potrafią znacząco zmniejszyć rozmiar pliku, jednocześnie umożliwiając jego dokładne odtworzenie co do bitu.",
+    "category": "computerScience",
+    "explanation": "Techniki te wykorzystują powtarzające się wzorce w danych, zapisując je bardziej efektywnie, bez usuwania jakiejkolwiek oryginalnej informacji.",
+    "surpriseLevel": 2,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-10",
+    "title": "Superkomputery zajmowały kiedyś całe hale, a dziś mieszczą się w kieszeni",
+    "content": "Moc obliczeniowa dawnych superkomputerów zajmujących całe pomieszczenia jest dziś przewyższana przez procesory zwykłych smartfonów noszonych w kieszeni.",
+    "category": "computerScience",
+    "explanation": "Postęp w miniaturyzacji układów scalonych, opisywany przez prawo Moore'a, przez dekady napędzał gwałtowny wzrost mocy obliczeniowej przy malejących rozmiarach.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "computerScience-11",
+    "title": "Programowanie obiektowe powstało już w latach 60. XX wieku",
+    "content": "Podstawy programowania obiektowego, dziś powszechnego w wielu językach, opracowano w Norwegii już w latach 60. XX wieku w języku Simula.",
+    "category": "computerScience",
+    "explanation": "Koncepcje takie jak klasy i obiekty miały ułatwić modelowanie złożonych systemów symulacyjnych, zanim stały się fundamentem nowoczesnego oprogramowania.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "computerScience-12",
+    "title": "Pierwsza mysz komputerowa była wykonana z drewna",
+    "content": "Prototyp pierwszej myszy komputerowej, zaprezentowany w 1968 roku, miał drewnianą obudowę i tylko jeden przycisk, mimo że pełnił funkcję dzisiejszego urządzenia wskazującego.",
+    "category": "computerScience",
+    "explanation": "Wynalazca tego urządzenia zaprezentował je podczas pokazu nazywanego później 'matką wszystkich demonstracji', prezentując też hipertekst i wideokonferencje.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

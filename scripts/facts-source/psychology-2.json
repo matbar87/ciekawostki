@@ -1,0 +1,72 @@
+[
+  {
+    "id": "psychology-13",
+    "title": "Wdzięczność wyrażana regularnie może poprawiać samopoczucie",
+    "content": "Badania psychologiczne wskazują, że osoby regularnie zapisujące rzeczy, za które są wdzięczne, zgłaszają z czasem wyższy poziom satysfakcji z życia.",
+    "category": "psychology",
+    "explanation": "Regularna praktyka wdzięczności może przekierowywać uwagę z problemów na pozytywne aspekty codzienności, co wpływa na długoterminowy nastrój.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-14",
+    "title": "Kolor otoczenia może subtelnie wpływać na nastrój",
+    "content": "Niektóre badania sugerują, że kolory pomieszczeń mogą mieć niewielki wpływ na nastrój i poziom pobudzenia osób w nich przebywających, choć efekt bywa zależny od kontekstu.",
+    "category": "psychology",
+    "explanation": "Wyniki takich badań bywają niejednoznaczne, ponieważ na percepcję barw silnie wpływają także indywidualne skojarzenia i kontekst kulturowy danej osoby.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-15",
+    "title": "Ludzie podejmują lepsze decyzje finansowe po dobrze przespanej nocy",
+    "content": "Badania sugerują, że niedobór snu może obniżać zdolność do racjonalnej oceny ryzyka, co przekłada się na częstsze podejmowanie impulsywnych decyzji finansowych.",
+    "category": "psychology",
+    "explanation": "Zmęczenie wpływa szczególnie na korę przedczołową mózgu, odpowiedzialną za planowanie i kontrolowanie impulsów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-16",
+    "title": "Śmiech może mieć realny wpływ na odczuwanie bólu",
+    "content": "Badania pokazują, że śmiech może zwiększać próg tolerancji bólu, prawdopodobnie za sprawą uwalniania endorfin podczas intensywnego śmiechu.",
+    "category": "psychology",
+    "explanation": "Efekt ten badano między innymi porównując reakcje uczestników oglądających zabawne filmy z tymi oglądającymi neutralne treści.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-17",
+    "title": "Ludzie mają tendencję do przeceniania szybkości przyszłych zmian",
+    "content": "Zjawisko zwane iluzją końca historii sprawia, że ludzie wierzą, iż przeszli już przez większość swojej osobistej zmiany, mimo że w rzeczywistości wciąż się rozwijają.",
+    "category": "psychology",
+    "explanation": "Badania pokazują, że osoby w każdym wieku niedoceniają, jak bardzo ich osobowość i preferencje zmienią się w ciągu kolejnej dekady.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-18",
+    "title": "Ludzki mózg silnie reaguje na wykluczenie społeczne",
+    "content": "Badania obrazowe mózgu pokazują, że odrzucenie społeczne aktywuje niektóre te same obszary mózgu, które reagują na fizyczny ból.",
+    "category": "psychology",
+    "explanation": "To odkrycie tłumaczy, dlaczego doświadczenie odrzucenia bywa opisywane w kategoriach dosłownego bólu, mimo braku fizycznego urazu.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-19",
+    "title": "Krótkie przerwy w pracy mogą poprawiać koncentrację",
+    "content": "Badania nad efektywnością pracy pokazują, że regularne krótkie przerwy mogą poprawiać koncentrację i jakość wykonywanych zadań bardziej niż praca bez przerwy przez długi czas.",
+    "category": "psychology",
+    "explanation": "Ciągłe skupienie na jednym zadaniu prowadzi do stopniowego spadku uwagi, który krótka przerwa pozwala częściowo odwrócić.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  }
+]

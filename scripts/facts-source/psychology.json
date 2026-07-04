@@ -1,0 +1,122 @@
+[
+  {
+    "id": "psychology-01",
+    "title": "Mózg trudno oszukać co do własnych wspomnień",
+    "content": "Badania psychologiczne pokazują, że ludzka pamięć jest podatna na zniekształcenia i sugestię, przez co wspomnienia mogą się zmieniać przy każdym ich przywoływaniu.",
+    "category": "psychology",
+    "explanation": "Zjawisko to, zwane rekonsolidacją pamięci, oznacza, że każde wspomnienie jest odrobinę modyfikowane za każdym razem, gdy je sobie przypominamy.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-02",
+    "title": "Efekt potwierdzenia sprawia, że szukamy informacji zgodnych z naszymi poglądami",
+    "content": "Ludzie mają naturalną tendencję do zwracania większej uwagi na informacje potwierdzające ich wcześniejsze przekonania, ignorując te, które im przeczą.",
+    "category": "psychology",
+    "explanation": "To zjawisko, zwane efektem potwierdzenia, wpływa na sposób, w jaki interpretujemy wiadomości, dyskusje i wyniki badań w codziennym życiu.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-03",
+    "title": "Osoby proszone o kłamstwo częściej patrzą w bok",
+    "content": "Choć popularne przekonania o mowie ciała bywają przesadzone, badania pokazują, że kontrola nad mimowolnymi mikroreakcjami podczas kłamania jest trudna dla większości ludzi.",
+    "category": "psychology",
+    "explanation": "Mimo to naukowcy podkreślają, że pojedyncze sygnały, jak unikanie wzroku, nie są same w sobie wiarygodnym dowodem kłamstwa.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-04",
+    "title": "Ludzie przeceniają, jak bardzo inni ich oceniają",
+    "content": "Zjawisko zwane efektem reflektora sprawia, że ludzie zwykle znacznie przeceniają, jak bardzo inni zauważają i pamiętają ich potknięcia czy niedoskonałości.",
+    "category": "psychology",
+    "explanation": "Badania pokazują, że inni ludzie skupiają się głównie na sobie, przez co poświęcają znacznie mniej uwagi naszym drobnym błędom, niż nam się wydaje.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-05",
+    "title": "Podejmowanie zbyt wielu decyzji może prowadzić do zmęczenia decyzyjnego",
+    "content": "Badania sugerują, że podejmowanie wielu decyzji w krótkim czasie może obniżać jakość kolejnych wyborów, zjawisko to nazywa się zmęczeniem decyzyjnym.",
+    "category": "psychology",
+    "explanation": "Dlatego eksperci polecają podejmowanie ważnych decyzji na świeżo, na przykład rano, zanim umysł zmęczy się drobniejszymi wyborami w ciągu dnia.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-06",
+    "title": "Muzyka radosna niekoniecznie poprawia nastrój u wszystkich",
+    "content": "Reakcja emocjonalna na muzykę jest silnie zindywidualizowana i zależy od osobistych skojarzeń, dlatego ten sam utwór może wywoływać różne emocje u różnych osób.",
+    "category": "psychology",
+    "explanation": "Wcześniejsze doświadczenia i konteksty, w jakich słyszeliśmy dany utwór, silnie wpływają na to, jakie emocje wywołuje on w nas w przyszłości.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-07",
+    "title": "Efekt placebo działa nawet, gdy pacjent wie, że bierze placebo",
+    "content": "Zaskakujące badania pokazały, że pacjenci mogą odczuwać poprawę nawet po przyjęciu leku otwarcie opisanego jako placebo, bez substancji czynnej.",
+    "category": "psychology",
+    "explanation": "Sugeruje to, że sam rytuał przyjmowania 'leczenia' oraz oczekiwanie poprawy mogą mieć realny wpływ na samopoczucie, niezależnie od świadomości pacjenta.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-08",
+    "title": "Ludzie lepiej zapamiętują historie niż suche fakty",
+    "content": "Badania nad pamięcią pokazują, że informacje przedstawione w formie narracji są zapamiętywane znacznie lepiej niż te same fakty podane jako pojedyncze dane liczbowe.",
+    "category": "psychology",
+    "explanation": "Historie angażują więcej obszarów mózgu związanych z emocjami i wyobraźnią, co ułatwia utrwalenie informacji w pamięci długotrwałej.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-09",
+    "title": "Wielozadaniowość obniża efektywność wykonywanych czynności",
+    "content": "Badania psychologiczne wskazują, że próba jednoczesnego wykonywania kilku wymagających uwagi zadań zwykle obniża jakość i szybkość realizacji każdego z nich.",
+    "category": "psychology",
+    "explanation": "Mózg w rzeczywistości nie przetwarza dwóch złożonych zadań naprawdę równolegle, lecz szybko przełącza się między nimi, tracąc czas na te przełączenia.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-10",
+    "title": "Kontakt z naturą może poprawiać samopoczucie psychiczne",
+    "content": "Badania pokazują, że nawet krótki spacer wśród zieleni może obniżać poziom stresu i poprawiać nastrój bardziej niż taki sam spacer w środowisku miejskim.",
+    "category": "psychology",
+    "explanation": "Naukowcy wiążą ten efekt z niższym poziomem bodźców sensorycznych w naturalnym otoczeniu, co pozwala umysłowi na regenerację uwagi.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-11",
+    "title": "Ludzie często przeceniają swoje umiejętności w danej dziedzinie",
+    "content": "Zjawisko znane jako efekt Dunninga-Krugera opisuje tendencję osób o niskich kompetencjach w danej dziedzinie do przeceniania swoich rzeczywistych umiejętności.",
+    "category": "psychology",
+    "explanation": "Osoby te często nie posiadają wystarczającej wiedzy, by dostrzec luki we własnych kompetencjach, co prowadzi do nadmiernej pewności siebie.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "psychology-12",
+    "title": "Gesty rąk mogą pomagać w formułowaniu myśli",
+    "content": "Badania sugerują, że gestykulacja podczas mówienia nie tylko wspiera komunikację, ale może też pomagać mówcy w organizowaniu własnych myśli w czasie rzeczywistym.",
+    "category": "psychology",
+    "explanation": "Osoby, którym uniemożliwiono gestykulację podczas opisywania złożonych sytuacji, w niektórych badaniach miały większe trudności ze znalezieniem właściwych słów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sport-01",
+    "title": "Maraton ma swoją długość dzięki igrzyskom w Londynie",
+    "content": "Dokładny dystans maratonu, 42,195 kilometra, ustalono ostatecznie podczas igrzysk olimpijskich w Londynie w 1908 roku, by trasa kończyła się przed lożą królewską.",
+    "category": "sport",
+    "explanation": "Wcześniej dystans maratonu bywał różny na różnych zawodach, a londyński przebieg stał się później oficjalnym standardem międzynarodowym.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-02",
+    "title": "Piłka nożna była kiedyś rozgrywana bez ustalonej liczby zawodników",
+    "content": "We wczesnych, nieformalnych formach piłki nożnej w średniowiecznej Anglii mecze bywały rozgrywane przez całe wioski, bez ograniczonej liczby graczy na drużynę.",
+    "category": "sport",
+    "explanation": "Dopiero spisanie oficjalnych zasad w XIX wieku wprowadziło standardową liczbę jedenastu zawodników na boisku, znaną dziś na całym świecie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-03",
+    "title": "Igrzyska olimpijskie przez wieki nie odbywały się wcale",
+    "content": "Starożytne igrzyska olimpijskie zostały zakazane pod koniec IV wieku, a nowożytne igrzyska wznowiono dopiero w 1896 roku, po ponad 1500 latach przerwy.",
+    "category": "sport",
+    "explanation": "Odrodzenie igrzysk było w dużej mierze zasługą Pierre'a de Coubertina, który chciał promować międzynarodową współpracę poprzez sport.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-04",
+    "title": "Koszykówkę wymyślono, by zapełnić czas między sezonami sportowymi",
+    "content": "Koszykówkę wynaleziono w 1891 roku jako aktywność mającą zająć młodzież sportową w chłodniejszych miesiącach między sezonem futbolu a baseballu.",
+    "category": "sport",
+    "explanation": "Pierwsze mecze rozgrywano z użyciem koszy na brzoskwinie zamiast obręczy, co wymagało wyjmowania piłki ręcznie po każdym trafieniu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-05",
+    "title": "Niektórzy sportowcy potrafią utrzymać wstrzymany oddech na kilka minut",
+    "content": "Wytrenowani nurkowie swobodni potrafią wstrzymywać oddech na kilka minut, znacznie dłużej niż przeciętny człowiek, dzięki specjalnym treningom oddechowym.",
+    "category": "sport",
+    "explanation": "Trening ten zwiększa pojemność płuc oraz tolerancję organizmu na wysoki poziom dwutlenku węgla we krwi, co pozwala wydłużyć czas beztlenowego wysiłku.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "sport-06",
+    "title": "Tenis ziemny wywodzi się ze średniowiecznej gry dworskiej",
+    "content": "Współczesny tenis ziemny wywodzi się z francuskiej gry 'jeu de paume', w którą grano na dworach królewskich już w średniowieczu, uderzając piłkę dłonią.",
+    "category": "sport",
+    "explanation": "Dopiero później do gry wprowadzono rakiety, a w XIX wieku ustandaryzowano zasady, tworząc tenis w formie zbliżonej do dzisiejszej.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-07",
+    "title": "Maratończycy tracą znaczną ilość płynów podczas biegu",
+    "content": "Podczas biegu maratońskiego zawodnik może stracić przez pot nawet kilka litrów płynów, dlatego odpowiednie nawodnienie jest kluczowe dla ukończenia trasy.",
+    "category": "sport",
+    "explanation": "Niedostateczne nawodnienie podczas długotrwałego wysiłku może prowadzić do poważnego spadku wydolności organizmu i ryzyka przegrzania.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "sport-08",
+    "title": "Golf ma jedne z najstarszych spisanych zasad gry",
+    "content": "Pierwsze znane spisane zasady golfa pochodzą z Edynburga z połowy XVIII wieku i obejmowały zaledwie kilkanaście prostych reguł.",
+    "category": "sport",
+    "explanation": "Gra rozwinęła się wcześniej w Szkocji jako rozrywka, zanim skodyfikowano jej zasady i standardowe pole zaczęło liczyć osiemnaście dołków.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-09",
+    "title": "Piłki do rugby mają owalny kształt z powodów historycznych",
+    "content": "Owalny kształt piłki do rugby wywodzi się od pierwotnych piłek wykonanych z pęcherzy świńskich, które naturalnie przybierały wydłużony kształt.",
+    "category": "sport",
+    "explanation": "Mimo że dziś piłki produkuje się z syntetycznych materiałów o precyzyjnych wymiarach, tradycyjny owalny kształt pozostał niezmieniony.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-10",
+    "title": "Szachy uznaje się oficjalnie za sport w niektórych krajach",
+    "content": "W niektórych krajach szachy są oficjalnie klasyfikowane jako dyscyplina sportowa, a zawodowi szachiści trenują kondycję fizyczną, by wytrzymać długie partie.",
+    "category": "sport",
+    "explanation": "Długie turnieje szachowe wymagają dużej koncentracji i wytrzymałości psychicznej, co powoduje u zawodników znaczne zużycie energii, porównywalne z innym wysiłkiem umysłowym.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-11",
+    "title": "Pierwsze mecze koszykówki rozgrywano bez kozłowania piłki",
+    "content": "W pierwszych latach istnienia koszykówki zawodnicy nie kozłowali piłką – dryblowanie ręką podczas biegu wprowadzono do zasad dopiero z czasem.",
+    "category": "sport",
+    "explanation": "Wczesna wersja gry opierała się głównie na podaniach między zawodnikami, co znacznie różniło się od dynamicznego stylu gry znanego dziś.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "sport-12",
+    "title": "Pływacy korzystają z fizyki oporu wody, by poprawić czasy",
+    "content": "Projektowanie strojów pływackich i technik startu opiera się na dokładnych badaniach nad oporem wody, mających zminimalizować tarcie podczas wyścigu.",
+    "category": "sport",
+    "explanation": "Nawet niewielkie zmiany w opływowości ciała czy stroju mogą przełożyć się na różnice czasowe decydujące o medalu w zawodowym pływaniu.",
+    "surpriseLevel": 2,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  }
+]

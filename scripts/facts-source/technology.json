@@ -1,0 +1,182 @@
+[
+  {
+    "id": "technology-01",
+    "title": "Pierwsza wiadomość SMS została wysłana w 1992 roku",
+    "content": "Pierwszy w historii SMS o treści 'Merry Christmas' wysłano w grudniu 1992 roku, choć telefony z klawiaturą do pisania SMS-ów upowszechniły się dopiero później.",
+    "category": "technology",
+    "explanation": "Wiadomość została wysłana z komputera do telefonu komórkowego, ponieważ ówczesne telefony nie miały jeszcze wygodnego sposobu pisania tekstu.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-02",
+    "title": "Pierwszy komputer ważył tyle, co kilka samochodów",
+    "content": "ENIAC, jeden z pierwszych elektronicznych komputerów ogólnego przeznaczenia z 1945 roku, ważył około 27 ton i zajmował powierzchnię dużego pomieszczenia.",
+    "category": "technology",
+    "explanation": "Wykorzystywał tysiące lamp próżniowych, które często się przegrzewały i wymagały stałej konserwacji, w przeciwieństwie do dzisiejszych układów scalonych.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "technology-03",
+    "title": "Radio i telefon komórkowy opierają się na tej samej podstawowej fizyce",
+    "content": "Telefony komórkowe i tradycyjne radio wykorzystują tę samą podstawę – fale elektromagnetyczne – choć różnią się częstotliwością i sposobem kodowania sygnału.",
+    "category": "technology",
+    "explanation": "Odkrycia dotyczące fal radiowych z końca XIX wieku stały się fundamentem dla całej późniejszej komunikacji bezprzewodowej, od radia po Wi-Fi.",
+    "surpriseLevel": 2,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-04",
+    "title": "Kod kreskowy zeskanowano po raz pierwszy na paczce gumy",
+    "content": "Pierwszym produktem zeskanowanym za pomocą kodu kreskowego w sklepie, w 1974 roku, była paczka gumy do żucia.",
+    "category": "technology",
+    "explanation": "Ten prosty test w supermarkecie w stanie Ohio zapoczątkował globalne wdrożenie technologii kodów kreskowych w handlu detalicznym.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "technology-05",
+    "title": "GPS wymaga uwzględnienia efektów teorii względności",
+    "content": "System GPS musi korygować różnice w tempie upływu czasu między satelitami a Ziemią, wynikające zarówno ze szczególnej, jak i ogólnej teorii względności.",
+    "category": "technology",
+    "explanation": "Bez tych poprawek błąd lokalizacji GPS narastałby o kilka kilometrów dziennie, czyniąc system praktycznie bezużytecznym.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "technology-06",
+    "title": "Pierwsza kamera cyfrowa ważyła kilka kilogramów",
+    "content": "Prototyp pierwszej cyfrowej kamery fotograficznej, zbudowany w 1975 roku, ważył około 3,6 kilograma i zapisywał zdjęcia o rozdzielczości zaledwie 0,01 megapiksela.",
+    "category": "technology",
+    "explanation": "Zapisanie jednego zdjęcia na taśmie kasetowej zajmowało wtedy około 23 sekund, co dziś wydaje się niewyobrażalnie wolne.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "technology-07",
+    "title": "Współczesne statki kosmiczne miały mniej mocy obliczeniowej niż telefon",
+    "content": "Komputer pokładowy misji Apollo, który pomógł wylądować ludziom na Księżycu, miał znacznie mniejszą moc obliczeniową niż przeciętny współczesny smartfon.",
+    "category": "technology",
+    "explanation": "Mimo ograniczonych zasobów, precyzyjne oprogramowanie i procedury pozwoliły misji zakończyć się sukcesem, co pokazuje wagę dobrze zaprojektowanego kodu.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "technology-08",
+    "title": "Pierwszy elektroniczny e-mail wysłano przed powszechnym internetem",
+    "content": "Pierwsza wiadomość e-mail w dzisiejszym rozumieniu została wysłana w 1971 roku, na długo przed powstaniem internetu w formie znanej nam obecnie.",
+    "category": "technology",
+    "explanation": "Wiadomość wysłano między dwoma komputerami znajdującymi się obok siebie w tej samej sieci eksperymentalnej ARPANET.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-09",
+    "title": "Bateria litowo-jonowa potrzebowała dekad badań, zanim trafiła do telefonów",
+    "content": "Podstawowe koncepcje baterii litowo-jonowych badano od lat 70. XX wieku, ale komercyjnie wprowadzono je dopiero na początku lat 90.",
+    "category": "technology",
+    "explanation": "Twórcy tej technologii otrzymali później Nagrodę Nobla, doceniając jej ogromny wpływ na rozwój urządzeń przenośnych i pojazdów elektrycznych.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-10",
+    "title": "Ekrany dotykowe mają korzenie sięgające lat 60. XX wieku",
+    "content": "Pierwsze koncepcje ekranów dotykowych powstały już w latach 60. i 70. XX wieku, choć powszechne w telefonach stały się dopiero kilkadziesiąt lat później.",
+    "category": "technology",
+    "explanation": "Wczesne technologie dotykowe były drogie i mało precyzyjne, dlatego ich masowe zastosowanie wymagało dalszego rozwoju materiałów i elektroniki.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-11",
+    "title": "Wi-Fi opiera się na technologii opracowanej częściowo dla astronomii",
+    "content": "Część technik przetwarzania sygnału wykorzystywanych dziś w sieciach Wi-Fi wywodzi się z badań nad wykrywaniem sygnałów radiowych z eksplozji czarnych dziur.",
+    "category": "technology",
+    "explanation": "Algorytmy opracowane pierwotnie do usuwania zakłóceń w astronomicznych obserwacjach radiowych znalazły później zastosowanie w komunikacji bezprzewodowej.",
+    "surpriseLevel": 4,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-12",
+    "title": "Pierwszy wirus komputerowy nie był stworzony w złych intencjach",
+    "content": "Jeden z pierwszych programów rozprzestrzeniających się samodzielnie między komputerami we wczesnych latach 70. powstał jako eksperymentalny test, a nie atak.",
+    "category": "technology",
+    "explanation": "Program o nazwie Creeper wyświetlał jedynie komunikat 'I'm the creeper, catch me if you can!' i nie wyrządzał realnych szkód w systemach.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-13",
+    "title": "Kuchenka mikrofalowa powstała dzięki stopionej czekoladzie",
+    "content": "Kuchenkę mikrofalową wynaleziono po tym, jak inżynier zauważył, że baton czekoladowy w jego kieszeni stopił się w pobliżu działającego magnetronu radarowego.",
+    "category": "technology",
+    "explanation": "To przypadkowe spostrzeżenie z lat 40. XX wieku doprowadziło do opracowania pierwszych komercyjnych kuchenek mikrofalowych.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "technology-14",
+    "title": "Współczesne dyski twarde przechowują dane dzięki zjawiskom magnetycznym odkrytym w XIX wieku",
+    "content": "Zapis danych na dyskach twardych opiera się na zasadach magnetyzmu opisanych już w XIX wieku, dostosowanych do mikroskopijnej skali współczesnej elektroniki.",
+    "category": "technology",
+    "explanation": "Miniaturyzacja tych zasad pozwoliła zwiększyć pojemność dysków z pojedynczych megabajtów do wielu terabajtów w ciągu zaledwie kilku dekad.",
+    "surpriseLevel": 2,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-15",
+    "title": "Pierwszy 'pendrive' miał pojemność mniejszą niż jedno zdjęcie dzisiaj",
+    "content": "Pierwsze komercyjne pamięci USB z początku XXI wieku oferowały pojemność zaledwie kilku megabajtów, co dziś nie starczyłoby nawet na jedno zdjęcie w wysokiej rozdzielczości.",
+    "category": "technology",
+    "explanation": "Szybki rozwój technologii pamięci flash sprawił, że pojemności nośników rosły z roku na rok, przy jednoczesnym spadku ich ceny.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-16",
+    "title": "Pierwsze zdalne sterowanie telewizorem było przewodowe",
+    "content": "Pierwszy pilot do telewizora z lat 50. XX wieku był połączony z odbiornikiem długim przewodem, co znacznie ograniczało wygodę jego użycia.",
+    "category": "technology",
+    "explanation": "Dopiero późniejsze modele wykorzystujące ultradźwięki, a następnie podczerwień, pozwoliły na bezprzewodowe sterowanie telewizorem z dowolnego miejsca w pokoju.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "technology-17",
+    "title": "Kable podmorskie przesyłają większość globalnego internetu",
+    "content": "Znaczna większość międzynarodowego ruchu internetowego przesyłana jest przez sieć podmorskich kabli światłowodowych ułożonych na dnie oceanów.",
+    "category": "technology",
+    "explanation": "Satelity, mimo powszechnego skojarzenia z globalną komunikacją, obsługują tylko niewielki procent całego światowego ruchu danych internetowych.",
+    "surpriseLevel": 4,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "technology-18",
+    "title": "Pierwsze przenośne telefony komórkowe ważyły ponad kilogram",
+    "content": "Pierwszy komercyjny telefon komórkowy z 1983 roku ważył prawie kilogram, a jego bateria wymagała wielu godzin ładowania na krótką rozmowę.",
+    "category": "technology",
+    "explanation": "Wysoka cena i rozmiar sprawiały, że wczesne telefony komórkowe były przez lata dostępne głównie dla zamożnych klientów biznesowych.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "society-13",
+    "title": "Adopcja psów jako zwierząt domowych ma tysiące lat historii",
+    "content": "Udomowienie psów przez ludzi rozpoczęło się dziesiątki tysięcy lat temu, co czyni psa jednym z najstarszych towarzyszy człowieka w historii społeczeństw.",
+    "category": "society",
+    "explanation": "Wspólna ewolucja człowieka i psa wpłynęła na zachowania obu gatunków, ułatwiając współpracę na przykład podczas polowań czy ochrony osady.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "society-14",
+    "title": "Więcej ludzi mieszka dziś w miastach niż na wsiach",
+    "content": "Od kilkunastu lat na świecie więcej ludzi mieszka w miastach niż na obszarach wiejskich, co jest historycznie nowym zjawiskiem dla ludzkości.",
+    "category": "society",
+    "explanation": "Ta zmiana, zwana urbanizacją, wynika z migracji za pracą i lepszym dostępem do usług, edukacji i opieki zdrowotnej w miastach.",
+    "surpriseLevel": 2,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-15",
+    "title": "Niektóre tradycyjne społeczności liczą czas w zupełnie inny sposób",
+    "content": "Niektóre społeczności rdzenne organizują swój kalendarz według cykli księżycowych, pór połowów czy migracji zwierząt, a nie według stałych dat kalendarzowych.",
+    "category": "society",
+    "explanation": "Taki elastyczny system czasu odzwierciedla ścisłe powiązanie codziennego życia tych społeczności z lokalnym środowiskiem naturalnym.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "society-16",
+    "title": "Powszechny dostęp do elektryczności to zjawisko sprzed niecałych 150 lat",
+    "content": "Elektryczność do domów zaczęto masowo doprowadzać dopiero pod koniec XIX i na początku XX wieku, a wiele regionów świata zyskało pełny dostęp do niej znacznie później.",
+    "category": "society",
+    "explanation": "Do dziś istnieją miejsca na świecie bez stałego dostępu do sieci elektrycznej, co wpływa na możliwości edukacyjne i gospodarcze tamtejszych społeczności.",
+    "surpriseLevel": 3,
+    "source": "World Bank",
+    "sourceUrl": "https://www.worldbank.org"
+  },
+  {
+    "id": "society-17",
+    "title": "Systemy emerytalne są stosunkowo młodym wynalazkiem społecznym",
+    "content": "Pierwszy nowoczesny system emerytalny wprowadzono w Niemczech pod koniec XIX wieku, co było wówczas nowatorskim rozwiązaniem społecznym.",
+    "category": "society",
+    "explanation": "Wcześniej opieka nad osobami starszymi opierała się niemal wyłącznie na wsparciu rodziny lub lokalnej wspólnoty, bez formalnego systemu państwowego.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "society-18",
+    "title": "Struktury rodzinne różnią się znacząco między kulturami świata",
+    "content": "W niektórych kulturach powszechne są rodziny wielopokoleniowe mieszkające pod jednym dachem, podczas gdy w innych dominuje model rodziny nuklearnej.",
+    "category": "society",
+    "explanation": "Te różnice wynikają z czynników ekonomicznych, religijnych i historycznych, kształtujących odmienne oczekiwania społeczne wobec struktury rodziny.",
+    "surpriseLevel": 2,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-19",
+    "title": "Powszechna umiejętność czytania i pisania jest historycznie nowym zjawiskiem",
+    "content": "Jeszcze na początku XX wieku znaczna część światowej populacji nie potrafiła czytać ani pisać, a powszechna alfabetyzacja to w dużej mierze zdobycz ostatnich stu lat.",
+    "category": "society",
+    "explanation": "Rozwój powszechnej edukacji publicznej i programów walki z analfabetyzmem znacząco zwiększył globalny wskaźnik alfabetyzacji w ciągu jednego stulecia.",
+    "surpriseLevel": 3,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  }
+]

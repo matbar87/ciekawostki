@@ -1,0 +1,192 @@
+[
+  {
+    "id": "earth-01",
+    "title": "Jądro Ziemi jest tak gorące jak powierzchnia Słońca",
+    "content": "Temperatura wewnętrznego jądra Ziemi sięga około 5000–6000°C, czyli jest zbliżona do temperatury panującej na powierzchni Słońca.",
+    "category": "earth",
+    "explanation": "Tak wysoka temperatura utrzymuje się dzięki pozostałościom ciepła ze formowania się planety oraz rozpadowi promieniotwórczemu pierwiastków w jej wnętrzu.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-02",
+    "title": "Kontynenty wciąż powoli się przesuwają",
+    "content": "Płyty tektoniczne, na których leżą kontynenty, przemieszczają się o kilka centymetrów rocznie, czyli mniej więcej z prędkością wzrostu ludzkich paznokci.",
+    "category": "earth",
+    "explanation": "Ten powolny ruch, napędzany prądami konwekcyjnymi w płaszczu Ziemi, w skali milionów lat doprowadził do rozpadu superkontynentu Pangea.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-03",
+    "title": "Pole magnetyczne Ziemi wielokrotnie zmieniało bieguny",
+    "content": "W historii geologicznej Ziemi bieguny magnetyczne wielokrotnie zamieniały się miejscami, co potwierdzają badania skał zawierających zapis dawnego namagnesowania.",
+    "category": "earth",
+    "explanation": "Te odwrócenia biegunów zachodzą nieregularnie, w odstępach od tysięcy do milionów lat, i są rejestrowane w skałach powstających na dnie oceanicznym.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-04",
+    "title": "Większość życia na Ziemi to mikroorganizmy",
+    "content": "Szacuje się, że pod względem liczby komórek i różnorodności biologicznej większość życia na Ziemi stanowią mikroorganizmy, a nie rośliny czy zwierzęta.",
+    "category": "earth",
+    "explanation": "Bakterie i archeony zasiedlają niemal każde środowisko na planecie, od głębin oceanicznych po wnętrze skał, wciąż będąc mniej widoczne niż większe organizmy.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "earth-05",
+    "title": "Ziemia nie jest idealną kulą",
+    "content": "Ze względu na rotację planety Ziemia jest lekko spłaszczona na biegunach i wybrzuszona na równiku, co czyni ją elipsoidą, a nie idealną kulą.",
+    "category": "earth",
+    "explanation": "Różnica między promieniem równikowym a biegunowym wynosi około 21 kilometrów, co jest niewielkie w porównaniu z całkowitym rozmiarem planety.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-06",
+    "title": "Ziemia ma naturalny 'pióropusz' pyłu z Sahary docierający do Amazonii",
+    "content": "Pył z Sahary jest regularnie przenoszony przez wiatry nad Atlantykiem i dociera aż do lasów deszczowych Amazonii, użyźniając tamtejszą glebę.",
+    "category": "earth",
+    "explanation": "Pył ten zawiera minerały, w tym fosfor, który jest kluczowym, ale rzadkim składnikiem odżywczym dla roślinności amazońskiej.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-07",
+    "title": "Ocean produkuje większość tlenu na Ziemi",
+    "content": "Fitoplankton morski odpowiada za wytwarzanie znacznej części tlenu obecnego w atmosferze Ziemi, w niektórych szacunkach nawet więcej niż lasy lądowe.",
+    "category": "earth",
+    "explanation": "Te mikroskopijne organizmy prowadzą fotosyntezę na ogromną skalę w oceanach pokrywających większość powierzchni planety.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-08",
+    "title": "Zdecydowana większość oceanów wciąż pozostaje niezbadana",
+    "content": "Naukowcy szacują, że dokładnie zmapowano zaledwie niewielką część dna oceanicznego, podczas gdy powierzchnię Marsa poznano znacznie dokładniej.",
+    "category": "earth",
+    "explanation": "Ogromne ciśnienie, brak światła i trudności logistyczne sprawiają, że eksploracja głębin oceanicznych jest trudniejsza niż wysyłanie sond na inne planety.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-09",
+    "title": "Ziemia ma swój własny 'puls' sejsmiczny",
+    "content": "Naukowcy zarejestrowali subtelne, regularne mikrodrgania sejsmiczne Ziemi, powtarzające się co około 26 sekund, których dokładne źródło wciąż jest badane.",
+    "category": "earth",
+    "explanation": "Jedna z hipotez wiąże to zjawisko z falami oceanicznymi uderzającymi o dno w konkretnym rejonie Zatoki Gwinejskiej.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-10",
+    "title": "Największa aktywna struktura wulkaniczna świata leży pod wodą",
+    "content": "Wulkan Tamu Massif na dnie Oceanu Spokojnego jest jedną z największych pojedynczych struktur wulkanicznych na Ziemi, choć od dawna jest wygasły.",
+    "category": "earth",
+    "explanation": "Jego rozmiary porównywano do niektórych z największych wulkanów tarczowych znanych w Układzie Słonecznym, w tym marsjańskiego Olympus Mons.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-11",
+    "title": "Atmosfera Ziemi nie ma wyraźnej górnej granicy",
+    "content": "Atmosfera Ziemi stopniowo przechodzi w próżnię kosmiczną bez ostrej granicy, a jej ślady wykrywano nawet na wysokości kilku tysięcy kilometrów.",
+    "category": "earth",
+    "explanation": "Umowne granice, jak linia Kármána, ustala się głównie dla celów prawnych i praktycznych, a nie ze względu na fizyczny koniec atmosfery.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-12",
+    "title": "Ziemia doświadczyła w historii kilku masowych zlodowaceń",
+    "content": "Niektóre teorie geologiczne sugerują, że w historii Ziemi zdarzały się okresy, gdy niemal cała powierzchnia planety, łącznie z oceanami, była pokryta lodem.",
+    "category": "earth",
+    "explanation": "Hipoteza ta, znana jako 'Ziemia-Śnieżka', tłumaczy niektóre osady geologiczne sprzed setek milionów lat wskazujące na obecność lodu w regionach równikowych.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "earth-13",
+    "title": "Trzęsienia ziemi mogą nieznacznie skracać długość doby",
+    "content": "Bardzo silne trzęsienia ziemi mogą minimalnie przesuwać rozkład masy planety, co w efekcie potrafi skrócić długość doby o ułamek mikrosekundy.",
+    "category": "earth",
+    "explanation": "Zjawisko to jest analogiczne do łyżwiarza przyspieszającego obrót przez przyciągnięcie ramion bliżej ciała – zmiana rozkładu masy wpływa na tempo rotacji.",
+    "surpriseLevel": 4,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-14",
+    "title": "Lodowce zawierają większość światowych zasobów słodkiej wody",
+    "content": "Lodowce i czapy lodowe magazynują większość całej dostępnej na Ziemi wody słodkiej, znacznie więcej niż rzeki i jeziora razem wzięte.",
+    "category": "earth",
+    "explanation": "Z tego powodu topnienie lodowców ma bezpośredni wpływ nie tylko na poziom mórz, ale też na dostępność wody pitnej w wielu regionach świata.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-15",
+    "title": "Powietrze na Ziemi krąży w globalnym systemie prądów",
+    "content": "Masy powietrza na Ziemi przemieszczają się w ramach globalnych komórek cyrkulacji atmosferycznej, wpływających na klimat całych regionów planety.",
+    "category": "earth",
+    "explanation": "Te wielkoskalowe wzorce, jak komórki Hadleya, powstają w wyniku różnic w nagrzewaniu powierzchni Ziemi przez Słońce oraz obrotu planety.",
+    "surpriseLevel": 2,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "earth-16",
+    "title": "Ziemia miała inny wygląd kontynentów setki milionów lat temu",
+    "content": "Setki milionów lat temu wszystkie kontynenty Ziemi tworzyły jeden ogromny superkontynent zwany Pangeą, który później rozpadł się na obecne części świata.",
+    "category": "earth",
+    "explanation": "Dowodem na istnienie Pangei są między innymi pasujące do siebie kształty wybrzeży kontynentów oraz podobne skamieniałości znajdowane na różnych kontynentach.",
+    "surpriseLevel": 3,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-17",
+    "title": "Niektóre pustynie otrzymują deszcz raz na kilka lat",
+    "content": "W niektórych rejonach pustyni Atakama w Chile, uznawanej za jedną z najsuchszych na świecie, opady deszczu bywają odnotowywane raz na kilka lat lub rzadziej.",
+    "category": "earth",
+    "explanation": "Ekstremalnie suchy klimat tego regionu wynika z układu prądów oceanicznych i gór, które blokują dopływ wilgotnego powietrza znad oceanu.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "earth-18",
+    "title": "Wnętrze Ziemi ma warstwową budowę jak cebula",
+    "content": "Ziemia zbudowana jest z kilku wyraźnych warstw: skorupy, płaszcza, jądra zewnętrznego i jądra wewnętrznego, różniących się składem i stanem skupienia.",
+    "category": "earth",
+    "explanation": "Wiedzę o tych warstwach naukowcy zdobyli głównie dzięki analizie fal sejsmicznych przemieszczających się przez wnętrze planety podczas trzęsień ziemi.",
+    "surpriseLevel": 2,
+    "source": "USGS",
+    "sourceUrl": "https://www.usgs.gov"
+  },
+  {
+    "id": "earth-19",
+    "title": "Ziemia ma naturalne 'reaktory jądrowe' sprzed miliardów lat",
+    "content": "W Gabonie w Afryce odkryto ślady naturalnego reaktora jądrowego, który samoistnie działał około 2 miliardy lat temu w bogatych w uran złożach skalnych.",
+    "category": "earth",
+    "explanation": "Odpowiednie stężenie uranu i obecność wody jako moderatora pozwoliły wtedy zajść naturalnej reakcji rozszczepienia, podobnej do tej w sztucznych reaktorach.",
+    "surpriseLevel": 5,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  }
+]

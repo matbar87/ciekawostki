@@ -1,0 +1,192 @@
+[
+  {
+    "id": "chemistry-01",
+    "title": "Diamenty i grafit to ta sama substancja",
+    "content": "Diament i grafit w ołówku zbudowane są z dokładnie tego samego pierwiastka – węgla, a różnią się jedynie sposobem ułożenia atomów w sieci krystalicznej.",
+    "category": "chemistry",
+    "explanation": "W diamencie atomy węgla tworzą sztywną strukturę trójwymiarową, a w grafitcie – warstwy łatwo się od siebie oddzielające, co daje zupełnie inne właściwości.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "chemistry-02",
+    "title": "Czysta woda właściwie nie przewodzi prądu",
+    "content": "Absolutnie czysta woda destylowana jest bardzo słabym przewodnikiem prądu – to rozpuszczone w niej sole i minerały sprawiają, że woda z kranu przewodzi prąd.",
+    "category": "chemistry",
+    "explanation": "Jony pochodzące z rozpuszczonych substancji umożliwiają przepływ ładunku elektrycznego, którego czysta woda (H2O) sama w sobie prawie nie zapewnia.",
+    "surpriseLevel": 4,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-03",
+    "title": "Rdza to spowolniony pożar",
+    "content": "Rdzewienie żelaza to reakcja utleniania, chemicznie bardzo podobna do spalania – różni się głównie tempem, w jakim uwalniana jest energia.",
+    "category": "chemistry",
+    "explanation": "Zarówno spalanie, jak i rdzewienie polegają na łączeniu się pierwiastka z tlenem, tyle że rdzewienie zachodzi znacznie wolniej.",
+    "surpriseLevel": 3,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-04",
+    "title": "Sól obniża temperaturę zamarzania wody",
+    "content": "Posypanie oblodzonego chodnika solą obniża temperaturę, w której woda zamarza, dzięki czemu lód topnieje nawet przy ujemnych temperaturach powietrza.",
+    "category": "chemistry",
+    "explanation": "Rozpuszczone jony soli utrudniają cząsteczkom wody ułożenie się w regularną sieć krystaliczną lodu, obniżając punkt zamarzania roztworu.",
+    "surpriseLevel": 2,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-05",
+    "title": "Złoto można rozpuścić w specjalnej mieszaninie kwasów",
+    "content": "Złoto, uznawane za metal szlachetny i odporny na korozję, rozpuszcza się w mieszaninie kwasu solnego i azotowego zwanej wodą królewską.",
+    "category": "chemistry",
+    "explanation": "Sama nazwa 'woda królewska' odnosi się do zdolności tej mieszaniny do rozpuszczania nawet 'króla metali', jakim jest złoto.",
+    "surpriseLevel": 4,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-06",
+    "title": "Hel nie zamarza nawet w bardzo niskiej temperaturze",
+    "content": "Hel pod normalnym ciśnieniem pozostaje cieczą nawet w temperaturze bliskiej zera absolutnego i zestala się dopiero pod bardzo wysokim ciśnieniem.",
+    "category": "chemistry",
+    "explanation": "To wyjątkowe zachowanie wynika z kwantowych właściwości atomów helu, które nawet w skrajnym zimnie zachowują energię drgań zapobiegającą krystalizacji.",
+    "surpriseLevel": 4,
+    "source": "NIST",
+    "sourceUrl": "https://www.nist.gov"
+  },
+  {
+    "id": "chemistry-07",
+    "title": "Ocet i soda oczyszczona reagują z uwolnieniem gazu",
+    "content": "Zmieszanie octu z sodą oczyszczoną wywołuje reakcję chemiczną, w wyniku której powstaje dwutlenek węgla odpowiedzialny za charakterystyczne pienienie.",
+    "category": "chemistry",
+    "explanation": "To klasyczna reakcja kwasu z zasadą, popularna w edukacyjnych eksperymentach domowych, obrazująca powstawanie nowych substancji.",
+    "surpriseLevel": 1,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-08",
+    "title": "Fajerwerki zawdzięczają kolory metalom",
+    "content": "Kolor sztucznych ogni zależy od dodanych do nich związków metali – stront daje czerwień, bar zieleń, a miedź piękny niebieski odcień.",
+    "category": "chemistry",
+    "explanation": "Podczas spalania elektrony w atomach metalu przechodzą na wyższe poziomy energetyczne, a wracając, emitują światło o ściśle określonej barwie.",
+    "surpriseLevel": 2,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-09",
+    "title": "Cebula szczypie w oczy dzięki lotnemu związkowi siarki",
+    "content": "Krojenie cebuli uwalnia lotny związek siarki, który po kontakcie z wilgocią w oku tworzy substancję drażniącą, powodując łzawienie.",
+    "category": "chemistry",
+    "explanation": "To naturalny mechanizm obronny rośliny, a schłodzenie cebuli przed krojeniem spowalnia uwalnianie się tego związku.",
+    "surpriseLevel": 2,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-10",
+    "title": "Aluminium było kiedyś cenniejsze niż złoto",
+    "content": "W XIX wieku aluminium było tak trudne do wydobycia w czystej postaci, że kosztowało więcej niż złoto, zanim opracowano tańszą metodę jego produkcji.",
+    "category": "chemistry",
+    "explanation": "Wynalezienie procesu Halla-Héroulta pod koniec XIX wieku pozwoliło masowo i tanio wytwarzać aluminium z tlenku glinu, obniżając jego cenę.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "chemistry-11",
+    "title": "Niektóre substancje zmieniają kolor pod wpływem światła UV",
+    "content": "Materiały fotochromowe, używane w niektórych okularach, zmieniają barwę pod wpływem promieniowania UV dzięki odwracalnym zmianom struktury cząsteczek.",
+    "category": "chemistry",
+    "explanation": "Cząsteczki takie jak oksazyny zmieniają swój kształt pod wpływem światła, co zmienia sposób, w jaki pochłaniają i odbijają światło widzialne.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-12",
+    "title": "Antymateria istnieje naprawdę, choć jest niezwykle rzadka",
+    "content": "Antymateria, czyli odpowiednik zwykłej materii o przeciwnym ładunku, była już wielokrotnie wytwarzana w laboratoriach, choć w bardzo małych ilościach.",
+    "category": "chemistry",
+    "explanation": "Zetknięcie się materii z antymaterią prowadzi do ich wzajemnej anihilacji z uwolnieniem ogromnej energii, dlatego trudno ją przechowywać.",
+    "surpriseLevel": 4,
+    "source": "CERN",
+    "sourceUrl": "https://home.cern"
+  },
+  {
+    "id": "chemistry-13",
+    "title": "Woda gazowana rozpuszcza się szybciej niż niegazowana",
+    "content": "Napoje gazowane szybciej się wchłaniają w organizmie niż napoje niegazowane, częściowo dzięki obecności rozpuszczonego dwutlenku węgla.",
+    "category": "chemistry",
+    "explanation": "Dwutlenek węgla wpływa na kwasowość żołądka i tempo opróżniania go, co przyspiesza wchłanianie płynu do krwiobiegu.",
+    "surpriseLevel": 2,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-14",
+    "title": "Papier lakmusowy pomaga rozróżnić kwasy od zasad od ponad 300 lat",
+    "content": "Barwnik lakmusowy pozyskiwany z porostów jest używany do wykrywania kwasów i zasad od XVII wieku i wciąż stosuje się go w prostych testach chemicznych.",
+    "category": "chemistry",
+    "explanation": "Lakmus zmienia kolor w zależności od pH roztworu, co czyni go tanim i szybkim wskaźnikiem odczynu chemicznego.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-15",
+    "title": "Stal nierdzewna zawdzięcza odporność cienkiej warstwie tlenku",
+    "content": "Stal nierdzewna nie rdzewiej dzięki niewidocznej, bardzo cienkiej warstwie tlenku chromu, która samoczynnie odnawia się na jej powierzchni.",
+    "category": "chemistry",
+    "explanation": "Gdy warstwa ta zostanie uszkodzona, na przykład przez zarysowanie, chrom zawarty w stopie natychmiast reaguje z tlenem, odtwarzając ochronę.",
+    "surpriseLevel": 3,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-16",
+    "title": "Bąbelki w szampanie liczą się w milionach",
+    "content": "W typowym kieliszku szampana powstaje szacunkowo od miliona do kilku milionów bąbelków dwutlenku węgla, zanim napój zwietrzeje.",
+    "category": "chemistry",
+    "explanation": "Bąbelki formują się w mikroskopijnych zagłębieniach na powierzchni szkła, które działają jak punkty zarodkowania dla uwalniającego się gazu.",
+    "surpriseLevel": 3,
+    "source": "American Chemical Society",
+    "sourceUrl": "https://www.acs.org"
+  },
+  {
+    "id": "chemistry-17",
+    "title": "Wodór jest najczęściej występującym pierwiastkiem we Wszechświecie",
+    "content": "Wodór stanowi około 75% masy całej znanej materii we Wszechświecie i jest podstawowym paliwem większości gwiazd, w tym Słońca.",
+    "category": "chemistry",
+    "explanation": "Wewnątrz gwiazd wodór ulega fuzji jądrowej, zamieniając się w hel i uwalniając ogromne ilości energii w postaci światła i ciepła.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "chemistry-18",
+    "title": "Niektóre plastiki rozkładają się setki lat",
+    "content": "Typowa plastikowa butelka PET może potrzebować kilkuset lat, by w pełni rozłożyć się w środowisku naturalnym, w zależności od warunków.",
+    "category": "chemistry",
+    "explanation": "Długie łańcuchy polimerowe tworzące plastik są bardzo odporne na naturalne procesy biodegradacji, dlatego rozkładają się tak wolno.",
+    "surpriseLevel": 3,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  },
+  {
+    "id": "chemistry-19",
+    "title": "Reakcja jodu ze skrobią daje charakterystyczny granat",
+    "content": "Kropla jodyny nałożona na plaster ziemniaka natychmiast zmienia kolor na intensywny granatowo-czarny dzięki reakcji jodu ze skrobią.",
+    "category": "chemistry",
+    "explanation": "Cząsteczki jodu wnikają w spiralną strukturę skrobi, tworząc kompleks, który silnie pochłania światło i daje charakterystyczne zabarwienie.",
+    "surpriseLevel": 2,
+    "source": "Royal Society of Chemistry",
+    "sourceUrl": "https://www.rsc.org"
+  }
+]

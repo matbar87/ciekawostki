@@ -1,0 +1,192 @@
+[
+  {
+    "id": "medicine-01",
+    "title": "Penicylinę odkryto przez przypadek",
+    "content": "Alexander Fleming odkrył penicylinę w 1928 roku, gdy zauważył, że pleśń przypadkowo zanieczyszczająca jego hodowlę bakterii zabija je wokół siebie.",
+    "category": "medicine",
+    "explanation": "To odkrycie zapoczątkowało erę antybiotyków, które radykalnie zmniejszyły śmiertelność z powodu infekcji bakteryjnych na całym świecie.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-02",
+    "title": "Ospa prawdziwa to jedyna choroba całkowicie wykorzeniona przez człowieka",
+    "content": "Dzięki globalnej kampanii szczepień ospa prawdziwa została oficjalnie uznana za wykorzenioną przez WHO w 1980 roku – to wciąż jedyny taki przypadek.",
+    "category": "medicine",
+    "explanation": "Był to efekt wieloletniej, skoordynowanej kampanii szczepień na całym świecie, prowadzonej mimo trudności politycznych i logistycznych.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-03",
+    "title": "Serce potrafi bić poza ciałem",
+    "content": "Ludzkie serce ma własny naturalny rozrusznik i może przez pewien czas kontynuować rytmiczne skurcze nawet po wyjęciu z ciała, jeśli zapewni mu się tlen.",
+    "category": "medicine",
+    "explanation": "Impulsy elektryczne generowane przez węzeł zatokowo-przedsionkowy nie wymagają sygnałów z mózgu, by wywołać skurcz mięśnia sercowego.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-04",
+    "title": "Antybiotyki nie działają na wirusy",
+    "content": "Antybiotyki zwalczają wyłącznie bakterie, dlatego są całkowicie nieskuteczne w leczeniu chorób wirusowych, takich jak przeziębienie czy grypa.",
+    "category": "medicine",
+    "explanation": "Niepotrzebne stosowanie antybiotyków przy infekcjach wirusowych przyczynia się do narastania groźnego zjawiska oporności bakterii na leki.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-05",
+    "title": "Grupa krwi może wpływać na ryzyko niektórych chorób",
+    "content": "Badania epidemiologiczne wskazują, że osoby z grupą krwi 0 mogą być nieco mniej narażone na niektóre choroby zakrzepowo-zatorowe niż osoby z grupą A.",
+    "category": "medicine",
+    "explanation": "Różnice te wiąże się z odmiennym poziomem niektórych czynników krzepnięcia krwi u osób o różnych grupach krwi.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-06",
+    "title": "Ludzki mózg zużywa ogromną część energii organizmu",
+    "content": "Mózg dorosłego człowieka stanowi około 2% masy ciała, ale zużywa aż około 20% całkowitej energii spoczynkowej organizmu.",
+    "category": "medicine",
+    "explanation": "Tak duże zapotrzebowanie energetyczne wynika z nieustannej aktywności elektrycznej miliardów neuronów przesyłających sygnały każdej sekundy.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-07",
+    "title": "Szczepionki uczą układ odpornościowy bez wywoływania choroby",
+    "content": "Szczepionki prezentują układowi odpornościowemu nieszkodliwy fragment lub osłabioną formę patogenu, dzięki czemu organizm uczy się go rozpoznawać.",
+    "category": "medicine",
+    "explanation": "Po szczepieniu organizm wytwarza komórki pamięci immunologicznej, które szybciej reagują przy prawdziwym kontakcie z groźnym patogenem.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-08",
+    "title": "Niedobór snu wpływa na odporność organizmu",
+    "content": "Osoby regularnie śpiące mniej niż sześć godzin na dobę wykazują w badaniach zwiększoną podatność na infekcje, w tym zwykłe przeziębienie.",
+    "category": "medicine",
+    "explanation": "Podczas snu organizm produkuje i uwalnia cytokiny, białka niezbędne do zwalczania infekcji i stanów zapalnych.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-09",
+    "title": "Placebo może realnie łagodzić objawy",
+    "content": "W badaniach klinicznych pacjenci przyjmujący placebo, wierząc że to prawdziwy lek, często odczuwają realną poprawę samopoczucia i zmniejszenie bólu.",
+    "category": "medicine",
+    "explanation": "Efekt placebo wiąże się z aktywacją naturalnych mechanizmów przeciwbólowych mózgu, uruchamianych przez oczekiwanie poprawy.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-10",
+    "title": "Malaria zabiła w historii więcej ludzi niż wojny",
+    "content": "Szacuje się, że malaria na przestrzeni całej historii ludzkości mogła przyczynić się do śmierci większej liczby osób niż wszystkie wojny razem wzięte.",
+    "category": "medicine",
+    "explanation": "Choroba przenoszona przez komary rozwijała się w wielu regionach świata przez tysiące lat, zanim opracowano skuteczne metody profilaktyki i leczenia.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-11",
+    "title": "Kości odbudowują się przez całe życie",
+    "content": "Ludzki szkielet podlega ciągłej przebudowie – dorosły człowiek wymienia znaczną część swojej tkanki kostnej w cyklu trwającym przeciętnie kilka lat.",
+    "category": "medicine",
+    "explanation": "Za ten proces odpowiadają komórki zwane osteoklastami i osteoblastami, które usuwają starą tkankę kostną i budują w jej miejsce nową.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-12",
+    "title": "Zmysł węchu może wykrywać niektóre choroby wcześniej niż testy",
+    "content": "Niektóre psy przeszkolone do wykrywania zapachu związanego z pewnymi nowotworami potrafią rozpoznać próbki chorych pacjentów z dużą skutecznością.",
+    "category": "medicine",
+    "explanation": "Zmienione komórki nowotworowe wydzielają charakterystyczne lotne związki chemiczne, które czuły węch psa jest w stanie wychwycić.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-13",
+    "title": "Ludzka skóra wymienia się niemal całkowicie co miesiąc",
+    "content": "Zewnętrzna warstwa naskórka złuszcza się i odnawia w cyklu trwającym średnio od dwóch do czterech tygodni, w zależności od wieku i stanu skóry.",
+    "category": "medicine",
+    "explanation": "Nowe komórki powstają w głębszych warstwach naskórka i stopniowo przesuwają się ku powierzchni, zastępując martwe, złuszczone komórki.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-14",
+    "title": "Stres może realnie osłabiać gojenie się ran",
+    "content": "Badania kliniczne wykazały, że przewlekły stres może wydłużać czas gojenia się ran nawet o kilkadziesiąt procent w porównaniu z osobami mniej zestresowanymi.",
+    "category": "medicine",
+    "explanation": "Hormony stresu, takie jak kortyzol, mogą hamować niektóre reakcje immunologiczne niezbędne do sprawnej regeneracji tkanek.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-15",
+    "title": "Insulinę odkryto niecałe sto lat temu",
+    "content": "Insulinę wyizolowano i po raz pierwszy zastosowano klinicznie w leczeniu cukrzycy dopiero w 1922 roku, ratując pacjentów wcześniej skazanych na śmierć.",
+    "category": "medicine",
+    "explanation": "Przed tym odkryciem cukrzyca typu 1 była chorobą niemal zawsze śmiertelną, zwykle w ciągu kilku miesięcy do dwóch lat od diagnozy.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-16",
+    "title": "Wątroba potrafi się regenerować w znacznym stopniu",
+    "content": "Ludzka wątroba może odbudować nawet do 70% swojej pierwotnej masy po chirurgicznym usunięciu jej fragmentu, co umożliwia przeszczepy częściowe.",
+    "category": "medicine",
+    "explanation": "Ta zdolność regeneracyjna wynika z wyjątkowej biologii komórek wątroby, które potrafią intensywnie się dzielić w odpowiedzi na uszkodzenie tkanki.",
+    "surpriseLevel": 4,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-17",
+    "title": "Czkawka ma znane wyzwalacze, ale niejasny cel biologiczny",
+    "content": "Naukowcy wciąż nie są zgodni co do ewolucyjnego celu czkawki, choć znane są jej wyzwalacze, takie jak szybkie jedzenie czy gazowane napoje.",
+    "category": "medicine",
+    "explanation": "Jedna z hipotez łączy czkawkę z odruchami oddechowymi obecnymi jeszcze u płazów, zachowanymi śladowo w ludzkim układzie nerwowym.",
+    "surpriseLevel": 2,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "medicine-18",
+    "title": "Higiena rąk znacząco ograniczyła śmiertelność szpitalną",
+    "content": "Wprowadzenie w XIX wieku prostego nawyku mycia rąk przez lekarzy przed porodami radykalnie zmniejszyło śmiertelność matek z powodu gorączki połogowej.",
+    "category": "medicine",
+    "explanation": "Odkrycie to, dokonane przez Ignaza Semmelweisa, początkowo spotkało się z odrzuceniem środowiska medycznego, mimo jednoznacznych wyników statystycznych.",
+    "surpriseLevel": 3,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "medicine-19",
+    "title": "Ludzkie oko potrafi rozróżnić miliony odcieni barw",
+    "content": "Zdrowe ludzkie oko jest w stanie rozróżnić szacunkowo od miliona do kilku milionów odcieni kolorów dzięki trzem typom czopków w siatkówce.",
+    "category": "medicine",
+    "explanation": "Każdy typ czopków jest wrażliwy na inny zakres długości fali światła, a mózg łączy te sygnały, tworząc bogatą percepcję barw.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  }
+]

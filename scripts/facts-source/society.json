@@ -1,0 +1,122 @@
+[
+  {
+    "id": "society-01",
+    "title": "Większość ludzkości mieszka na niewielkiej części lądu",
+    "content": "Szacuje się, że większość światowej populacji zamieszkuje zaledwie niewielki procent powierzchni lądowej Ziemi, głównie w gęsto zaludnionych dolinach rzek i na wybrzeżach.",
+    "category": "society",
+    "explanation": "Dostęp do wody, żyznej gleby i szlaków handlowych od tysięcy lat przyciągał osadnictwo do konkretnych, sprzyjających regionów geograficznych.",
+    "surpriseLevel": 3,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-02",
+    "title": "Liczba ludności świata podwoiła się w ciągu kilku dekad XX wieku",
+    "content": "Światowa populacja podwoiła się z około 3 do 6 miliardów w ciągu zaledwie kilkudziesięciu lat drugiej połowy XX wieku.",
+    "category": "society",
+    "explanation": "Postęp w medycynie, rolnictwie i sanitacji znacząco obniżył śmiertelność, przyczyniając się do gwałtownego wzrostu liczby ludności na świecie.",
+    "surpriseLevel": 3,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-03",
+    "title": "Więcej osób na świecie ma dostęp do telefonu niż do bieżącej wody",
+    "content": "Według danych organizacji międzynarodowych więcej ludzi na świecie ma dostęp do telefonu komórkowego niż do bezpiecznej, bieżącej wody pitnej w domu.",
+    "category": "society",
+    "explanation": "Ten kontrast pokazuje nierówności infrastrukturalne na świecie oraz to, jak szybko rozprzestrzeniła się globalnie tania technologia mobilna.",
+    "surpriseLevel": 4,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-04",
+    "title": "Większość języków świata jest zagrożona wymarciem",
+    "content": "Lingwiści szacują, że znaczna część z około 7000 języków używanych obecnie na świecie może zniknąć w ciągu najbliższych dekad wraz z ostatnimi ich użytkownikami.",
+    "category": "society",
+    "explanation": "Globalizacja i migracja sprawiają, że młodsze pokolenia coraz częściej przechodzą na większe, bardziej dominujące języki, porzucając języki lokalnych społeczności.",
+    "surpriseLevel": 3,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "society-05",
+    "title": "Miasta zajmują niewielką część powierzchni Ziemi, mimo dużej liczby mieszkańców",
+    "content": "Obszary miejskie na całym świecie zajmują stosunkowo niewielki procent powierzchni lądowej, mimo że mieszka w nich ponad połowa światowej populacji.",
+    "category": "society",
+    "explanation": "Ta koncentracja ludności w miastach wynika z dostępności pracy, usług i infrastruktury, których trudniej o taką gęstość na terenach wiejskich.",
+    "surpriseLevel": 3,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-06",
+    "title": "Powszechna edukacja szkolna jest stosunkowo młodym zjawiskiem",
+    "content": "Powszechny, obowiązkowy system edukacji szkolnej dla wszystkich dzieci w wielu krajach zaczął się upowszechniać dopiero w XIX i XX wieku.",
+    "category": "society",
+    "explanation": "Wcześniej edukacja formalna była zwykle dostępna głównie dla wąskiej grupy zamożniejszych osób, a nie dla ogółu społeczeństwa.",
+    "surpriseLevel": 3,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "society-07",
+    "title": "Prawo do głosowania kobiet wprowadzono w różnych krajach w bardzo różnym czasie",
+    "content": "Nowa Zelandia jako pierwszy kraj na świecie przyznała kobietom pełne prawo głosu w 1893 roku, podczas gdy w niektórych krajach nastąpiło to dopiero wiele dekad później.",
+    "category": "society",
+    "explanation": "Różnice te odzwierciedlają odmienne tempo zmian społecznych i politycznych w poszczególnych regionach świata na przestrzeni XX wieku.",
+    "surpriseLevel": 3,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-08",
+    "title": "Przeciętna długość życia znacznie wzrosła w ciągu ostatniego stulecia",
+    "content": "Globalna średnia długość życia wzrosła w ciągu ostatniego stulecia o kilkadziesiąt lat, głównie dzięki postępowi medycyny i poprawie warunków sanitarnych.",
+    "category": "society",
+    "explanation": "Spadek śmiertelności niemowląt i skuteczniejsze leczenie chorób zakaźnych miały największy wpływ na wydłużenie się średniej długości życia na świecie.",
+    "surpriseLevel": 2,
+    "source": "WHO",
+    "sourceUrl": "https://www.who.int"
+  },
+  {
+    "id": "society-09",
+    "title": "Migracje ludzkie kształtowały świat od tysięcy lat",
+    "content": "Ludzie migrowali na duże odległości już w czasach prehistorycznych, zasiedlając stopniowo niemal wszystkie kontynenty świata poza Antarktydą.",
+    "category": "society",
+    "explanation": "Badania genetyczne pozwalają dziś odtworzyć trasy tych dawnych migracji, śledząc niewielkie różnice w DNA populacji z różnych regionów świata.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "society-10",
+    "title": "Więcej osób na świecie korzysta dziś z internetu niż kilka dekad temu miało dostęp do telewizji",
+    "content": "Liczba użytkowników internetu na świecie przekroczyła w ostatnich latach liczbę osób, które miały dostęp do telewizji w szczytowym okresie jej rozpowszechnienia.",
+    "category": "society",
+    "explanation": "Szybkie tanienie smartfonów i rozwój infrastruktury sieciowej sprawiły, że dostęp do internetu upowszechnił się znacznie szybciej niż wcześniejsze technologie medialne.",
+    "surpriseLevel": 3,
+    "source": "UN",
+    "sourceUrl": "https://www.un.org"
+  },
+  {
+    "id": "society-11",
+    "title": "Niektóre społeczności żyją w niemal całkowitej izolacji od reszty świata",
+    "content": "Na wyspie Sentinel na Oceanie Indyjskim żyje społeczność, która celowo unika kontaktu z resztą świata, a jej dokładna liczebność pozostaje w dużej mierze nieznana.",
+    "category": "society",
+    "explanation": "Władze Indii objęły ten obszar ochroną prawną, ograniczając dostęp z zewnątrz, częściowo by chronić mieszkańców przed chorobami, na które nie mają odporności.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "society-12",
+    "title": "Praca zdalna nie jest wynalazkiem XXI wieku",
+    "content": "Elementy pracy wykonywanej z domu, na przykład przez rzemieślników czy chałupników, istniały na długo przed erą internetu, choć w zupełnie innej formie niż dzisiaj.",
+    "category": "society",
+    "explanation": "Rewolucja przemysłowa przeniosła znaczną część pracy do fabryk, a dopiero rozwój technologii cyfrowych ponownie umożliwił masowy powrót do pracy poza biurem.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

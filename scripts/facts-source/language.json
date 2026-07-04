@@ -1,0 +1,112 @@
+[
+  {
+    "id": "language-01",
+    "title": "Alfabet, którego używamy, ma fenicki rodowód",
+    "content": "Współczesny alfabet łaciński wywodzi się pośrednio z alfabetu fenickiego sprzed około 3000 lat, za pośrednictwem alfabetu greckiego i etruskiego.",
+    "category": "language",
+    "explanation": "Fenicjanie jako jedni z pierwszych stworzyli system pisma oparty głównie na spółgłoskach, co znacząco uprościło naukę pisania w porównaniu z wcześniejszymi systemami.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-02",
+    "title": "Niektóre języki nie mają oddzielnych słów na niebieski i zielony",
+    "content": "W niektórych językach świata nie istnieje osobne słowo rozróżniające kolor niebieski od zielonego, a oba określa się jednym wspólnym terminem.",
+    "category": "language",
+    "explanation": "Badania sugerują, że to, jak dzielimy widmo kolorów na nazwy, jest w dużej mierze kwestią kulturową, a nie biologicznego postrzegania barw.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-03",
+    "title": "Chiński system pisma nie jest alfabetyczny",
+    "content": "Pismo chińskie opiera się na tysiącach znaków reprezentujących całe słowa lub sylaby, a nie na alfabecie złożonym z liter odpowiadających pojedynczym dźwiękom.",
+    "category": "language",
+    "explanation": "Nauka czytania i pisania w tym systemie wymaga zapamiętania znacznie większej liczby symboli niż w językach opartych na alfabecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-04",
+    "title": "Angielski zapożyczył tysiące słów z innych języków",
+    "content": "Znaczna część słownictwa języka angielskiego pochodzi z łaciny, francuskiego i innych języków, przejmowanych na przestrzeni wieków podbojów i wpływów kulturowych.",
+    "category": "language",
+    "explanation": "Podbój Anglii przez Normanów w XI wieku szczególnie mocno wzbogacił angielski o słownictwo francuskiego pochodzenia, widoczne do dziś.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-05",
+    "title": "Niemowlęta potrafią rozróżniać dźwięki wszystkich języków świata",
+    "content": "Niemowlęta w pierwszych miesiącach życia potrafią rozróżniać dźwięki mowy praktycznie każdego języka świata, a zdolność ta zawęża się w miarę uczenia się języka ojczystego.",
+    "category": "language",
+    "explanation": "Mózg dziecka stopniowo 'specjalizuje się' w dźwiękach istotnych dla języka, którym się otacza, tracąc wrażliwość na kontrasty nieużywane w tym języku.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "language-06",
+    "title": "Esperanto stworzono jako sztuczny język międzynarodowy",
+    "content": "Esperanto zostało celowo zaprojektowane pod koniec XIX wieku jako neutralny język pomocniczy, mający ułatwić komunikację między ludźmi różnych narodowości.",
+    "category": "language",
+    "explanation": "Mimo że esperanto nigdy nie stało się głównym językiem międzynarodowym, wciąż posługuje się nim aktywna społeczność entuzjastów na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-07",
+    "title": "Niektóre języki wyrażają liczby w systemie dwudziestkowym",
+    "content": "W niektórych językach, na przykład francuskim, liczebniki takie jak 'osiemdziesiąt' dosłownie oznaczają 'cztery razy dwadzieścia', co odzwierciedla dawny system liczenia.",
+    "category": "language",
+    "explanation": "System dwudziestkowy prawdopodobnie wywodzi się z liczenia na palcach rąk i stóp, praktykowanego przez niektóre dawne społeczności.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-08",
+    "title": "Alfabet koreański zaprojektowano naukowo w XV wieku",
+    "content": "Koreański alfabet hangul stworzono celowo w XV wieku z myślą o łatwości nauki, a kształty niektórych liter odzwierciedlają pozycję języka i ust podczas wymowy.",
+    "category": "language",
+    "explanation": "Ta świadoma, systematyczna konstrukcja alfabetu jest rzadkością w historii pisma, gdzie większość systemów rozwijała się stopniowo i organicznie.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-09",
+    "title": "Dwujęzyczność może wpływać na strukturę mózgu",
+    "content": "Badania obrazowe mózgu sugerują, że osoby dwujęzyczne mogą mieć nieco inną gęstość istoty szarej w obszarach związanych z przetwarzaniem języka niż osoby jednojęzyczne.",
+    "category": "language",
+    "explanation": "Regularne przełączanie się między dwoma językami wymaga dodatkowej pracy poznawczej, co może z czasem wpływać na strukturę i elastyczność mózgu.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "language-10",
+    "title": "Niektóre słowa nie mają dokładnego odpowiednika w innych językach",
+    "content": "Wiele języków ma słowa opisujące bardzo specyficzne uczucia lub sytuacje, które nie mają jednowyrazowego odpowiednika w innych językach świata.",
+    "category": "language",
+    "explanation": "Takie słowa często odzwierciedlają unikalne doświadczenia kulturowe danej społeczności, trudne do oddania w skrócie w obcym języku.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-11",
+    "title": "Język migowy ma pełnoprawną, złożoną gramatykę",
+    "content": "Języki migowe, takie jak polski język migowy, mają własną, w pełni rozwiniętą gramatykę i strukturę, niezależną od gramatyki języka mówionego danego kraju.",
+    "category": "language",
+    "explanation": "Badania lingwistyczne potwierdziły, że języki migowe spełniają wszystkie kryteria naturalnego języka, mimo że przekazywane są wzrokowo, a nie dźwiękiem.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

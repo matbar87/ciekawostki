@@ -1,0 +1,28 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  border: none;
+  background: transparent;
+  color: var(--color-on-surface-variant);
+  cursor: pointer;
+  font-size: 1.25rem;
+  transition: background-color var(--motion-fast) var(--motion-easing),
+    color var(--motion-fast) var(--motion-easing), transform var(--motion-fast) var(--motion-easing);
+}
+
+.button:hover {
+  background: var(--color-surface-container-high);
+}
+
+.button:active {
+  transform: scale(0.92);
+}
+
+.active {
+  background: var(--color-primary-container);
+  color: var(--color-on-primary-container);
+}

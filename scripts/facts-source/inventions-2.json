@@ -1,0 +1,82 @@
+[
+  {
+    "id": "inventions-12",
+    "title": "Zszywacz biurowy istniał już w XVIII wieku",
+    "content": "Pierwsze prymitywne urządzenia do spinania kartek papieru, przypominające dzisiejszy zszywacz, powstały we Francji już w XVIII wieku na potrzeby dworu królewskiego.",
+    "category": "inventions",
+    "explanation": "Współczesna, poręczna forma zszywacza biurowego, jaką znamy dziś, rozwinęła się dopiero na przełomie XIX i XX wieku.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-13",
+    "title": "Pierwsza żyletka do golenia miała rozwiązać problem tępienia się ostrzy",
+    "content": "Jednorazowe żyletki wprowadzono na początku XX wieku, by rozwiązać problem częstego ostrzenia tradycyjnych brzytew przez użytkowników.",
+    "category": "inventions",
+    "explanation": "Model biznesowy oparty na tanim urządzeniu i sprzedaży wymiennych ostrzy stał się później inspiracją dla wielu innych branż produktowych.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-14",
+    "title": "Pierwszy telefon miał tylko jednego rozmówcę na linii",
+    "content": "We wczesnych systemach telefonicznych XIX wieku każda rozmowa wymagała ręcznego połączenia przez telefonistkę obsługującą centralę.",
+    "category": "inventions",
+    "explanation": "Automatyczne centrale telefoniczne, eliminujące potrzebę udziału człowieka przy każdym połączeniu, upowszechniły się dopiero w kolejnych dekadach XX wieku.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-15",
+    "title": "Pierwsze aparaty fotograficzne wymagały bardzo długiego czasu naświetlania",
+    "content": "Najwcześniejsze aparaty fotograficzne z początku XIX wieku wymagały nawet kilku godzin naświetlania, by uzyskać jedno zdjęcie.",
+    "category": "inventions",
+    "explanation": "Rozwój bardziej czułych materiałów światłoczułych stopniowo skrócił czas potrzebny do zrobienia zdjęcia z godzin do ułamków sekundy.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-16",
+    "title": "Pierwsze okulary powstały bez precyzyjnej wiedzy o optyce",
+    "content": "Pierwsze okulary korekcyjne pojawiły się we Włoszech pod koniec XIII wieku, na długo przed pełnym naukowym zrozumieniem zasad załamania światła w soczewkach.",
+    "category": "inventions",
+    "explanation": "Rzemieślnicy metodą prób i błędów dopracowywali kształt szkieł, zanim naukowe podstawy optyki wyjaśniły dokładnie, dlaczego te rozwiązania działają.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-17",
+    "title": "Pierwsza puszka po napojach gazowanych nie miała otwieranego zawleczenia",
+    "content": "Wczesne puszki po napojach wymagały specjalnego otwieracza do przebijania wieczka, zanim w latach 60. XX wieku wprowadzono wygodne, zintegrowane zawleczenie.",
+    "category": "inventions",
+    "explanation": "To niewielkie usprawnienie znacząco poprawiło wygodę konsumentów i stało się standardem stosowanym do dziś na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-18",
+    "title": "Zamek na klucz stosowano już w starożytnym Egipcie",
+    "content": "Drewniane zamki na klucz, wykorzystujące proste kołki blokujące, stosowano w starożytnym Egipcie już kilka tysięcy lat temu do zabezpieczania drzwi.",
+    "category": "inventions",
+    "explanation": "Ta pradawna konstrukcja jest uważana za koncepcyjnego przodka współczesnych zamków wtyczkowych, opartych na podobnej zasadzie działania kołków.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-19",
+    "title": "Papierowe torby na zakupy zaprojektowano z myślą o wytrzymałości",
+    "content": "Płaskodenna papierowa torba na zakupy, mogąca stać samodzielnie i utrzymać większy ciężar, została opatentowana w latach 70. XIX wieku.",
+    "category": "inventions",
+    "explanation": "Wcześniejsze torby papierowe łatwo się rwały pod ciężarem towarów, dlatego to wzmocnione dno stanowiło istotne udoskonalenie dla sklepów i klientów.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "animals-01",
+    "title": "Ślimaki mogą spać nawet trzy lata",
+    "content": "W bardzo niesprzyjających warunkach niektóre gatunki ślimaków potrafią zapaść w stan odrętwienia trwający nawet do trzech lat, czekając na lepszy klimat.",
+    "category": "animals",
+    "explanation": "Ten stan, zwany estywacją lub hibernacją w zależności od pory roku, pozwala ślimakom przetrwać suszę lub mróz, gdy brakuje pożywienia i wilgoci.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-02",
+    "title": "Mrówki potrafią budować mosty ze swoich ciał",
+    "content": "Niektóre gatunki mrówek, takie jak mrówki wędrowne, łączą się ciałami, tworząc żywe mosty i tratwy, by pokonać przeszkody terenowe lub wodne.",
+    "category": "animals",
+    "explanation": "Taka współpraca jest możliwa dzięki silnym zachowaniom kolektywnym kolonii, w której dobro całej grupy jest ważniejsze niż przetrwanie pojedynczej mrówki.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-03",
+    "title": "Konik morski to jedyne zwierzę, u którego samiec rodzi młode",
+    "content": "U koników morskich to samiec nosi zapłodnione jaja w specjalnej torbie lęgowej i ostatecznie rodzi młode, co jest unikalne wśród kręgowców.",
+    "category": "animals",
+    "explanation": "Samica składa jaja bezpośrednio do torby samca, gdzie są zapładniane i rozwijają się aż do wyklucia, zanim samiec je 'wyrodzi'.",
+    "surpriseLevel": 5,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-04",
+    "title": "Niektóre gatunki krewetek strzelają widocznym błyskiem światła",
+    "content": "Krewetka pistoletowa zamyka szczypce z taką prędkością, że powstaje bąbel kawitacyjny wywołujący błysk światła i dźwięk głośniejszy niż wystrzał z pistoletu.",
+    "category": "animals",
+    "explanation": "Zjawisko to nazywa się sonoluminescencją i jest efektem ubocznym gwałtownego zapadania się bąbla powietrza wytworzonego przez ruch szczypiec.",
+    "surpriseLevel": 5,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-05",
+    "title": "Słonie potrafią rozpoznawać się w lustrze",
+    "content": "Słonie afrykańskie należą do nielicznych zwierząt, które w testach z lustrem wykazują oznaki samorozpoznawania, dotykając swojego odbicia w sposób badawczy.",
+    "category": "animals",
+    "explanation": "Zdolność ta uznawana jest za wskaźnik pewnej formy samoświadomości, obecnej też u naczelnych, delfinów i niektórych ptaków.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-06",
+    "title": "Niektóre ryby zmieniają płeć w ciągu życia",
+    "content": "Ryby klaunki potrafią zmienić płeć z męskiej na żeńską, gdy dominująca samica w grupie zginie, a jeden z samców zajmuje jej miejsce.",
+    "category": "animals",
+    "explanation": "Ten mechanizm, zwany sekwencyjnym hermafrodytyzmem, zapewnia grupie zachowanie hierarchii rozrodczej niezależnie od strat wśród osobników.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-07",
+    "title": "Żyrafy śpią zaledwie kilka godzin na dobę",
+    "content": "Dorosłe żyrafy śpią średnio od 30 minut do dwóch godzin dziennie, często w krótkich, kilkuminutowych drzemkach na stojąco.",
+    "category": "animals",
+    "explanation": "Krótki sen pomaga żyrafom pozostać czujnymi na drapieżniki, mimo że jako duże zwierzęta mają stosunkowo niewielu naturalnych wrogów.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-08",
+    "title": "Niektóre gatunki mrówek hodują grzyby jako pożywienie",
+    "content": "Mrówki grzyboholewne uprawiają wewnątrz swoich gniazd specjalne grzyby, którymi karmią całą kolonię, dbając o ich wzrost niczym rolnicy.",
+    "category": "animals",
+    "explanation": "To jeden z nielicznych przykładów rolnictwa poza gatunkiem ludzkim, rozwijany przez owady od milionów lat, na długo przed pojawieniem się człowieka.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "animals-09",
+    "title": "Kangury nie potrafią chodzić do tyłu",
+    "content": "Budowa nóg i grubego ogona kangura sprawia, że fizycznie nie jest on w stanie poruszać się do tyłu, w przeciwieństwie do większości zwierząt lądowych.",
+    "category": "animals",
+    "explanation": "Silne tylne nogi kangura są przystosowane do skoków do przodu, a ich anatomia po prostu nie pozwala na wygodne cofanie się.",
+    "surpriseLevel": 3,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-10",
+    "title": "Pewne gatunki ptaków potrafią spać podczas lotu",
+    "content": "Jerzyki potrafią spędzać w powietrzu wiele miesięcy bez lądowania, śpiąc przez krótkie chwile podczas szybowania na dużej wysokości.",
+    "category": "animals",
+    "explanation": "Naukowcy z użyciem czujników wykazali, że ptaki te śpią w locie, wyłączając na krótko część mózgu, podobnie jak niektóre ssaki morskie.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-11",
+    "title": "Koty wydają się nie odczuwać smaku słodkiego",
+    "content": "Koty domowe nie posiadają funkcjonalnych receptorów smaku słodkiego, przez co fizjologicznie nie są w stanie odczuwać słodyczy tak jak ludzie.",
+    "category": "animals",
+    "explanation": "Brak ten wynika z mutacji genu odpowiedzialnego za wykrywanie słodkiego smaku, co prawdopodobnie związane jest z ich w pełni mięsożerną dietą.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-12",
+    "title": "Pingwiny cesarskie potrafią nurkować bardzo głęboko",
+    "content": "Pingwin cesarski potrafi zanurkować na głębokość ponad 500 metrów i wstrzymać oddech na czas przekraczający 20 minut podczas polowania.",
+    "category": "animals",
+    "explanation": "Specjalne przystosowania metaboliczne pozwalają tym ptakom oszczędzać tlen i spowalniać akcję serca podczas długich nurkowań.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-13",
+    "title": "Niektóre żaby są przezroczyste",
+    "content": "Żaby szklane z Ameryki Środkowej i Południowej mają na tyle przezroczystą skórę na brzuchu, że widać przez nią bijące serce i inne narządy wewnętrzne.",
+    "category": "animals",
+    "explanation": "Ta przezroczystość może pomagać w kamuflażu na liściach, utrudniając drapieżnikom dostrzeżenie zarysu ciała żaby.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  },
+  {
+    "id": "animals-14",
+    "title": "Ptaki potrafią widzieć więcej barw niż ludzie",
+    "content": "Wiele gatunków ptaków posiada czwarty typ czopków wrażliwych na światło ultrafioletowe, dzięki czemu widzą barwy niedostępne dla ludzkiego oka.",
+    "category": "animals",
+    "explanation": "Ta zdolność pomaga ptakom w rozpoznawaniu pokarmu, partnerów czy nawigacji, wykorzystując wzorce UV niewidoczne dla drapieżników pozbawionych tej cechy.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-15",
+    "title": "Wombaty produkują sześcienne odchody",
+    "content": "Wombaty jako jedyne znane zwierzęta wydalają odchody o kształcie zbliżonym do sześcianu, co pomaga im nie staczać się podczas znakowania terytorium.",
+    "category": "animals",
+    "explanation": "Badania wykazały, że kształt ten powstaje dzięki nierównomiernej elastyczności ścian jelita wombata na różnych jego odcinkach.",
+    "surpriseLevel": 5,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-16",
+    "title": "Niektóre gatunki much mają bardzo krótkie życie dorosłe",
+    "content": "Dorosła jętka może żyć w formie uskrzydlonej zaledwie kilka godzin do kilku dni, mimo że jej stadium larwalne trwa nawet kilka lat.",
+    "category": "animals",
+    "explanation": "Krótkie życie dorosłej postaci poświęcone jest niemal wyłącznie rozmnażaniu, ponieważ owad ten w tej formie zwykle w ogóle się nie odżywia.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "animals-17",
+    "title": "Delfiny nadają sobie unikalne 'imiona' w postaci gwizdów",
+    "content": "Delfiny butlonose wykształcają indywidualne, charakterystyczne gwizdy sygnaturowe, które pełnią funkcję podobną do imienia rozpoznawanego przez inne delfiny.",
+    "category": "animals",
+    "explanation": "Badania nagrań akustycznych pokazały, że delfiny reagują wybiórczo na odtworzenie 'gwizdu' konkretnego znanego sobie osobnika.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-18",
+    "title": "Niektóre pająki potrafią 'latać' na nitkach pajęczyny",
+    "content": "Małe pająki potrafią unosić się w powietrzu na cienkich niciach jedwabiu, wykorzystując do tego naturalne pole elektrostatyczne atmosfery, nawet bez wiatru.",
+    "category": "animals",
+    "explanation": "Zjawisko to, zwane balonowaniem, pozwala młodym pająkom pokonywać znaczne odległości, czasem nawet setki kilometrów, w poszukiwaniu nowego terytorium.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "animals-19",
+    "title": "Krokodyle potrafią przetrwać bez jedzenia bardzo długo",
+    "content": "Dorosłe krokodyle dzięki bardzo powolnemu metabolizmowi potrafią obywać się bez posiłku nawet przez rok, jeśli warunki tego wymagają.",
+    "category": "animals",
+    "explanation": "Niska temperatura ciała i mało aktywny tryb życia pozwalają krokodylom oszczędzać ogromne ilości energii między posiłkami.",
+    "surpriseLevel": 4,
+    "source": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com"
+  }
+]

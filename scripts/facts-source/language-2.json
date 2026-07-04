@@ -1,0 +1,72 @@
+[
+  {
+    "id": "language-12",
+    "title": "Islandzki zmienił się bardzo niewiele od czasów wikingów",
+    "content": "Współczesny język islandzki jest na tyle podobny do staronordyckiego używanego przez wikingów, że wielu Islandczyków bez większego trudu czyta średniowieczne sagi.",
+    "category": "language",
+    "explanation": "Geograficzna izolacja Islandii ograniczyła wpływy zewnętrzne na język, dzięki czemu zachował on wiele archaicznych cech gramatycznych i słownictwa.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-13",
+    "title": "Baskijski nie jest spokrewniony z żadnym innym znanym językiem",
+    "content": "Język baskijski, używany na pograniczu Hiszpanii i Francji, jest tak zwanym izolatem językowym, niepowiązanym genealogicznie z żadną znaną rodziną językową.",
+    "category": "language",
+    "explanation": "Jego pochodzenie pozostaje przedmiotem badań lingwistów, a sam język przetrwał mimo otoczenia przez zupełnie inne rodziny językowe przez tysiące lat.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-14",
+    "title": "Emotikony i emoji różnią się od siebie technicznie",
+    "content": "Emotikony to kombinacje znaków tekstowych, takie jak ':-)', podczas gdy emoji to osobne, zdefiniowane graficznie symbole, opracowane pierwotnie w Japonii w latach 90.",
+    "category": "language",
+    "explanation": "Emoji szybko rozpowszechniły się na całym świecie dzięki włączeniu ich do międzynarodowego standardu kodowania znaków Unicode.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-15",
+    "title": "Niektóre języki rozróżniają liczbę pojedynczą, podwójną i mnogą",
+    "content": "Oprócz liczby pojedynczej i mnogiej, niektóre języki, jak dawna greka czy słoweński, posiadają odrębną formę liczby podwójnej, używaną specjalnie dla dwóch obiektów.",
+    "category": "language",
+    "explanation": "Ta dodatkowa forma gramatyczna zanikła w większości współczesnych języków indoeuropejskich, choć wciąż jest aktywnie używana w kilku z nich.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-16",
+    "title": "Pismo klinowe było jednym z pierwszych systemów pisma na świecie",
+    "content": "Pismo klinowe, wynalezione w starożytnej Mezopotamii ponad 5000 lat temu, jest jednym z najstarszych znanych systemów pisma używanych przez ludzkość.",
+    "category": "language",
+    "explanation": "Zapisywano je poprzez odciskanie klinowatych znaków w miękkiej glinianej tabliczce za pomocą zaostrzonej trzcinowej rylec.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "language-17",
+    "title": "Wielojęzyczność jest normą w wielu częściach świata",
+    "content": "W wielu regionach Afryki i Azji zwykli mieszkańcy na co dzień posługują się trzema lub więcej językami, co jest znacznie powszechniejsze niż w wielu krajach jednojęzycznych.",
+    "category": "language",
+    "explanation": "Taka wielojęzyczność często wynika z lokalnej różnorodności etnicznej oraz potrzeby komunikacji zarówno w języku regionalnym, jak i ogólnokrajowym.",
+    "surpriseLevel": 2,
+    "source": "UNESCO",
+    "sourceUrl": "https://www.unesco.org"
+  },
+  {
+    "id": "language-18",
+    "title": "Alfabet Braille'a opiera się na systemie kropek wypukłych",
+    "content": "Alfabet Braille'a, umożliwiający czytanie dotykiem, opracował w XIX wieku niewidomy Francuz, opierając go na systemie sześciu wypukłych kropek w różnych układach.",
+    "category": "language",
+    "explanation": "System ten wciąż jest szeroko wykorzystywany na całym świecie, mimo rozwoju technologii audio wspierających osoby niewidome.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

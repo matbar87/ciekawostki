@@ -1,0 +1,192 @@
+[
+  {
+    "id": "science-01",
+    "title": "Miód nigdy się nie psuje",
+    "content": "Archeolodzy znaleźli w egipskich grobowcach miód sprzed ponad 3000 lat, który wciąż nadawał się do spożycia dzięki naturalnym właściwościom konserwującym.",
+    "category": "science",
+    "explanation": "Niska zawartość wody i wysoka kwasowość miodu tworzą środowisko, w którym bakterie i grzyby nie mogą się rozwijać.",
+    "surpriseLevel": 5,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "science-02",
+    "title": "Banany są lekko radioaktywne",
+    "content": "Banany zawierają potas, w tym niewielką ilość jego promieniotwórczego izotopu, przez co emitują śladową ilość promieniowania.",
+    "category": "science",
+    "explanation": "Dawka jest tak mała, że nie stanowi żadnego zagrożenia – organizm i tak reguluje poziom potasu niezależnie od diety.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-03",
+    "title": "Szkło to ciecz, która płynie bardzo wolno",
+    "content": "W skali fizyki materiałów szkło klasyfikuje się jako ciało amorficzne, którego struktura przypomina zamrożoną ciecz, choć w praktyce zachowuje się jak ciało stałe.",
+    "category": "science",
+    "explanation": "Wbrew popularnemu mitowi stare szyby nie są grubsze u dołu przez 'płynięcie' – to efekt dawnych technik produkcji szkła.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "science-04",
+    "title": "Diamenty mogą powstawać z orzeszków ziemnych",
+    "content": "W warunkach laboratoryjnych, pod wysokim ciśnieniem i temperaturą, naukowcy potrafili wytworzyć mikroskopijne diamenty z węgla zawartego w maśle orzechowym.",
+    "category": "science",
+    "explanation": "Diamenty to po prostu czysty węgiel ułożony w regularną sieć krystaliczną, więc dowolne źródło węgla teoretycznie może posłużyć do ich syntezy.",
+    "surpriseLevel": 4,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "science-05",
+    "title": "Błyskawica jest gorętsza niż powierzchnia Słońca",
+    "content": "Kanał pioruna nagrzewa powietrze do temperatury nawet 30 tysięcy stopni Celsjusza, czyli kilka razy więcej niż wynosi temperatura powierzchni Słońca.",
+    "category": "science",
+    "explanation": "To gwałtowne nagrzanie powietrza powoduje jego rozszerzenie, które słyszymy jako grzmot.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-06",
+    "title": "Ciało człowieka świeci bardzo słabym światłem",
+    "content": "Komórki naszego ciała emitują znikomą ilość światła widzialnego jako produkt uboczny reakcji metabolicznych, choć jest ono zbyt słabe, by dostrzec je gołym okiem.",
+    "category": "science",
+    "explanation": "Zjawisko to nazywa się bioluminescencją ultrasłabą i udało się je zarejestrować dopiero za pomocą bardzo czułych kamer.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "science-07",
+    "title": "Woda może wrzeć i zamarzać jednocześnie",
+    "content": "W tak zwanym punkcie potrójnym woda może jednocześnie występować jako lód, ciecz i para w stanie równowagi, przy ściśle określonej temperaturze i ciśnieniu.",
+    "category": "science",
+    "explanation": "Punkt potrójny wody występuje przy temperaturze 0,01°C i bardzo niskim ciśnieniu, i jest wykorzystywany do kalibracji termometrów.",
+    "surpriseLevel": 4,
+    "source": "NIST",
+    "sourceUrl": "https://www.nist.gov"
+  },
+  {
+    "id": "science-08",
+    "title": "Metal potrafi zapamiętać swój kształt",
+    "content": "Stopy z pamięcią kształtu, takie jak nitinol, po odkształceniu wracają do pierwotnej formy po podgrzaniu do określonej temperatury.",
+    "category": "science",
+    "explanation": "Efekt ten wynika ze zmiany struktury krystalicznej stopu pod wpływem temperatury i jest wykorzystywany m.in. w stentach medycznych.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-09",
+    "title": "Chmura może ważyć więcej niż samolot",
+    "content": "Przeciętna chmura kłębiasta może zawierać setki ton wody w postaci kropelek, mimo że wygląda lekko i unosi się w powietrzu.",
+    "category": "science",
+    "explanation": "Kropelki wody są na tyle małe i rozproszone, że opór powietrza i prądy wznoszące utrzymują je uniesione, choć łączna masa jest ogromna.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-10",
+    "title": "Największy organizm świata to grzyb",
+    "content": "W stanie Oregon w USA odkryto pojedynczą grzybnię opieńka, która zajmuje powierzchnię ponad 9 kilometrów kwadratowych i ma tysiące lat.",
+    "category": "science",
+    "explanation": "Grzybnia rozrasta się pod ziemią jako sieć nitkowatych strzępek, co pozwoliło jej osiągnąć tak ogromne rozmiary niezauważenie przez wieki.",
+    "surpriseLevel": 5,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "science-11",
+    "title": "Tęcza jest w rzeczywistości pełnym okręgiem",
+    "content": "Tęcza, którą widzimy jako łuk, jest w rzeczywistości pełnym okręgiem światła – z ziemi widzimy tylko jego górną część, bo dolną zasłania horyzont.",
+    "category": "science",
+    "explanation": "Pełne kolisty kształt tęczy można zobaczyć z samolotu lub wysokiej góry, gdy nic nie zasłania dolnej części łuku.",
+    "surpriseLevel": 4,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-12",
+    "title": "Dźwięk porusza się szybciej w wodzie niż w powietrzu",
+    "content": "Fale dźwiękowe rozchodzą się w wodzie mniej więcej cztery razy szybciej niż w powietrzu, ponieważ cząsteczki wody są gęściej upakowane.",
+    "category": "science",
+    "explanation": "Gęstsze ośrodki przekazują drgania sprawniej między cząsteczkami, dlatego dźwięk pod wodą dociera znacznie szybciej.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-13",
+    "title": "Sople lodu mogą tworzyć dźwięk niesłyszalny dla ucha",
+    "content": "Niektóre zjawiska fizyczne, jak pękanie lodu głębinowego, generują fale dźwiękowe o częstotliwościach infradźwiękowych, niesłyszalne dla człowieka.",
+    "category": "science",
+    "explanation": "Infradźwięki mają częstotliwość poniżej 20 Hz, czyli poza zakresem słyszalnym dla ludzkiego ucha, choć rejestrują je specjalne czujniki.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-14",
+    "title": "Powietrze ma ciężar",
+    "content": "Kolumna powietrza nad każdym metrem kwadratowym powierzchni Ziemi waży ponad 10 ton, co odczuwamy jako ciśnienie atmosferyczne.",
+    "category": "science",
+    "explanation": "Nie czujemy tego ciężaru, bo ciśnienie działa równomiernie ze wszystkich stron, a nasze ciała są do niego przystosowane.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  },
+  {
+    "id": "science-15",
+    "title": "Niektóre metale są płynne w temperaturze pokojowej",
+    "content": "Rtęć i gal to metale, które topią się w bardzo niskich temperaturach – gal roztapia się już w cieple dłoni, w około 30°C.",
+    "category": "science",
+    "explanation": "Niska temperatura topnienia tych metali wynika z unikalnej struktury ich wiązań atomowych, słabszych niż w typowych metalach.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-16",
+    "title": "Ogień nie ma swojego zapachu",
+    "content": "To, co nazywamy 'zapachem ognia', pochodzi od substancji chemicznych uwalnianych podczas spalania materiału, a nie od samego płomienia.",
+    "category": "science",
+    "explanation": "Skład dymu i zapach różnią się w zależności od tego, co się pali – drewno, papier czy tworzywo sztuczne dają zupełnie inne wonie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-17",
+    "title": "Statyczne wyładowanie może mieć tysiące woltów",
+    "content": "Nieprzyjemne 'kopnięcie prądem' po dotknięciu klamki może mieć napięcie nawet kilku tysięcy woltów, choć jest praktycznie nieszkodliwe.",
+    "category": "science",
+    "explanation": "O sile porażenia decyduje nie tylko napięcie, ale i natężenie prądu oraz czas jego przepływu, które w tym przypadku są znikome.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "science-18",
+    "title": "Nie każdy śnieg jest biały",
+    "content": "W niektórych regionach polarnych można spotkać różowy śnieg, którego barwę nadają glony zawierające czerwony pigment chroniący je przed promieniowaniem UV.",
+    "category": "science",
+    "explanation": "Zjawisko to bywa nazywane 'arbuzowym śniegiem' i jest badane jako wskaźnik zmian klimatycznych w rejonach polarnych.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "science-19",
+    "title": "Można usłyszeć różnicę między gorącą a zimną wodą",
+    "content": "Lejąca się gorąca woda wydaje nieco inny dźwięk niż zimna, ponieważ jej niższa lepkość zmienia sposób formowania się bąbelków powietrza.",
+    "category": "science",
+    "explanation": "Różnice w lepkości i napięciu powierzchniowym cieczy o różnej temperaturze wpływają na częstotliwość dźwięku wydawanego podczas przelewania.",
+    "surpriseLevel": 3,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  }
+]

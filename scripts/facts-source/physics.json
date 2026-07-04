@@ -1,0 +1,192 @@
+[
+  {
+    "id": "physics-01",
+    "title": "Czas płynie wolniej blisko silnej grawitacji",
+    "content": "Zgodnie z ogólną teorią względności zegar znajdujący się bliżej masywnego obiektu tyka wolniej niż zegar dalej od niego, co potwierdzono eksperymentalnie.",
+    "category": "physics",
+    "explanation": "Satelity GPS muszą uwzględniać tę różnicę w tempie upływu czasu, inaczej ich wskazania pozycji byłyby błędne o kilka kilometrów dziennie.",
+    "surpriseLevel": 5,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "physics-02",
+    "title": "Nadprzewodniki mogą lewitować nad magnesem",
+    "content": "Niektóre materiały schłodzone do bardzo niskich temperatur całkowicie tracą opór elektryczny i potrafią lewitować nad silnym magnesem.",
+    "category": "physics",
+    "explanation": "Zjawisko to, zwane efektem Meissnera, polega na wypychaniu pola magnetycznego z wnętrza nadprzewodnika, co powoduje odpychanie od magnesu.",
+    "surpriseLevel": 4,
+    "source": "CERN",
+    "sourceUrl": "https://home.cern"
+  },
+  {
+    "id": "physics-03",
+    "title": "Neutrina przelatują przez Ziemię bez przeszkód",
+    "content": "Co sekundę przez każdy centymetr kwadratowy naszego ciała przelatują biliony neutrin ze Słońca, niemal nie oddziałując z materią.",
+    "category": "physics",
+    "explanation": "Neutrina reagują z materią tak rzadko, że mogłyby przelecieć przez warstwę ołowiu grubą na wiele lat świetlnych bez zatrzymania.",
+    "surpriseLevel": 5,
+    "source": "CERN",
+    "sourceUrl": "https://home.cern"
+  },
+  {
+    "id": "physics-04",
+    "title": "Ciepło nie zawsze przepływa tak, jak myślimy",
+    "content": "W pewnych mikroskopowych warunkach ciepło może na krótko przepływać z ciała chłodniejszego do cieplejszego, choć w skali makroskopowej zawsze płynie odwrotnie.",
+    "category": "physics",
+    "explanation": "Te chwilowe odstępstwa opisuje twierdzenie o fluktuacjach, obserwowane w układach na poziomie pojedynczych cząstek.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "physics-05",
+    "title": "Kot spadający zawsze ląduje na łapach dzięki fizyce, nie instynktowi",
+    "content": "Zdolność kota do obracania się w powietrzu i lądowania na łapach tłumaczy zasada zachowania momentu pędu, a nie tylko odruch.",
+    "category": "physics",
+    "explanation": "Kot wykorzystuje elastyczność kręgosłupa, obracając osobno przód i tył ciała, co pozwala mu zmienić orientację bez naruszania praw fizyki.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "physics-06",
+    "title": "Prędkość dźwięku zależy od temperatury powietrza",
+    "content": "Dźwięk porusza się szybciej w cieplejszym powietrzu niż w zimnym, ponieważ cząsteczki poruszają się wtedy szybciej i sprawniej przekazują drgania.",
+    "category": "physics",
+    "explanation": "W temperaturze 20°C dźwięk rozchodzi się z prędkością około 343 m/s, a przy 0°C jest to już tylko około 331 m/s.",
+    "surpriseLevel": 2,
+    "source": "NIST",
+    "sourceUrl": "https://www.nist.gov"
+  },
+  {
+    "id": "physics-07",
+    "title": "Światło ma pęd, choć nie ma masy spoczynkowej",
+    "content": "Fotony nie mają masy spoczynkowej, a mimo to niosą pęd i mogą wywierać realny nacisk na powierzchnię, na którą padają.",
+    "category": "physics",
+    "explanation": "Zjawisko to nazywa się ciśnieniem promieniowania i jest wykorzystywane w projektach żagli słonecznych napędzających sondy kosmiczne.",
+    "surpriseLevel": 4,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "physics-08",
+    "title": "Magnesy tracą właściwości po podgrzaniu",
+    "content": "Każdy magnes ma temperaturę Curie, powyżej której całkowicie traci swoje właściwości magnetyczne, choć po ochłodzeniu może je odzyskać.",
+    "category": "physics",
+    "explanation": "Wysoka temperatura rozregulowuje uporządkowanie domen magnetycznych w materiale, co niweluje jego magnetyzm.",
+    "surpriseLevel": 3,
+    "source": "NIST",
+    "sourceUrl": "https://www.nist.gov"
+  },
+  {
+    "id": "physics-09",
+    "title": "Powietrze potrafi się świecić przy bardzo dużym ciśnieniu",
+    "content": "Gwałtowne sprężenie gazu, na przykład wewnątrz zapadającego się bąbelka w cieczy, może wygenerować krótki błysk światła zwany sonoluminescencją.",
+    "category": "physics",
+    "explanation": "Dokładny mechanizm tego zjawiska wciąż jest badany, ale wiąże się z ekstremalnym wzrostem temperatury wewnątrz zapadającego się bąbla.",
+    "surpriseLevel": 5,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "physics-10",
+    "title": "Grawitacja na Ziemi różni się w zależności od miejsca",
+    "content": "Siła grawitacji nie jest wszędzie na Ziemi identyczna – zależy od wysokości, gęstości skał pod powierzchnią oraz kształtu planety.",
+    "category": "physics",
+    "explanation": "Satelity takie jak GRACE mierzą te niewielkie różnice, co pomaga badać rozkład masy wewnątrz Ziemi.",
+    "surpriseLevel": 3,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "physics-11",
+    "title": "Można usłyszeć zorzę polarną",
+    "content": "Niektórzy obserwatorzy zórz polarnych donoszą o cichych, trzaskających dźwiękach towarzyszących zjawisku, co potwierdzają nagrania fińskich naukowców.",
+    "category": "physics",
+    "explanation": "Dźwięki te powstają blisko powierzchni Ziemi w wyniku wyładowań elektrycznych związanych z aktywnością geomagnetyczną, a nie w samej jonosferze.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "physics-12",
+    "title": "Zjawisko tarcia może wytwarzać światło",
+    "content": "Rozrywanie taśmy klejącej w ciemności potrafi wytworzyć widoczne błyski światła w wyniku zjawiska zwanego triboluminescencją.",
+    "category": "physics",
+    "explanation": "Rozdzielanie powierzchni klejących generuje ładunki elektryczne, które rozładowując się, emitują promieniowanie w zakresie widzialnym.",
+    "surpriseLevel": 4,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "physics-13",
+    "title": "Fale grawitacyjne odkryto sto lat po ich przewidzeniu",
+    "content": "Fale grawitacyjne, przewidziane przez Einsteina w 1916 roku, bezpośrednio zaobserwowano dopiero w 2015 roku dzięki detektorowi LIGO.",
+    "category": "physics",
+    "explanation": "Fale te powstały w wyniku zderzenia dwóch czarnych dziur i zniekształciły przestrzeń o ułamek promienia protonu w detektorach na Ziemi.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "physics-14",
+    "title": "Ciecz nienewtonowska zachowuje się jak ciało stałe pod naciskiem",
+    "content": "Mieszanina skrobi ziemniaczanej i wody twardnieje pod wpływem nagłego uderzenia, a przy powolnym nacisku zachowuje się jak zwykła ciecz.",
+    "category": "physics",
+    "explanation": "To efekt zmiennej lepkości takich płynów, zależnej od prędkości przyłożonej siły, badany w naukach o materiałach.",
+    "surpriseLevel": 3,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "physics-15",
+    "title": "Atomy są w większości pustą przestrzenią",
+    "content": "Gdyby jądro atomu powiększyć do rozmiaru piłki na boisku, elektrony krążyłyby wokół niego w odległości kilku kilometrów – reszta to pustka.",
+    "category": "physics",
+    "explanation": "Materia wydaje się nam stała dzięki siłom elektromagnetycznym odpychającym elektrony sąsiednich atomów, a nie fizycznemu wypełnieniu przestrzeni.",
+    "surpriseLevel": 5,
+    "source": "CERN",
+    "sourceUrl": "https://home.cern"
+  },
+  {
+    "id": "physics-16",
+    "title": "Kolor nieba wynika z rozpraszania światła",
+    "content": "Niebo jest niebieskie, ponieważ cząsteczki powietrza rozpraszają krótsze, niebieskie fale światła słonecznego znacznie silniej niż fale czerwone.",
+    "category": "physics",
+    "explanation": "Zjawisko to nazywa się rozpraszaniem Rayleigha i tłumaczy też, dlaczego zachody słońca są czerwone – światło przebywa wtedy dłuższą drogę przez atmosferę.",
+    "surpriseLevel": 2,
+    "source": "NASA",
+    "sourceUrl": "https://www.nasa.gov"
+  },
+  {
+    "id": "physics-17",
+    "title": "Bąbelki w napojach gazowanych mają swoją fizykę wzrostu",
+    "content": "Bąbelki dwutlenku węgla w napojach gazowanych rosną w tempie wykładniczym w miarę wznoszenia się ku powierzchni, przyciągając kolejne cząsteczki gazu.",
+    "category": "physics",
+    "explanation": "Badania nad tym zjawiskiem pomagają zrozumieć procesy dyfuzji gazów w cieczach, istotne także w przemyśle spożywczym i chemicznym.",
+    "surpriseLevel": 2,
+    "source": "Science",
+    "sourceUrl": "https://www.science.org"
+  },
+  {
+    "id": "physics-18",
+    "title": "Dźwięk może rozbić szkło, jeśli trafi w jego częstotliwość rezonansową",
+    "content": "Odpowiednio głośny dźwięk o częstotliwości zgodnej z naturalną częstotliwością drgań kieliszka może doprowadzić do jego pęknięcia.",
+    "category": "physics",
+    "explanation": "Zjawisko to nazywa się rezonansem – drgania wymuszone o tej samej częstotliwości co drgania własne obiektu kumulują energię aż do zniszczenia materiału.",
+    "surpriseLevel": 3,
+    "source": "NIST",
+    "sourceUrl": "https://www.nist.gov"
+  },
+  {
+    "id": "physics-19",
+    "title": "Powietrze na dużej wysokości ma inny skład ciśnieniowy",
+    "content": "Na szczycie Mount Everest ciśnienie atmosferyczne wynosi około jednej trzeciej wartości na poziomie morza, dlatego wspinacze potrzebują tlenu z butli.",
+    "category": "physics",
+    "explanation": "Niższe ciśnienie oznacza mniej cząsteczek tlenu w tej samej objętości powietrza, co utrudnia efektywne oddychanie na dużych wysokościach.",
+    "surpriseLevel": 3,
+    "source": "NOAA",
+    "sourceUrl": "https://www.noaa.gov"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "music-01",
+    "title": "Beethoven komponował, gdy tracił słuch",
+    "content": "Ludwig van Beethoven skomponował wiele swoich najbardziej znanych dzieł, w tym część IX Symfonii, gdy jego słuch był już poważnie osłabiony lub go nie miał.",
+    "category": "music",
+    "explanation": "Beethoven podobno 'słyszał' muzykę poprzez wibracje przewodzone przez kość, na przykład trzymając w zębach pręt oparty o fortepian.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-02",
+    "title": "Najstarszy znany instrument muzyczny to flet z kości",
+    "content": "Najstarszy znany na świecie instrument muzyczny to flet wykonany z kości ptaka lub mamuta, którego wiek szacuje się na ponad 40 tysięcy lat.",
+    "category": "music",
+    "explanation": "Odkrycie takich instrumentów pokazuje, że muzyka towarzyszyła ludziom już w bardzo odległej przeszłości, na długo przed powstaniem pisma.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-03",
+    "title": "Słuchanie muzyki aktywuje wiele obszarów mózgu jednocześnie",
+    "content": "Skanowanie mózgu podczas słuchania muzyki pokazuje aktywność w obszarach odpowiedzialnych za emocje, pamięć, ruch i przetwarzanie dźwięku równocześnie.",
+    "category": "music",
+    "explanation": "To dlatego muzyka potrafi wywoływać tak silne wspomnienia i emocje, angażując znacznie więcej struktur mózgu niż wiele innych bodźców.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-04",
+    "title": "Fortepian ma znacznie więcej strun niż klawiszy",
+    "content": "Typowy fortepian koncertowy ma 88 klawiszy, ale wewnątrz może mieć nawet ponad 200 strun, ponieważ wiele klawiszy uderza w więcej niż jedną strunę.",
+    "category": "music",
+    "explanation": "Wyższe dźwięki fortepianu zwykle korzystają z dwóch lub trzech strun jednocześnie, co wzmacnia i wzbogaca ich brzmienie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-05",
+    "title": "Muzyka klasyczna bywa wykorzystywana do badań nad zwierzętami",
+    "content": "Badania pokazały, że niektóre zwierzęta gospodarskie, jak krowy, reagują zmianą zachowania na muzykę o spokojnym tempie odtwarzaną w oborach.",
+    "category": "music",
+    "explanation": "Naukowcy sugerują, że spokojna muzyka może obniżać poziom stresu u zwierząt, choć efekt ten zależy od gatunku i konkretnego utworu.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-06",
+    "title": "Hymn narodowy Grecji ma jeden z najdłuższych tekstów na świecie",
+    "content": "Oryginalny hymn Grecji składa się ze 158 zwrotek, choć w praktyce podczas oficjalnych uroczystości wykonuje się zwykle tylko pierwsze dwie.",
+    "category": "music",
+    "explanation": "Pełny tekst hymnu, napisany w XIX wieku, opowiada o walce Grecji o niepodległość, ale wykonanie całości zajęłoby bardzo dużo czasu.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-07",
+    "title": "Nuty zapisywano na wiele różnych sposobów w historii",
+    "content": "Przed upowszechnieniem współczesnej notacji pięcioliniowej muzykę zapisywano na wiele sposobów, w tym za pomocą liter, symboli czy neum używanych w średniowieczu.",
+    "category": "music",
+    "explanation": "Współczesny system notacji muzycznej rozwijał się stopniowo przez wieki, zanim ustandaryzował się w formie znanej dziś muzykom na całym świecie.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-08",
+    "title": "Niektóre instrumenty dęte blaszane mają kilka metrów rozwiniętej rury",
+    "content": "Rura waltorni, mimo że instrument wygląda kompaktowo, po rozwinięciu może mierzyć nawet ponad trzy i pół metra długości.",
+    "category": "music",
+    "explanation": "Zwinięty kształt pozwala wygodnie trzymać instrument, podczas gdy długa rura odpowiada za bogaty, ciepły ton charakterystyczny dla waltorni.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-09",
+    "title": "Niemowlęta reagują na muzykę już w łonie matki",
+    "content": "Badania sugerują, że płód w trzecim trymestrze ciąży potrafi reagować na dźwięki muzyki dobiegające z zewnątrz, na przykład zmianą tętna.",
+    "category": "music",
+    "explanation": "Zmysł słuchu rozwija się u płodu stosunkowo wcześnie, co pozwala mu odbierać dźwięki, w tym głos matki, jeszcze przed narodzinami.",
+    "surpriseLevel": 3,
+    "source": "NIH",
+    "sourceUrl": "https://www.nih.gov"
+  },
+  {
+    "id": "music-10",
+    "title": "Niektóre skale muzyczne są wspólne dla wielu odległych kultur",
+    "content": "Skala pentatoniczna, złożona z pięciu dźwięków, pojawia się niezależnie w muzyce ludowej Chin, Szkocji, Afryki Zachodniej i wielu innych regionów świata.",
+    "category": "music",
+    "explanation": "Naukowcy sugerują, że prostota tej skali może czynić ją intuicyjnie przyjemną dla ludzkiego ucha niezależnie od kontekstu kulturowego.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-11",
+    "title": "Największa orkiestra świata liczyła tysiące muzyków",
+    "content": "Rekordowe wspólne wykonania muzyczne gromadziły nawet kilka tysięcy muzyków grających jednocześnie ten sam utwór w ramach specjalnych wydarzeń.",
+    "category": "music",
+    "explanation": "Organizacja takich przedsięwzięć wymaga precyzyjnej koordynacji dyrygentów oraz nagłośnienia obejmującego bardzo duży obszar.",
+    "surpriseLevel": 3,
+    "source": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com"
+  },
+  {
+    "id": "music-12",
+    "title": "Muzyka może wpływać na postrzeganą prędkość upływu czasu",
+    "content": "Badania psychologiczne pokazują, że szybkie, energiczne utwory muzyczne sprawiają, iż czas subiektywnie wydaje się płynąć szybciej niż podczas ciszy.",
+    "category": "music",
+    "explanation": "To zjawisko jest często wykorzystywane w sklepach i restauracjach, gdzie tempo odtwarzanej muzyki wpływa na tempo zakupów lub posiłku klientów.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-13",
+    "title": "Gitara elektryczna praktycznie nie wydaje dźwięku bez wzmacniacza",
+    "content": "Gitara elektryczna bez podłączenia do wzmacniacza wydaje bardzo cichy dźwięk, ponieważ jej korpus nie jest zaprojektowany do akustycznego wzmacniania drgań strun.",
+    "category": "music",
+    "explanation": "Dźwięk gitary elektrycznej powstaje głównie dzięki przetwornikom magnetycznym, które zamieniają drgania metalowych strun na sygnał elektryczny.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "music-14",
+    "title": "Niektóre utwory muzyczne skomponowano dla roślin",
+    "content": "Eksperymentalni kompozytorzy i badacze tworzyli utwory mające rzekomo wspierać wzrost roślin, choć naukowe dowody na taki wpływ pozostają ograniczone.",
+    "category": "music",
+    "explanation": "Część badań sugeruje, że to raczej wibracje dźwiękowe, a nie sama melodia, mogą subtelnie wpływać na niektóre procesy biologiczne roślin.",
+    "surpriseLevel": 2,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-15",
+    "title": "Chóralne śpiewanie synchronizuje bicie serc uczestników",
+    "content": "Badania wykazały, że osoby śpiewające razem w chórze zaczynają synchronizować rytm bicia swoich serc podczas wspólnego wykonywania utworu.",
+    "category": "music",
+    "explanation": "Zsynchronizowany oddech, niezbędny do wspólnego śpiewu, wpływa na rytm pracy serca uczestników w podobny, skoordynowany sposób.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "music-16",
+    "title": "Niektóre instrumenty perkusyjne pochodzą z przedmiotów codziennego użytku",
+    "content": "Wiele tradycyjnych instrumentów perkusyjnych na świecie powstało z przedmiotów codziennego użytku, takich jak tykwy, garnki czy puste pnie drzew.",
+    "category": "music",
+    "explanation": "Taka geneza pokazuje, jak naturalna i powszechna w różnych kulturach była potrzeba tworzenia rytmu z dostępnych, prostych materiałów.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

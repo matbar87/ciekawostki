@@ -1,0 +1,112 @@
+[
+  {
+    "id": "inventions-01",
+    "title": "Rzepy wynaleziono, obserwując przyczepiające się nasiona roślin",
+    "content": "Szwajcarski inżynier wpadł na pomysł rzepów w latach 40. XX wieku, obserwując pod mikroskopem, jak nasiona łopianu przyczepiają się do sierści jego psa.",
+    "category": "inventions",
+    "explanation": "Zaobserwowane pod mikroskopem mikroskopijne haczyki na nasionach zainspirowały go do zaprojektowania sztucznego zapięcia działającego na tej samej zasadzie.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-02",
+    "title": "Koło zębate w zegarach mechanicznych ma średniowieczne korzenie",
+    "content": "Pierwsze mechaniczne zegary z kołami zębatymi pojawiły się w Europie już w średniowieczu, na długo przed erą precyzyjnych zegarków kieszonkowych.",
+    "category": "inventions",
+    "explanation": "Wczesne zegary mechaniczne montowano głównie w wieżach kościelnych i ratuszowych, gdzie odmierzały czas dla całych społeczności miejskich.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-03",
+    "title": "Zamek błyskawiczny nie od razu zyskał popularność",
+    "content": "Zamek błyskawiczny opatentowano pod koniec XIX wieku, ale przez dekady nie cieszył się dużą popularnością, zanim producenci odzieży zaczęli go szeroko stosować.",
+    "category": "inventions",
+    "explanation": "Wczesne wersje zamków były zawodne i trudne w produkcji, dlatego upowszechnienie się tego wynalazku wymagało wielu udoskonaleń technicznych.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-04",
+    "title": "Papier toaletowy w rolce to stosunkowo nowy wynalazek",
+    "content": "Papier toaletowy nawinięty na rolkę opatentowano dopiero w latach 90. XIX wieku, mimo że sam papier znano od tysięcy lat.",
+    "category": "inventions",
+    "explanation": "Wcześniej do higieny osobistej używano różnych materiałów w zależności od kultury i dostępnych zasobów, od liści po szmatki.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-05",
+    "title": "Żarówka była udoskonalana przez wielu wynalazców jednocześnie",
+    "content": "Choć Thomas Edison jest najbardziej znany z wynalezienia żarówki, wielu innych naukowców pracowało nad podobnymi rozwiązaniami niezależnie w tym samym okresie.",
+    "category": "inventions",
+    "explanation": "Zasługą Edisona było przede wszystkim znalezienie trwałego materiału na żarnik oraz stworzenie praktycznego systemu dystrybucji prądu do żarówek.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-06",
+    "title": "Pierwsza szczoteczka do zębów z nylonu pojawiła się w latach 30. XX wieku",
+    "content": "Nylonowe włosie do szczoteczek do zębów wprowadzono dopiero w 1938 roku, wcześniej powszechnie stosowano do tego celu naturalny włos ze świńskiej szczeciny.",
+    "category": "inventions",
+    "explanation": "Nylon okazał się bardziej higieniczny i trwalszy niż naturalne włosie, co szybko doprowadziło do jego powszechnego zastosowania na całym świecie.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-07",
+    "title": "Koło jako wynalazek pojawiło się później niż niektóre inne technologie",
+    "content": "Koło wynaleziono później niż na przykład tkactwo czy rolnictwo, ponieważ jego praktyczne zastosowanie wymagało wcześniej rozwoju odpowiednich narzędzi i dróg.",
+    "category": "inventions",
+    "explanation": "Najstarsze znane koła służyły najpierw jako część kół garncarskich, a dopiero później zaadaptowano je do transportu w pojazdach.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-08",
+    "title": "Pierwszy patent na samochód opisano pod koniec XIX wieku",
+    "content": "Pierwszy patent na pojazd napędzany silnikiem spalinowym Karl Benz uzyskał w 1886 roku, co uznaje się za symboliczne narodziny nowoczesnego samochodu.",
+    "category": "inventions",
+    "explanation": "Wczesne samochody były bardzo drogie i zawodne, a ich masowa produkcja zaczęła się dopiero na początku XX wieku dzięki wprowadzeniu linii montażowej.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-09",
+    "title": "Puszki konserwowe pojawiły się przed praktycznym otwieraczem do puszek",
+    "content": "Konserwy w puszkach metalowych wprowadzono na początku XIX wieku, ale praktyczny otwieracz do puszek wynaleziono dopiero kilkadziesiąt lat później.",
+    "category": "inventions",
+    "explanation": "Wcześniej instrukcje na puszkach zalecały otwieranie ich za pomocą młotka i dłuta, co dziś wydaje się wyjątkowo niepraktyczne.",
+    "surpriseLevel": 4,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "inventions-10",
+    "title": "Pierwszy patent na parasol przeciwsłoneczny pochodzi sprzed wieków",
+    "content": "Parasole używane do ochrony przed słońcem znane były już w starożytnych cywilizacjach Egiptu, Grecji i Chin, na długo przed pojawieniem się wersji przeciwdeszczowych.",
+    "category": "inventions",
+    "explanation": "Pierwotnie parasole miały głównie znaczenie symboliczne, często zarezerwowane dla władców lub osób o wysokim statusie społecznym.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "inventions-11",
+    "title": "Klawiatura QWERTY zaprojektowano, by spowolnić pisanie",
+    "content": "Układ klawiatury QWERTY zaprojektowano w XIX wieku częściowo po to, by zapobiec zacinaniu się mechanicznych czcionek maszyny do pisania podczas szybkiego pisania.",
+    "category": "inventions",
+    "explanation": "Mimo że współczesne klawiatury cyfrowe nie mają tego problemu mechanicznego, układ QWERTY pozostał standardem z przyzwyczajenia użytkowników.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  }
+]

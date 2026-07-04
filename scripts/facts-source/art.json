@@ -1,0 +1,182 @@
+[
+  {
+    "id": "art-01",
+    "title": "Mona Lisa jest znacznie mniejsza, niż wiele osób się spodziewa",
+    "content": "Obraz Mona Lisa Leonarda da Vinci ma zaledwie około 77 na 53 centymetry, co zaskakuje wielu odwiedzających muzeum Luwr po raz pierwszy.",
+    "category": "art",
+    "explanation": "Sława obrazu sprawia, że w wyobraźni wielu osób jest on znacznie większy, niż wynika to z jego rzeczywistych, dość skromnych rozmiarów.",
+    "surpriseLevel": 3,
+    "source": "Louvre",
+    "sourceUrl": "https://www.louvre.fr"
+  },
+  {
+    "id": "art-02",
+    "title": "Vincent van Gogh sprzedał za życia tylko jeden obraz",
+    "content": "Vincent van Gogh, dziś jeden z najbardziej cenionych malarzy w historii, za życia sprzedał podobno tylko jeden swój obraz.",
+    "category": "art",
+    "explanation": "Uznanie dla jego twórczości przyszło dopiero po śmierci artysty, głównie dzięki staraniom jego bratowej, Johanny van Gogh-Bonger.",
+    "surpriseLevel": 4,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-03",
+    "title": "Sufit Kaplicy Sykstyńskiej Michał Anioł malował na stojąco",
+    "content": "Michał Anioł malował fresk na suficie Kaplicy Sykstyńskiej stojąc na rusztowaniu, odchylając głowę do tyłu, a nie leżąc, jak często się sądzi.",
+    "category": "art",
+    "explanation": "Praca ta trwała kilka lat i była niezwykle wyczerpująca fizycznie, powodując artyście trwałe dolegliwości wzroku i kręgosłupa.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-04",
+    "title": "Niektóre rzeźby starożytnej Grecji zainspirowały współczesną anatomię",
+    "content": "Starożytni greccy rzeźbiarze studiowali anatomię ludzkiego ciała tak dokładnie, że ich prace do dziś wykorzystywane są w nauczaniu proporcji anatomicznych.",
+    "category": "art",
+    "explanation": "Precyzja przedstawienia mięśni i proporcji ciała w rzeźbach takich jak Dyskobol świadczy o zaawansowanej wiedzy obserwacyjnej twórców.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-05",
+    "title": "Farba olejna umożliwiła nowy poziom realizmu w malarstwie",
+    "content": "Upowszechnienie farb olejnych w XV wieku pozwoliło malarzom uzyskiwać znacznie bardziej realistyczne cieniowanie i głębię niż wcześniej stosowana tempera.",
+    "category": "art",
+    "explanation": "Wolniejsze wysychanie farby olejnej dawało artystom więcej czasu na mieszanie kolorów bezpośrednio na płótnie, co wzbogaciło możliwości techniczne malarstwa.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-06",
+    "title": "Niektóre dzieła sztuki ukrywają ukryte wiadomości pod warstwą farby",
+    "content": "Dzięki nowoczesnym technikom obrazowania w podczerwieni odkryto ukryte szkice i poprawki pod warstwami farby wielu klasycznych obrazów.",
+    "category": "art",
+    "explanation": "Takie badania pozwalają historykom sztuki lepiej zrozumieć proces twórczy artystów oraz zmiany kompozycyjne wprowadzane w trakcie pracy nad dziełem.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "art-07",
+    "title": "Graffiti ma udokumentowaną historię sięgającą starożytności",
+    "content": "Napisy i rysunki na murach, podobne do współczesnego graffiti, znajdowano już w starożytnych Pompejach, gdzie mieszkańcy zostawiali wiadomości na ścianach.",
+    "category": "art",
+    "explanation": "Takie inskrypcje obejmowały żarty, ogłoszenia czy wyznania miłosne, dając archeologom wgląd w codzienne życie starożytnych mieszkańców miasta.",
+    "surpriseLevel": 3,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "art-08",
+    "title": "Współczesna sztuka cyfrowa bywa sprzedawana za ogromne kwoty",
+    "content": "Niektóre dzieła sztuki cyfrowej osiągały na aukcjach ceny liczone w milionach dolarów, mimo że istnieją wyłącznie w formie plików cyfrowych.",
+    "category": "art",
+    "explanation": "Rynek sztuki cyfrowej rozwinął się wraz z technologiami umożliwiającymi potwierdzenie unikalności i własności takich plików.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-09",
+    "title": "Kolor błękitu wytwarzano niegdyś z drogocennego kamienia",
+    "content": "Intensywny błękit lapis-lazuli używany przez dawnych malarzy pozyskiwano z rzadkiego kamienia szlachetnego, co czyniło ten pigment jednym z najdroższych.",
+    "category": "art",
+    "explanation": "Ze względu na wysoki koszt, ten odcień błękitu, znany jako ultramaryna, rezerwowano często do przedstawiania najważniejszych postaci na obrazach religijnych.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-10",
+    "title": "Muzeum MoMA rozpoczynało działalność w wynajętym biurze",
+    "content": "Nowojorskie Muzeum Sztuki Nowoczesnej (MoMA) w momencie założenia w 1929 roku mieściło się w niewielkiej przestrzeni biurowej, zanim zyskało własną siedzibę.",
+    "category": "art",
+    "explanation": "Dziś MoMA jest jednym z najważniejszych na świecie muzeów sztuki nowoczesnej, prezentującym dzieła między innymi Picassa i Warhola.",
+    "surpriseLevel": 2,
+    "source": "MoMA",
+    "sourceUrl": "https://www.moma.org"
+  },
+  {
+    "id": "art-11",
+    "title": "Niektóre obrazy zmieniały właściciela dzięki kradzieżom",
+    "content": "Kradzież Mona Lisy z Luwru w 1911 roku znacząco zwiększyła sławę obrazu, przyciągając tłumy zwiedzających po jego odzyskaniu dwa lata później.",
+    "category": "art",
+    "explanation": "Rozgłos medialny wokół kradzieży sprawił, że obraz, wcześniej znany głównie w kręgach koneserów sztuki, stał się rozpoznawalny na całym świecie.",
+    "surpriseLevel": 3,
+    "source": "Louvre",
+    "sourceUrl": "https://www.louvre.fr"
+  },
+  {
+    "id": "art-12",
+    "title": "Street art bywa dziś chroniony jak dzieło muzealne",
+    "content": "Niektóre murale znanych artystów ulicznych są dziś oficjalnie chronione prawnie przed usunięciem, mimo że powstały bez zgody właścicieli budynków.",
+    "category": "art",
+    "explanation": "Wzrost uznania dla sztuki ulicznej sprawił, że lokalne władze niektórych miast zaczęły traktować wybrane murale jako element dziedzictwa kulturowego.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-13",
+    "title": "Renesansowi artyści byli też inżynierami i naukowcami",
+    "content": "Leonardo da Vinci prowadził szczegółowe badania anatomiczne, projektował maszyny i badał zjawiska fizyczne równolegle do swojej twórczości malarskiej.",
+    "category": "art",
+    "explanation": "Jego notatniki pełne są szkiców technicznych, od machin latających po urządzenia hydrauliczne, świadczących o wyjątkowej wszechstronności umysłu.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-14",
+    "title": "Niektóre rzeźby starożytne przetrwały dzięki zatopieniu w morzu",
+    "content": "Brązowe posągi antycznych mistrzów, takie jak Wojownicy z Riace, przetrwały wieki właśnie dlatego, że zatonęły wraz ze statkiem transportującym je do Rzymu.",
+    "category": "art",
+    "explanation": "Woda morska, choć niszczy wiele materiałów, w niektórych przypadkach chroniła brąz przed przetopieniem, częstym losem metalowych rzeźb na lądzie.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-15",
+    "title": "Papier-mâché wykorzystywano w sztuce od stuleci",
+    "content": "Technika papier-mâché, polegająca na formowaniu kształtów z warstw papieru i kleju, była wykorzystywana w rzemiośle artystycznym w wielu kulturach od wieków.",
+    "category": "art",
+    "explanation": "Ta niedroga i lekka technika pozwalała tworzyć maski, dekoracje czy figury teatralne bez potrzeby użycia droższych materiałów, jak drewno czy metal.",
+    "surpriseLevel": 2,
+    "source": "Smithsonian",
+    "sourceUrl": "https://www.si.edu"
+  },
+  {
+    "id": "art-16",
+    "title": "Fotografia była początkowo uznawana za zagrożenie dla malarstwa",
+    "content": "Wraz z wynalezieniem fotografii w XIX wieku wielu malarzy i krytyków obawiało się, że nowa technologia zakończy tradycyjne malarstwo portretowe.",
+    "category": "art",
+    "explanation": "Zamiast tego fotografia skłoniła malarzy do poszukiwania nowych kierunków artystycznych, co przyczyniło się do narodzin impresjonizmu i kolejnych nurtów sztuki.",
+    "surpriseLevel": 3,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  },
+  {
+    "id": "art-17",
+    "title": "Niektóre obrazy zawierają warstwy niewidoczne dla ludzkiego oka",
+    "content": "Badania rentgenowskie ujawniły, że pod niektórymi znanymi obrazami znajdują się wcześniejsze, całkowicie inne kompozycje namalowane przez tego samego artystę.",
+    "category": "art",
+    "explanation": "Artyści często ponownie wykorzystywali te same płótna z powodów ekonomicznych, malując nowy obraz na wcześniej odrzuconej kompozycji.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "art-18",
+    "title": "Niektóre techniki mozaiki liczą tysiące kawałków na metr kwadratowy",
+    "content": "Precyzyjne starożytne mozaiki rzymskie mogły składać się z tysięcy drobnych kamyków zwanych tesserami na każdym metrze kwadratowym powierzchni.",
+    "category": "art",
+    "explanation": "Wykonanie takiej mozaiki wymagało ogromnej precyzji i czasu, a wiele z nich przetrwało w dobrym stanie do dziś, ukazując sceny mitologiczne i codzienne.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]

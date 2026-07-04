@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ai-01",
+    "title": "Termin 'sztuczna inteligencja' powstał na konferencji w 1956 roku",
+    "content": "Nazwa 'sztuczna inteligencja' została oficjalnie zaproponowana podczas konferencji w Dartmouth w 1956 roku, uznawanej za formalne narodziny tej dziedziny nauki.",
+    "category": "ai",
+    "explanation": "Uczestnicy tej konferencji, w tym John McCarthy, zakładali, że stworzenie maszyn myślących jak człowiek zajmie znacznie mniej czasu, niż faktycznie się to okazało.",
+    "surpriseLevel": 3,
+    "source": "Stanford HAI",
+    "sourceUrl": "https://hai.stanford.edu"
+  },
+  {
+    "id": "ai-02",
+    "title": "Program szachowy pokonał mistrza świata jeszcze w XX wieku",
+    "content": "W 1997 roku komputer Deep Blue pokonał w meczu ówczesnego mistrza świata w szachach, co było przełomowym momentem dla postrzegania możliwości maszyn.",
+    "category": "ai",
+    "explanation": "Zwycięstwo to opierało się głównie na ogromnej mocy obliczeniowej i przeszukiwaniu wielu wariantów posunięć, a nie na uczeniu maszynowym w dzisiejszym rozumieniu.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "ai-03",
+    "title": "Sieci neuronowe inspirowane są działaniem ludzkiego mózgu",
+    "content": "Sztuczne sieci neuronowe zostały zaprojektowane jako uproszczony matematyczny model działania neuronów i ich połączeń w mózgu, choć znacznie mniej złożony od biologicznego oryginału.",
+    "category": "ai",
+    "explanation": "Mimo inspiracji biologią, mechanizmy uczenia się sieci neuronowych różnią się od dokładnego sposobu, w jaki uczy się prawdziwy mózg.",
+    "surpriseLevel": 2,
+    "source": "Stanford HAI",
+    "sourceUrl": "https://hai.stanford.edu"
+  },
+  {
+    "id": "ai-04",
+    "title": "Systemy rozpoznawania obrazów mogą mylić się w zaskakujący sposób",
+    "content": "Niewielkie, niemal niewidoczne dla człowieka zmiany na obrazie potrafią sprawić, że system rozpoznawania obrazu pomyli na przykład panda z zupełnie innym obiektem.",
+    "category": "ai",
+    "explanation": "Takie przykłady, zwane atakami adwersarialnymi, pokazują różnice w sposobie 'widzenia' świata przez algorytmy i przez ludzki mózg.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-05",
+    "title": "AI pomaga naukowcom przewidywać strukturę białek",
+    "content": "System sztucznej inteligencji AlphaFold potrafi przewidywać trójwymiarową strukturę białek na podstawie ich sekwencji z dokładnością porównywalną do metod laboratoryjnych.",
+    "category": "ai",
+    "explanation": "To przełomowe osiągnięcie znacząco przyspiesza badania biologiczne i medyczne, które wcześniej wymagały czasochłonnych eksperymentów laboratoryjnych.",
+    "surpriseLevel": 4,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-06",
+    "title": "Chatboty istniały na długo przed obecną falą sztucznej inteligencji",
+    "content": "Jeden z pierwszych programów konwersacyjnych, ELIZA, powstał już w latach 60. XX wieku i potrafił prowadzić proste rozmowy, udając terapeutę.",
+    "category": "ai",
+    "explanation": "Mimo prostych reguł opartych na wzorcach tekstowych, niektórzy użytkownicy ELIZY przypisywali programowi znacznie większe zrozumienie, niż faktycznie posiadał.",
+    "surpriseLevel": 3,
+    "source": "ACM",
+    "sourceUrl": "https://www.acm.org"
+  },
+  {
+    "id": "ai-07",
+    "title": "Uczenie maszynowe wymaga ogromnych ilości danych treningowych",
+    "content": "Nowoczesne modele sztucznej inteligencji są trenowane na zbiorach danych liczących często miliardy przykładów tekstu, obrazów lub innych informacji.",
+    "category": "ai",
+    "explanation": "Ilość i jakość danych treningowych ma kluczowy wpływ na skuteczność i ewentualne błędy popełniane przez wytrenowany model.",
+    "surpriseLevel": 2,
+    "source": "Stanford HAI",
+    "sourceUrl": "https://hai.stanford.edu"
+  },
+  {
+    "id": "ai-08",
+    "title": "Modele językowe nie 'rozumieją' tekstu tak jak ludzie",
+    "content": "Modele językowe generują tekst na podstawie statystycznych wzorców nauczonych z ogromnych zbiorów danych, a nie poprzez świadome rozumienie znaczenia słów.",
+    "category": "ai",
+    "explanation": "Mimo to potrafią generować spójne i użyteczne odpowiedzi, co pokazuje, jak wiele można osiągnąć samą analizą statystycznych zależności w języku.",
+    "surpriseLevel": 3,
+    "source": "Stanford HAI",
+    "sourceUrl": "https://hai.stanford.edu"
+  },
+  {
+    "id": "ai-09",
+    "title": "AI jest wykorzystywana do wykrywania chorób na zdjęciach medycznych",
+    "content": "Algorytmy sztucznej inteligencji analizujące zdjęcia rentgenowskie czy siatkówki oka potrafią w niektórych badaniach wykrywać choroby z dokładnością porównywalną z lekarzami specjalistami.",
+    "category": "ai",
+    "explanation": "Takie narzędzia mają wspierać, a nie zastępować lekarzy, przyspieszając wstępną analizę dużej liczby obrazów medycznych.",
+    "surpriseLevel": 3,
+    "source": "Nature",
+    "sourceUrl": "https://www.nature.com"
+  },
+  {
+    "id": "ai-10",
+    "title": "Roboty sterowane AI uczą się chodzić metodą prób i błędów",
+    "content": "Wiele nowoczesnych robotów kroczących uczy się utrzymywać równowagę i poruszać poprzez tysiące symulowanych prób w wirtualnym środowisku, zanim przetestuje ruchy w rzeczywistości.",
+    "category": "ai",
+    "explanation": "Ta metoda, zwana uczeniem przez wzmacnianie, pozwala robotowi samodzielnie odkrywać skuteczne strategie ruchu bez ręcznego programowania każdego kroku.",
+    "surpriseLevel": 3,
+    "source": "IEEE",
+    "sourceUrl": "https://www.ieee.org"
+  },
+  {
+    "id": "ai-11",
+    "title": "Test Turinga zaproponowano na długo przed powstaniem nowoczesnych komputerów",
+    "content": "Koncepcję testu sprawdzającego, czy maszyna potrafi udawać człowieka w rozmowie, zaproponował Alan Turing już w 1950 roku.",
+    "category": "ai",
+    "explanation": "Test Turinga do dziś jest punktem odniesienia w dyskusjach o tym, czym właściwie jest inteligencja maszynowa i jak można ją oceniać.",
+    "surpriseLevel": 2,
+    "source": "Britannica",
+    "sourceUrl": "https://www.britannica.com"
+  }
+]
