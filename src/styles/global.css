@@ -9,9 +9,16 @@
 html,
 body {
   height: 100%;
+}
+
+html {
   /* Zabezpieczenie przed poziomym scrollem/przybliżeniem strony podczas
      przeciągania karty ciekawostki (patrz SwipeableFactCard) — obrócona,
-     przesuwana karta nigdy nie powinna poszerzać dokumentu. */
+     przesuwana karta nigdy nie powinna poszerzać dokumentu. Tylko na
+     `html`, nie na `body`: ustawienie go na obu elementach sprawia (przez
+     regułę specyfikacji CSS o overflow-x/overflow-y), że `body` też
+     dostaje wymuszone `overflow-y: auto` i staje się osobnym kontenerem
+     przewijania zamiast dokumentu — co psuje m.in. `window.scrollTo`. */
   overflow-x: hidden;
 }
 
