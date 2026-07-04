@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom';
+import { CalendarDays, History as HistoryIcon, Lightbulb, Monitor, Moon, Search, Star, Sun } from 'lucide-react';
 import { useAppState } from '@/hooks/useAppState';
 import { useTheme } from '@/hooks/useTheme';
 import { IconButton } from './IconButton';
@@ -10,11 +11,11 @@ const THEME_CYCLE: Record<string, 'light' | 'dark' | 'system'> = {
   dark: 'system',
 };
 
-const THEME_ICON: Record<string, string> = {
-  system: '🌓',
-  light: '☀️',
-  dark: '🌙',
-};
+const THEME_ICON = {
+  system: Monitor,
+  light: Sun,
+  dark: Moon,
+} as const;
 
 const THEME_LABEL: Record<string, string> = {
   system: 'Motyw: systemowy (kliknij, aby ustawić jasny)',
@@ -26,12 +27,13 @@ export function TopAppBar() {
   const { filteredFacts, discoveredCount } = useAppState();
   const { theme, setTheme } = useTheme();
   const total = filteredFacts.length;
+  const ThemeIcon = THEME_ICON[theme];
 
   return (
     <header className={styles.bar}>
       <NavLink to="/" className={styles.brand} end>
-        <span aria-hidden="true">💡</span>
-        <span>Ciekawostki</span>
+        <Lightbulb size={22} aria-hidden="true" strokeWidth={2} />
+        <span className={styles.brandText}>Ciekawostki</span>
       </NavLink>
 
       <p className={styles.counter} aria-live="polite">
@@ -43,35 +45,32 @@ export function TopAppBar() {
           to="/szukaj"
           className={({ isActive }) => (isActive ? styles.activeLink : styles.link)}
         >
-          <span aria-hidden="true">🔍</span>
+          <Search size={20} aria-hidden="true" strokeWidth={2} />
           <span className="visually-hidden">Szukaj i filtruj</span>
         </NavLink>
         <NavLink
           to="/ulubione"
           className={({ isActive }) => (isActive ? styles.activeLink : styles.link)}
         >
-          <span aria-hidden="true">★</span>
+          <Star size={20} aria-hidden="true" strokeWidth={2} />
           <span className="visually-hidden">Ulubione</span>
         </NavLink>
         <NavLink
           to="/historia"
           className={({ isActive }) => (isActive ? styles.activeLink : styles.link)}
         >
-          <span aria-hidden="true">🕘</span>
+          <HistoryIcon size={20} aria-hidden="true" strokeWidth={2} />
           <span className="visually-hidden">Historia</span>
         </NavLink>
         <NavLink
           to="/dzien"
           className={({ isActive }) => (isActive ? styles.activeLink : styles.link)}
         >
-          <span aria-hidden="true">📅</span>
+          <CalendarDays size={20} aria-hidden="true" strokeWidth={2} />
           <span className="visually-hidden">Ciekawostka dnia</span>
         </NavLink>
-        <IconButton
-          label={THEME_LABEL[theme]}
-          onClick={() => setTheme(THEME_CYCLE[theme])}
-        >
-          {THEME_ICON[theme]}
+        <IconButton label={THEME_LABEL[theme]} onClick={() => setTheme(THEME_CYCLE[theme])}>
+          <ThemeIcon size={20} aria-hidden="true" strokeWidth={2} />
         </IconButton>
       </nav>
     </header>

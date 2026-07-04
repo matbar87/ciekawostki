@@ -1,5 +1,7 @@
+import { History as HistoryIcon } from 'lucide-react';
 import { useHistory } from '@/hooks/useHistory';
 import { useAppState } from '@/hooks/useAppState';
+import { useDocumentMeta } from '@/hooks/useDocumentMeta';
 import { FactCard } from '@/components/FactCard';
 import { EmptyState } from '@/components/EmptyState';
 import { formatRelativeTime } from '@/utils/format';
@@ -9,10 +11,13 @@ export function HistoryView() {
   const { entries } = useHistory();
   const { isFavorite, toggleFavorite } = useAppState();
 
+  // Strona personalna — jak w Ulubionych, nie ma sensu jej indeksować.
+  useDocumentMeta('Historia — Ciekawostki', undefined, { noindex: true });
+
   if (entries.length === 0) {
     return (
       <EmptyState
-        icon="🕘"
+        icon={HistoryIcon}
         title="Historia jest pusta"
         description="Tutaj pojawi się do 20 ostatnio wyświetlonych ciekawostek."
       />

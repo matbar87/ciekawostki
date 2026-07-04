@@ -2,6 +2,26 @@
 <html lang="pl">
   <head>
     <meta charset="UTF-8" />
+    <script>
+      // Ustawia motyw na <html> zanim cokolwiek zostanie namalowane, żeby
+      // uniknąć błysku złego motywu (np. jasnego przy systemowym ciemnym).
+      // Klucz localStorage musi być zgodny z THEME_STORAGE_KEY w useTheme.ts.
+      (function () {
+        try {
+          var stored = localStorage.getItem('ciekawostki:theme');
+          var mode = stored === 'light' || stored === 'dark' ? stored : 'system';
+          var resolved =
+            mode === 'system'
+              ? window.matchMedia('(prefers-color-scheme: dark)').matches
+                ? 'dark'
+                : 'light'
+              : mode;
+          document.documentElement.setAttribute('data-theme', resolved);
+        } catch (e) {
+          /* localStorage/matchMedia niedostępne — zostanie ustawione po starcie React */
+        }
+      })();
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#6750a4" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#d0bcff" media="(prefers-color-scheme: dark)" />
@@ -10,8 +30,8 @@
       content="Ciekawostki – codzienna dawka zaskakujących, zweryfikowanych faktów z nauki, historii, kultury i wielu innych dziedzin."
     />
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
     <title>Ciekawostki</title>
   </head>
   <body>

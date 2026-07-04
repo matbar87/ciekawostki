@@ -9,9 +9,9 @@ export function Layout() {
       <a href="#main-content" className="skip-link">
         Przejdź do treści głównej
       </a>
-      <InstallPrompt />
       <TopAppBar />
       <main id="main-content" className={styles.main} tabIndex={-1}>
+        <InstallPrompt />
         <Outlet />
       </main>
     </>

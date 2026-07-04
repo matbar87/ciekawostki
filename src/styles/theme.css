@@ -54,6 +54,14 @@
   --motion-medium: 280ms;
   --motion-slow: 420ms;
   --motion-easing: cubic-bezier(0.2, 0, 0, 1);
+
+  --header-height: 64px;
+}
+
+@media (max-width: 400px) {
+  :root {
+    --header-height: 56px;
+  }
 }
 
 :root[data-theme='dark'] {

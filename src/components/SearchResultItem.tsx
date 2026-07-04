@@ -1,7 +1,10 @@
+import { Link } from 'react-router-dom';
+import { Copy, ExternalLink, Link2, Star } from 'lucide-react';
 import type { Fact } from '@/types/fact';
 import { CategoryChip } from './CategoryChip';
 import { SurpriseMeter } from './SurpriseMeter';
 import { copyFactToClipboard } from '@/services/share';
+import { factPath } from '@/utils/routes';
 import styles from './SearchResultItem.module.css';
 
 interface SearchResultItemProps {
@@ -31,9 +34,13 @@ export function SearchResultItem({ fact, isFavorite, onToggleFavorite, onOpen }:
         <SurpriseMeter level={fact.surpriseLevel} />
         <p className={styles.explanation}>{fact.explanation}</p>
         <a href={fact.sourceUrl} target="_blank" rel="noreferrer noopener" className={styles.sourceLink}>
-          Źródło: {fact.source} ↗
+          Źródło: {fact.source}
+          <ExternalLink size={13} aria-hidden="true" strokeWidth={2} />
         </a>
         <div className={styles.actions}>
+          <Link to={factPath(fact.id)} className={styles.iconAction} aria-label="Otwórz stałą stronę tej ciekawostki">
+            <Link2 size={17} aria-hidden="true" strokeWidth={2} />
+          </Link>
           <button
             type="button"
             className={[styles.iconAction, isFavorite ? styles.favoriteActive : ''].join(' ')}
@@ -41,7 +48,7 @@ export function SearchResultItem({ fact, isFavorite, onToggleFavorite, onOpen }:
             aria-label={isFavorite ? 'Usuń z ulubionych' : 'Dodaj do ulubionych'}
             onClick={onToggleFavorite}
           >
-            {isFavorite ? '★' : '☆'}
+            <Star size={17} aria-hidden="true" strokeWidth={2} fill={isFavorite ? 'currentColor' : 'none'} />
           </button>
           <button
             type="button"
@@ -49,7 +56,7 @@ export function SearchResultItem({ fact, isFavorite, onToggleFavorite, onOpen }:
             aria-label="Kopiuj ciekawostkę"
             onClick={() => copyFactToClipboard(fact)}
           >
-            ⧉
+            <Copy size={17} aria-hidden="true" strokeWidth={2} />
           </button>
         </div>
       </div>

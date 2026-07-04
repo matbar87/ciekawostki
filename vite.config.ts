@@ -5,7 +5,11 @@ import path from 'node:path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './',
+  // Bezwzględna baza (nie względna!) jest konieczna, bo każda ciekawostka ma
+  // własny, statyczny plik pod zagnieżdżoną ścieżką (/ciekawostka/<id>/) —
+  // przy względnej bazie odnośniki do assetów liczyłyby się od głębokości
+  // aktualnego URL-a i psuły się na tych podstronach.
+  base: '/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),

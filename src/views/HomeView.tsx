@@ -1,5 +1,7 @@
+import { EyeOff, Shuffle } from 'lucide-react';
 import { useAppState } from '@/hooks/useAppState';
 import { useRandomFact } from '@/hooks/useRandomFact';
+import { useDocumentMeta } from '@/hooks/useDocumentMeta';
 import { FactCard } from '@/components/FactCard';
 import { EmptyState } from '@/components/EmptyState';
 import styles from './HomeView.module.css';
@@ -13,10 +15,15 @@ export function HomeView() {
   const { isFavorite, toggleFavorite, filteredFacts } = useAppState();
   const { currentFact, isLoading, drawNext } = useRandomFact();
 
+  useDocumentMeta(
+    'Ciekawostki — losowe, zweryfikowane fakty ze świata nauki i nie tylko',
+    'Codzienna dawka zaskakujących, zweryfikowanych ciekawostek z nauki, kosmosu, historii, psychologii i wielu innych dziedzin.',
+  );
+
   if (filteredFacts.length === 0) {
     return (
       <EmptyState
-        icon="🙈"
+        icon={EyeOff}
         title="Brak ciekawostek do pokazania"
         description="Wszystkie kategorie są obecnie ukryte. Zmień ustawienia filtrów, aby znów zobaczyć ciekawostki."
       />
@@ -42,7 +49,11 @@ export function HomeView() {
         onClick={() => drawNext()}
         disabled={isLoading}
       >
-        {isLoading && <span className={styles.spinner} aria-hidden="true" />}
+        {isLoading ? (
+          <span className={styles.spinner} aria-hidden="true" />
+        ) : (
+          <Shuffle size={19} aria-hidden="true" strokeWidth={2.25} />
+        )}
         Wylosuj kolejną
       </button>
     </div>

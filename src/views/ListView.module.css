@@ -17,3 +17,14 @@
   align-self: flex-start;
   margin-bottom: var(--space-2);
 }
+
+.homeLink {
+  align-self: center;
+  color: var(--color-primary);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.homeLink:hover {
+  text-decoration: underline;
+}

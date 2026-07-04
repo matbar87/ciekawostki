@@ -1,5 +1,6 @@
 import { CATEGORIES } from '@/data/categories';
 import type { CategoryId } from '@/types/fact';
+import { CategoryIcon } from './CategoryIcon';
 import styles from './CategoryChip.module.css';
 
 interface CategoryChipProps {
@@ -12,6 +13,7 @@ interface CategoryChipProps {
 /** Etykieta kategorii z ikoną; może działać jako statyczny tag lub klikalny filtr. */
 export function CategoryChip({ category, selected, onClick, size = 'medium' }: CategoryChipProps) {
   const meta = CATEGORIES[category];
+  const iconSize = size === 'small' ? 13 : 15;
   const className = [styles.chip, size === 'small' ? styles.small : '', selected ? styles.selected : '']
     .filter(Boolean)
     .join(' ');
@@ -19,7 +21,7 @@ export function CategoryChip({ category, selected, onClick, size = 'medium' }: C
   if (!onClick) {
     return (
       <span className={className}>
-        <span aria-hidden="true">{meta.icon}</span>
+        <CategoryIcon category={category} size={iconSize} />
         {meta.label}
       </span>
     );
@@ -27,7 +29,7 @@ export function CategoryChip({ category, selected, onClick, size = 'medium' }: C
 
   return (
     <button type="button" className={className} onClick={onClick} aria-pressed={selected}>
-      <span aria-hidden="true">{meta.icon}</span>
+      <CategoryIcon category={category} size={iconSize} />
       {meta.label}
     </button>
   );

@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Download, X } from 'lucide-react';
 import styles from './InstallPrompt.module.css';
 
 interface BeforeInstallPromptEvent extends Event {
@@ -41,10 +42,11 @@ export function InstallPrompt() {
       <p className={styles.text}>Zainstaluj Ciekawostki, aby mieć szybki dostęp offline.</p>
       <div className={styles.actions}>
         <button type="button" className={styles.install} onClick={handleInstall}>
+          <Download size={16} aria-hidden="true" strokeWidth={2.25} />
           Zainstaluj
         </button>
         <button type="button" className={styles.dismiss} onClick={handleDismiss} aria-label="Zamknij baner instalacji">
-          ✕
+          <X size={18} aria-hidden="true" strokeWidth={2} />
         </button>
       </div>
     </div>

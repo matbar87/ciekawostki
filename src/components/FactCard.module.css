@@ -47,6 +47,9 @@
 }
 
 .expandButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   align-self: flex-start;
   background: none;
   border: none;
@@ -70,6 +73,9 @@
 }
 
 .sourceLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   font-weight: 600;
   font-size: 0.9rem;
   text-decoration: none;
@@ -100,14 +106,17 @@
 }
 
 .iconAction {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 40px;
   height: 40px;
   border-radius: var(--radius-full);
   border: none;
   background: transparent;
-  font-size: 1.2rem;
   color: var(--color-on-surface-variant);
   cursor: pointer;
+  text-decoration: none;
   transition: background-color var(--motion-fast) var(--motion-easing), transform var(--motion-fast) var(--motion-easing);
 }
 

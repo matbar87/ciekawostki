@@ -27,34 +27,45 @@ Brak dodatkowej konfiguracji — działa od razu po `npm install`.
 - Ulubione, historia ostatnich 20 ciekawostek, licznik odkrytych ciekawostek.
 - Wyszukiwarka pełnotekstowa + filtrowanie/ukrywanie kategorii + tryb
   "tylko najbardziej zaskakujące" (poziom 4–5).
-- Jasny/ciemny/systemowy motyw, w pełni responsywny layout (telefon, tablet,
-  desktop), nawigacja i etykiety dostępne z klawiatury i dla czytników ekranu.
+- Jasny/ciemny/systemowy motyw (domyślnie zgodny z systemem, ustawiany jeszcze
+  przed pierwszym malowaniem strony — bez błysku złego motywu), stały
+  (fixed) górny pasek, w pełni responsywny layout (telefon, tablet, desktop),
+  nawigacja i etykiety dostępne z klawiatury i dla czytników ekranu.
+- Jednokolorowe ikony outline ([lucide-react](https://lucide.dev)) zamiast
+  emoji — spójny, nowoczesny wygląd niezależny od czcionek systemowych.
 - Pełne działanie offline (service worker) i instalacja jako aplikacja PWA
   (manifest + `beforeinstallprompt`).
+- Każda ciekawostka ma własną, statycznie wygenerowaną, indeksowalną stronę
+  pod czystym adresem `/ciekawostka/<id>` — patrz sekcja SEO poniżej.
 
 ## Stos technologiczny
 
-React 18 + TypeScript + Vite, `react-router-dom` (`HashRouter`), IndexedDB
+React 18 + TypeScript + Vite, `react-router-dom` (`BrowserRouter`), IndexedDB
 (przez lekką bibliotekę `idb`), `vite-plugin-pwa` (Workbox) do service
-workera i manifestu. Brak backendu — wszystkie dane są statycznymi plikami
-JSON dołączanymi do bundla podczas builda.
+workera i manifestu, `lucide-react` do ikon. Brak backendu w czasie
+działania — wszystkie dane są statycznymi plikami JSON dołączanymi do bundla
+podczas builda, a strony poszczególnych ciekawostek są prerenderowane do
+statycznego HTML tym samym krokiem builda (patrz `scripts/prerender.mjs`).
 
 ## Struktura projektu
 
 ```
 src/
   components/   komponenty UI wielokrotnego użytku (FactCard, TopAppBar, ...)
-  views/        widoki/strony podpięte pod routing (Home, Search, ...)
-  hooks/        logika stanu aplikacji (useRandomFact, useFavorites, ...)
+  views/        widoki/strony podpięte pod routing (Home, Search, FactDetail, ...)
+  hooks/        logika stanu aplikacji (useRandomFact, useFavorites, useDocumentMeta, ...)
   services/     integracje z IndexedDB, losowanie, udostępnianie, dane
   data/         katalog kategorii + wygenerowana baza ciekawostek (facts/)
   types/        współdzielone typy TypeScript (Fact, UserSettings, ...)
   styles/       tokeny motywu, style globalne, animacje
-  utils/        czyste funkcje pomocnicze (hash, formatowanie, losowość)
+  utils/        czyste funkcje pomocnicze (hash, formatowanie, losowość, trasy)
 scripts/
   facts-source/          "surowe" partie ciekawostek pogrupowane wg kategorii
   generate-facts.mjs     waliduje, dedukuje i scala partie w jedną bazę JSON
   generate-icons.mjs     generuje ikony PWA (192/512, w tym maskowalne)
+  prerender.mjs          po `vite build`: generuje statyczną stronę HTML
+                         dla każdej ciekawostki + sitemap.xml + robots.txt
+vercel.json     konfiguracja builda i przekierowań dla wdrożenia na Vercel
 ```
 
 ## Architektura bazy ciekawostek — jak dodać kolejne 500, 5000, 10000...
@@ -87,10 +98,12 @@ przy kilkudziesięciu tysiącach rekordów wciąż nie jest konieczne.
 - **IndexedDB zamiast localStorage** — ulubione, historia i stan losowania
   to dane strukturalne, które mogą urosnąć; IndexedDB jest do tego
   natywnie przystosowane i asynchroniczne (nie blokuje głównego wątku).
-- **`HashRouter` zamiast `BrowserRouter`** — aplikacja jest w pełni statyczna
-  (wymóg "brak backendu"), więc routing oparty o `#/` działa poprawnie na
-  dowolnym hostingu statycznym i przy otwarciu z dysku lokalnego, bez
-  konieczności konfigurowania przekierowań serwera dla głębokich linków.
+- **`BrowserRouter` (nie `HashRouter`)** — każda ciekawostka ma czysty,
+  indeksowalny adres `/ciekawostka/<id>`, kluczowy dla SEO. Wymaga to na
+  hostingu przekierowania niestatycznych ścieżek do `index.html`
+  (`vercel.json`), ale strony ciekawostek i tak istnieją jako prawdziwe
+  pliki statyczne, więc to przekierowanie jest tylko zabezpieczeniem dla
+  pozostałych tras (np. `/ulubione`).
 - **Losowanie typu "shuffle bag"** — zamiast czystego `Math.random()` przy
   każdym losowaniu (co szybko prowadzi do powtórzeń), utrzymywana jest
   potasowana kolejka nieobejrzanych jeszcze ciekawostek, persystowana w
@@ -105,6 +118,50 @@ przy kilkudziesięciu tysiącach rekordów wciąż nie jest konieczne.
 - **Generator danych jako osobny krok build-time**, a nie runtime — dzięki
   temu produkcyjny bundle nie zawiera logiki walidacji/dedupikacji, a cała
   baza jest już "czysta" w momencie, gdy trafia do aplikacji.
+- **Prerendering zamiast pełnego SSR** — zamiast uruchamiać serwer Node
+  (React SSR) na każde żądanie, statyczne strony ciekawostek generujemy raz,
+  w czasie builda. To rozwiązanie tańsze i prostsze niż SSR, w pełni zgodne
+  z wymogiem "brak backendu", a dla ~500 (docelowo nawet kilku tysięcy)
+  stron w zupełności wystarczające.
+- **`base: '/'` (bezwzględna) w Vite** — konieczne, bo strony ciekawostek
+  żyją pod zagnieżdżonymi ścieżkami (`/ciekawostka/<id>/`); przy względnej
+  bazie odnośniki do JS/CSS liczyłyby się od głębokości aktualnego adresu
+  i psuły się wszędzie poza stroną główną.
+
+## SEO i strony ciekawostek
+
+Aplikacja jest SPA renderowanym po stronie klienta, ale **każda ciekawostka
+ma własny, prawdziwy plik HTML** generowany w kroku `npm run build` przez
+`scripts/prerender.mjs` (uruchamiany automatycznie po `vite build`):
+
+- **`dist/ciekawostka/<id>/index.html`** — osobna, statyczna strona dla
+  każdej z ~500 ciekawostek, z unikalnym `<title>`, `<meta name="description">`,
+  linkiem `canonical`, tagami Open Graph i Twitter Card, danymi
+  strukturalnymi JSON-LD (`schema.org/Article`) oraz czytelną treścią
+  (tytuł, treść, wyjaśnienie, źródło) wstrzykniętą bezpośrednio do znacznika
+  `<div id="root">` — widoczną dla robotów wyszukiwarek i social-media
+  jeszcze zanim wykona się JavaScript. Po stronie przeglądarki React i tak
+  przejmuje ten element i renderuje w pełni interaktywną kartę.
+- **`dist/sitemap.xml`** — lista wszystkich adresów wartych zaindeksowania
+  (strona główna, wyszukiwarka, ciekawostka dnia, wszystkie ciekawostki).
+- **`dist/robots.txt`** — odnośnik do sitemapy oraz `Disallow` dla stron
+  personalnych (`/ulubione`, `/historia`), które zależą od lokalnych danych
+  przeglądarki użytkownika i nie mają wartości w wynikach wyszukiwania
+  (dodatkowo oznaczone `noindex` po stronie klienta).
+- **`vercel.json`** — jeden przepis `rewrites` kierujący każdą ścieżkę bez
+  pasującego pliku statycznego do `index.html` (SPA fallback). Prawdziwe
+  pliki (strony ciekawostek, assety, `sitemap.xml`) mają pierwszeństwo przed
+  tym przekierowaniem — Vercel domyślnie najpierw sprawdza system plików.
+
+### Domena produkcyjna (`SITE_URL`)
+
+Adresy `canonical`/Open Graph i `sitemap.xml` wymagają znajomości pełnej
+domeny produkcyjnej. Skrypt czyta ją ze zmiennej środowiskowej `SITE_URL`
+(fallback: `https://ciekawostki.vercel.app`, jeśli zmienna nie jest
+ustawiona). **Gdy już będziesz znać docelową domenę**, ustaw w Vercelu
+(Project Settings → Environment Variables): `SITE_URL=https://twoja-domena.pl`
+i zrób redeploy — wszystkie linki kanoniczne i sitemapa automatycznie
+przeliczą się poprawnie przy kolejnym buildzie.
 
 ## Dostępność
 

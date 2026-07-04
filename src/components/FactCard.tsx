@@ -1,9 +1,12 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { ChevronDown, ChevronUp, Copy, ExternalLink, Link2, Share2, Star } from 'lucide-react';
 import type { Fact } from '@/types/fact';
 import { CategoryChip } from './CategoryChip';
 import { SurpriseMeter } from './SurpriseMeter';
 import { formatReadingTime } from '@/utils/format';
 import { canShare, copyFactToClipboard, shareFact } from '@/services/share';
+import { factPath } from '@/utils/routes';
 import styles from './FactCard.module.css';
 
 interface FactCardProps {
@@ -14,6 +17,8 @@ interface FactCardProps {
   headingLevel?: 'h1' | 'h2';
   /** Dodatkowa etykieta nad kartą, np. znacznik czasu w historii. */
   overline?: string;
+  /** Czy pokazać link do stałej strony ciekawostki (ukryty np. na samej stronie szczegółów). */
+  showPermalink?: boolean;
 }
 
 export function FactCard({
@@ -22,6 +27,7 @@ export function FactCard({
   onToggleFavorite,
   headingLevel = 'h1',
   overline,
+  showPermalink = true,
 }: FactCardProps) {
   const [isExpanded, setIsExpanded] = useState(false);
   const [statusMessage, setStatusMessage] = useState('');
@@ -62,7 +68,12 @@ export function FactCard({
           aria-controls={`explanation-${fact.id}`}
           onClick={() => setIsExpanded((v) => !v)}
         >
-          {isExpanded ? 'Zwiń ▲' : 'Czytaj dalej ▼'}
+          {isExpanded ? 'Zwiń' : 'Czytaj dalej'}
+          {isExpanded ? (
+            <ChevronUp size={16} aria-hidden="true" strokeWidth={2} />
+          ) : (
+            <ChevronDown size={16} aria-hidden="true" strokeWidth={2} />
+          )}
         </button>
 
         {isExpanded && (
@@ -74,18 +85,26 @@ export function FactCard({
               target="_blank"
               rel="noreferrer noopener"
             >
-              Źródło: {fact.source} ↗
+              Źródło: {fact.source}
+              <ExternalLink size={14} aria-hidden="true" strokeWidth={2} />
             </a>
           </div>
         )}
       </div>
 
       <footer className={styles.footer}>
-        <span className={styles.readingTime}>
-          {formatReadingTime(fact.readingTimeSeconds)}
-        </span>
+        <span className={styles.readingTime}>{formatReadingTime(fact.readingTimeSeconds)}</span>
 
         <div className={styles.actions}>
+          {showPermalink && (
+            <Link
+              to={factPath(fact.id)}
+              className={styles.iconAction}
+              aria-label="Otwórz stałą stronę tej ciekawostki"
+            >
+              <Link2 size={18} aria-hidden="true" strokeWidth={2} />
+            </Link>
+          )}
           <button
             type="button"
             className={[styles.iconAction, isFavorite ? styles.favoriteActive : ''].join(' ')}
@@ -93,14 +112,14 @@ export function FactCard({
             aria-label={isFavorite ? 'Usuń z ulubionych' : 'Dodaj do ulubionych'}
             onClick={onToggleFavorite}
           >
-            {isFavorite ? '★' : '☆'}
+            <Star size={18} aria-hidden="true" strokeWidth={2} fill={isFavorite ? 'currentColor' : 'none'} />
           </button>
           <button type="button" className={styles.iconAction} aria-label="Kopiuj ciekawostkę" onClick={handleCopy}>
-            ⧉
+            <Copy size={18} aria-hidden="true" strokeWidth={2} />
           </button>
           {canShare() && (
             <button type="button" className={styles.iconAction} aria-label="Udostępnij ciekawostkę" onClick={handleShare}>
-              ⇪
+              <Share2 size={18} aria-hidden="true" strokeWidth={2} />
             </button>
           )}
         </div>

@@ -1,5 +1,7 @@
 import { useMemo, useState } from 'react';
+import { ChevronDown, ChevronUp, Search, SearchX, SlidersHorizontal } from 'lucide-react';
 import { useAppState } from '@/hooks/useAppState';
+import { useDocumentMeta } from '@/hooks/useDocumentMeta';
 import { CategoryChip } from '@/components/CategoryChip';
 import { SearchResultItem } from '@/components/SearchResultItem';
 import { EmptyState } from '@/components/EmptyState';
@@ -16,6 +18,11 @@ export function SearchView() {
   const [query, setQuery] = useState('');
   const [showFilters, setShowFilters] = useState(false);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+
+  useDocumentMeta(
+    'Szukaj ciekawostek — Ciekawostki',
+    'Przeszukuj i filtruj setki zweryfikowanych ciekawostek według kategorii i poziomu zaskoczenia.',
+  );
 
   const normalizedQuery = normalizeForComparison(query);
 
@@ -44,7 +51,7 @@ export function SearchView() {
   return (
     <div className={styles.wrapper}>
       <div className={styles.searchBar}>
-        <span aria-hidden="true">🔍</span>
+        <Search size={19} aria-hidden="true" strokeWidth={2} />
         <label className="visually-hidden" htmlFor="search-input">
           Szukaj ciekawostek
         </label>
@@ -65,7 +72,13 @@ export function SearchView() {
         aria-controls="filter-panel"
         onClick={() => setShowFilters((v) => !v)}
       >
-        ⚙️ Filtry {showFilters ? '▲' : '▼'}
+        <SlidersHorizontal size={16} aria-hidden="true" strokeWidth={2} />
+        Filtry
+        {showFilters ? (
+          <ChevronUp size={16} aria-hidden="true" strokeWidth={2} />
+        ) : (
+          <ChevronDown size={16} aria-hidden="true" strokeWidth={2} />
+        )}
       </button>
 
       {showFilters && (
@@ -109,7 +122,7 @@ export function SearchView() {
 
       {results.length === 0 ? (
         <EmptyState
-          icon="🔎"
+          icon={SearchX}
           title="Brak wyników"
           description="Spróbuj innej frazy lub zmień filtry kategorii."
         />
