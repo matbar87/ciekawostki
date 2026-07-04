@@ -67,7 +67,9 @@
   color: var(--color-on-primary-container);
 }
 
-/* Poniżej tej szerokości nazwa marki i licznik odkryć ustępują miejsca ikonom nawigacji. */
+/* Poniżej tej szerokości licznik odkryć ustępuje miejsca ikonom nawigacji —
+   dzięki temu nazwa marki zostaje po lewej, a ikony tuż obok niej, zamiast
+   pustej przestrzeni po środku paska. */
 @media (max-width: 640px) {
   .counter {
     display: none;
@@ -79,8 +81,8 @@
     padding: var(--space-2) var(--space-2);
     gap: var(--space-1);
   }
-  .brandText {
-    display: none;
+  .brand {
+    font-size: 0.95rem;
   }
   .nav {
     gap: 0;
@@ -89,5 +91,23 @@
   .activeLink {
     width: 38px;
     height: 38px;
+  }
+}
+
+/* Bardzo wąskie ekrany (np. starsze/budżetowe telefony ~320px) — dociskamy
+   jeszcze mocniej, żeby ikona motywu na końcu nawigacji nie wypadła poza
+   pasek (co przy zablokowanym poziomym scrollu byłoby niedostępne). */
+@media (max-width: 340px) {
+  .bar {
+    padding: var(--space-1) var(--space-1);
+  }
+  .brand {
+    font-size: 0.85rem;
+    gap: var(--space-1);
+  }
+  .link,
+  .activeLink {
+    width: 34px;
+    height: 34px;
   }
 }

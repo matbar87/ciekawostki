@@ -33,7 +33,7 @@ export function TopAppBar() {
     <header className={styles.bar}>
       <NavLink to="/" className={styles.brand} end>
         <Lightbulb size={22} aria-hidden="true" strokeWidth={2} />
-        <span className={styles.brandText}>Ciekawostki</span>
+        <span>Ciekawostki</span>
       </NavLink>
 
       <p className={styles.counter} aria-live="polite">
