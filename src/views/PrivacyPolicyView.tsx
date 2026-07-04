@@ -144,12 +144,6 @@ export function PrivacyPolicyView() {
         W sprawach dotyczących ochrony danych osobowych skontaktuj się pod adresem:{' '}
         <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
       </p>
-
-      <p className={styles.notice}>
-        Niniejsza polityka prywatności ma charakter ogólnego szablonu. Nie stanowi porady prawnej
-        — przed publikacją produkcyjną warto zweryfikować jej treść z prawnikiem oraz sprawdzić
-        aktualną dokumentację prywatności dostawcy hostingu i analityki (Vercel Inc.).
-      </p>
     </div>
   );
 }
